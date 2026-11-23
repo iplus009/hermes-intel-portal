@@ -1,53 +1,54 @@
 {
-  "edition": 1,
-  "updated_dhaka": "24 Nov 2026, 01:30 AM (BDT)",
-  "updated_utc": "2026-11-23 19:30 UTC",
+  "edition": 2,
+  "updated_dhaka": "24 Nov 2026, 01:35 AM (BDT)",
+  "updated_utc": "2026-11-23 19:35 UTC",
+  "curated_by": "hcnsec (DeepSeek-V4-Flash)",
   "advice": {
-    "title": "আজকের সেরা টেক ও মার্কেট নোট",
-    "body": "AI, GitHub ট্রেন্ডিং, ফ্রি API/VPS ও মার্কেট আপডেট লাইভ সিঙ্ক হয়েছে। নতুন টুল ও মার্কেট মুভমেন্টগুলো নিচে ক্যাটাগরি ধরে দেখে নিন।",
+    "title": "AI, Gold, RAM: আজকের বাজার",
+    "body": "AI টুলস ও GitHub-এ নতুন ওপেন-সোর্স প্রজেক্ট দেখুন, বিশেষ করে Rust-ভিত্তিক টুল। সোনা $3,650-এ শক্তিশালী, তবে সতর্ক থাকুন কারণ সাপ্তাহিক পতনের পর রিবাউন্ড হতে পারে। RAM/স্টোরেজ ডিলে (যেমন 4TB SSD $0.10/GB) ব্ল্যাক ফ্রাইডেতে কেনার ভালো সময়।",
     "tag": "AI & Dev"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,656.70",
-      "change_pct": 4.02,
+      "price": "$3,652.50",
+      "change_pct": 3.9,
       "up": true
     },
     {
       "symbol": "^GSPC",
       "label": "S&P 500",
-      "price": "7,253.17",
-      "change_pct": 1.08,
+      "price": "7,250.07",
+      "change_pct": 1.03,
       "up": true
     },
     {
       "symbol": "^IXIC",
       "label": "NASDAQ",
-      "price": "24,137.78",
-      "change_pct": 1.08,
+      "price": "24,119.90",
+      "change_pct": 1.01,
       "up": true
     },
     {
       "symbol": "NVDA",
       "label": "NVIDIA",
-      "price": "$165.38",
-      "change_pct": 13.29,
+      "price": "$164.89",
+      "change_pct": 12.95,
       "up": true
     },
     {
       "symbol": "MU",
       "label": "Micron (RAM)",
-      "price": "$707.26",
-      "change_pct": 2.44,
+      "price": "$705.60",
+      "change_pct": 2.19,
       "up": true
     },
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$61,379.66",
-      "change_pct": 0.36,
+      "price": "$61,349.08",
+      "change_pct": 0.31,
       "up": true
     }
   ],
@@ -59,8 +60,8 @@
         "url": "https://github.com/CarpseDeam/Aura-IDE",
         "source": "GitHub",
         "published": "2026-06-03 13:02",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "Aura নামের LLM কোডিং টুল নিজেই নিজেকে ব্যবহার করে তৈরি হয়েছে, দেখুন।",
+        "featured": true
       },
       {
         "title": "Show HN: Android AI agent-assistant operating your apps (no adb,PC,root,etc.)",
@@ -68,8 +69,8 @@
         "url": "https://news.ycombinator.com/item?id=47738583",
         "source": "HN",
         "published": "2026-04-12 11:48",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "Android AI এজেন্ট অ্যাপ বানিয়েছেন, ADB/PC ছাড়াই কাজ করে।",
+        "featured": true
       },
       {
         "title": "Google banned our mobile AI agent app for doing what Gemini should do,but doesnt",
@@ -77,8 +78,8 @@
         "url": "https://news.ycombinator.com/item?id=47613614",
         "source": "HN",
         "published": "2026-04-02 12:35",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "Google আমাদের AI এজেন্ট অ্যাপ ব্যান করেছে, কারণ Gemini যা করে না সেটাই করে।",
+        "featured": true
       },
       {
         "title": "Show HN: Smart-commit-rs – A zero-dependency Git commit tool in Rust",
@@ -86,8 +87,8 @@
         "url": "https://github.com/gtkacz/smart-commit-rs",
         "source": "GitHub",
         "published": "2026-03-02 18:44",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "Smart-commit-rs: Rust-এ জিরো-ডিপেন্ডেন্সি Git কমিট টুল।",
+        "featured": true
       },
       {
         "title": "Show HN: Pantheon-CLI – Open-Source Python Claude Code and Smart Notebook",
@@ -150,22 +151,22 @@
         "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
         "url": "https://github.com/erkamyaman/rust-anything",
         "source": "GitHub",
-        "stars": 8627,
+        "stars": 8630,
         "language": "Rust",
         "published": "2026-11-16",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "rust-anything: ৮.৬k স্টার, Rust দিয়ে সবকিছু।",
+        "featured": true
       },
       {
         "title": "simplexai-labs/linger",
         "summary": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC. We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run",
         "url": "https://github.com/simplexai-labs/linger",
         "source": "GitHub",
-        "stars": 4152,
+        "stars": 4153,
         "language": "TypeScript",
         "published": "2026-11-10",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "linger: ৪.১k স্টার, নতুন AI প্রজেক্ট।",
+        "featured": true
       },
       {
         "title": "FrigadeHQ/yogurt",
@@ -175,19 +176,19 @@
         "stars": 3063,
         "language": "TypeScript",
         "published": "2026-11-10",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "yogurt: ৩k+ স্টার, ফ্রিগেডের টুল।",
+        "featured": true
       },
       {
         "title": "EL4CTEO/fast-anything",
         "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
         "url": "https://github.com/EL4CTEO/fast-anything",
         "source": "GitHub",
-        "stars": 3031,
+        "stars": 3032,
         "language": "Rust",
         "published": "2026-11-21",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "fast-anything: ৩k স্টার, দ্রুত সমাধান।",
+        "featured": true
       },
       {
         "title": "Immortal-Protocols/lastbook",
@@ -216,7 +217,7 @@
         "summary": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint f",
         "url": "https://github.com/XinaTian/MROffice",
         "source": "GitHub",
-        "stars": 2736,
+        "stars": 2738,
         "language": "TypeScript",
         "published": "2026-11-10",
         "bn_summary": "",
@@ -227,7 +228,7 @@
         "summary": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
         "url": "https://github.com/ZiChuanLan/freebie-radar",
         "source": "GitHub",
-        "stars": 2441,
+        "stars": 2442,
         "language": "TypeScript",
         "published": "2026-11-12",
         "bn_summary": "",
@@ -263,8 +264,8 @@
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FSGoyTkZPOWtOb0xLUld6QTBoamp3MGg0b2pjcURBaXk2dllWN3B6SlNvYUMxZzdIUnM2UG5JRlVvcDhoY1QxcVlBVQ?oc=5",
         "source": "Fello AI",
         "published": "Sun, 22 Nov 2026 17:54:17",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "২০২৬-এর সেরা ফ্রি AI মডেল কোথায় পাবেন।",
+        "featured": true
       },
       {
         "title": "Gemini 4 Neon Costs More Than Carbon Until December 1. Here's Which Gemini Model You Should Actually Use - Memeburn",
@@ -272,8 +273,8 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObDd6SHhJVDRDNzV2TzRLbWNUb1FpLVZQUVkzcFNEeEp2eXpHMXhkLWZ3bGZ3RlotLTJHWlhzdXBRajBXbTl5a191dWtHYzdZWV9pdEpPWm04X0JKNF8wcUVpNXRPUlBMTW12RzRkeUh3QU0wTW9sZDFJT2hJVUpyM2gwdnp2dzljM0ppVE0tbi1WV3NjVmVr?oc=5",
         "source": "Memeburn",
         "published": "Thu, 19 Nov 2026 17:35:37",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "Gemini 4 Neon ডিসেম্বর ১ পর্যন্ত বিনামূল্যে, কোনটা ব্যবহার করবেন দেখুন।",
+        "featured": true
       },
       {
         "title": "Gemini 4 Models Compared: Which One Do You Get? - Fello AI",
@@ -281,8 +282,8 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pRU9OQXBqbnlKQUFZRGt1cW1Jb1hTT1pHOGZJLXVGWnZsbTlZYmRNYkVCUlFqU0x4bmpUeVJ1U0FfR1VZY0ctWUNCT3pBaWpFVmtwY1dHUWY?oc=5",
         "source": "Fello AI",
         "published": "Sun, 22 Nov 2026 08:00:00",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "Gemini 4 মডেল তুলনা: কোনটা আপনার জন্য?",
+        "featured": true
       },
       {
         "title": "Best free web hosting in 2026 - TechRadar",
@@ -290,8 +291,8 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzd0VkSHlSRmRudVlPdl9nZ1otZmNaVDBqdVQ4ZnhLdmdmRzN5UXY1MnNENFhwcTRFdnZyeFdtTE8wVE9OSlRlMjd0VENMWVk0dzVNN0tGb2c4QjNzbXlSbU1kVjdHWC1VZTdr?oc=5",
         "source": "TechRadar",
         "published": "Wed, 18 Nov 2026 16:56:40",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "সেরা ফ্রি ওয়েব হোস্টিং ২০২৬ - TechRadar।",
+        "featured": true
       },
       {
         "title": "Todd Stager, SEO Expert, Launches Free AI Sitemap Tool Using Open Knowledge Format - Bergen Record",
@@ -355,8 +356,8 @@
         "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "published": "Mon, 23 Nov 2026 15:41:23",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "লিবিয়ায় ইউক্রেনীয় ড্রোনে রুশ যুদ্ধজাহাজ ক্ষতিগ্রস্ত।",
+        "featured": true
       },
       {
         "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
@@ -364,8 +365,8 @@
         "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "published": "Mon, 23 Nov 2026 18:04:20",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "ইরানে হিজাব ছাড়া গান গাওয়ায় শিল্পীকে বেত্রাঘাত।",
+        "featured": true
       },
       {
         "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
@@ -373,8 +374,8 @@
         "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "published": "Mon, 23 Nov 2026 13:09:52",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "ফ্রান্সের উগ্র বামপন্থীদের রাস্তায় দেখা।",
+        "featured": true
       },
       {
         "title": "What failure of COP31 reveals about a divided world",
@@ -382,8 +383,8 @@
         "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "published": "Mon, 23 Nov 2026 17:24:25",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "COP31 ব্যর্থতা বিশ্বের বিভক্তি দেখায়।",
+        "featured": true
       },
       {
         "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
@@ -391,6 +392,24 @@
         "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "published": "Mon, 23 Nov 2026 17:07:25",
+        "bn_summary": "",
+        "featured": false
+      },
+      {
+        "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
+        "summary": "Moscow accuses Tallinn of 'hostile actions' citing border closure and claiming it is allowing Ukraine to launch attacks.",
+        "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "Mon, 23 Nov 2026 19:20:30",
+        "bn_summary": "",
+        "featured": false
+      },
+      {
+        "title": "Thousands flee Manchester concert after unknown substance released",
+        "summary": "More than 12,000 people were evacuated from Manchester’s Co-op Live arena",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "Mon, 23 Nov 2026 19:07:37",
         "bn_summary": "",
         "featured": false
       },
@@ -420,24 +439,6 @@
         "published": "Mon, 23 Nov 2026 18:00:23",
         "bn_summary": "",
         "featured": false
-      },
-      {
-        "title": "Tajikistan moves to leave ICC amid US push against court",
-        "summary": "The ICC found that Tajikistan failed to comply with its request to arrest Russian President Vladimir Putin.",
-        "url": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "Mon, 23 Nov 2026 17:36:17",
-        "bn_summary": "",
-        "featured": false
-      },
-      {
-        "title": "Why did COP31 climate talks collapse without a deal?",
-        "summary": "The longest UN climate summit in history collapsed without a final deal in Turkiye, the first such failure in 17 years.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/why-did-cop31-climate-talks-collapse-without-a-deal?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "Mon, 23 Nov 2026 16:38:30",
-        "bn_summary": "",
-        "featured": false
       }
     ],
     "stocks_gold": [
@@ -447,8 +448,8 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0V0aXctMHhmVjRnZXFxRnZyVzRBMUxVUklISmhWTEEtNlk2RWYzbFcxd3kxOXpFUGJZNU15YlN1MkpPOXd4d1EtRVpfeHByTkVhOVNrcGROWnh6WEhWQ2xLSW53QXZVdXdialViRWl2WXFHcUxET1N6cDRkR0hHZnZXLVBJbndPSV9mbkhRZWtsN1ZLWUx0LWFWTkJRNXhwYndoeEZXVmN1MkI5NDNFbWk2QzJzU3VwMVdaLVV2QTd5Sk9hNGc?oc=5",
         "source": "StoneX",
         "published": "Mon, 23 Nov 2026 12:33:01",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "সোনা বহু-বছরের আপট্রেন্ড ভেঙেছে, সবচেয়ে খারাপ সপ্তাহ।",
+        "featured": true
       },
       {
         "title": "Gold Price Today: Gold Rises 1.83% on November 23, 2026 - USA Today",
@@ -456,8 +457,8 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQmsxSVE4YjNIOTdVYk5xOEVnb2VLQVBRQVprQ2ZLdl9Kenk2V0JjLWhlZ3pOcW1Ua3lxUy1RODlQMkhEZTFmSTRKelQ3TklqSTZYamhUekNGWmJCRndGMjc0bnFTZ0pxMjdnQ1U0V2RoNFRrNkpwY2dCY25MeWdwMktOZjNMZ3dwNlgyT3d2d3FwU2FpUVBvMm9fUWdva2lRcHFz?oc=5",
         "source": "USA Today",
         "published": "Mon, 23 Nov 2026 19:08:00",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "গতকাল সোনা ১.৮৩% বেড়েছে।",
+        "featured": true
       },
       {
         "title": "Gold price rallies above $3,600 as AI selloff reshapes Fed outlook - Kitco AM Report - Kitco",
@@ -465,8 +466,8 @@
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPenF6LTV0TWdncXg5WDBQNS1Dc2lSVEUwNmpsRzR0UGg4a0VOM21NN2hTNnN1Mk1fZDhmcWs1WU41UW9qcUFieEJnemYyRTdhZy1hakhLbHRXemltSTFVTnBFaEhLdDR5LTYyeElnTjBKdEVNeUFXRnFEQlh5bWllNU1vOEw3eHlaRXZBZzV1WlNXUWd6R3BHdmlTajdyZUJueU5vNTlCUmhvclZtLVRlamJyel9USGM?oc=5",
         "source": "Kitco",
         "published": "Mon, 23 Nov 2026 14:18:04",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "AI সেলঅফে ফেড আউটলুক বদলায়, সোনা $৩,৬০০-এর উপরে।",
+        "featured": true
       },
       {
         "title": "Gold price rises as bargain hunters step in after steep weekly drop - Mining.com",
@@ -474,8 +475,8 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3dFaXI2cXRwSWZwSHdFd3YyS211UW96RzE5LUF2enZRODktbjZpRTJlUC13MlBFNFhfNm5jV2NtdGZyYmZFcTVDM2JqenZJOVpjMVlzV2pRamowc0VfWW83bnFhX3BHck5SWXlPMlJLNlBXQ29zZzZjZHpwbnp4bm1WQzlXODFkblA4NHRKbG5HSEw3clZfMWdhRQ?oc=5",
         "source": "Mining.com",
         "published": "Mon, 23 Nov 2026 18:31:55",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "সস্তা দামে কেনার সুযোগে সোনা বাড়ছে।",
+        "featured": true
       },
       {
         "title": "Gold Price Prediction: XAU/USD Reclaims $3,600, But Is This Just a Relief Rally? - Cryptonews.net",
@@ -539,8 +540,8 @@
         "url": "https://www.tomshardware.com/pc-components/cpus/electric-intel-core-ultra-7-270k-plus-deal-knocks-it-down-to-just-usd232-25-percent-discount-marks-a-new-all-time-low-for-arrow-lake-refresh",
         "source": "Tom's Hardware",
         "published": "Mon, 23 Nov 2026 19:24:52",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "Intel Core Ultra 7 270K ডিল: $২৩২-এ।",
+        "featured": true
       },
       {
         "title": "Stock up on storage with 4TB T-Force G50 SSD at just $0.10 per GB",
@@ -548,8 +549,8 @@
         "url": "https://www.tomshardware.com/pc-components/ssds/stock-up-on-storage-with-4tb-t-force-g50-ssd-at-just-usd0-10-per-gb-entry-level-pcie-4-0-drive-offers-decent-performance-and-lots-of-capacity",
         "source": "Tom's Hardware",
         "published": "Mon, 23 Nov 2026 18:11:09",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "4TB T-Force G50 SSD মাত্র $০.১০/GB।",
+        "featured": true
       },
       {
         "title": "Crucial’s 1TB P310 SSD plummets to £122 at Amazon for Black Friday",
@@ -557,8 +558,8 @@
         "url": "https://www.tomshardware.com/pc-components/ssds/crucials-1tb-p310-ssd-plummets-to-gbp122-at-amazon-for-black-friday-boost-your-playstation-5-or-pc-storage-for-less",
         "source": "Tom's Hardware",
         "published": "Mon, 23 Nov 2026 18:07:53",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "Crucial 1TB P310 SSD Amazon-এ £১২২।",
+        "featured": true
       },
       {
         "title": "Penguin shows off photonic memory box at SC26 that can expand AI accelerator capacity over optical links",
@@ -566,8 +567,8 @@
         "url": "https://www.tomshardware.com/pc-components/dram/penguin-shows-off-photonic-memory-box-at-sc26-that-can-expand-ai-accelerator-capacity-over-optical-links-device-sports-up-to-576gb-of-hbm3e-customer-samples-expected-in-2027",
         "source": "Tom's Hardware",
         "published": "Mon, 23 Nov 2026 18:00:00",
-        "bn_summary": "",
-        "featured": false
+        "bn_summary": "Penguin-এর ফটোনিক মেমরি বক্স AI অ্যাক্সিলারেটর বাড়াবে।",
+        "featured": true
       },
       {
         "title": "RTX 5060 gaming PC hits a new low $749, down from $1,400",
