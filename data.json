@@ -1,68 +1,113 @@
 {
-  "edition": 3,
-  "updated_ts": 1795542985,
-  "updated_dhaka": "24 Nov 2026, 11:56 PM (BDT)",
-  "updated_utc": "2026-11-24 17:56 UTC",
-  "batch_label": "11:56 PM BDT",
-  "new_added": 15,
+  "edition": 4,
+  "updated_ts": 1795550365,
+  "updated_dhaka": "25 Nov 2026, 01:59 AM (BDT)",
+  "updated_utc": "2026-11-24 19:59 UTC",
+  "batch_label": "01:59 AM BDT",
+  "new_added": 16,
   "expired_removed": 0,
   "curated_by": "gemini (gemini-flash-lite-latest)",
   "advice": {
-    "title": "টেক র‍্যালি ও গোল্ড কারেকশনে স্মার্ট মুভ",
-    "body": "আজ এনভিডিয়া ও নাসডাকের উল্লম্ফন এবং গোল্ডের দরপতন দেখায় যে বাজারের গতি দ্রুত বদলাচ্ছে। ফ্রি এআই টুল আর জিপিইউ ডিল কাজে লাগিয়ে প্রোজেক্ট অপ্টিমাইজ করুন এবং এই মার্জিন কারেকশনে পোর্টফোলিও ব্যালেন্স রাখুন।",
-    "tag": "Market & Gold"
+    "title": "টেক বুল রান ও এআই সিকিউরিটি সতর্কতা",
+    "body": "শেয়ার বাজারে এসঅ্যান্ডপি ও এনভিডিয়ার দুর্দান্ত উত্থানের সাথে মাইক্রনের র‍্যাম দামে পজিটিভ ট্রেন্ড চলছে। তবে ইউকে এর এআই সিকিউরিটি সতর্কতা মাথায় রেখে গিটহাবের নতুন ডিফেন্স টুলস ব্যবহার করে আপনার কোড ও ফ্রি এপিআই অবকাঠামো সুরক্ষিত রাখুন।",
+    "tag": "AI & Dev"
   },
   "quote": {
-    "text_bn": "ভবিষ্যতের পূর্বাভাস দেওয়ার সেরা উপায় হলো তা নিজে তৈরি করা।",
-    "author": "পিটার ড্রাকার",
-    "note_bn": "বাজারের বর্তমান অস্থিরতায় বসে না থেকে নিজের দক্ষতা ও টেক প্রজেক্ট গড়ায় মন দিন।"
+    "text_bn": "ভবিষ্যতের পূর্বাভাস দেওয়ার সেরা উপায় হলো ভবিষ্যৎ নিজে তৈরি করে নেওয়া।",
+    "author": "অ্যালান কে",
+    "note_bn": "আজই নতুন এআই টুল ও কোডিং প্রজেক্টে হাত দিয়ে নিজের ভবিষ্যতের টেক স্কিল গড়ে তুলুন।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,565.50",
-      "change_pct": -2.35,
+      "price": "$3,558.70",
+      "change_pct": -2.54,
       "up": false
     },
     {
       "symbol": "^GSPC",
       "label": "S&P 500",
-      "price": "7,207.76",
-      "change_pct": 4.3,
+      "price": "7,178.47",
+      "change_pct": 3.88,
       "up": true
     },
     {
       "symbol": "^IXIC",
       "label": "NASDAQ",
-      "price": "23,759.15",
-      "change_pct": 5.05,
+      "price": "23,625.74",
+      "change_pct": 4.46,
       "up": true
     },
     {
       "symbol": "NVDA",
       "label": "NVIDIA",
-      "price": "$153.26",
-      "change_pct": 22.09,
+      "price": "$152.64",
+      "change_pct": 21.6,
       "up": true
     },
     {
       "symbol": "MU",
       "label": "Micron (RAM)",
-      "price": "$635.06",
-      "change_pct": 6.82,
+      "price": "$626.99",
+      "change_pct": 5.46,
       "up": true
     },
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$59,997.88",
-      "change_pct": -1.98,
+      "price": "$59,621.14",
+      "change_pct": -2.6,
       "up": false
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+        "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People ",
+        "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+        "source": "The Verge",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&strip=all&crop=20.043648851915%2C0%2C79.914576075467%2C100&w=1200",
+        "published_ts": 1795545496,
+        "published": "25 Nov, 12:38 AM",
+        "bn_summary": "ডেভিড ফিনচার তার নতুন ফিল্মে AI ব্যবহার করার সন্দেহে ড্র্যাগ করা হচ্ছে। এটা চলচ্চিত্রের সৃজনশীলতা ও শিল্পীর কাজের স্বচ্ছতাকে প্রশ্নবিদ্ধ করে, তাই ইন্ডাস্ট্রিতে বড় প্রভাব ফেলতে পারে।",
+        "added_at_ts": 1795550365,
+        "expires_at_ts": 1795636765,
+        "batch_label": "01:59 AM BDT",
+        "batch_edition": 4,
+        "is_new": true
+      },
+      {
+        "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+        "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+        "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+        "source": "TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+        "published_ts": 1795545042,
+        "published": "25 Nov, 12:30 AM",
+        "bn_summary": "Anthropic এর শেয়ার IPO মূল্যের নিচে নেমে এসেছে, যা AI স্টার্টআপের মূল্যায়নে চাপের ইঙ্গিত দেয়। এই পতন বিনিয়োগকারীদের জন্য ঝুঁকি বাড়ায় এবং সেক্টরের ভবিষ্যৎ ফান্ডিংকে প্রভাবিত করতে পারে।",
+        "added_at_ts": 1795550365,
+        "expires_at_ts": 1795636765,
+        "batch_label": "01:59 AM BDT",
+        "batch_edition": 4,
+        "is_new": true
+      },
+      {
+        "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+        "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+        "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+        "source": "TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800",
+        "published_ts": 1795543379,
+        "published": "25 Nov, 12:02 AM",
+        "bn_summary": "ব্রিটিশ সাইবার এজেন্সি AI-চালিত সাইবার আক্রমণগুলোকে সতর্ক করেছে, কারণ সেগুলো সহজ সিকিউরিটি ফাঁক ব্যবহার করে। এর ফলে দেশের ডেটা সুরক্ষা ও অবকাঠামোর জন্য শক্তিশালী ভিত্তি গড়া এখন আগের চেয়ে জরুরি।",
+        "added_at_ts": 1795550365,
+        "expires_at_ts": 1795636765,
+        "batch_label": "01:59 AM BDT",
+        "batch_edition": 4,
+        "is_new": true
+      },
       {
         "title": "Tidal will start banning AI-generated music next month",
         "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move ",
@@ -76,7 +121,7 @@
         "expires_at_ts": 1795629385,
         "batch_label": "11:56 PM BDT",
         "batch_edition": 3,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
@@ -91,7 +136,7 @@
         "expires_at_ts": 1795629385,
         "batch_label": "11:56 PM BDT",
         "batch_edition": 3,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "The New York Times warns photographers not to update Photoshop over AI features",
@@ -106,7 +151,7 @@
         "expires_at_ts": 1795629385,
         "batch_label": "11:56 PM BDT",
         "batch_edition": 3,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
@@ -231,6 +276,57 @@
     ],
     "github": [
       {
+        "title": "ThreatDefence/agentic-attack-detections",
+        "summary": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Surica",
+        "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/ThreatDefence/agentic-attack-detections",
+        "stars": 618,
+        "language": "Python",
+        "published_ts": 1795133184,
+        "published": "2026-11-20",
+        "bn_summary": "ThreatDefence/agentic-attack-detections রেপোতে AI এজেন্ট আক্রমণ ফ্রেমওয়ার্কের ডিটেকশন রুল ও IOCs আছে। সিকিউরিটি টিমের জন্য এই টুলগুলো দ্রুত হুমকি শনাক্ত করে প্রতিরোধে সাহায্য করে।",
+        "added_at_ts": 1795550365,
+        "expires_at_ts": 1795636765,
+        "batch_label": "01:59 AM BDT",
+        "batch_edition": 4,
+        "is_new": true
+      },
+      {
+        "title": "iamajmeena/neonclipping",
+        "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+        "url": "https://github.com/iamajmeena/neonclipping",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/iamajmeena/neonclipping",
+        "stars": 2464,
+        "language": "Python",
+        "published_ts": 1795082443,
+        "published": "2026-11-19",
+        "bn_summary": "iamajmeena/neonclipping লিঙ্ক পেস্ট করে ৯:১৬ ফরম্যাটে ক্যাপশনড ক্লিপ তৈরি করে, প্রায় ২ মিনিটে। ফ্রি, লোকাল ও ওপেন-সোর্স হওয়ায় কন্টেন্ট ক্রিয়েটরদের জন্য সময় ও খরচ বাঁচায়।",
+        "added_at_ts": 1795550365,
+        "expires_at_ts": 1795636765,
+        "batch_label": "01:59 AM BDT",
+        "batch_edition": 4,
+        "is_new": true
+      },
+      {
+        "title": "INK-Q/agy-fast",
+        "summary": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+        "url": "https://github.com/INK-Q/agy-fast",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/INK-Q/agy-fast",
+        "stars": 1137,
+        "language": "TypeScript",
+        "published_ts": 1795064326,
+        "published": "2026-11-19",
+        "bn_summary": "INK-Q/agy-fast গুগল অ্যান্টিগ্রাভিটি (CLI/Desktop/IDE) এর জন্য নন-ইনভেসিভ MCP অ্যাক্সিলারেটর প্লাগইন। এটি টোকেন কোটার ৩১% এবং আপলোড ট্র্যাফিকের ৪০% কমায়, ফলে LLM চালানো সস্তা হয়।",
+        "added_at_ts": 1795550365,
+        "expires_at_ts": 1795636765,
+        "batch_label": "01:59 AM BDT",
+        "batch_edition": 4,
+        "is_new": true
+      },
+      {
         "title": "xikhar/papercraft",
         "summary": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
         "url": "https://github.com/xikhar/papercraft",
@@ -245,7 +341,7 @@
         "expires_at_ts": 1795629385,
         "batch_label": "11:56 PM BDT",
         "batch_edition": 3,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "danielwh2/sprite-stacking",
@@ -262,7 +358,7 @@
         "expires_at_ts": 1795629385,
         "batch_label": "11:56 PM BDT",
         "batch_edition": 3,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "sous-labs/songe",
@@ -279,7 +375,7 @@
         "expires_at_ts": 1795629385,
         "batch_label": "11:56 PM BDT",
         "batch_edition": 3,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "youssefco1999-hash/aiseesoft-launch-pro",
@@ -420,6 +516,21 @@
     ],
     "free_deals": [
       {
+        "title": "The noise speedrun is an awesome benchmark for backprop-free LLM training: get to 3.5 val loss ASAP. We had fun pointing the Eureka Machine at it, and we set a new record under 10 ",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10X3RJZDZUcW55Uk5lVHN2NHU1U3Q5S0wzc0p5S2QtVDNxOG9wMTVWeXI4QTdsQ0xfZkp1Z1ZySTIxUVZqZ0NndURvS3BOajhBVFhMdWxZeGFSNVRJcmx3V2UyaEptY2c?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795534724,
+        "published": "24 Nov, 09:38 PM",
+        "bn_summary": "নয়েজ স্পিডরান ব্যাকপ্রপ-ফ্রি LLM ট্রেনিংয়ের জন্য ৩.৫ ভ্যাল লস দ্রুত অর্জনের বেঞ্চমার্ক দেয়। এই পদ্ধতি ট্রেনিং খরচ কমিয়ে AI মডেল ডেভেলপমেন্টকে ত্বরান্বিত করতে পারে।",
+        "added_at_ts": 1795550365,
+        "expires_at_ts": 1795636765,
+        "batch_label": "01:59 AM BDT",
+        "batch_edition": 4,
+        "is_new": true
+      },
+      {
         "title": "The new GPTZero 5 model outperforms Pangram in almost all third-party benchmarks Our model has an industry-leading 1 in 50,000 false positives on essay-length writing We have zero ",
         "summary": "",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DX2cwNmJHMmlVOFJkSGxCTUxPOFR5b212bXNBdkwzZlgxbmRQNnRvcXJJWHZpcE5fYWZMemNOVGRyOVZXUk5NUXZZcGJZbnJFM25NcjhzSmRmWGlvaHc?oc=5",
@@ -497,6 +608,51 @@
     ],
     "war": [
       {
+        "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
+        "summary": "Ukrainian attacks subsided after Trump's mid-October declaration of an energy ceasefire, but picked up again afterwards.",
+        "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-01T105125Z_349816858_RC29YT9KV71D_RTRMADP_3_UKRAINE-CRISIS-EU.jpg?resize=1920%2C1440",
+        "published_ts": 1795548164,
+        "published": "25 Nov, 01:22 AM",
+        "bn_summary": "পুতিন ইউক্রেনের রাশিয়ান তেল প্ল্যান্টে আক্রমণের পর প্রতিক্রিয়া ‘অবশ্যম্ভাবী’ বলে ঘোষণা করেছেন। এই মন্তব্য অঞ্চলের সামরিক উত্তেজনা বাড়িয়ে সম্ভাব্য সংঘর্ষের ঝুঁকি বাড়ায়।",
+        "added_at_ts": 1795550365,
+        "expires_at_ts": 1795636765,
+        "batch_label": "01:59 AM BDT",
+        "batch_edition": 4,
+        "is_new": true
+      },
+      {
+        "title": "China Southern Airlines unit to buy 50 Boeing 737-8 planes",
+        "summary": "The agreement marks the US planemaker's first major order from China in almost a decade.",
+        "url": "https://www.aljazeera.com/economy/2026/11/24/china-southern-airlines-unit-to-buy-50-boeing-737-8-planes?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2025-04-20T030456Z_350916312_RC261EAWKFUJ_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA-BOEING-1795545196.jpg?resize=1658%2C1080",
+        "published_ts": 1795547990,
+        "published": "25 Nov, 01:19 AM",
+        "bn_summary": "চায়না সাউদার্ন এয়ারলাইনসের ইউনিট ৫০টি বোয়িং ৭৩৭-৮ প্লেন কিনবে। এটি প্রায় দশ বছর পর চীনের প্রথম বড় অর্ডার, যা US-চীন এয়ারলাইন সম্পর্কের নতুন দিক খুলে দেয়।",
+        "added_at_ts": 1795550365,
+        "expires_at_ts": 1795636765,
+        "batch_label": "01:59 AM BDT",
+        "batch_edition": 4,
+        "is_new": true
+      },
+      {
+        "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
+        "summary": "Israeli police have confiscated mosque loudspeakers as far-right lawmakers push legislation to restrict call to prayer.",
+        "url": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b05d7d4e2386-1795545044.jpg?resize=1920%2C1440",
+        "published_ts": 1795546969,
+        "published": "25 Nov, 01:02 AM",
+        "bn_summary": "ইসরায়েলের বেন-গভিরকে মসজিদ রেইডের মাধ্যমে ‘ধর্মীয় যুদ্ধ’ চালানোর অভিযোগে অভিযুক্ত করা হয়েছে। এটি দেশের ধর্মীয় উত্তেজনা বাড়িয়ে সামাজিক ও রাজনৈতিক অস্থিরতা বাড়াতে পারে।",
+        "added_at_ts": 1795550365,
+        "expires_at_ts": 1795636765,
+        "batch_label": "01:59 AM BDT",
+        "batch_edition": 4,
+        "is_new": true
+      },
+      {
         "title": "Five tonnes of explosives set to blow up in Iowa",
         "summary": "The US Army is preparing to detonate nearly five tonnes of unstable explosives in Iowa on Wednesday.",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/five-tonnes-of-explosives-set-to-blow-up-in-iowa?traffic_source=rss",
@@ -509,7 +665,7 @@
         "expires_at_ts": 1795629385,
         "batch_label": "11:56 PM BDT",
         "batch_edition": 3,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "US sanctions on Lebanon’s Hezbollah-affiliates may have limited impact",
@@ -524,7 +680,7 @@
         "expires_at_ts": 1795629385,
         "batch_label": "11:56 PM BDT",
         "batch_edition": 3,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "After Libya, where will Ukraine strike Russia next?",
@@ -539,7 +695,7 @@
         "expires_at_ts": 1795629385,
         "batch_label": "11:56 PM BDT",
         "batch_edition": 3,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Israeli air strike kills Hamas internal security chief in Gaza",
@@ -664,6 +820,51 @@
     ],
     "stocks_gold": [
       {
+        "title": "Retail turnarounds are taking hold just in time for the holiday season",
+        "summary": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
+        "url": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+        "source": "CNBC",
+        "image": "https://image.cnbcfm.com/api/v1/image/108554570-1795032736273-gettyimages-2305757426-l1090818_copy_25nvihon.jpeg?v=1795547729&w=1920&h=1080",
+        "published_ts": 1795548399,
+        "published": "25 Nov, 01:26 AM",
+        "bn_summary": "খুচরা বিক্রেতাদের সাম্প্রতিক আয়ের রিপোর্টে শক্তিশালী ফলাফল দেখা যাচ্ছে, যা ভোক্তাদের স্থিতিস্থাপকতা এবং ভালো কার্যকারিতা নির্দেশ করে। এটি গুরুত্বপূর্ণ কারণ ছুটির মরসুমের আগে খুচরা খাতের পুনরুদ্ধার অর্থনৈতিক প্রবৃদ্ধির ইঙ্গিত দেয়।",
+        "added_at_ts": 1795550365,
+        "expires_at_ts": 1795636765,
+        "batch_label": "01:59 AM BDT",
+        "batch_edition": 4,
+        "is_new": true
+      },
+      {
+        "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+        "summary": "The product, the first one beyond event contracts, was introduced in May.",
+        "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+        "source": "CNBC",
+        "image": "https://image.cnbcfm.com/api/v1/image/108310000-1779301088587-gettyimages-2273141461-AFP_A9DR764.jpeg?v=1779301207&w=1920&h=1080",
+        "published_ts": 1795545295,
+        "published": "25 Nov, 12:34 AM",
+        "bn_summary": "ক্যালশির 'পার্পস' ট্রেডিংয়ের দৈনিক ভলিউম তার অন্যান্য প্রেডিকশন মার্কেটকে ছাড়িয়ে গেছে, যা মে মাসে চালু হওয়া নতুন পণ্যটির জনপ্রিয়তা দেখায়। এটি গুরুত্বপূর্ণ কারণ এটি প্রেডিকশন মার্কেটের ভবিষ্যত এবং ক্যালশির ব্যবসায়িক মডেলের জন্য একটি মাইলফলক।",
+        "added_at_ts": 1795550365,
+        "expires_at_ts": 1795636765,
+        "batch_label": "01:59 AM BDT",
+        "batch_edition": 4,
+        "is_new": true
+      },
+      {
+        "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+        "summary": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
+        "url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+        "source": "CNBC",
+        "image": "https://image.cnbcfm.com/api/v1/image/108344436-17858457182026-08-04t102722z_1664165591_rc2mrmat3b8n_rtrmadp_0_usa-prediction-markets.jpeg?v=1787061386&w=1920&h=1080",
+        "published_ts": 1795544913,
+        "published": "25 Nov, 12:28 AM",
+        "bn_summary": "উটাহ রাজ্য ক্যালশির প্রতিষ্ঠাতাদের বিরুদ্ধে ফৌজদারি অভিযোগ তুলে নিয়েছে, কোম্পানিটি রাজ্যে কার্যক্রম স্থগিত করার পর। এটি গুরুত্বপূর্ণ কারণ এটি ক্যালশির আইনি ঝুঁকি কমায় এবং প্রেডিকশন মার্কেট প্ল্যাটফর্মের জন্য একটি স্বস্তিদায়ক খবর।",
+        "added_at_ts": 1795550365,
+        "expires_at_ts": 1795636765,
+        "batch_label": "01:59 AM BDT",
+        "batch_edition": 4,
+        "is_new": true
+      },
+      {
         "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats Below $3600 - FXEmpire",
         "summary": "",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVp5Y2UzOUNNYXh6VUdOQzRSNW5HMm5SWEZ2NUdJQ1J6U3d6OGRPSDhZQjB0V2dZcFgtMVF5c3R5aGlnYWkwNEJGVl9LZWd0aUJhblhiWG5jSjVUVGhHSmV6djZMd1lKMUptSXlNS3lKMnZSWVZFcXhaN3o4ZDVCQ0pXcVdYdmMwMkk3RmhuRlM1ampEclNCS0JjVDFuVFh4MVlwc3dVVVpncXVNSkpBMVh5OA?oc=5",
@@ -676,7 +877,7 @@
         "expires_at_ts": 1795629385,
         "batch_label": "11:56 PM BDT",
         "batch_edition": 3,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump - WSJ",
@@ -691,7 +892,7 @@
         "expires_at_ts": 1795629385,
         "batch_label": "11:56 PM BDT",
         "batch_edition": 3,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Nasdaq, S&P 500 fall as Nvidia-driven AI rally unwinds - Reuters",
@@ -706,7 +907,7 @@
         "expires_at_ts": 1795629385,
         "batch_label": "11:56 PM BDT",
         "batch_edition": 3,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold price testing support near $3,600 as US Consumer Confidence sees sharp rise in November - Kitco",
@@ -831,6 +1032,51 @@
     ],
     "ram_hardware": [
       {
+        "title": "These are the four cheapest 32GB DDR5 memory kits we’ve found",
+        "summary": "DDR5 prices are still high, but we found four DDR5 kits that are the cheapest options available right now.",
+        "url": "https://www.tomshardware.com/pc-components/ram/these-are-the-four-cheapest-32gb-ddr5-memory-kits-weve-found-save-up-to-usd110-on-kits-available-from-patriot-team-group-and-v-color-up-to-ddr5-6400",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/n75sAsMdD4VcBHkWdg9v2j-1920-80.jpg",
+        "published_ts": 1795549800,
+        "published": "25 Nov, 01:50 AM",
+        "bn_summary": "ডিডিআর৫ মেমোরির দাম এখনও বেশি, তবে আমরা বর্তমানে বাজারে সবচেয়ে সস্তা চারটি ৩২জিবি ডিডিআর৫ কিট খুঁজে পেয়েছি। এটি গুরুত্বপূর্ণ কারণ যারা নতুন পিসি বানাচ্ছেন বা আপগ্রেড করছেন তাদের জন্য সাশ্রয়ী বিকল্প জানা দরকার।",
+        "added_at_ts": 1795550365,
+        "expires_at_ts": 1795636765,
+        "batch_label": "01:59 AM BDT",
+        "batch_edition": 4,
+        "is_new": true
+      },
+      {
+        "title": "RTX 5090-equipped Asus ROG Strix SCAR 16 laptop is $350 off",
+        "summary": "Newegg has the Asus ROG Strix SCAR 16 with an RTX 5090 at $4,149, a $350 discount and one of the lowest prices we've seen for a 5090-equipped laptop this week.",
+        "url": "https://www.tomshardware.com/pc-components/rtx-5090-equipped-asus-rog-strix-scar-16-laptop-is-usd350-off-snag-a-great-deal-on-a-ridiculously-powerful-2025-model-16-inch-gaming-laptop-with-32gb-of-ram-and-core-ultra-9-275hx-processor-for-only-usd4-149",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/paYdFcbNCwHVUFnUbT4u48-1920-80.png",
+        "published_ts": 1795548600,
+        "published": "25 Nov, 01:30 AM",
+        "bn_summary": "নিউইগ-এ আসুস ROG স্ট্রিক্স SCAR 16 ল্যাপটপটি RTX 5090 সহ $৪,১৪৯-এ বিক্রি হচ্ছে, যা $৩৫০ ছাড় এবং এই সপ্তাহে ৫০৯০-সহ ল্যাপটপের সবচেয়ে কম দামগুলির একটি। এটি গুরুত্বপূর্ণ কারণ উচ্চ-ক্ষমতাসম্পন্ন গেমিং ল্যাপটপ কেনার জন্য এটি একটি ভালো সুযোগ।",
+        "added_at_ts": 1795550365,
+        "expires_at_ts": 1795636765,
+        "batch_label": "01:59 AM BDT",
+        "batch_edition": 4,
+        "is_new": true
+      },
+      {
+        "title": "Legendary Cooler Master Hyper 212 Halo CPU air cooler drops to an all-time low of $15 — keep your AMD or Intel processor running cool on the cheap",
+        "summary": "Cooler Master's Hyper 212 Halo air cooler is on sale for $15, making it one of the most affordable name-brandnd tower-style CPU coolers available right now.",
+        "url": "https://www.tomshardware.com/pc-components/air-cooling/legendary-cooler-master-hyper-212-halo-cpu-air-cooler-drops-to-an-all-time-low-of-usd15-keep-your-amd-or-intel-processor-running-cool-on-the-cheap",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/9KAxfWoNa52BD8XErSz36Y-1920-80.png",
+        "published_ts": 1795546397,
+        "published": "25 Nov, 12:53 AM",
+        "bn_summary": "কুলার মাস্টারের হাইপার ২১২ হ্যালো এয়ার কুলারটি এখন $১৫-এ বিক্রি হচ্ছে, যা এটি বর্তমানে সবচেয়ে সাশ্রয়ী নামীদামী টাওয়ার-স্টাইল CPU কুলারগুলির একটি করে তুলেছে। এটি গুরুত্বপূর্ণ কারণ যারা বাজেটে প্রসেসর ঠান্ডা রাখতে চান তাদের জন্য এটি একটি দুর্দান্ত ডিল।",
+        "added_at_ts": 1795550365,
+        "expires_at_ts": 1795636765,
+        "batch_label": "01:59 AM BDT",
+        "batch_edition": 4,
+        "is_new": true
+      },
+      {
         "title": "The SSD crisis is being defeated with Black Friday 1TB and 2TB deals at less than $0.15 per GB",
         "summary": "Some 1TB and 2TB PCIe 4.0 SSDs are cheaper than when we reviewed them at less than $0.15 per GB.",
         "url": "https://www.tomshardware.com/pc-components/the-ssd-crisis-is-being-defeated-with-black-friday-1tb-and-2tb-deals-at-less-than-usd0-15-per-gb-some-pcie-4-0-ssds-are-now-cheaper-than-when-we-reviewed-them",
@@ -843,7 +1089,7 @@
         "expires_at_ts": 1795629385,
         "batch_label": "11:56 PM BDT",
         "batch_edition": 3,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Best Black Friday gaming GPU deals 2026",
@@ -858,7 +1104,7 @@
         "expires_at_ts": 1795629385,
         "batch_label": "11:56 PM BDT",
         "batch_edition": 3,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Tom's Hardware’s CES 2027 Awards: How to enter your product",
@@ -873,7 +1119,7 @@
         "expires_at_ts": 1795629385,
         "batch_label": "11:56 PM BDT",
         "batch_edition": 3,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Micron Stock Is Counting on a Buyback Bounce. Why It’s No Slam Dunk. - Barron's",
