@@ -435,17 +435,17 @@
     ];
 
     const CAT_COLORS = {
-      ai: ["#0f172a", "#38bdf8", "AI & MODELS"],
+      ai: ["#0f172a", "#38bdf8", "AI &amp; MODELS"],
       github: ["#111827", "#e2e8f0", "GITHUB PROJECT"],
-      free_deals: ["#0c1f1a", "#34d399", "FREE API & VPS"],
-      war: ["#211115", "#f87171", "WORLD & CONFLICT"],
-      stocks_gold: ["#1f180b", "#f59e0b", "GOLD & STOCKS"],
-      ram_hardware: ["#141826", "#a78bfa", "RAM & HARDWARE"],
+      free_deals: ["#0c1f1a", "#34d399", "FREE API &amp; VPS"],
+      war: ["#211115", "#f87171", "WORLD &amp; CONFLICT"],
+      stocks_gold: ["#1f180b", "#f59e0b", "GOLD &amp; STOCKS"],
+      ram_hardware: ["#141826", "#a78bfa", "RAM &amp; HARDWARE"],
     };
 
     function fallbackSvg(cat, source) {
       const [bg, fg, label] = CAT_COLORS[cat] || ["#12161f", "#38bdf8", "INTEL"];
-      const src = String(source || "NEWS").slice(0, 18).replace(/[<>&"]/g, "");
+      const src = String(source || "NEWS").slice(0, 18).replace(/[<>&"']/g, "");
       const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450"><rect width="800" height="450" fill="${bg}"/><g opacity="0.12" stroke="${fg}" stroke-width="1"><line x1="0" y1="90" x2="800" y2="90"/><line x1="0" y1="180" x2="800" y2="180"/><line x1="0" y1="270" x2="800" y2="270"/><line x1="0" y1="360" x2="800" y2="360"/><line x1="200" y1="0" x2="200" y2="450"/><line x1="400" y1="0" x2="400" y2="450"/><line x1="600" y1="0" x2="600" y2="450"/></g><rect x="52" y="160" width="8" height="96" rx="4" fill="${fg}"/><text x="80" y="200" fill="${fg}" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="3">${label}</text><text x="80" y="242" fill="#e2e8f0" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="700">${src}</text></svg>`;
       return "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svg);
     }
@@ -547,7 +547,7 @@
         return `
           <a class="card" href="${esc(it.url)}" target="_blank" rel="noopener noreferrer">
             <div class="card-media">
-              <img src="${imgSrc}" alt="${esc(it.title)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='${fb}';" />
+              <img src="${imgSrc}" alt="${esc(it.title)}" loading="lazy" referrerpolicy="no-referrer" data-fb="${fb}" onerror="this.onerror=null;this.src=this.dataset.fb;" />
               ${starsBadge}
               ${newBadge}
               <div class="media-badges">
