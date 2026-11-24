@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="refresh" content="900" />
-  <title>Ismail Intel Radar — AI, GitHub, Free Infra, Markets &amp; World</title>
+  <title>Ismail Intel Radar — 24h Rolling AI, GitHub, Free VPS, Markets &amp; World</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
@@ -14,13 +14,14 @@
       --surface: #12161f;
       --surface-hover: #181e2a;
       --border: #232a38;
-      --border-strong: #313b4f;
+      --border-strong: #334155;
       --text: #eef1f6;
       --muted: #94a0b8;
       --dim: #66738c;
       --gold: #f59e0b;
       --gold-soft: rgba(245, 158, 11, 0.12);
       --up: #22c55e;
+      --up-soft: rgba(34, 197, 94, 0.14);
       --down: #ef4444;
       --accent: #38bdf8;
     }
@@ -37,12 +38,12 @@
       position: sticky;
       top: 0;
       z-index: 40;
-      background: rgba(11, 13, 17, 0.94);
+      background: rgba(11, 13, 17, 0.95);
       backdrop-filter: blur(10px);
       border-bottom: 1px solid var(--border);
     }
     .ticker {
-      max-width: 1240px;
+      max-width: 1280px;
       margin: 0 auto;
       padding: 10px 18px;
       display: flex;
@@ -68,9 +69,9 @@
     .m-chg.up { color: var(--up); }
     .m-chg.down { color: var(--down); }
     .container {
-      max-width: 1240px;
+      max-width: 1280px;
       margin: 0 auto;
-      padding: 24px 18px 64px;
+      padding: 22px 18px 64px;
     }
     header {
       display: flex;
@@ -78,9 +79,9 @@
       justify-content: space-between;
       align-items: flex-end;
       gap: 14px;
-      padding-bottom: 18px;
+      padding-bottom: 16px;
       border-bottom: 1px solid var(--border);
-      margin-bottom: 22px;
+      margin-bottom: 20px;
     }
     .brand h1 {
       font-size: 24px;
@@ -106,34 +107,45 @@
       text-align: right;
       font-size: 12px;
       color: var(--muted);
+      line-height: 1.6;
     }
     .meta-box strong { color: var(--text); }
-    .advice-card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-left: 3px solid var(--gold);
-      border-radius: 10px;
-      padding: 18px 20px;
+
+    .top-strip {
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 14px;
       margin-bottom: 22px;
     }
-    .advice-head {
+    .advice-card, .quote-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 18px 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .advice-card { border-left: 3px solid var(--gold); }
+    .quote-card { border-left: 3px solid var(--up); }
+    .card-kicker-row {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      gap: 10px;
-      margin-bottom: 8px;
+      gap: 8px;
+      margin-bottom: 10px;
       flex-wrap: wrap;
     }
-    .advice-kicker {
+    .kicker {
       font-size: 11px;
       font-weight: 600;
       text-transform: uppercase;
       letter-spacing: 0.06em;
-      color: var(--gold);
-      background: var(--gold-soft);
       padding: 3px 8px;
       border-radius: 4px;
     }
+    .kicker.gold { color: var(--gold); background: var(--gold-soft); }
+    .kicker.green { color: var(--up); background: var(--up-soft); }
     .advice-title {
       font-size: 17px;
       font-weight: 700;
@@ -145,6 +157,25 @@
       color: #d6dce8;
       line-height: 1.65;
     }
+    .quote-text {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--text);
+      line-height: 1.6;
+      margin-bottom: 8px;
+    }
+    .quote-author {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--up);
+      margin-bottom: 6px;
+    }
+    .quote-note {
+      font-size: 12.5px;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+
     .controls {
       display: flex;
       flex-wrap: wrap;
@@ -176,11 +207,7 @@
       border-color: var(--text);
       font-weight: 600;
     }
-    .tab .cnt {
-      opacity: 0.65;
-      font-size: 11px;
-      margin-left: 4px;
-    }
+    .tab .cnt { opacity: 0.65; font-size: 11px; margin-left: 4px; }
     .search-wrap {
       display: flex;
       gap: 8px;
@@ -200,20 +227,19 @@
       outline: none;
     }
     .search-wrap input:focus { border-color: var(--accent); }
+
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
-      gap: 14px;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 16px;
     }
     .card {
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: 10px;
-      padding: 16px;
+      overflow: hidden;
       display: flex;
       flex-direction: column;
-      justify-content: space-between;
-      gap: 10px;
       text-decoration: none;
       color: inherit;
       transition: border-color 0.15s ease, background 0.15s ease, transform 0.15s ease;
@@ -221,47 +247,86 @@
     .card:hover {
       background: var(--surface-hover);
       border-color: var(--border-strong);
-      transform: translateY(-1px);
+      transform: translateY(-2px);
     }
-    .card-top {
+    .card-media {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #161b26;
+      overflow: hidden;
+      border-bottom: 1px solid var(--border);
+    }
+    .card-media img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .media-badges {
+      position: absolute;
+      left: 10px;
+      bottom: 10px;
       display: flex;
-      justify-content: space-between;
+      gap: 6px;
       align-items: center;
-      gap: 8px;
-      font-size: 11px;
+      flex-wrap: wrap;
     }
-    .badges { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+    .new-pill {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: var(--up);
+      color: #052e16;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      padding: 3px 7px;
+      border-radius: 4px;
+    }
     .badge {
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 600;
+      border: 1px solid rgba(255,255,255,0.12);
+      background: rgba(11, 13, 17, 0.84);
+      backdrop-filter: blur(6px);
+      color: #e2e8f0;
+    }
+    .badge.cat { color: var(--accent); border-color: rgba(56,189,248,0.4); }
+    .badge.src-rd { color: #fb923c; }
+    .badge.src-x { color: #93c5fd; }
+    .stars-pill {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: rgba(11, 13, 17, 0.85);
+      color: var(--gold);
+      border: 1px solid rgba(245,158,11,0.35);
+      font-size: 11px;
+      font-weight: 600;
       padding: 2px 7px;
       border-radius: 4px;
-      font-weight: 600;
-      border: 1px solid var(--border);
-      background: rgba(255,255,255,0.03);
-      color: var(--muted);
     }
-    .badge.cat { color: var(--accent); border-color: rgba(56,189,248,0.28); background: rgba(56,189,248,0.08); }
-    .badge.src-gh { color: #e2e8f0; }
-    .badge.src-x { color: #93c5fd; }
-    .badge.src-rd { color: #fb923c; }
-    .stars { color: var(--gold); font-weight: 600; }
+    .card-body {
+      padding: 15px 16px 14px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      flex: 1;
+      gap: 10px;
+    }
     .card h3 {
-      font-size: 15px;
-      font-weight: 600;
+      font-size: 15.5px;
+      font-weight: 700;
       line-height: 1.4;
       color: var(--text);
-      margin-top: 10px;
     }
     .bn-note {
-      font-size: 13px;
+      font-size: 13.5px;
       color: #cbd5e1;
-      line-height: 1.55;
-      margin-top: 6px;
-    }
-    .en-sub {
-      font-size: 12px;
-      color: var(--dim);
-      line-height: 1.45;
-      margin-top: 6px;
+      line-height: 1.62;
     }
     .card-foot {
       display: flex;
@@ -269,10 +334,11 @@
       align-items: center;
       font-size: 11px;
       color: var(--dim);
-      padding-top: 8px;
-      border-top: 1px solid rgba(255,255,255,0.04);
+      padding-top: 9px;
+      border-top: 1px solid rgba(255,255,255,0.05);
+      gap: 8px;
     }
-    .open-link { color: var(--accent); font-weight: 500; }
+    .open-link { color: var(--accent); font-weight: 600; white-space: nowrap; }
     .empty {
       grid-column: 1 / -1;
       text-align: center;
@@ -292,6 +358,9 @@
       font-size: 12px;
       color: var(--dim);
     }
+    @media (max-width: 860px) {
+      .top-strip { grid-template-columns: 1fr; }
+    }
     @media (max-width: 640px) {
       .meta-box { text-align: left; }
       .grid { grid-template-columns: 1fr; }
@@ -306,21 +375,36 @@
     <header>
       <div class="brand">
         <h1><span class="live-dot"></span> Ismail Intel Radar</h1>
-        <p>Auto-curated every 2 hours by Hermes Agent · AI · GitHub · Free API &amp; VPS · War · Gold · Stocks · RAM</p>
+        <p>24-Hour Rolling Feed · New batch every 2h on top · Old batches auto-delete after 24h</p>
       </div>
       <div class="meta-box mono">
         <div>Edition <strong id="edition">#1</strong> · <span id="curated-by"></span></div>
         <div>Updated: <strong id="updated"></strong></div>
+        <div id="batch-stats"></div>
       </div>
     </header>
 
-    <section class="advice-card">
-      <div class="advice-head">
-        <span class="advice-kicker">Advice of This Edition</span>
-        <span class="badge mono" id="advice-tag"></span>
+    <section class="top-strip">
+      <div class="advice-card">
+        <div>
+          <div class="card-kicker-row">
+            <span class="kicker gold">Advice of This Edition</span>
+            <span class="badge mono" id="advice-tag"></span>
+          </div>
+          <div class="advice-title" id="advice-title"></div>
+          <div class="advice-body" id="advice-body"></div>
+        </div>
       </div>
-      <div class="advice-title" id="advice-title"></div>
-      <div class="advice-body" id="advice-body"></div>
+      <div class="quote-card">
+        <div>
+          <div class="card-kicker-row">
+            <span class="kicker green">মহৎ বাণী · Every 2 Hours</span>
+          </div>
+          <div class="quote-text" id="quote-text"></div>
+          <div class="quote-author" id="quote-author"></div>
+          <div class="quote-note" id="quote-note"></div>
+        </div>
+      </div>
     </section>
 
     <div class="controls">
@@ -333,13 +417,13 @@
     <main class="grid" id="grid"></main>
 
     <footer>
-      <span>Powered by Hermes Agent (7-provider auto-failover: dahl &rarr; hcnsec &rarr; xingchi &rarr; codex-relay &rarr; gemini &rarr; groq &rarr; coarena)</span>
-      <span class="mono">Auto-updates every 2 hours (Asia/Dhaka)</span>
+      <span>Powered by Hermes Agent (7-provider failover: dahl &rarr; hcnsec &rarr; xingchi &rarr; codex-relay &rarr; gemini &rarr; groq &rarr; coarena)</span>
+      <span class="mono">12 cycles / 24h · Auto-expires after 24h</span>
     </footer>
   </div>
 
   <script>
-    const DATA = {"edition": 11, "updated_dhaka": "24 Nov 2026, 07:51 PM (BDT)", "updated_utc": "2026-11-24 13:51 UTC", "curated_by": "coarena (gpt-6-luna)", "advice": {"title": "Build Smart, Buy Carefully", "body": "Aura বা Android AI agent-এর মতো টুল আগে ছোট test project-এ যাচাই করুন; GitHub-এর rust-anything ও freebie-radar দেখে কাজে লাগলে ব্যবহার করুন, আর free API/VPS-এর quota ও terms নিশ্চিত করুন। Gold 0.88% down হলেও S&P/Nasdaq ও NVDA চড়েছে, তাই একদিনের মুভে বড় বিনিয়োগ নয়; MU-ও up—RAM কেনার আগে দাম তুলনা করুন, আর Nvidia-সংক্রান্ত রাজনৈতিক খবর ও রাশিয়ার space threat নজরে রাখুন।", "tag": "AI & Dev"}, "markets": [{"symbol": "GC=F", "label": "Gold (XAU)", "price": "$3,619.40", "change_pct": -0.88, "up": false}, {"symbol": "^GSPC", "label": "S&P 500", "price": "7,237.17", "change_pct": 0.85, "up": true}, {"symbol": "^IXIC", "label": "NASDAQ", "price": "24,089.56", "change_pct": 0.88, "up": true}, {"symbol": "NVDA", "label": "NVIDIA", "price": "$165.05", "change_pct": 13.06, "up": true}, {"symbol": "MU", "label": "Micron (RAM)", "price": "$707.70", "change_pct": 2.5, "up": true}, {"symbol": "BTC-USD", "label": "Bitcoin", "price": "$60,029.85", "change_pct": -1.93, "up": false}], "categories": {"ai": [{"title": "Show HN: Aura, an LLM coding harness that dogfooded itself", "summary": "3 pts · 0 comments on Hacker News", "url": "https://github.com/CarpseDeam/Aura-IDE", "source": "GitHub", "published": "2026-06-03 13:02", "bn_summary": "Aura নিজেকেই ব্যবহার করে তৈরি LLM coding harness—ডেমো ও workflow দেখে নিন।", "featured": true}, {"title": "Show HN: Android AI agent-assistant operating your apps (no adb,PC,root,etc.)", "summary": "2 pts · 2 comments on Hacker News", "url": "https://news.ycombinator.com/item?id=47738583", "source": "HN", "published": "2026-04-12 11:48", "bn_summary": "রুট বা PC ছাড়াই Android app চালানো AI agent; permission ও privacy যাচাই করুন।", "featured": true}, {"title": "Google banned our mobile AI agent app for doing what Gemini should do,but doesnt", "summary": "4 pts · 1 comments on Hacker News", "url": "https://news.ycombinator.com/item?id=47613614", "source": "HN", "published": "2026-04-02 12:35", "bn_summary": "AI agent app ban-এর খবর—প্ল্যাটফর্ম নীতি ও বিকল্প প্রস্তুতি মাথায় রাখুন।", "featured": true}, {"title": "Show HN: Pantheon-CLI – Open-Source Python Claude Code and Smart Notebook", "summary": "6 pts · 7 comments on Hacker News", "url": "https://github.com/aristoteleo/pantheon-cli", "source": "GitHub", "published": "2025-08-26 16:58", "bn_summary": "Pantheon-CLI ওপেন-সোর্স Python coding ও notebook tool; Claude Code বিকল্প হিসেবে পরীক্ষা করুন।", "featured": true}, {"title": "Show HN: Smart-commit-rs – A zero-dependency Git commit tool in Rust", "summary": "2 pts · 0 comments on Hacker News", "url": "https://github.com/gtkacz/smart-commit-rs", "source": "GitHub", "published": "2026-03-02 18:44", "bn_summary": "", "featured": false}, {"title": "Show HN: Perspt – fast, immersive terminal CLI to chat with AI models", "summary": "3 pts · 1 comments on Hacker News", "url": "https://github.com/eonseed/perspt", "source": "GitHub", "published": "2025-06-11 06:12", "bn_summary": "", "featured": false}, {"title": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios", "summary": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release Axios", "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5", "source": "Axios", "published": "Tue, 24 Nov 2026 10:49:26", "bn_summary": "", "featured": false}, {"title": "Working with AI - Anthropic", "summary": "Working with AI Anthropic", "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QQWdUV21Fa2dHR25yU2RLd3Exd0ZQc3RERzMyZFBtWWhxS0NQZjlWR21rWXZqa3FYbmRlZEhPRGhXb19XR3UtTWd3YTdDR3JwM05VTzZoaW82UDdGQWNF?oc=5", "source": "Anthropic", "published": "Mon, 23 Nov 2026 21:12:08", "bn_summary": "", "featured": false}, {"title": "Improving AI efficiency with optimization - MIT Sloan", "summary": "Improving AI efficiency with optimization MIT Sloan", "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTVBWVmVwNXFCd2wwemkzNjVKWnFVbWZGWW1GeXZWZHF5MWlDcEhMM2NKanZOaE5pSnZENUJBamh0Wmg5aXJPV0wyVkpjUXN0cnNkdEt6eDNkSDJKRllxY0Q3aTcxeEFJNVBvejBrXzhPV0JNQklpMWRsV3VxY2diZ242OWZzWGZzWVE?oc=5", "source": "MIT Sloan", "published": "Tue, 24 Nov 2026 12:22:55", "bn_summary": "", "featured": false}, {"title": "The AI hardware loop that threatens Nvidia's future, even with Jensen Huang back - Business Insider", "summary": "The AI hardware loop that threatens Nvidia's future, even with Jensen Huang back Business Insider", "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFl5SmFsSF9vTHJRTHRObUprWG5EUHpzTTBNQkpmMHNKYndvRTdDZjNXcjZqdkh6VElwZ3U0b3NBVzFSQ0Q2MUtuay0zaXN1Y0FsVVluWVZDX0djb19QTUhPbWptYnZ3dDZuTkN1bmxIemh5Tkw1VW9LMktCZEtmVGVGNjExUVlYSlNRd21rNktaVG5UZDZMXzZWdVNicGo5Y0I4OA?oc=5", "source": "Business Insider", "published": "Tue, 24 Nov 2026 10:00:00", "bn_summary": "", "featured": false}], "github": [{"title": "erkamyaman/rust-anything", "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.", "url": "https://github.com/erkamyaman/rust-anything", "source": "GitHub", "stars": 9059, "language": "Rust", "published": "2026-11-16", "bn_summary": "rust-anything জনপ্রিয় repo; README ও license দেখে Rust project-এ মানানসই কি না যাচাই করুন।", "featured": true}, {"title": "EL4CTEO/fast-anything", "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.", "url": "https://github.com/EL4CTEO/fast-anything", "source": "GitHub", "stars": 3464, "language": "Rust", "published": "2026-11-21", "bn_summary": "fast-anything repo-র কাজ ও benchmark পরীক্ষা করে তবেই workflow-তে নিন।", "featured": true}, {"title": "Immortal-Protocols/lastbook", "summary": "Offline knowledge AI, maps and videos for survival and rebuilding", "url": "https://github.com/Immortal-Protocols/lastbook", "source": "GitHub", "stars": 3034, "language": "Python", "published": "2026-11-12", "bn_summary": "lastbook-এর ব্যবহার ও maintenance দেখে ব্যক্তিগত data দেওয়ার আগে সতর্ক থাকুন।", "featured": true}, {"title": "ZiChuanLan/freebie-radar", "summary": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送", "url": "https://github.com/ZiChuanLan/freebie-radar", "source": "GitHub", "stars": 2530, "language": "TypeScript", "published": "2026-11-12", "bn_summary": "freebie-radar দিয়ে ফ্রি অফার খুঁজুন, তবে প্রতিটি offer-এর শর্ত যাচাই করুন।", "featured": true}, {"title": "sybil-solutions/inference-optimisation-skill", "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization", "url": "https://github.com/sybil-solutions/inference-optimisation-skill", "source": "GitHub", "stars": 2434, "language": "Python", "published": "2026-11-16", "bn_summary": "", "featured": false}, {"title": "iamajmeena/neonclipping", "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).", "url": "https://github.com/iamajmeena/neonclipping", "source": "GitHub", "stars": 2396, "language": "Python", "published": "2026-11-19", "bn_summary": "", "featured": false}, {"title": "haziqahmedqasmi/PeakCut", "summary": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.", "url": "https://github.com/haziqahmedqasmi/PeakCut", "source": "GitHub", "stars": 1886, "language": "Python", "published": "2026-11-14", "bn_summary": "", "featured": false}, {"title": "duwqijlk/muse-protocol", "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）", "url": "https://github.com/duwqijlk/muse-protocol", "source": "GitHub", "stars": 1807, "language": "Python", "published": "2026-11-14", "bn_summary": "", "featured": false}, {"title": "pierridotite/mobile-agent-testers", "summary": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs", "url": "https://github.com/pierridotite/mobile-agent-testers", "source": "GitHub", "stars": 1683, "language": "Python", "published": "2026-11-16", "bn_summary": "", "featured": false}, {"title": "huggingface/pybot", "summary": "PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.", "url": "https://github.com/huggingface/pybot", "source": "GitHub", "stars": 1159, "language": "Python", "published": "2026-11-12", "bn_summary": "", "featured": false}], "free_deals": [{"title": "Best Free AI Models 2026: What's Free and Where to Use It - Fello AI", "summary": "Best Free AI Models 2026: What's Free and Where to Use It Fello AI", "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FSGoyTkZPOWtOb0xLUld6QTBoamp3MGg0b2pjcURBaXk2dllWN3B6SlNvYUMxZzdIUnM2UG5JRlVvcDhoY1QxcVlBVQ?oc=5", "source": "Fello AI", "published": "Sun, 22 Nov 2026 08:00:00", "bn_summary": "ফ্রি AI model ও ব্যবহারের জায়গার তালিকা—rate limit আগে দেখে নিন।", "featured": true}, {"title": "Gemini 4 Neon Costs More Than Carbon Until December 1. Here's Which Gemini Model You Should Actually Use - Memeburn", "summary": "Gemini 4 Neon Costs More Than Carbon Until December 1. Here's Which Gemini Model You Should Actually Use Memeburn", "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObDd6SHhJVDRDNzV2TzRLbWNUb1FpLVZQUVkzcFNEeEp2eXpHMXhkLWZ3bGZ3RlotLTJHWlhzdXBRajBXbTl5a191dWtHYzdZWV9pdEpPWm04X0JKNF8wcUVpNXRPUlBMTW12RzRkeUh3QU0wTW9sZDFJT2hJVUpyM2gwdnp2dzljM0ppVE0tbi1WV3NjVmVr?oc=5", "source": "Memeburn", "published": "Thu, 19 Nov 2026 17:35:37", "bn_summary": "Gemini 4 Neon-এর খরচ ১ ডিসেম্বর পর্যন্ত বেশি—ব্যবহারের আগে model ও pricing মিলিয়ে নিন।", "featured": true}, {"title": "Best free web hosting in 2026 - TechRadar", "summary": "Best free web hosting in 2026 TechRadar", "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzd0VkSHlSRmRudVlPdl9nZ1otZmNaVDBqdVQ4ZnhLdmdmRzN5UXY1MnNENFhwcTRFdnZyeFdtTE8wVE9OSlRlMjd0VENMWVk0dzVNN0tGb2c4QjNzbXlSbU1kVjdHWC1VZTdr?oc=5", "source": "TechRadar", "published": "Wed, 18 Nov 2026 16:56:40", "bn_summary": "ফ্রি web hosting বাছার আগে uptime, bandwidth ও custom-domain সীমা যাচাই করুন।", "featured": true}, {"title": "Todd Stager, SEO Expert, Launches Free AI Sitemap Tool Using Open Knowledge Format - Times Herald-Record", "summary": "Todd Stager, SEO Expert, Launches Free AI Sitemap Tool Using Open Knowledge Format Times Herald-Record", "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbVNjZ2hBVlZPTDYzU2R0UC1vUmtQR0tBREhSb3BfMnU0Q2NBbTFTbkJZdmRyN28xZ0ZQaGllTy11TEZuSFBRZUVxaFV0MUJ4Z0RCaC1IOWhGWFRON20tOHVuZDZjOVJvaWl1Q0hIS0Z2UEJJY2dyNk9TNTNjV0FnLWZWZjhrMjk2a3MxT09YeVVzbWNEVHpVVXZlZXdtU3VwOXZxVEQ5VGdjdXJtb0ZZbDY4c2R5MlotQ1c5RlhMUm55ZVhjZVBfYURXMktXdFhwUnFz?oc=5", "source": "Times Herald-Record", "published": "Mon, 23 Nov 2026 17:43:57", "bn_summary": "ফ্রি AI sitemap tool SEO কাজে লাগতে পারে; output publish করার আগে পরীক্ষা করুন।", "featured": true}, {"title": "Gemini 4 Models Compared: Which One Do You Get? - Fello AI", "summary": "Gemini 4 Models Compared: Which One Do You Get? Fello AI", "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pRU9OQXBqbnlKQUFZRGt1cW1Jb1hTT1pHOGZJLXVGWnZsbTlZYmRNYkVCUlFqU0x4bmpUeVJ1U0FfR1VZY0ctWUNCT3pBaWpFVmtwY1dHUWY?oc=5", "source": "Fello AI", "published": "Sun, 22 Nov 2026 08:00:00", "bn_summary": "", "featured": false}, {"title": "Hackers Hide Malicious Commands in Public Note Pages to Deploy NodeLinkRAT on Windows Systems - GBHackers News", "summary": "Hackers Hide Malicious Commands in Public Note Pages to Deploy NodeLinkRAT on Windows Systems GBHackers News", "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92NWtrbUF0Q09od0VGblpGS3JsNE42Q3hsT2d3eG1lZXlseTVfT1ZOSEhveTBUV1ZHN1JGSjA1Y1BFczZoODZKNXI3OUJPSC1mMFFWdFJILXZoNGZsTVJR0gFkQVVfeXFMTjl3RjZTSjdHV1otME1fdExwcnh5Qy1YeGhiNHNZZTBURVg1ZzZvZ1VHTHBxalg0RW5YT2RTTVQ4eHV0QTVyOTdabVdaTWppUFQ5U1pnSmZ4WmtGWjNPV3hEdEpKTQ?oc=5", "source": "GBHackers News", "published": "Thu, 19 Nov 2026 08:33:08", "bn_summary": "", "featured": false}, {"title": "17 Best Free ARK Server Hosting Options (Nov. 2026) - HostingAdvice.com", "summary": "17 Best Free ARK Server Hosting Options (Nov. 2026) HostingAdvice.com", "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84NmpPYldnRmE5WXFNcS1jWk9tZEJuX1BEeEgtYmhBUGZadmxoT1dzb3lnakphNzlaZTFJMmxndWRMNmp5QTBVVTBjbjhQOWRkZUxSUV9SSUJtWFlMMzFlbGowX09MU29vSVYxVFVqd0hmV21N?oc=5", "source": "HostingAdvice.com", "published": "Tue, 17 Nov 2026 19:57:25", "bn_summary": "", "featured": false}, {"title": "11 Free Adult Web Hosting Providers & Alternatives (Nov. 2026) - HostingAdvice.com", "summary": "11 Free Adult Web Hosting Providers & Alternatives (Nov. 2026) HostingAdvice.com", "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtbXBKc3FkdHIycF80YUtJa2Vkc1JEbkRacEhSYnRaUXlwN1lHdHZwVE9jXy1XYXotZlJVYkFHSmVDU0FLbGF4Ukc1N3dZbnF4bGVJdU53MVhLeUhUbEdGSW9qZ0tfQXN0LWYwQg?oc=5", "source": "HostingAdvice.com", "published": "Tue, 17 Nov 2026 18:07:53", "bn_summary": "", "featured": false}, {"title": "The new GPTZero 5 model outperforms Pangram in almost all third-party benchmarks Our model has an industry-leading 1 in 50,000 false positives on essay-length writing We have zero ", "summary": "The new GPTZero 5 model outperforms Pangram in almost all third-party benchmarks Our model has an industry-leading 1 in 50,000 false positives on essay-length writing We have zero false positives on benchmarks where Pang", "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DX2cwNmJHMmlVOFJkSGxCTUxPOFR5b212bXNBdkwzZlgxbmRQNnRvcXJJWHZpcE5fYWZMemNOVGRyOVZXUk5NUXZZcGJZbnJFM25NcjhzSmRmWGlvaHc?oc=5", "source": "X", "published": "Mon, 23 Nov 2026 18:32:09", "bn_summary": "", "featured": false}, {"title": "Meet LingSante-3.1-air-VL, an open-source multimodal medical model with 124B total and 5.5B active parameters. It combines medical image understanding, report generation and medica", "summary": "Meet LingSante-3.1-air-VL, an open-source multimodal medical model with 124B total and 5.5B active parameters. It combines medical image understanding, report generation and medical reasoning with multimodal search and t", "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uVHgyaWtCMEREREZJMndicmp3b3lELWlXRkRzOHgxS2pOTlk4SlV4RXgwTHNHYTJxVnN3dGluWDdkc2FXNzVmNFNfU3FENTVNMDBYaG1NTm5zVWRaelB5Vg?oc=5", "source": "X", "published": "Sun, 22 Nov 2026 17:26:19", "bn_summary": "", "featured": false}], "war": [{"title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang", "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.", "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss", "source": "BBC", "published": "Tue, 24 Nov 2026 10:53:37", "bn_summary": "Nvidia CEO Jensen Huang-কে ঘিরে Trump-এর ভূমিকা নিয়ে রাজনৈতিক বিতর্ক—চিপ খাতের নীতি নজরে রাখুন।", "featured": true}, {"title": "What Jensen Huang's return teaches China's Xi about Trump", "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.", "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss", "source": "BBC", "published": "Tue, 24 Nov 2026 07:26:27", "bn_summary": "Huang-এর প্রত্যাবর্তন চীন-যুক্তরাষ্ট্র প্রযুক্তি প্রতিযোগিতার প্রভাব তুলে ধরছে।", "featured": true}, {"title": "Nato chief vows defence against space threat after Russian nuclear satellite reports", "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.", "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss", "source": "BBC", "published": "Tue, 24 Nov 2026 10:58:51", "bn_summary": "রুশ nuclear satellite রিপোর্টের পর NATO space defence জোরদারের কথা বলেছে—বিশ্বঝুঁকি পর্যবেক্ষণ করুন।", "featured": true}, {"title": "Jensen Huang’s Nvidia return: Who are the big winners and losers?", "summary": "Jensen Huang returns to lead the most consequential company powering the AI revolution. But who wins, who loses?", "url": "https://www.aljazeera.com/features/2026/11/24/jensen-huangs-nvidia-return-who-are-the-big-winners-and-losers?traffic_source=rss", "source": "Al Jazeera", "published": "Tue, 24 Nov 2026 13:39:22", "bn_summary": "Nvidia-র ঘটনায় সম্ভাব্য বিজয়ী-ক্ষতিগ্রস্ত নিয়ে বিশ্লেষণ—একক খবরের বদলে বাজারের বিস্তৃত সংকেত দেখুন।", "featured": true}, {"title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book", "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".", "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss", "source": "BBC", "published": "Mon, 23 Nov 2026 21:24:47", "bn_summary": "", "featured": false}, {"title": "India's 'cockroach' party leader says he was stopped from flying to UK", "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".", "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss", "source": "BBC", "published": "Tue, 24 Nov 2026 05:33:07", "bn_summary": "", "featured": false}, {"title": "Ten years after its 2016 peace deal, Colombia faces a return to conflict", "summary": "Critics fear that a security crackdown under Abelardo de la Espriella could unravel gains made under the 2016 deal.", "url": "https://www.aljazeera.com/news/longform/2026/11/24/ten-years-after-its-2016-peace-deal-colombia-faces-a-return-to-conflict?traffic_source=rss", "source": "Al Jazeera", "published": "Tue, 24 Nov 2026 13:35:51", "bn_summary": "", "featured": false}, {"title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?", "summary": "Attacks on tankers have increased, impacting the flow of oil through the Strait of Hormuz.", "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss", "source": "Al Jazeera", "published": "Tue, 24 Nov 2026 13:32:24", "bn_summary": "", "featured": false}, {"title": "Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence", "summary": "Kyiv responds to criticism after claiming responsibility for attacking a Russian warship and a cargo vessel off Libya.", "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence?traffic_source=rss", "source": "Al Jazeera", "published": "Tue, 24 Nov 2026 13:30:00", "bn_summary": "", "featured": false}, {"title": "Senegalese families wait for news of missing migrant boat", "summary": "Senegalese families wait for news of missing migrant boat", "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senegalese-families-wait-for-news-of-missing-migrant-boat?traffic_source=rss", "source": "Al Jazeera", "published": "Tue, 24 Nov 2026 13:28:50", "bn_summary": "", "featured": false}], "stocks_gold": [{"title": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March - StoneX", "summary": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March StoneX", "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0V0aXctMHhmVjRnZXFxRnZyVzRBMUxVUklISmhWTEEtNlk2RWYzbFcxd3kxOXpFUGJZNU15YlN1MkpPOXd4d1EtRVpfeHByTkVhOVNrcGROWnh6WEhWQ2xLSW53QXZVdXdialViRWl2WXFHcUxET1N6cDRkR0hHZnZXLVBJbndPSV9mbkhRZWtsN1ZLWUx0LWFWTkJRNXhwYndoeEZXVmN1MkI5NDNFbWk2QzJzU3VwMVdaLVV2QTd5Sk9hNGc?oc=5", "source": "StoneX", "published": "Tue, 24 Nov 2026 06:16:37", "bn_summary": "Gold-এর বহু-বছরের uptrend ভাঙার পূর্বাভাস—দাম ও ঝুঁকি দেখে সিদ্ধান্ত নিন।", "featured": true}, {"title": "Gold Price Today on November 24, 2026 - USA Today", "summary": "Gold Price Today on November 24, 2026 USA Today", "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdGV2LUZjZ21fUTFpcmtid3FCeXkxS3V5WXNZZ3lBdE1ZZ1hlaXhsdVJMVWZhdVhYeEdTVDFaOVJ2R3RPVG9Lb0tHWGIwWFhvcVo2U2FvX3l2NFdIVEdnMjJkWG9EX0pGa25LR0l2cWlYZ3hqVFJpQ1F6MU11bTAweGtZU1pXaUVWeGlXUHMyWjF1b1VGazAwZ2M3OEp5NVZHbUww?oc=5", "source": "USA Today", "published": "Tue, 24 Nov 2026 11:10:13", "bn_summary": "আজকের Gold দর মিলিয়ে স্থানীয় buy-sell spread-ও যাচাই করুন।", "featured": true}, {"title": "Gold price today, Tuesday, November 24, 2026: Gold prices improve, lift from 14-month lows - Yahoo Finance", "summary": "Gold price today, Tuesday, November 24, 2026: Gold prices improve, lift from 14-month lows Yahoo Finance", "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUm1WdnRQTjdyY2N0S3VsSmR1WTliSS1xdXV1eTh1VUdHaURrcWVjcmw1bTVXNElvUkdFcDhEVjdBdnh2cnFSQ3ZERWFqUWI2bDBlZFBabWp6TFJFMVlHRzFYRnlUU3NudE4wbmRCREJLWUpjVWpGbEg3S1cyOExfUld0cWVldWktcU5SQ2RPSWhEbDV5WVlLNVA0Z0dIN05ocHJWS0hfMWF3c1RwWGJPejRaLTAzZVpBN1E2cmtYVlhkcG93Vl9wc2VydllMa29aNEk4cHZvQk42SXFtTXFfd05XS3lydG9ZN0xjU2xCdGg2bVE?oc=5", "source": "Yahoo Finance", "published": "Tue, 24 Nov 2026 12:18:21", "bn_summary": "১৪ মাসের নিম্নস্তর থেকে Gold-এর সামান্য rebound—এখনও volatility থাকতে পারে।", "featured": true}, {"title": "Gold price volatility weighs on housing and auto markets - Hürriyet Daily News", "summary": "Gold price volatility weighs on housing and auto markets Hürriyet Daily News", "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaGdFWDVPUE05dzRzczBDbHRscE9FOHd6U2IyN2d4NEo5ZGZIODRLZG9SS1c5V053czN0NTNndFhTRTY5UXdWSXNyT3FVOHAtVXJnTS1yaWx6UDFJQXQyd0hpX0NaSDVhdGd2b19vcE5yUWtpdms1YjdOSnVONVRpMl9BWjFTTm9yMFVIRkhDbE9ySXlLMmZpci1yVlA4dw?oc=5", "source": "Hürriyet Daily News", "published": "Tue, 24 Nov 2026 03:55:01", "bn_summary": "Gold-এর ওঠানামা housing ও auto বাজারে প্রভাব ফেলতে পারে—বড় কেনাকাটায় বাজেট ধরুন।", "featured": true}, {"title": "Gold (XAUUSD) & Silver Price Forecast: Gold Extends Rebound as Bargain Hunters Return, Can $3,595 Hold? - FXEmpire", "summary": "Gold (XAUUSD) & Silver Price Forecast: Gold Extends Rebound as Bargain Hunters Return, Can $3,595 Hold? FXEmpire", "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMlA2WnpTN0N0UVRUa2dlRVVRMDdkUE1FRmdFekQ5ZDlkQU1Odl9OR0ZkeGlYUVlYcVhHeTMwTjVsbU9XRU9pRWhTVmlTUm5EM1BKZDhya2YydU5RZldVSXRXTVFDSWgwcmJQeUZKWC1lbGFKSE13aFRkaS1ud24zRjBKVnlwQ3JtNzZ3ZzBENTNOa0RpYXR1aWNhVUc3S3ktY0o4N2N0TkdFczVTXzdMUzJ0djFuR3lrUkRya2F5cnNpaVBoQzlub1Vpc1l4TkFFME51QlBCY3dITEpDVGc?oc=5", "source": "FXEmpire", "published": "Tue, 24 Nov 2026 06:25:00", "bn_summary": "", "featured": false}, {"title": "Nasdaq Futures Fall as Questions Linger Over AI Trade - WSJ", "summary": "Nasdaq Futures Fall as Questions Linger Over AI Trade WSJ", "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEpzR3NLc2czaVQ0bUV4SzB6NTk3MjJtbWFoWXJVcjZxcDFNS1NYc1VSYkhDMTRXTUpHVktRQUQxb0c1VkVuTlBQOWF6TzA4N2pxZzdlSy1BczA3azhsX0N1dk9Td0R0d210ZVBfOGh3cXB1SkE1Yi1ZTnpKM0pFcnduQzlaV18wMGhlMUNfVW5OaVdPWGp6dDRLa2JMQQ?oc=5", "source": "WSJ", "published": "Tue, 24 Nov 2026 10:13:00", "bn_summary": "", "featured": false}, {"title": "Rep. Raja Krishnamoorthi, D-Ill., on Trump's involvement in the stock market - NPR", "summary": "Rep. Raja Krishnamoorthi, D-Ill., on Trump's involvement in the stock market NPR", "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObU1rZUFDVS1ZUDc3OWdUWE51VjZfdzJ4NjZCWWl0aTdLdS11eXNLUzVfUzhBUGEyZHNES0JicmdLdlZDNWU3ZTVYRkVLX19FNm13Mk0yNWZsMnVNWklzam1kanc5T0J3T3JLajRwNV83VlBWalBPTnhSR0lJcmZVM0ROT1RpUmR4MndWV1VUdEptaUE1T2JzbjlKUjI5N0kwOTJVRkM2eFltTUlhLTFHaUhKSDgzNTg?oc=5", "source": "NPR", "published": "Tue, 24 Nov 2026 11:42:20", "bn_summary": "", "featured": false}, {"title": "Opinion | Nvidia proves nobody knows anything about the stock market - The Washington Post", "summary": "Opinion | Nvidia proves nobody knows anything about the stock market The Washington Post", "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTi03OVRQelFBa2FKOS1ray10bDRKZUtnekpoQl9qdjBXOUNrR2FVMFZ1OElzaE4xRlp4RDBBTGdhTmt3TVVYY3ZkdmtOTDM4cnJhdk9vUDlqM1haSGxLV29ySHFzLVk5OHBMY2wzRHZNaFpoUzdEQURVTWMtWXE5WmR3MFl3NVVOZHBmOGxwdnN1cjFRNkVYVnJ6TG02STNzWFJQMW1SRTdOZw?oc=5", "source": "The Washington Post", "published": "Tue, 24 Nov 2026 11:54:51", "bn_summary": "", "featured": false}, {"title": "Why Deutsche Bank Sees the S&P 500 Surging Nearly 25% Next Year - Barron's", "summary": "Why Deutsche Bank Sees the S&P 500 Surging Nearly 25% Next Year Barron's", "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTXBzTE9hcjRuaVFGM0QtdFFoUzVEemVUQmJybGVXM0dZZ0NTcnJzQXVtdnhaeVQtMUlTNFFzS3gzaXB4ZkZMeGxzRUNZX2JWRXRJSFhYVHdyWGU5MmxrLW41U0E2dUs1V0YwTEpZT3FBa2tjcDVKWThhektCc0xUOFZReXl4VlBRV2c?oc=5", "source": "Barron's", "published": "Tue, 24 Nov 2026 13:03:00", "bn_summary": "", "featured": false}, {"title": "Trump made up to $15m on Nvidia stock after Huang’s return - The Guardian", "summary": "Trump made up to $15m on Nvidia stock after Huang’s return The Guardian", "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRUF3TVZCQlVITFBZeEFsTjRHODhTQ3p5cXBUT0FQRUhNaUg0NmxqTEh1MThHY3RLTXREZmtVZ01TVzM5SUptSnNNZlNJOVNnNXJsOGVHUmZMNkRvT09GaERueHk4NjR0bDJYUUY5Y2hZODA0QzJXQmV6dU9sSW1nbXBZNkFIcDlsdThzWFI5RWY4LXhSN2pTdFdTLVpweV9aeGJuOA?oc=5", "source": "The Guardian", "published": "Tue, 24 Nov 2026 08:18:00", "bn_summary": "", "featured": false}], "ram_hardware": [{"title": "Trump pressured Nvidia to bring Jensen back, called into board meeting to push reinstatement, reports claim", "summary": "Nvidia's crashing stock market prices is threatening to take down the entire market with it, which is why President Donald Trump decided to intervene and steady the situation.", "url": "https://www.tomshardware.com/tech-industry/policy/trump-pressured-nvidia-to-bring-jensen-back-called-into-board-meeting-to-push-reinstatement-reports-claim-president-concerned-over-falling-stock-prices-with-huangs-return-reversing-slide", "source": "Tom's Hardware", "published": "Tue, 24 Nov 2026 13:45:00", "bn_summary": "Nvidia CEO-কে ঘিরে প্রতিবেদনের দাবি—চিপ কোম্পানির খবর যাচাই করে নিন।", "featured": true}, {"title": "Samsung just launched a gaming monitor with a refresh rate higher than its price — dual-mode Odyssey G60H offers 1,100 Hz in HD", "summary": "Samsung's newly launched Odyssey G60H display is targeted squarely at serious competitive gamers with QHD 600Hz and HD 1100HZ display modes.", "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsung-just-launched-a-gaming-monitor-with-a-refresh-rate-higher-than-its-price-dual-mode-odyssey-g60h-offers-1-100-hz-in-hd", "source": "Tom's Hardware", "published": "Tue, 24 Nov 2026 13:12:57", "bn_summary": "Samsung-এর dual-mode Odyssey G60H high-refresh monitor—দামের সঙ্গে বাস্তব refresh mode মিলিয়ে দেখুন।", "featured": true}, {"title": "Vulnerability could let hacker hijack electric trailer braking system remotely via Bluetooth, apply any amount of force remotely", "summary": "After noticing that his Elecbrakes remote had automatically paired to a stranger's trailer, Patrick Forck's cyber security spider senses tingled.", "url": "https://www.tomshardware.com/tech-industry/cyber-security/vulnerability-could-let-hacker-hijack-electric-trailer-braking-system-remotely-via-bluetooth-apply-any-amount-of-force-remotely-elecbrakes-flaw-reverse-engineered-using-claude-patched-by-manufacturer", "source": "Tom's Hardware", "published": "Tue, 24 Nov 2026 12:38:32", "bn_summary": "Bluetooth trailer-brake vulnerability-এর খবর—connected device firmware আপডেট রাখুন।", "featured": true}, {"title": "Hit this RTX 5070 Ti-powered gaming laptop deal at Best Buy and save $550", "summary": "Pick up a new gaming laptop in the Black Friday sales with $550 off the Asus ROG G16 at Best Buy.", "url": "https://www.tomshardware.com/laptops/gaming-laptops/hit-this-rtx-5070-ti-powered-gaming-laptop-deal-at-best-buy-and-save-usd550-asus-rog-strix-g16-only-usd1-749-with-16gb-of-ddr5-ram-and-a-1tb-ssd", "source": "Tom's Hardware", "published": "Tue, 24 Nov 2026 12:00:00", "bn_summary": "RTX 5070 Ti laptop-এ $550 ছাড়ের দাবি—বিক্রেতা, configuration ও return policy যাচাই করুন।", "featured": true}, {"title": "Go ad-free across Tom’s Hardware by subscribing to Premium from $7 a month, or $29 annually", "summary": "Tom’s Hardware is going ad-free, exclusively for Premium members.", "url": "https://www.tomshardware.com/tech-industry/go-ad-free-across-toms-hardware-by-subscribing-to-premium-from-usd7-a-month-or-usd29-annually-support-us-to-get-seamless-browsing-read-a-treasure-trove-of-exclusive-content-and-unlock-access-to-bench", "source": "Tom's Hardware", "published": "Tue, 24 Nov 2026 12:30:00", "bn_summary": "", "featured": false}, {"title": "Micron: Pounding The Buy Table (Double Upgrade) - Seeking Alpha", "summary": "Micron: Pounding The Buy Table (Double Upgrade) Seeking Alpha", "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNlFDejB5bGZ3YzVwRzRXTWZqbkJFUV9tbEcyeGhqTTBpZHhsRTNkX1hXQVhDNV96ZHp6WXVDZ1VZZ2JuTjZpRW44Vnc2RVVSd0FLcDJLcEFGLXBUV2c1cHBNYzNRR0dhQmViYnFCSzlSdno2WGJDTU5fNS1UTzIwSlJsUHA4TlE0eGQtYWJn?oc=5", "source": "Seeking Alpha", "published": "Tue, 24 Nov 2026 10:36:23", "bn_summary": "", "featured": false}, {"title": "Micron Stock Is Counting on a Buyback Bounce. Why It’s No Slam Dunk. - Barron's", "summary": "Micron Stock Is Counting on a Buyback Bounce. Why It’s No Slam Dunk. Barron's", "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpZ3dObUpYUENEWWp5NG43UDdpMlI0ZVdPRUp5clkzTXg1UlhCYVFlem9wYzU2eEV2UENYSXRHZjhTb1kxRlI5MXpvRFJ0dTJ3eElCeU01OGJWRUFvdHM5LV9GZkJiWnlOYW9IMFIxRQ?oc=5", "source": "Barron's", "published": "Tue, 24 Nov 2026 12:43:00", "bn_summary": "", "featured": false}, {"title": "AI Stocks Deepen Premarket Losses in US Trading; Micron Down 7%, Nvidia Off 5% - bloomingbit", "summary": "AI Stocks Deepen Premarket Losses in US Trading; Micron Down 7%, Nvidia Off 5% bloomingbit", "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMbTQyeFUtcElPdi1ZOElmbGJrVVBTUlBJdGVXQWhBd3RvWW5MdlZ2cmxGbnNGb3JXdDNvT05UTGRRUFNtaGtvYWdPdWVZOUR3Q2VXcQ?oc=5", "source": "bloomingbit", "published": "Tue, 24 Nov 2026 11:07:50", "bn_summary": "", "featured": false}, {"title": "Roundhill Memory ETF (DRAM) Stock Price, News, Quote & History - Yahoo! Finance Canada", "summary": "Roundhill Memory ETF (DRAM) Stock Price, News, Quote & History Yahoo! Finance Canada", "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtMnotODJudThHdnpjTzZaNnNGMF9oNGQ5Qjg3ZUdPNUJPUUZRTWM0T3FBdWhxbFRyQk9hdjJtTXFwYkFNUlVJMXRFRThDNHRWRnc?oc=5", "source": "Yahoo! Finance Canada", "published": "Mon, 23 Nov 2026 21:10:13", "bn_summary": "", "featured": false}, {"title": "Micron Stock Soared on Monday. I'd Still Buy It, a Little at a Time. - The Motley Fool", "summary": "Micron Stock Soared on Monday. I'd Still Buy It, a Little at a Time. The Motley Fool", "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzhqLUlUWnZ1dmM0WjJaYTFIXzl3RmdDdlZjUVh6eVcyRVNvbFg5UERnS1JMWkg2b3hPay10bWtoeFlOejY0N19TeUh3bEl6NlRuWDlQWWJod2I1RXFpcURrUm56NGJieF9lbzZHSnBHMndnWHlSV1h4WWxtRndoZWVvRDc4UXdGX2lLUjF0Q2RYWXZ2QlNteENkTnRLaFZiQUNuZkkzelplZWdS?oc=5", "source": "The Motley Fool", "published": "Tue, 24 Nov 2026 13:23:01", "bn_summary": "", "featured": false}]}};
+    const DATA = {"edition": 1, "updated_ts": 1795531264, "updated_dhaka": "24 Nov 2026, 08:41 PM (BDT)", "updated_utc": "2026-11-24 14:41 UTC", "batch_label": "08:41 PM BDT", "new_added": 30, "expired_removed": 0, "curated_by": "fallback-static", "advice": {"title": "আজকের সেরা টেক ও মার্কেট নোট", "body": "নতুন ২-ঘণ্টার ব্যাচ আপডেট হয়েছে। নিচের ফ্রেশ AI, GitHub, Free API/VPS ও মার্কেট নিউজগুলো দেখে নিন।", "tag": "AI & Dev"}, "quote": {"text_bn": "স্বপ্ন সেটা নয় যা তুমি ঘুমিয়ে দেখো, স্বপ্ন সেটাই যা তোমাকে ঘুমাতে দেয় না।", "author": "এ. পি. জে. আবদুল কালাম", "note_bn": "বড় লক্ষ্য থাকলে প্রতিদিন অল্প অল্প করে এগোনোই সাফল্যের মূল চাবিকাঠি।"}, "markets": [{"symbol": "GC=F", "label": "Gold (XAU)", "price": "$3,617.20", "change_pct": -0.94, "up": false}, {"symbol": "^GSPC", "label": "S&P 500", "price": "7,170.84", "change_pct": 3.77, "up": true}, {"symbol": "^IXIC", "label": "NASDAQ", "price": "23,690.95", "change_pct": 4.75, "up": true}, {"symbol": "NVDA", "label": "NVIDIA", "price": "$154.81", "change_pct": 23.32, "up": true}, {"symbol": "MU", "label": "Micron (RAM)", "price": "$645.49", "change_pct": 8.57, "up": true}, {"symbol": "BTC-USD", "label": "Bitcoin", "price": "$60,319.20", "change_pct": -1.46, "up": false}], "categories": {"ai": [{"title": "Amazon says hackers' AI agents found and exploited 0-day with little human input", "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.", "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/", "source": "Ars Technica", "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg", "published_ts": 1795523405, "published": "24 Nov, 06:30 PM", "bn_summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Trump engineered a risky comeback for Jensen Huang", "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly afte", "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated", "source": "The Verge", "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0%2C12.22929670334%2C100%2C75.541406593319&w=1200", "published_ts": 1795473260, "published": "24 Nov, 04:34 AM", "bn_summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly afte", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Welcome to elite impunity, Jensen Huang", "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of bas", "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang", "source": "The Verge", "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200", "published_ts": 1795472496, "published": "24 Nov, 04:21 AM", "bn_summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of bas", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Nvidia CEO Jensen Huang is back. What happens next?", "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of anothe", "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang", "source": "The Verge", "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200", "published_ts": 1795472293, "published": "24 Nov, 04:18 AM", "bn_summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of anothe", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes", "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.", "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/", "source": "TechCrunch", "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800", "published_ts": 1795471550, "published": "24 Nov, 04:05 AM", "bn_summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}], "github": [{"title": "erkamyaman/safe-anything", "summary": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.", "url": "https://github.com/erkamyaman/safe-anything", "source": "GitHub", "image": "https://opengraph.githubassets.com/1/erkamyaman/safe-anything", "stars": 586, "language": "Rust", "published_ts": 1795365850, "published": "2026-11-22", "bn_summary": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Developing-Gamer/agent-sim", "summary": "iOS simulators for AI agents, on Linux", "url": "https://github.com/Developing-Gamer/agent-sim", "source": "GitHub", "image": "https://opengraph.githubassets.com/1/Developing-Gamer/agent-sim", "stars": 417, "language": "Rust", "published_ts": 1795292772, "published": "2026-11-21", "bn_summary": "iOS simulators for AI agents, on Linux", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "praseesh369/youtube-ai-video-editing-system", "summary": "Storyboard, capture, and animate: an AI editing workflow for YouTube", "url": "https://github.com/praseesh369/youtube-ai-video-editing-system", "source": "GitHub", "image": "https://opengraph.githubassets.com/1/praseesh369/youtube-ai-video-editing-system", "stars": 338, "language": "HTML", "published_ts": 1795281677, "published": "2026-11-21", "bn_summary": "Storyboard, capture, and animate: an AI editing workflow for YouTube", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "qianyiai/kurocat", "summary": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）", "url": "https://github.com/qianyiai/kurocat", "source": "GitHub", "image": "https://opengraph.githubassets.com/1/qianyiai/kurocat", "stars": 562, "language": "TypeScript", "published_ts": 1795276171, "published": "2026-11-21", "bn_summary": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "EL4CTEO/fast-anything", "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.", "url": "https://github.com/EL4CTEO/fast-anything", "source": "GitHub", "image": "https://opengraph.githubassets.com/1/EL4CTEO/fast-anything", "stars": 3488, "language": "Rust", "published_ts": 1795272027, "published": "2026-11-21", "bn_summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}], "free_deals": [{"title": "The new GPTZero 5 model outperforms Pangram in almost all third-party benchmarks Our model has an industry-leading 1 in 50,000 false positives on essay-length writing We have zero ", "summary": "", "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DX2cwNmJHMmlVOFJkSGxCTUxPOFR5b212bXNBdkwzZlgxbmRQNnRvcXJJWHZpcE5fYWZMemNOVGRyOVZXUk5NUXZZcGJZbnJFM25NcjhzSmRmWGlvaHc?oc=5", "source": "X", "image": "", "published_ts": 1795458729, "published": "24 Nov, 12:32 AM", "bn_summary": "X থেকে পাওয়া সাম্প্রতিক আপডেট—বিস্তারিত পড়তে কার্ডে ক্লিক করুন।", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Todd Stager, SEO Expert, Launches Free AI Sitemap Tool Using Open Knowledge Format - Times Herald-Record", "summary": "", "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbVNjZ2hBVlZPTDYzU2R0UC1vUmtQR0tBREhSb3BfMnU0Q2NBbTFTbkJZdmRyN28xZ0ZQaGllTy11TEZuSFBRZUVxaFV0MUJ4Z0RCaC1IOWhGWFRON20tOHVuZDZjOVJvaWl1Q0hIS0Z2UEJJY2dyNk9TNTNjV0FnLWZWZjhrMjk2a3MxT09YeVVzbWNEVHpVVXZlZXdtU3VwOXZxVEQ5VGdjdXJtb0ZZbDY4c2R5MlotQ1c5RlhMUm55ZVhjZVBfYURXMktXdFhwUnFz?oc=5", "source": "Times Herald-Record", "image": "", "published_ts": 1795455837, "published": "23 Nov, 11:43 PM", "bn_summary": "Times Herald-Record থেকে পাওয়া সাম্প্রতিক আপডেট—বিস্তারিত পড়তে কার্ডে ক্লিক করুন।", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Meet LingSante-3.1-air-VL, an open-source multimodal medical model with 124B total and 5.5B active parameters. It combines medical image understanding, report generation and medica", "summary": "", "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uVHgyaWtCMEREREZJMndicmp3b3lELWlXRkRzOHgxS2pOTlk4SlV4RXgwTHNHYTJxVnN3dGluWDdkc2FXNzVmNFNfU3FENTVNMDBYaG1NTm5zVWRaelB5Vg?oc=5", "source": "X", "image": "", "published_ts": 1795368379, "published": "22 Nov, 11:26 PM", "bn_summary": "X থেকে পাওয়া সাম্প্রতিক আপডেট—বিস্তারিত পড়তে কার্ডে ক্লিক করুন।", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Today, we release LingSante-3.1-flash, an open-weight MoE model with 560B total parameters and 25B activations per token. It unifies diverse medical capabilities while retaining ge", "summary": "", "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TdU9kU3FMdjZ5a0RWSVdtU04yV3lkSmFHVlNHb2lFRHUwMlE5QjM1LTZKMkdQX3MzNi1PdVpTbllQSVMxYVExUWJLWFZDUDE3eUlKN3cwb0JmbmdPX1YyNA?oc=5", "source": "X", "image": "", "published_ts": 1795360948, "published": "22 Nov, 09:22 PM", "bn_summary": "X থেকে পাওয়া সাম্প্রতিক আপডেট—বিস্তারিত পড়তে কার্ডে ক্লিক করুন।", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "1,000 free API credits on Modulate: https://t.co/F5ADUAmm5l - X", "summary": "", "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2NnFKa2lNWkI4SWdUa3BGVW9YcjlmSlU4OFZFR21wT2ktWldOdlN6SWF4X0JXSVVRcVMzLWhEVTBYRk9EZ3VmSGNHOUs5T0JYR1gzYWxmQmFTODF0TGc?oc=5", "source": "X", "image": "", "published_ts": 1795284641, "published": "22 Nov, 12:10 AM", "bn_summary": "X থেকে পাওয়া সাম্প্রতিক আপডেট—বিস্তারিত পড়তে কার্ডে ক্লিক করুন।", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}], "war": [{"title": "Israeli air strike kills senior Hamas military official in Gaza", "summary": "The Hamas official was reportedly responsible for countering Palestinians suspected of collaborating with Israel.", "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss", "source": "Al Jazeera", "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b058bb878cb-1795525560.jpg?resize=1920%2C1440", "published_ts": 1795528511, "published": "24 Nov, 07:55 PM", "bn_summary": "The Hamas official was reportedly responsible for countering Palestinians suspected of collaborating with Israel.", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Ten years after its 2016 peace deal, Colombia faces a return to conflict", "summary": "Critics fear that a security crackdown under Abelardo de la Espriella could unravel gains made under the 2016 deal.", "url": "https://www.aljazeera.com/news/longform/2026/11/24/ten-years-after-its-2016-peace-deal-colombia-faces-a-return-to-conflict?traffic_source=rss", "source": "Al Jazeera", "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2024-04-16T105803Z_264281175_RC2057AE95NW_RTRMADP_3_COLOMBIA-PEACE-1795461861.jpg?resize=1920%2C1440", "published_ts": 1795527351, "published": "24 Nov, 07:35 PM", "bn_summary": "Critics fear that a security crackdown under Abelardo de la Espriella could unravel gains made under the 2016 deal.", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?", "summary": "Attacks on tankers have increased, impacting the flow of oil through the Strait of Hormuz.", "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss", "source": "Al Jazeera", "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b05752f-1795519791.jpg?resize=1920%2C1440", "published_ts": 1795527144, "published": "24 Nov, 07:32 PM", "bn_summary": "Attacks on tankers have increased, impacting the flow of oil through the Strait of Hormuz.", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence", "summary": "Kyiv responds to criticism after claiming responsibility for attacking a Russian warship and a cargo vessel off Libya.", "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence?traffic_source=rss", "source": "Al Jazeera", "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b058e59021e8-1795526233.jpg?resize=1920%2C1440", "published_ts": 1795527000, "published": "24 Nov, 07:30 PM", "bn_summary": "Kyiv responds to criticism after claiming responsibility for attacking a Russian warship and a cargo vessel off Libya.", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Iran files lawsuits in US, EU courts: Will it get justice for ‘war crimes’?", "summary": "As Iran seeks accountability and compensation for alleged war crimes, experts say legal proceedings face steep hurdles.", "url": "https://www.aljazeera.com/features/2026/11/24/irans-fight-for-wartime-redress-moves-from-battlefield-to-us-eu-courts?traffic_source=rss", "source": "Al Jazeera", "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b0552a97c-1795510953.jpg?resize=1920%2C1440", "published_ts": 1795524989, "published": "24 Nov, 06:56 PM", "bn_summary": "As Iran seeks accountability and compensation for alleged war crimes, experts say legal proceedings face steep hurdles.", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}], "stocks_gold": [{"title": "Gold Price Forecast: ETF Outflows Threaten Gold’s Sharp Recovery - FXEmpire", "summary": "", "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOclpvNDNQTXNRLVpXWlB1ZDFXZ0lLNnVEQUJQMXltYzN0UF9UQV9weTJkZDZDYjVlWWZwczlGZ3ZjaHpwa05ES0FhV1BNRDVZVmhZbDNnVjhCcG1qTFdIZTA2VnZ6dXhabGU3dmtZd29zUVdGNi10SWh1R3NmZU9QVVZpQ29CeEs4WEFWRUxLVVlfV2xnbjUzTkcwXzE0cHdfYVhjYnREVDlsTEZlZjczUWNwdw?oc=5", "source": "FXEmpire", "image": "", "published_ts": 1795530978, "published": "24 Nov, 08:36 PM", "bn_summary": "FXEmpire থেকে পাওয়া সাম্প্রতিক আপডেট—বিস্তারিত পড়তে কার্ডে ক্লিক করুন।", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Same Nasdaq-100 companies, different weighting: The case for equal weight - Invesco", "summary": "", "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRUluc1NZOWlGbGxxSnRCTXVINEVaOUpkSGpxa2ZfTEIzVjFiamRGemluR2JBNzhpOF9YTWphbjQyNEduUWk5M1JNVDE2Qy14Z2p2Z0N4T2xwcDJEV1dyRF9TZlJQQnNfMjc0MDJBdnhpZjM1RkFiV1pMSng0UE02VW5hVHVfQk84RWdQNjNmSjFfUzg?oc=5", "source": "Invesco", "image": "", "published_ts": 1795529027, "published": "24 Nov, 08:03 PM", "bn_summary": "Invesco থেকে পাওয়া সাম্প্রতিক আপডেট—বিস্তারিত পড়তে কার্ডে ক্লিক করুন।", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation", "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.", "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html", "source": "CNBC", "image": "https://image.cnbcfm.com/api/v1/image/108229868-1763741665578-108229868-1763730430401-gettyimages-2233025951-WILLIAMS_ECNY.jpeg?v=1772548607&w=1920&h=1080", "published_ts": 1795527206, "published": "24 Nov, 07:33 PM", "bn_summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Nvidia Stock Is Falling Again. Why the Jensen Jubilation Is Already Fading. - Barron's", "summary": "", "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2eG8tdTlDV1hsNU4tQ2JMRzROTWRubTAwLVd5MWxKcVR0WEFUTGlDMk1UWDZodWZxanVGbU05S1NVZTFNaE1VaGc2b0dkUXhmeGtTTVVPbjFWRl9QSGRjVjRPNExTRGpCRjVyazA5M1EzTVI1dkE?oc=5", "source": "Barron's", "image": "", "published_ts": 1795526220, "published": "24 Nov, 07:17 PM", "bn_summary": "Barron's থেকে পাওয়া সাম্প্রতিক আপডেট—বিস্তারিত পড়তে কার্ডে ক্লিক করুন।", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Best Buy reports comparable sales growth of 6.1%, highest in five years", "summary": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.", "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html", "source": "CNBC", "image": "https://image.cnbcfm.com/api/v1/image/108555728-1795112286825-gettyimages-2305932029-mms15951_ojpsq3qq.jpeg?v=1795112328&w=1920&h=1080", "published_ts": 1795525055, "published": "24 Nov, 06:57 PM", "bn_summary": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}], "ram_hardware": [{"title": "Jensen Huang confessed to more affairs before the board reinstated him as Nvidia CEO, report claims", "summary": "Jensen Huang admitted to more affairs than the two that Nvidia's board members were already aware of before they agreed to let him return to the company as CEO, President, and board member, amid reports that one of the women involved is a Chinese spy.", "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-confessed-to-more-affairs-before-the-board-reinstated-him-as-nvidia-ceo-report-claims-contrite-chief-disclosed-at-least-two-additional-affairs-beyond-megaspeed-exec-and-nvidias-vp-of-health-care", "source": "Tom's Hardware", "image": "https://cdn.mos.cms.futurecdn.net/XNZEYgk3a4MBRkDm2jky8N-1920-80.jpg", "published_ts": 1795530278, "published": "24 Nov, 08:24 PM", "bn_summary": "Jensen Huang admitted to more affairs than the two that Nvidia's board members were already aware of before they agreed to let him return to the company as CEO, President, and board member, amid reports that one of the women involved is a Chinese spy.", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "The cheapest 32GB DDR5-6000 RAM kit on the market is on sale for only $439", "summary": "Looking for a Black Friday RAM deal? Get a 32GB DDR5-6000 memory kit for just $439 at Newegg with a promo code. No bundle required. Only pay for the RAM you need.", "url": "https://www.tomshardware.com/pc-components/ddr5/the-cheapest-32gb-ddr5-6000-ram-kit-on-the-market-is-on-sale-for-only-usd439-teams-32gb-ddr5-6000-cl38-t-force-delta-rgb-ram-kit-is-usd110-off-with-promo-code-no-bundle-deals-needed", "source": "Tom's Hardware", "image": "https://cdn.mos.cms.futurecdn.net/sE9m8A5hkrdWUTFuR42ZEA-1920-80.png", "published_ts": 1795529611, "published": "24 Nov, 08:13 PM", "bn_summary": "Looking for a Black Friday RAM deal? Get a 32GB DDR5-6000 memory kit for just $439 at Newegg with a promo code. No bundle required. Only pay for the RAM you need.", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Corsair’s 32GB DDR5-6000 RGB RAM kit with AMD EXPO and Intel XMP is $499.99 in Newegg deal - MIXED News", "summary": "", "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMnE3TXRzSzFjYVY3RjZIWGl6VnpHeUs0YS1LOGsyWmk4OFh5Ukp0cFJQNTJ0b3Z3eVU1V1lYVWhpX3RBNXg4emRwQ05DNnlmVnJrTlZRcUZZR3dqRThWYVpMNHFuYWtkU0MtclVNU1pObzVOU1VvWlJEaFFaSjljZw?oc=5", "source": "MIXED News", "image": "", "published_ts": 1795529593, "published": "24 Nov, 08:13 PM", "bn_summary": "MIXED News থেকে পাওয়া সাম্প্রতিক আপডেট—বিস্তারিত পড়তে কার্ডে ক্লিক করুন।", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Trump pressured Nvidia to bring Jensen back, called into board meeting to push reinstatement, reports claim", "summary": "Nvidia's crashing stock market prices is threatening to take down the entire market with it, which is why President Donald Trump decided to intervene and steady the situation.", "url": "https://www.tomshardware.com/tech-industry/policy/trump-pressured-nvidia-to-bring-jensen-back-called-into-board-meeting-to-push-reinstatement-reports-claim-president-concerned-over-falling-stock-prices-with-huangs-return-reversing-slide", "source": "Tom's Hardware", "image": "https://cdn.mos.cms.futurecdn.net/xfcQhUbMEHx9ktEu77JQsd-1920-80.png", "published_ts": 1795527900, "published": "24 Nov, 07:45 PM", "bn_summary": "Nvidia's crashing stock market prices is threatening to take down the entire market with it, which is why President Donald Trump decided to intervene and steady the situation.", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}, {"title": "Samsung just launched a gaming monitor with a refresh rate higher than its price — dual-mode Odyssey G60H offers 1,100 Hz in HD", "summary": "Samsung's newly launched Odyssey G60H display is targeted squarely at serious competitive gamers with QHD 600Hz and HD 1100HZ display modes.", "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsung-just-launched-a-gaming-monitor-with-a-refresh-rate-higher-than-its-price-dual-mode-odyssey-g60h-offers-1-100-hz-in-hd", "source": "Tom's Hardware", "image": "https://cdn.mos.cms.futurecdn.net/vSJpc83WE6czycrzS6goAf-1920-80.jpg", "published_ts": 1795525977, "published": "24 Nov, 07:12 PM", "bn_summary": "Samsung's newly launched Odyssey G60H display is targeted squarely at serious competitive gamers with QHD 600Hz and HD 1100HZ display modes.", "added_at_ts": 1795531264, "expires_at_ts": 1795617664, "batch_label": "08:41 PM BDT", "batch_edition": 1, "is_new": true}]}};
     const CAT_META = [
       ["all", "All"],
       ["ai", "AI"],
@@ -350,6 +434,22 @@
       ["ram_hardware", "RAM & Hardware"],
     ];
 
+    const CAT_COLORS = {
+      ai: ["#0f172a", "#38bdf8", "AI & MODELS"],
+      github: ["#111827", "#e2e8f0", "GITHUB PROJECT"],
+      free_deals: ["#0c1f1a", "#34d399", "FREE API & VPS"],
+      war: ["#211115", "#f87171", "WORLD & CONFLICT"],
+      stocks_gold: ["#1f180b", "#f59e0b", "GOLD & STOCKS"],
+      ram_hardware: ["#141826", "#a78bfa", "RAM & HARDWARE"],
+    };
+
+    function fallbackSvg(cat, source) {
+      const [bg, fg, label] = CAT_COLORS[cat] || ["#12161f", "#38bdf8", "INTEL"];
+      const src = String(source || "NEWS").slice(0, 18).replace(/[<>&"]/g, "");
+      const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450"><rect width="800" height="450" fill="${bg}"/><g opacity="0.12" stroke="${fg}" stroke-width="1"><line x1="0" y1="90" x2="800" y2="90"/><line x1="0" y1="180" x2="800" y2="180"/><line x1="0" y1="270" x2="800" y2="270"/><line x1="0" y1="360" x2="800" y2="360"/><line x1="200" y1="0" x2="200" y2="450"/><line x1="400" y1="0" x2="400" y2="450"/><line x1="600" y1="0" x2="600" y2="450"/></g><rect x="52" y="160" width="8" height="96" rx="4" fill="${fg}"/><text x="80" y="200" fill="${fg}" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="3">${label}</text><text x="80" y="242" fill="#e2e8f0" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="700">${src}</text></svg>`;
+      return "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svg);
+    }
+
     let activeCat = "all";
     let searchTerm = "";
 
@@ -357,13 +457,28 @@
       return String(s || "").replace(/[&<>"']/g, m => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"})[m]);
     }
 
+    function timeLeftLabel(expiresTs) {
+      if (!expiresTs) return "";
+      const diff = Math.max(0, expiresTs - Math.floor(Date.now() / 1000));
+      const h = Math.floor(diff / 3600);
+      const m = Math.floor((diff % 3600) / 60);
+      return h > 0 ? `${h}h ${m}m left` : `${m}m left`;
+    }
+
     function renderHeader() {
       document.getElementById("edition").textContent = "#" + (DATA.edition || 1);
       document.getElementById("curated-by").textContent = DATA.curated_by || "Hermes";
       document.getElementById("updated").textContent = DATA.updated_dhaka || "";
+      document.getElementById("batch-stats").textContent = `+${DATA.new_added || 0} new · -${DATA.expired_removed || 0} expired (>24h)`;
+
       document.getElementById("advice-tag").textContent = (DATA.advice && DATA.advice.tag) || "Briefing";
       document.getElementById("advice-title").textContent = (DATA.advice && DATA.advice.title) || "";
       document.getElementById("advice-body").textContent = (DATA.advice && DATA.advice.body) || "";
+
+      const q = DATA.quote || {};
+      document.getElementById("quote-text").textContent = q.text_bn ? `“${q.text_bn}”` : "";
+      document.getElementById("quote-author").textContent = q.author ? `— ${q.author}` : "";
+      document.getElementById("quote-note").textContent = q.note_bn || "";
 
       const ticker = document.getElementById("ticker");
       if (DATA.markets && DATA.markets.length) {
@@ -372,8 +487,6 @@
           const cls = m.change_pct >= 0 ? "up" : "down";
           return `<div class="m-pill mono"><span class="m-label">${esc(m.label)}</span><span class="m-price">${esc(m.price)}</span><span class="m-chg ${cls}">${sign}${m.change_pct}%</span></div>`;
         }).join("");
-      } else {
-        ticker.innerHTML = `<div class="m-pill mono"><span class="m-label">Markets syncing...</span></div>`;
       }
     }
 
@@ -385,6 +498,8 @@
           list.push({ ...it, _cat: key, _catLabel: label });
         }
       }
+      // Newest-added batch on TOP across all categories
+      list.sort((a, b) => (b.added_at_ts || 0) - (a.added_at_ts || 0) || (b.published_ts || 0) - (a.published_ts || 0));
       return list;
     }
 
@@ -410,7 +525,7 @@
 
       if (q) {
         items = items.filter(it =>
-          (it.title + " " + (it.bn_summary || "") + " " + (it.summary || "") + " " + (it.source || "") + " " + it._catLabel)
+          (it.title + " " + (it.bn_summary || "") + " " + (it.source || "") + " " + it._catLabel)
             .toLowerCase().includes(q)
         );
       }
@@ -422,29 +537,33 @@
 
       grid.innerHTML = items.map(it => {
         const src = (it.source || "Web").toLowerCase();
-        const srcCls = src.includes("github") ? "src-gh" : src.includes("twitter") || src === "x" ? "src-x" : src.includes("reddit") ? "src-rd" : "";
-        const starsHtml = it.stars ? `<span class="stars mono">★ ${Number(it.stars).toLocaleString()}</span>` : "";
-        const langHtml = it.language ? `<span class="badge mono">${esc(it.language)}</span>` : "";
-        const bnHtml = it.bn_summary ? `<div class="bn-note">${esc(it.bn_summary)}</div>` : "";
-        const enHtml = it.summary && it.summary !== it.title ? `<div class="en-sub">${esc(it.summary)}</div>` : "";
+        const srcCls = src.includes("twitter") || src === "x" ? "src-x" : src.includes("reddit") ? "src-rd" : "";
+        const fb = fallbackSvg(it._cat, it.source);
+        const imgSrc = it.image ? esc(it.image) : fb;
+        const newBadge = it.is_new ? `<span class="new-pill mono">NEW</span>` : "";
+        const starsBadge = it.stars ? `<span class="stars-pill mono">★ ${Number(it.stars).toLocaleString()}</span>` : "";
+        const leftTxt = timeLeftLabel(it.expires_at_ts);
+        const batchTxt = it.batch_label ? `Added ${it.batch_label}` : (it.published || "Recent");
         return `
           <a class="card" href="${esc(it.url)}" target="_blank" rel="noopener noreferrer">
-            <div>
-              <div class="card-top">
-                <div class="badges">
-                  <span class="badge cat">${esc(it._catLabel)}</span>
-                  <span class="badge ${srcCls}">${esc(it.source || "Web")}</span>
-                  ${langHtml}
-                </div>
-                ${starsHtml}
+            <div class="card-media">
+              <img src="${imgSrc}" alt="${esc(it.title)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='${fb}';" />
+              ${starsBadge}
+              ${newBadge}
+              <div class="media-badges">
+                <span class="badge cat">${esc(it._catLabel)}</span>
+                <span class="badge ${srcCls}">${esc(it.source || "Web")}</span>
               </div>
-              <h3>${esc(it.title)}</h3>
-              ${bnHtml}
-              ${enHtml}
             </div>
-            <div class="card-foot mono">
-              <span>${esc(it.published || "Recent")}</span>
-              <span class="open-link">Open &rarr;</span>
+            <div class="card-body">
+              <div>
+                <h3>${esc(it.title)}</h3>
+                <p class="bn-note" style="margin-top:8px">${esc(it.bn_summary || it.summary || "")}</p>
+              </div>
+              <div class="card-foot mono">
+                <span>${esc(batchTxt)}${leftTxt ? " · " + esc(leftTxt) : ""}</span>
+                <span class="open-link">Read &rarr;</span>
+              </div>
             </div>
           </a>`;
       }).join("");
