@@ -1,19 +1,19 @@
 {
-  "edition": 10,
-  "updated_dhaka": "24 Nov 2026, 05:49 PM (BDT)",
-  "updated_utc": "2026-11-24 11:49 UTC",
-  "curated_by": "gemini (gemini-flash-lite-latest)",
+  "edition": 11,
+  "updated_dhaka": "24 Nov 2026, 07:51 PM (BDT)",
+  "updated_utc": "2026-11-24 13:51 UTC",
+  "curated_by": "coarena (gpt-6-luna)",
   "advice": {
-    "title": "NVIDIA Boom ও Gold Dip-এর স্মার্ট টেক গেম",
-    "body": "আজ NVIDIA শেয়ার ১৩% লাফ দিয়েছে এবং Micron-এর RAM মার্কেট চাঙ্গা রয়েছে। অন্যদিকে গোল্ড প্রাইس সামান্য কমলেও ফ্রি এআই টুল আর গিটহাবের নতুন প্রোজেক্ট দিয়ে নিজের ডেভেলপমেন্ট ওয়ার্কফ্লো ফ্রি-তেই আপডেট করে নিন।",
+    "title": "Build Smart, Buy Carefully",
+    "body": "Aura বা Android AI agent-এর মতো টুল আগে ছোট test project-এ যাচাই করুন; GitHub-এর rust-anything ও freebie-radar দেখে কাজে লাগলে ব্যবহার করুন, আর free API/VPS-এর quota ও terms নিশ্চিত করুন। Gold 0.88% down হলেও S&P/Nasdaq ও NVDA চড়েছে, তাই একদিনের মুভে বড় বিনিয়োগ নয়; MU-ও up—RAM কেনার আগে দাম তুলনা করুন, আর Nvidia-সংক্রান্ত রাজনৈতিক খবর ও রাশিয়ার space threat নজরে রাখুন।",
     "tag": "AI & Dev"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,627.60",
-      "change_pct": -0.65,
+      "price": "$3,619.40",
+      "change_pct": -0.88,
       "up": false
     },
     {
@@ -47,8 +47,8 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$60,285.60",
-      "change_pct": -1.51,
+      "price": "$60,029.85",
+      "change_pct": -1.93,
       "up": false
     }
   ],
@@ -60,7 +60,7 @@
         "url": "https://github.com/CarpseDeam/Aura-IDE",
         "source": "GitHub",
         "published": "2026-06-03 13:02",
-        "bn_summary": "Aura হলো একটি নতুন LLM কোডিং হানেস যা নিজেই নিজেকে টেস্ট করেছে।",
+        "bn_summary": "Aura নিজেকেই ব্যবহার করে তৈরি LLM coding harness—ডেমো ও workflow দেখে নিন।",
         "featured": true
       },
       {
@@ -69,7 +69,7 @@
         "url": "https://news.ycombinator.com/item?id=47738583",
         "source": "HN",
         "published": "2026-04-12 11:48",
-        "bn_summary": "Android AI এজেন্টের মাধ্যমে কোনো PC বা root ছাড়াই সরাসরি অ্যাপ অপারেট করুন।",
+        "bn_summary": "রুট বা PC ছাড়াই Android app চালানো AI agent; permission ও privacy যাচাই করুন।",
         "featured": true
       },
       {
@@ -78,16 +78,7 @@
         "url": "https://news.ycombinator.com/item?id=47613614",
         "source": "HN",
         "published": "2026-04-02 12:35",
-        "bn_summary": "Gemini-এর মতো কাজ করার কারণে গুগল একটি মোবাইল AI এজেন্ট অ্যাপ ব্যান করেছে।",
-        "featured": true
-      },
-      {
-        "title": "Show HN: Smart-commit-rs – A zero-dependency Git commit tool in Rust",
-        "summary": "2 pts · 0 comments on Hacker News",
-        "url": "https://github.com/gtkacz/smart-commit-rs",
-        "source": "GitHub",
-        "published": "2026-03-02 18:44",
-        "bn_summary": "Smart-commit-rs হলো Rust দিয়ে তৈরি জিরো-ডিপেন্ডেন্সি Git কমিট টুল।",
+        "bn_summary": "AI agent app ban-এর খবর—প্ল্যাটফর্ম নীতি ও বিকল্প প্রস্তুতি মাথায় রাখুন।",
         "featured": true
       },
       {
@@ -96,6 +87,15 @@
         "url": "https://github.com/aristoteleo/pantheon-cli",
         "source": "GitHub",
         "published": "2025-08-26 16:58",
+        "bn_summary": "Pantheon-CLI ওপেন-সোর্স Python coding ও notebook tool; Claude Code বিকল্প হিসেবে পরীক্ষা করুন।",
+        "featured": true
+      },
+      {
+        "title": "Show HN: Smart-commit-rs – A zero-dependency Git commit tool in Rust",
+        "summary": "2 pts · 0 comments on Hacker News",
+        "url": "https://github.com/gtkacz/smart-commit-rs",
+        "source": "GitHub",
+        "published": "2026-03-02 18:44",
         "bn_summary": "",
         "featured": false
       },
@@ -127,20 +127,20 @@
         "featured": false
       },
       {
-        "title": "Anthropic is betting AI can help conquer disease and generate big bucks in the bargain - CBS News",
-        "summary": "Anthropic is betting AI can help conquer disease and generate big bucks in the bargain CBS News",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81UkNkV1FqUGFLWWU4NEp1R000MjhvVkppcTQ3UXRKMFh3d2hXbmpaUVoyT2t4SkFqNEMyNFRBcXRhLVYyX0o5eHRFQ180NUFrWnZkRzJKckVCRVFyYzA1MTFjX2RxdDNnY3VJQ3Rwdmp0VW5QVnRxVWNacHVMdw?oc=5",
-        "source": "CBS News",
-        "published": "Tue, 24 Nov 2026 02:04:55",
+        "title": "Improving AI efficiency with optimization - MIT Sloan",
+        "summary": "Improving AI efficiency with optimization MIT Sloan",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTVBWVmVwNXFCd2wwemkzNjVKWnFVbWZGWW1GeXZWZHF5MWlDcEhMM2NKanZOaE5pSnZENUJBamh0Wmg5aXJPV0wyVkpjUXN0cnNkdEt6eDNkSDJKRllxY0Q3aTcxeEFJNVBvejBrXzhPV0JNQklpMWRsV3VxY2diZ242OWZzWGZzWVE?oc=5",
+        "source": "MIT Sloan",
+        "published": "Tue, 24 Nov 2026 12:22:55",
         "bn_summary": "",
         "featured": false
       },
       {
-        "title": "Anthropic Faces New Pressures From Public Investors After Successful IPO - Bloomberg.com",
-        "summary": "Anthropic Faces New Pressures From Public Investors After Successful IPO Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaWEtdlp4ZFBsaUpfZVZsTW9BeTRLYmRFSXcyT1RFbFZzcmp5OGtQRy1ob2I2Q1FET2ZJbG9ha1BtSlpJaVd5UVFMZFZXX2F4OE52QmEwRko0bDhLendUOXdpWVpZZGhCcDRYNGZhVzBDdWtpWTBXOU5reDB0ZkU1ZURrQXptREdqMXNwbGNySWdwcEN5aDNFazVQTXc5TGc?oc=5",
-        "source": "Bloomberg.com",
-        "published": "Tue, 24 Nov 2026 10:33:16",
+        "title": "The AI hardware loop that threatens Nvidia's future, even with Jensen Huang back - Business Insider",
+        "summary": "The AI hardware loop that threatens Nvidia's future, even with Jensen Huang back Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFl5SmFsSF9vTHJRTHRObUprWG5EUHpzTTBNQkpmMHNKYndvRTdDZjNXcjZqdkh6VElwZ3U0b3NBVzFSQ0Q2MUtuay0zaXN1Y0FsVVluWVZDX0djb19QTUhPbWptYnZ3dDZuTkN1bmxIemh5Tkw1VW9LMktCZEtmVGVGNjExUVlYSlNRd21rNktaVG5UZDZMXzZWdVNicGo5Y0I4OA?oc=5",
+        "source": "Business Insider",
+        "published": "Tue, 24 Nov 2026 10:00:00",
         "bn_summary": "",
         "featured": false
       }
@@ -151,10 +151,10 @@
         "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
         "url": "https://github.com/erkamyaman/rust-anything",
         "source": "GitHub",
-        "stars": 9017,
+        "stars": 9059,
         "language": "Rust",
         "published": "2026-11-16",
-        "bn_summary": "rust-anything রেপোটিতে দারুণ সব রাস প্রজেক্ট পাওয়া যাচ্ছে (স্টার ৯০১৭)।",
+        "bn_summary": "rust-anything জনপ্রিয় repo; README ও license দেখে Rust project-এ মানানসই কি না যাচাই করুন।",
         "featured": true
       },
       {
@@ -162,10 +162,10 @@
         "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
         "url": "https://github.com/EL4CTEO/fast-anything",
         "source": "GitHub",
-        "stars": 3423,
+        "stars": 3464,
         "language": "Rust",
         "published": "2026-11-21",
-        "bn_summary": "fast-anything ফাস্ট পারফরম্যান্সের জন্য গিটহাবে ট্রেন্ড করছে (স্টার ৩২৩)।",
+        "bn_summary": "fast-anything repo-র কাজ ও benchmark পরীক্ষা করে তবেই workflow-তে নিন।",
         "featured": true
       },
       {
@@ -173,10 +173,10 @@
         "summary": "Offline knowledge AI, maps and videos for survival and rebuilding",
         "url": "https://github.com/Immortal-Protocols/lastbook",
         "source": "GitHub",
-        "stars": 3030,
+        "stars": 3034,
         "language": "Python",
         "published": "2026-11-12",
-        "bn_summary": "lastbook ডেভেলপারদের মাঝে বেশ জনপ্রিয় হয়ে উঠেছে (স্টার ৩০৩০)।",
+        "bn_summary": "lastbook-এর ব্যবহার ও maintenance দেখে ব্যক্তিগত data দেওয়ার আগে সতর্ক থাকুন।",
         "featured": true
       },
       {
@@ -184,10 +184,10 @@
         "summary": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
         "url": "https://github.com/ZiChuanLan/freebie-radar",
         "source": "GitHub",
-        "stars": 2521,
+        "stars": 2530,
         "language": "TypeScript",
         "published": "2026-11-12",
-        "bn_summary": "freebie-radar দিয়ে চমৎকার সব ফ্রি রিসোর্স ও টুল খুঁজে নিন।",
+        "bn_summary": "freebie-radar দিয়ে ফ্রি অফার খুঁজুন, তবে প্রতিটি offer-এর শর্ত যাচাই করুন।",
         "featured": true
       },
       {
@@ -195,7 +195,7 @@
         "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
         "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
         "source": "GitHub",
-        "stars": 2399,
+        "stars": 2434,
         "language": "Python",
         "published": "2026-11-16",
         "bn_summary": "",
@@ -206,7 +206,7 @@
         "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
         "url": "https://github.com/iamajmeena/neonclipping",
         "source": "GitHub",
-        "stars": 2381,
+        "stars": 2396,
         "language": "Python",
         "published": "2026-11-19",
         "bn_summary": "",
@@ -217,7 +217,7 @@
         "summary": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
         "url": "https://github.com/haziqahmedqasmi/PeakCut",
         "source": "GitHub",
-        "stars": 1877,
+        "stars": 1886,
         "language": "Python",
         "published": "2026-11-14",
         "bn_summary": "",
@@ -239,7 +239,7 @@
         "summary": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
         "url": "https://github.com/pierridotite/mobile-agent-testers",
         "source": "GitHub",
-        "stars": 1650,
+        "stars": 1683,
         "language": "Python",
         "published": "2026-11-16",
         "bn_summary": "",
@@ -264,7 +264,7 @@
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FSGoyTkZPOWtOb0xLUld6QTBoamp3MGg0b2pjcURBaXk2dllWN3B6SlNvYUMxZzdIUnM2UG5JRlVvcDhoY1QxcVlBVQ?oc=5",
         "source": "Fello AI",
         "published": "Sun, 22 Nov 2026 08:00:00",
-        "bn_summary": "২০২৬ সালের সেরা ফ্রি এআই মডেলগুলোর তালিকা ও ব্যবহারের গাইড।",
+        "bn_summary": "ফ্রি AI model ও ব্যবহারের জায়গার তালিকা—rate limit আগে দেখে নিন।",
         "featured": true
       },
       {
@@ -273,16 +273,7 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObDd6SHhJVDRDNzV2TzRLbWNUb1FpLVZQUVkzcFNEeEp2eXpHMXhkLWZ3bGZ3RlotLTJHWlhzdXBRajBXbTl5a191dWtHYzdZWV9pdEpPWm04X0JKNF8wcUVpNXRPUlBMTW12RzRkeUh3QU0wTW9sZDFJT2hJVUpyM2gwdnp2dzljM0ppVE0tbi1WV3NjVmVr?oc=5",
         "source": "Memeburn",
         "published": "Thu, 19 Nov 2026 17:35:37",
-        "bn_summary": "ডিসেম্বরের আগে কোন Gemini মডেলটি আপনার ব্যবহার করা উচিত তা জেনে নিন।",
-        "featured": true
-      },
-      {
-        "title": "Gemini 4 Models Compared: Which One Do You Get? - Fello AI",
-        "summary": "Gemini 4 Models Compared: Which One Do You Get? Fello AI",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pRU9OQXBqbnlKQUFZRGt1cW1Jb1hTT1pHOGZJLXVGWnZsbTlZYmRNYkVCUlFqU0x4bmpUeVJ1U0FfR1VZY0ctWUNCT3pBaWpFVmtwY1dHUWY?oc=5",
-        "source": "Fello AI",
-        "published": "Sun, 22 Nov 2026 08:00:00",
-        "bn_summary": "বিভিন্ন Gemini ৪ মডেলের তুলনামূলক সুবিধা নিয়ে নতুন গাইড প্রকাশিত।",
+        "bn_summary": "Gemini 4 Neon-এর খরচ ১ ডিসেম্বর পর্যন্ত বেশি—ব্যবহারের আগে model ও pricing মিলিয়ে নিন।",
         "featured": true
       },
       {
@@ -291,7 +282,7 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzd0VkSHlSRmRudVlPdl9nZ1otZmNaVDBqdVQ4ZnhLdmdmRzN5UXY1MnNENFhwcTRFdnZyeFdtTE8wVE9OSlRlMjd0VENMWVk0dzVNN0tGb2c4QjNzbXlSbU1kVjdHWC1VZTdr?oc=5",
         "source": "TechRadar",
         "published": "Wed, 18 Nov 2026 16:56:40",
-        "bn_summary": "২০২৬ সালে ফ্রি ওয়েব হোস্টিংয়ের সেরা অপশনগুলোর খোঁজখবর।",
+        "bn_summary": "ফ্রি web hosting বাছার আগে uptime, bandwidth ও custom-domain সীমা যাচাই করুন।",
         "featured": true
       },
       {
@@ -300,6 +291,15 @@
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbVNjZ2hBVlZPTDYzU2R0UC1vUmtQR0tBREhSb3BfMnU0Q2NBbTFTbkJZdmRyN28xZ0ZQaGllTy11TEZuSFBRZUVxaFV0MUJ4Z0RCaC1IOWhGWFRON20tOHVuZDZjOVJvaWl1Q0hIS0Z2UEJJY2dyNk9TNTNjV0FnLWZWZjhrMjk2a3MxT09YeVVzbWNEVHpVVXZlZXdtU3VwOXZxVEQ5VGdjdXJtb0ZZbDY4c2R5MlotQ1c5RlhMUm55ZVhjZVBfYURXMktXdFhwUnFz?oc=5",
         "source": "Times Herald-Record",
         "published": "Mon, 23 Nov 2026 17:43:57",
+        "bn_summary": "ফ্রি AI sitemap tool SEO কাজে লাগতে পারে; output publish করার আগে পরীক্ষা করুন।",
+        "featured": true
+      },
+      {
+        "title": "Gemini 4 Models Compared: Which One Do You Get? - Fello AI",
+        "summary": "Gemini 4 Models Compared: Which One Do You Get? Fello AI",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pRU9OQXBqbnlKQUFZRGt1cW1Jb1hTT1pHOGZJLXVGWnZsbTlZYmRNYkVCUlFqU0x4bmpUeVJ1U0FfR1VZY0ctWUNCT3pBaWpFVmtwY1dHUWY?oc=5",
+        "source": "Fello AI",
+        "published": "Sun, 22 Nov 2026 08:00:00",
         "bn_summary": "",
         "featured": false
       },
@@ -356,7 +356,7 @@
         "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "published": "Tue, 24 Nov 2026 10:53:37",
-        "bn_summary": "Nvidia CEO Jensen Huang-কে ফেরানো নিয়ে ট্রাম্পকে ঘিরে রাজনৈতিক বিতর্ক।",
+        "bn_summary": "Nvidia CEO Jensen Huang-কে ঘিরে Trump-এর ভূমিকা নিয়ে রাজনৈতিক বিতর্ক—চিপ খাতের নীতি নজরে রাখুন।",
         "featured": true
       },
       {
@@ -365,7 +365,7 @@
         "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "published": "Tue, 24 Nov 2026 07:26:27",
-        "bn_summary": "Jensen Huang-এর প্রত্যাবর্তনের ঘটনা চীনের শি জিনপিংয়ের জন্য বড় বার্তা।",
+        "bn_summary": "Huang-এর প্রত্যাবর্তন চীন-যুক্তরাষ্ট্র প্রযুক্তি প্রতিযোগিতার প্রভাব তুলে ধরছে।",
         "featured": true
       },
       {
@@ -374,8 +374,26 @@
         "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "published": "Tue, 24 Nov 2026 10:58:51",
-        "bn_summary": "রুশ নিউক্লিয়ার স্যাটেলাইট রিপোর্টের পর মহাকাশ সুরক্ষায় জোর দিচ্ছে নাতো।",
+        "bn_summary": "রুশ nuclear satellite রিপোর্টের পর NATO space defence জোরদারের কথা বলেছে—বিশ্বঝুঁকি পর্যবেক্ষণ করুন।",
         "featured": true
+      },
+      {
+        "title": "Jensen Huang’s Nvidia return: Who are the big winners and losers?",
+        "summary": "Jensen Huang returns to lead the most consequential company powering the AI revolution. But who wins, who loses?",
+        "url": "https://www.aljazeera.com/features/2026/11/24/jensen-huangs-nvidia-return-who-are-the-big-winners-and-losers?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "Tue, 24 Nov 2026 13:39:22",
+        "bn_summary": "Nvidia-র ঘটনায় সম্ভাব্য বিজয়ী-ক্ষতিগ্রস্ত নিয়ে বিশ্লেষণ—একক খবরের বদলে বাজারের বিস্তৃত সংকেত দেখুন।",
+        "featured": true
+      },
+      {
+        "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+        "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+        "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "published": "Mon, 23 Nov 2026 21:24:47",
+        "bn_summary": "",
+        "featured": false
       },
       {
         "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
@@ -383,60 +401,42 @@
         "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "published": "Tue, 24 Nov 2026 05:33:07",
-        "bn_summary": "ভারতের এক রাজনৈতিক নেতাকে যুক্তরাজ্যে বিমানে উঠতে বাধা দেওয়া হয়েছে।",
-        "featured": true
-      },
-      {
-        "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-        "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
-        "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "published": "Mon, 23 Nov 2026 20:48:35",
         "bn_summary": "",
         "featured": false
       },
       {
-        "title": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
-        "summary": "Despite quadrupling its hasbara budget, Israel is losing American hearts and minds, and its PR may be making it worse.",
-        "url": "https://www.aljazeera.com/news/2026/11/24/the-eighth-front-why-israels-influence-war-in-the-us-is-failing?traffic_source=rss",
+        "title": "Ten years after its 2016 peace deal, Colombia faces a return to conflict",
+        "summary": "Critics fear that a security crackdown under Abelardo de la Espriella could unravel gains made under the 2016 deal.",
+        "url": "https://www.aljazeera.com/news/longform/2026/11/24/ten-years-after-its-2016-peace-deal-colombia-faces-a-return-to-conflict?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "Tue, 24 Nov 2026 11:30:07",
+        "published": "Tue, 24 Nov 2026 13:35:51",
         "bn_summary": "",
         "featured": false
       },
       {
-        "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
-        "summary": "Ukraine is stepping up 'long-range sanctions' attacks on Russian vessels far beyond the battlefield.",
-        "url": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss",
+        "title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
+        "summary": "Attacks on tankers have increased, impacting the flow of oil through the Strait of Hormuz.",
+        "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "Tue, 24 Nov 2026 11:27:35",
+        "published": "Tue, 24 Nov 2026 13:32:24",
         "bn_summary": "",
         "featured": false
       },
       {
-        "title": "Iraq orders takeover of oilfields in areas under Kurdish control",
-        "summary": "PM Ali al-Zaidi also orders his government to seize all crossings in the Kurdish region after an oil smuggling inquiry.",
-        "url": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss",
+        "title": "Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence",
+        "summary": "Kyiv responds to criticism after claiming responsibility for attacking a Russian warship and a cargo vessel off Libya.",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "Tue, 24 Nov 2026 11:19:04",
+        "published": "Tue, 24 Nov 2026 13:30:00",
         "bn_summary": "",
         "featured": false
       },
       {
-        "title": "Vietnam restaurant blast kills at least six",
-        "summary": "At least 10 wounded after blast at restaurant in the Dong Da district in Hanoi as rescue operations under way.",
-        "url": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six?traffic_source=rss",
+        "title": "Senegalese families wait for news of missing migrant boat",
+        "summary": "Senegalese families wait for news of missing migrant boat",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senegalese-families-wait-for-news-of-missing-migrant-boat?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "Tue, 24 Nov 2026 11:17:20",
-        "bn_summary": "",
-        "featured": false
-      },
-      {
-        "title": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
-        "summary": "Nvidia chief's 'mistakes' had consequences far beyond Silicon Valley. He is back nonetheless, in less than two weeks.",
-        "url": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "Tue, 24 Nov 2026 10:48:38",
+        "published": "Tue, 24 Nov 2026 13:28:50",
         "bn_summary": "",
         "featured": false
       }
@@ -448,7 +448,7 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0V0aXctMHhmVjRnZXFxRnZyVzRBMUxVUklISmhWTEEtNlk2RWYzbFcxd3kxOXpFUGJZNU15YlN1MkpPOXd4d1EtRVpfeHByTkVhOVNrcGROWnh6WEhWQ2xLSW53QXZVdXdialViRWl2WXFHcUxET1N6cDRkR0hHZnZXLVBJbndPSV9mbkhRZWtsN1ZLWUx0LWFWTkJRNXhwYndoeEZXVmN1MkI5NDNFbWk2QzJzU3VwMVdaLVV2QTd5Sk9hNGc?oc=5",
         "source": "StoneX",
         "published": "Tue, 24 Nov 2026 06:16:37",
-        "bn_summary": "মার্চের পর সবচেয়ে খারাপ সপ্তাহে গোল্ডের মাল্টি-ইয়ার আপট্রেন্ড ভেঙেছে।",
+        "bn_summary": "Gold-এর বহু-বছরের uptrend ভাঙার পূর্বাভাস—দাম ও ঝুঁকি দেখে সিদ্ধান্ত নিন।",
         "featured": true
       },
       {
@@ -457,7 +457,16 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdGV2LUZjZ21fUTFpcmtid3FCeXkxS3V5WXNZZ3lBdE1ZZ1hlaXhsdVJMVWZhdVhYeEdTVDFaOVJ2R3RPVG9Lb0tHWGIwWFhvcVo2U2FvX3l2NFdIVEdnMjJkWG9EX0pGa25LR0l2cWlYZ3hqVFJpQ1F6MU11bTAweGtZU1pXaUVWeGlXUHMyWjF1b1VGazAwZ2M3OEp5NVZHbUww?oc=5",
         "source": "USA Today",
         "published": "Tue, 24 Nov 2026 11:10:13",
-        "bn_summary": "আজকের গোল্ড প্রাইস ও মার্কেট আপডেট নিয়ে চলছে নানা বিশ্লেষণ।",
+        "bn_summary": "আজকের Gold দর মিলিয়ে স্থানীয় buy-sell spread-ও যাচাই করুন।",
+        "featured": true
+      },
+      {
+        "title": "Gold price today, Tuesday, November 24, 2026: Gold prices improve, lift from 14-month lows - Yahoo Finance",
+        "summary": "Gold price today, Tuesday, November 24, 2026: Gold prices improve, lift from 14-month lows Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUm1WdnRQTjdyY2N0S3VsSmR1WTliSS1xdXV1eTh1VUdHaURrcWVjcmw1bTVXNElvUkdFcDhEVjdBdnh2cnFSQ3ZERWFqUWI2bDBlZFBabWp6TFJFMVlHRzFYRnlUU3NudE4wbmRCREJLWUpjVWpGbEg3S1cyOExfUld0cWVldWktcU5SQ2RPSWhEbDV5WVlLNVA0Z0dIN05ocHJWS0hfMWF3c1RwWGJPejRaLTAzZVpBN1E2cmtYVlhkcG93Vl9wc2VydllMa29aNEk4cHZvQk42SXFtTXFfd05XS3lydG9ZN0xjU2xCdGg2bVE?oc=5",
+        "source": "Yahoo Finance",
+        "published": "Tue, 24 Nov 2026 12:18:21",
+        "bn_summary": "১৪ মাসের নিম্নস্তর থেকে Gold-এর সামান্য rebound—এখনও volatility থাকতে পারে।",
         "featured": true
       },
       {
@@ -466,7 +475,7 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaGdFWDVPUE05dzRzczBDbHRscE9FOHd6U2IyN2d4NEo5ZGZIODRLZG9SS1c5V053czN0NTNndFhTRTY5UXdWSXNyT3FVOHAtVXJnTS1yaWx6UDFJQXQyd0hpX0NaSDVhdGd2b19vcE5yUWtpdms1YjdOSnVONVRpMl9BWjFTTm9yMFVIRkhDbE9ySXlLMmZpci1yVlA4dw?oc=5",
         "source": "Hürriyet Daily News",
         "published": "Tue, 24 Nov 2026 03:55:01",
-        "bn_summary": "গোল্ডের দামের অস্থিরতা হাউজিং ও অটোমোবাইল মার্কেটেও প্রভাব ফেলছে।",
+        "bn_summary": "Gold-এর ওঠানামা housing ও auto বাজারে প্রভাব ফেলতে পারে—বড় কেনাকাটায় বাজেট ধরুন।",
         "featured": true
       },
       {
@@ -475,15 +484,6 @@
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMlA2WnpTN0N0UVRUa2dlRVVRMDdkUE1FRmdFekQ5ZDlkQU1Odl9OR0ZkeGlYUVlYcVhHeTMwTjVsbU9XRU9pRWhTVmlTUm5EM1BKZDhya2YydU5RZldVSXRXTVFDSWgwcmJQeUZKWC1lbGFKSE13aFRkaS1ud24zRjBKVnlwQ3JtNzZ3ZzBENTNOa0RpYXR1aWNhVUc3S3ktY0o4N2N0TkdFczVTXzdMUzJ0djFuR3lrUkRya2F5cnNpaVBoQzlub1Vpc1l4TkFFME51QlBCY3dITEpDVGc?oc=5",
         "source": "FXEmpire",
         "published": "Tue, 24 Nov 2026 06:25:00",
-        "bn_summary": "বাজেটে সোনায় রিবাউন্ডের আশায় বাজার খুঁজছেন বার্গেন হান্টাররা।",
-        "featured": true
-      },
-      {
-        "title": "London Gold Market Gets a New Playbook: JPMorgan, HSBC Complete First Digital Gold Rights Trades - BigGo Finance",
-        "summary": "London Gold Market Gets a New Playbook: JPMorgan, HSBC Complete First Digital Gold Rights Trades BigGo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zMWJTd3VoNzRHOC1OaXpwclZSMUtXLVYwTk1TRG41R2VGSlEwUHVoZUJ5Q21RZW95Wmg5emQyNkpva3l1RllsUGRqODZFb0EwWGZLeGZoZEh4MV9fa3BxVjRQaUU2S0tfNHNkNUpVa1BEd2wzOXc?oc=5",
-        "source": "BigGo Finance",
-        "published": "Tue, 24 Nov 2026 10:05:00",
         "bn_summary": "",
         "featured": false
       },
@@ -497,29 +497,11 @@
         "featured": false
       },
       {
-        "title": "Trump made up to $15m on Nvidia stock after Huang’s return - The Guardian",
-        "summary": "Trump made up to $15m on Nvidia stock after Huang’s return The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRUF3TVZCQlVITFBZeEFsTjRHODhTQ3p5cXBUT0FQRUhNaUg0NmxqTEh1MThHY3RLTXREZmtVZ01TVzM5SUptSnNNZlNJOVNnNXJsOGVHUmZMNkRvT09GaERueHk4NjR0bDJYUUY5Y2hZODA0QzJXQmV6dU9sSW1nbXBZNkFIcDlsdThzWFI5RWY4LXhSN2pTdFdTLVpweV9aeGJuOA?oc=5",
-        "source": "The Guardian",
-        "published": "Tue, 24 Nov 2026 08:18:00",
-        "bn_summary": "",
-        "featured": false
-      },
-      {
-        "title": "Nvidia Stock Is Falling Again. Why the Jensen Jubilation Is Already Fading. - Barron's",
-        "summary": "Nvidia Stock Is Falling Again. Why the Jensen Jubilation Is Already Fading. Barron's",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2eG8tdTlDV1hsNU4tQ2JMRzROTWRubTAwLVd5MWxKcVR0WEFUTGlDMk1UWDZodWZxanVGbU05S1NVZTFNaE1VaGc2b0dkUXhmeGtTTVVPbjFWRl9QSGRjVjRPNExTRGpCRjVyazA5M1EzTVI1dkE?oc=5",
-        "source": "Barron's",
-        "published": "Tue, 24 Nov 2026 11:12:00",
-        "bn_summary": "",
-        "featured": false
-      },
-      {
-        "title": "Only Six Nasdaq-100 Stocks Fell As Nvidia Raises Big Questions - Forbes",
-        "summary": "Only Six Nasdaq-100 Stocks Fell As Nvidia Raises Big Questions Forbes",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWF4cnRlSE1lT185ajBiXzRoTUx5dktyRWxpelRfU3ltMTZJWFA4ZGVOaWRDWHgxTEpRNW9sREd3N21MUjR2blFkbFZGU3NlMmhuN1hWM2hqUDlJMGVreFBicDNsQkZLcmR1ZTFTWHpjRE5kMlJXOEwzOFRLdTlVNlRNQTRINkhZWkUtWlJBeVlSakJhQktDVGltbGZPYm0wa1RsTmVIbEkwUk16WktRU25DTzlVN09jdXI2UzdCcERWd2pzMjZYQXg1cFJoSXM?oc=5",
-        "source": "Forbes",
-        "published": "Mon, 23 Nov 2026 22:23:12",
+        "title": "Rep. Raja Krishnamoorthi, D-Ill., on Trump's involvement in the stock market - NPR",
+        "summary": "Rep. Raja Krishnamoorthi, D-Ill., on Trump's involvement in the stock market NPR",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObU1rZUFDVS1ZUDc3OWdUWE51VjZfdzJ4NjZCWWl0aTdLdS11eXNLUzVfUzhBUGEyZHNES0JicmdLdlZDNWU3ZTVYRkVLX19FNm13Mk0yNWZsMnVNWklzam1kanc5T0J3T3JLajRwNV83VlBWalBPTnhSR0lJcmZVM0ROT1RpUmR4MndWV1VUdEptaUE1T2JzbjlKUjI5N0kwOTJVRkM2eFltTUlhLTFHaUhKSDgzNTg?oc=5",
+        "source": "NPR",
+        "published": "Tue, 24 Nov 2026 11:42:20",
         "bn_summary": "",
         "featured": false
       },
@@ -528,54 +510,72 @@
         "summary": "Opinion | Nvidia proves nobody knows anything about the stock market The Washington Post",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTi03OVRQelFBa2FKOS1ray10bDRKZUtnekpoQl9qdjBXOUNrR2FVMFZ1OElzaE4xRlp4RDBBTGdhTmt3TVVYY3ZkdmtOTDM4cnJhdk9vUDlqM1haSGxLV29ySHFzLVk5OHBMY2wzRHZNaFpoUzdEQURVTWMtWXE5WmR3MFl3NVVOZHBmOGxwdnN1cjFRNkVYVnJ6TG02STNzWFJQMW1SRTdOZw?oc=5",
         "source": "The Washington Post",
-        "published": "Tue, 24 Nov 2026 11:46:50",
+        "published": "Tue, 24 Nov 2026 11:54:51",
+        "bn_summary": "",
+        "featured": false
+      },
+      {
+        "title": "Why Deutsche Bank Sees the S&P 500 Surging Nearly 25% Next Year - Barron's",
+        "summary": "Why Deutsche Bank Sees the S&P 500 Surging Nearly 25% Next Year Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTXBzTE9hcjRuaVFGM0QtdFFoUzVEemVUQmJybGVXM0dZZ0NTcnJzQXVtdnhaeVQtMUlTNFFzS3gzaXB4ZkZMeGxzRUNZX2JWRXRJSFhYVHdyWGU5MmxrLW41U0E2dUs1V0YwTEpZT3FBa2tjcDVKWThhektCc0xUOFZReXl4VlBRV2c?oc=5",
+        "source": "Barron's",
+        "published": "Tue, 24 Nov 2026 13:03:00",
+        "bn_summary": "",
+        "featured": false
+      },
+      {
+        "title": "Trump made up to $15m on Nvidia stock after Huang’s return - The Guardian",
+        "summary": "Trump made up to $15m on Nvidia stock after Huang’s return The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRUF3TVZCQlVITFBZeEFsTjRHODhTQ3p5cXBUT0FQRUhNaUg0NmxqTEh1MThHY3RLTXREZmtVZ01TVzM5SUptSnNNZlNJOVNnNXJsOGVHUmZMNkRvT09GaERueHk4NjR0bDJYUUY5Y2hZODA0QzJXQmV6dU9sSW1nbXBZNkFIcDlsdThzWFI5RWY4LXhSN2pTdFdTLVpweV9aeGJuOA?oc=5",
+        "source": "The Guardian",
+        "published": "Tue, 24 Nov 2026 08:18:00",
         "bn_summary": "",
         "featured": false
       }
     ],
     "ram_hardware": [
       {
-        "title": "Shared CXL memory comes with a software tax — a real four-server test found locks cost 3–5 µs each",
-        "summary": "UT Arlington and Intel measured software sync costs on a real four-host shared CXL memory pool, as vendors eye CXL for AI KV cache.",
-        "url": "https://www.tomshardware.com/pc-components/dram/shared-cxl-memory-pools-come-with-steep-software-tax-that-could-stall-multi-server-scaling-ut-arlington-shares-real-world-test-that-measured-four-servers-sharing-the-same-pool-at-sc26",
+        "title": "Trump pressured Nvidia to bring Jensen back, called into board meeting to push reinstatement, reports claim",
+        "summary": "Nvidia's crashing stock market prices is threatening to take down the entire market with it, which is why President Donald Trump decided to intervene and steady the situation.",
+        "url": "https://www.tomshardware.com/tech-industry/policy/trump-pressured-nvidia-to-bring-jensen-back-called-into-board-meeting-to-push-reinstatement-reports-claim-president-concerned-over-falling-stock-prices-with-huangs-return-reversing-slide",
         "source": "Tom's Hardware",
-        "published": "Tue, 24 Nov 2026 11:30:00",
-        "bn_summary": "শেয়ার্ড CXL মেমোরিতে সফটওয়্যার ট্যাক ও লকের কারণে মাইক্রোসেকেন্ড লস হচ্ছে।",
+        "published": "Tue, 24 Nov 2026 13:45:00",
+        "bn_summary": "Nvidia CEO-কে ঘিরে প্রতিবেদনের দাবি—চিপ কোম্পানির খবর যাচাই করে নিন।",
         "featured": true
       },
       {
-        "title": "Japan puts chipmaking labs inside trucks with mobileFab",
-        "summary": "Japan's chip-making education program goes on wheels with the mobileFab — truck-mounted lithography machines let students everywhere pattern chip wiring",
-        "url": "https://www.tomshardware.com/tech-industry/semiconductors/japan-puts-chipmaking-labs-inside-trucks-with-mobilefab-trucks-pack-30-cm-lithography-gear-to-tackle-a-10-year-semiconductor-engineer-shortage",
+        "title": "Samsung just launched a gaming monitor with a refresh rate higher than its price — dual-mode Odyssey G60H offers 1,100 Hz in HD",
+        "summary": "Samsung's newly launched Odyssey G60H display is targeted squarely at serious competitive gamers with QHD 600Hz and HD 1100HZ display modes.",
+        "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsung-just-launched-a-gaming-monitor-with-a-refresh-rate-higher-than-its-price-dual-mode-odyssey-g60h-offers-1-100-hz-in-hd",
         "source": "Tom's Hardware",
-        "published": "Tue, 24 Nov 2026 11:30:00",
-        "bn_summary": "জাপান এখন ট্রাকের ভেতরেই চিপমেকিং ল্যাব (mobileFab) স্থাপন করেছে।",
+        "published": "Tue, 24 Nov 2026 13:12:57",
+        "bn_summary": "Samsung-এর dual-mode Odyssey G60H high-refresh monitor—দামের সঙ্গে বাস্তব refresh mode মিলিয়ে দেখুন।",
         "featured": true
       },
       {
-        "title": "Grab a 4K-ready CyberPowerPC gaming rig with a 7800X3D and RTX 5070 for $2,099.99",
-        "summary": "Grab this powerful CyberPowerPC gaming rig with an AMD Ryzen 7 7800X3D and Nvidia GeForce RTX 5070 for $2,099.99.",
-        "url": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-4k-ready-cyberpowerpc-gaming-rig-with-a-7800x3d-and-rtx-5070-for-usd2-099-99-newegg-knocks-usd130-off-this-liquid-cooled-desktop-with-32gb-ddr5-and-a-1tb-ssd",
+        "title": "Vulnerability could let hacker hijack electric trailer braking system remotely via Bluetooth, apply any amount of force remotely",
+        "summary": "After noticing that his Elecbrakes remote had automatically paired to a stranger's trailer, Patrick Forck's cyber security spider senses tingled.",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/vulnerability-could-let-hacker-hijack-electric-trailer-braking-system-remotely-via-bluetooth-apply-any-amount-of-force-remotely-elecbrakes-flaw-reverse-engineered-using-claude-patched-by-manufacturer",
         "source": "Tom's Hardware",
-        "published": "Tue, 24 Nov 2026 11:21:13",
-        "bn_summary": "CyberPowerPC-এর ৭৬০০X3D এবং RTX 5070 গেমিং রিগ এখন বাজারে উপলব্ধ।",
+        "published": "Tue, 24 Nov 2026 12:38:32",
+        "bn_summary": "Bluetooth trailer-brake vulnerability-এর খবর—connected device firmware আপডেট রাখুন।",
         "featured": true
       },
       {
-        "title": "Nvidia engineer who quit over Jensen Huang's exit says he 'may have moved too quickly'",
-        "summary": "An Nvidia robotics engineer that quit in response to Jensen Huang's resignation says he \"may have moved too quickly\" now that CEO is back in charge.",
-        "url": "https://www.tomshardware.com/tech-industry/nvidia-engineer-that-quit-in-response-to-jensen-huang-resignation-welcomes-ceo-back-i-may-have-moved-too-quickly-says-robotics-engineer-who-made-viral-post",
+        "title": "Hit this RTX 5070 Ti-powered gaming laptop deal at Best Buy and save $550",
+        "summary": "Pick up a new gaming laptop in the Black Friday sales with $550 off the Asus ROG G16 at Best Buy.",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/hit-this-rtx-5070-ti-powered-gaming-laptop-deal-at-best-buy-and-save-usd550-asus-rog-strix-g16-only-usd1-749-with-16gb-of-ddr5-ram-and-a-1tb-ssd",
         "source": "Tom's Hardware",
-        "published": "Tue, 24 Nov 2026 11:00:00",
-        "bn_summary": "Jensen Huang চলে যাওয়ার পর পদত্যাগ করা Nvidia ইঞ্জিনিয়ার নিজের সিদ্ধান্ত নিয়ে ভাবছেন।",
+        "published": "Tue, 24 Nov 2026 12:00:00",
+        "bn_summary": "RTX 5070 Ti laptop-এ $550 ছাড়ের দাবি—বিক্রেতা, configuration ও return policy যাচাই করুন।",
         "featured": true
       },
       {
-        "title": "Gamer hijacks plane in GTA 6 using just mind control and eye tracking",
-        "summary": "Perri Karyal programmed an EEG device to read her brainwaves and translate it to actions on her Xbox controller.",
-        "url": "https://www.tomshardware.com/peripherals/wearable-tech/gamer-hijacks-plane-in-gta-6-using-just-mind-control-and-eye-tracking-xbox-controller-mapped-to-read-brain-signals-using-eeg",
+        "title": "Go ad-free across Tom’s Hardware by subscribing to Premium from $7 a month, or $29 annually",
+        "summary": "Tom’s Hardware is going ad-free, exclusively for Premium members.",
+        "url": "https://www.tomshardware.com/tech-industry/go-ad-free-across-toms-hardware-by-subscribing-to-premium-from-usd7-a-month-or-usd29-annually-support-us-to-get-seamless-browsing-read-a-treasure-trove-of-exclusive-content-and-unlock-access-to-bench",
         "source": "Tom's Hardware",
-        "published": "Tue, 24 Nov 2026 10:30:00",
+        "published": "Tue, 24 Nov 2026 12:30:00",
         "bn_summary": "",
         "featured": false
       },
@@ -589,11 +589,11 @@
         "featured": false
       },
       {
-        "title": "Micron Stock Jumps 19%. Why the Rally Has Legs. - Barron's",
-        "summary": "Micron Stock Jumps 19%. Why the Rally Has Legs. Barron's",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zVnhuVHFCalhhbUd5aXFSeHNMa2MxOUJJMDlQQWRHWnhNR3Q1U29OX3duQjVZYlhHY002QzhvUmJ4aWNpM1RpY2FiWjlGQ2J3X2VxZ21NNC1JVnczR3NsZi1OVkNlNmZQN2ZYX09KMDQ2bHlLZGJNY293YU5hdw?oc=5",
+        "title": "Micron Stock Is Counting on a Buyback Bounce. Why It’s No Slam Dunk. - Barron's",
+        "summary": "Micron Stock Is Counting on a Buyback Bounce. Why It’s No Slam Dunk. Barron's",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpZ3dObUpYUENEWWp5NG43UDdpMlI0ZVdPRUp5clkzTXg1UlhCYVFlem9wYzU2eEV2UENYSXRHZjhTb1kxRlI5MXpvRFJ0dTJ3eElCeU01OGJWRUFvdHM5LV9GZkJiWnlOYW9IMFIxRQ?oc=5",
         "source": "Barron's",
-        "published": "Mon, 23 Nov 2026 22:17:00",
+        "published": "Tue, 24 Nov 2026 12:43:00",
         "bn_summary": "",
         "featured": false
       },
@@ -607,20 +607,20 @@
         "featured": false
       },
       {
-        "title": "Is Micron Technology Stock a Buy at $700? - Yahoo Finance",
-        "summary": "Is Micron Technology Stock a Buy at $700? Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN25CbDJEbTJVNVlOd3Q1bEVndjlGcU85NE03RkVNLVJsZWNGZlNHYW16QjJKMW1NYkV3LU9IcWhDenphdmNCVWd5Q1pyVlYwdzRoa09XQjV6aExveWUyNHBIdlBFSmNOdmg1VGJZMnRrU092YkpGbUZKdzRMNW1MUjI1SVJJZXRvNzFsY2hVZFZlS1ZWOWVKbzQ1bXQ?oc=5",
-        "source": "Yahoo Finance",
-        "published": "Mon, 23 Nov 2026 19:12:01",
+        "title": "Roundhill Memory ETF (DRAM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+        "summary": "Roundhill Memory ETF (DRAM) Stock Price, News, Quote & History Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtMnotODJudThHdnpjTzZaNnNGMF9oNGQ5Qjg3ZUdPNUJPUUZRTWM0T3FBdWhxbFRyQk9hdjJtTXFwYkFNUlVJMXRFRThDNHRWRnc?oc=5",
+        "source": "Yahoo! Finance Canada",
+        "published": "Mon, 23 Nov 2026 21:10:13",
         "bn_summary": "",
         "featured": false
       },
       {
-        "title": "Micron Under 10 Times Earnings: Bargain Or Peak? - Trefis",
-        "summary": "Micron Under 10 Times Earnings: Bargain Or Peak? Trefis",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZlV0S2QtTi1YVVhiREczV0ZNczJieGwxZDJOb205cjdaY1VEaTExU2dFazBjNFRLQ2dXNzVMSlMwQmZCakh5M0hoV1RIYUtrSVpHc0NOelpzbWd1LS1Pb09lQnVycnBXZDZtcVExZWlXMThEeHVDM0cySGlfUFl5T3RibzJQZ1RJaWdjMHJhS0ZrTDJSTkdlTmc1b3o1UkYyT1VOSTZ3Qzc?oc=5",
-        "source": "Trefis",
-        "published": "Tue, 24 Nov 2026 08:32:15",
+        "title": "Micron Stock Soared on Monday. I'd Still Buy It, a Little at a Time. - The Motley Fool",
+        "summary": "Micron Stock Soared on Monday. I'd Still Buy It, a Little at a Time. The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzhqLUlUWnZ1dmM0WjJaYTFIXzl3RmdDdlZjUVh6eVcyRVNvbFg5UERnS1JMWkg2b3hPay10bWtoeFlOejY0N19TeUh3bEl6NlRuWDlQWWJod2I1RXFpcURrUm56NGJieF9lbzZHSnBHMndnWHlSV1h4WWxtRndoZWVvRDc4UXdGX2lLUjF0Q2RYWXZ2QlNteENkTnRLaFZiQUNuZkkzelplZWdS?oc=5",
+        "source": "The Motley Fool",
+        "published": "Tue, 24 Nov 2026 13:23:01",
         "bn_summary": "",
         "featured": false
       }
