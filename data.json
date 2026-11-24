@@ -1,68 +1,113 @@
 {
-  "edition": 1,
-  "updated_ts": 1795531474,
-  "updated_dhaka": "24 Nov 2026, 08:44 PM (BDT)",
-  "updated_utc": "2026-11-24 14:44 UTC",
-  "batch_label": "08:44 PM BDT",
-  "new_added": 30,
+  "edition": 2,
+  "updated_ts": 1795535605,
+  "updated_dhaka": "24 Nov 2026, 09:53 PM (BDT)",
+  "updated_utc": "2026-11-24 15:53 UTC",
+  "batch_label": "09:53 PM BDT",
+  "new_added": 15,
   "expired_removed": 0,
-  "curated_by": "gemini (gemini-flash-lite-latest)",
+  "curated_by": "codex-relay (gpt-5.6-luna)",
   "advice": {
-    "title": "এআই এজেন্ট ও স্টক মার্কেটের নতুন চমক",
-    "body": "এনভিডিয়া ও মাইক্রনের দুর্দান্ত প্রবৃদ্ধির মাঝে এআই এজেন্ট কোড রিভিউ ও জিরো-ডে হ্যাক হ্যান্ডেল করছে। ফ্রি এআই টুল ও এপিআই ব্যবহার করে আপনার প্রজেক্টের অটোমেশন আজই আপগ্রেড করুন।",
+    "title": "AI র‍্যালিতে বুদ্ধিমান এগোনো",
+    "body": "Amazon-Decart ও AI-agent খবরের পাশাপাশি aiseesoft-launch-pro, AIDA-64 Extreme এবং PiBot GitHub রিপো আগে sandbox-এ যাচাই করে, free API quota ও VPS budget সীমিত রেখে ছোট prototype চালান। S&P 500, NASDAQ, NVDA ও Micron-এর তীব্র উত্থানে FOMO না করে ধাপে ধাপে entry, stop-loss ও position-size ঠিক করুন; Gold $3,581-এর কাছে দুর্বল এবং Bitcoinও নেমেছে, তাই portfolio-তে কিছু cash hedge রাখুন। Gaza, China ও Syria-র geopolitical ঝুঁকিতে API, chip ও market volatility বাড়তে পারে—credential security, backup এবং অন্তত 2FA আজই সক্রিয় করুন।",
     "tag": "AI & Dev"
   },
   "quote": {
-    "text_bn": "ভবিষ্যতের পূর্বাভাস দেওয়ার সেরা উপায় হলো ভবিষ্যৎ নিজে তৈরি করা।",
-    "author": "আব্রাহাম লিঙ্কন",
-    "note_bn": "আজই নতুন প্রযুক্তি ও কোডিং প্রজেক্টে হাত দিয়ে নিজের ক্যারিয়ারের ভবিষ্যৎ নিজেই গড়ে তুলুন।"
+    "text_bn": "যদি তোর ডাক শুনে কেউ না আসে তবে একলা চলো রে।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "note_bn": "আজ অন্যের অনুমোদনের অপেক্ষা না করে ছোট, যাচাইযোগ্য AI prototype নিজেই শুরু করুন।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,620.30",
-      "change_pct": -0.85,
+      "price": "$3,581.10",
+      "change_pct": -1.93,
       "up": false
     },
     {
       "symbol": "^GSPC",
       "label": "S&P 500",
-      "price": "7,182.60",
-      "change_pct": 3.94,
+      "price": "7,172.09",
+      "change_pct": 3.79,
       "up": true
     },
     {
       "symbol": "^IXIC",
       "label": "NASDAQ",
-      "price": "23,710.93",
-      "change_pct": 4.83,
+      "price": "23,617.52",
+      "change_pct": 4.42,
       "up": true
     },
     {
       "symbol": "NVDA",
       "label": "NVIDIA",
-      "price": "$155.43",
-      "change_pct": 23.82,
+      "price": "$152.54",
+      "change_pct": 21.52,
       "up": true
     },
     {
       "symbol": "MU",
       "label": "Micron (RAM)",
-      "price": "$653.39",
-      "change_pct": 9.9,
+      "price": "$630.31",
+      "change_pct": 6.02,
       "up": true
     },
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$60,381.02",
-      "change_pct": -1.36,
+      "price": "$59,884.26",
+      "change_pct": -2.17,
       "up": false
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+        "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+        "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+        "source": "TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2022/07/AP22104515656433.jpg?resize=1200,754",
+        "published_ts": 1795535467,
+        "published": "24 Nov, 09:51 PM",
+        "bn_summary": "Amazon প্রায় ৭.৫ বিলিয়ন ডলারে Decart অধিগ্রহণ করে Trainium AI চিপের দক্ষতা বাড়াতে সফটওয়্যার সক্ষমতা যুক্ত করতে চাইছে। এতে Nvidia-র হার্ডওয়্যার নেতৃত্বের সঙ্গে ব্যবধান কমানোর জন্য Amazon-এর নিজস্ব চিপ কৌশল আরও শক্তিশালী হতে পারে।",
+        "added_at_ts": 1795535605,
+        "expires_at_ts": 1795622005,
+        "batch_label": "09:53 PM BDT",
+        "batch_edition": 2,
+        "is_new": true
+      },
+      {
+        "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+        "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+        "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+        "source": "TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/11/supertake-header.jpg?resize=1200,675",
+        "published_ts": 1795471325,
+        "published": "24 Nov, 04:02 AM",
+        "bn_summary": "Supertake ২০ মিলিয়ন ডলার তহবিল পেয়েছে এমন একটি প্ল্যাটফর্ম তৈরির জন্য, যেখানে AI agent ব্যবহারকারীর বাজার-ধারণাকে স্বয়ংক্রিয়ভাবে স্টক পোর্টফোলিওতে রূপ দিতে পারে। ফলে বিনিয়োগকারীকে নিজে আলাদা শেয়ার বাছাই করতে না হলেও, AI-নির্ভর সিদ্ধান্তে ঝুঁকি ও ভুলের বিষয়টি গুরুত্বপূর্ণ থাকবে।",
+        "added_at_ts": 1795535605,
+        "expires_at_ts": 1795622005,
+        "batch_label": "09:53 PM BDT",
+        "batch_edition": 2,
+        "is_new": true
+      },
+      {
+        "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+        "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+        "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+        "source": "TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+        "published_ts": 1795470461,
+        "published": "24 Nov, 03:47 AM",
+        "bn_summary": "Nvidia-র Jensen Huang-কে ঘিরে তৈরি হওয়া কেলেঙ্কারির পর তাকে আবার দায়িত্বে ফিরিয়ে দেওয়া হয়েছে, যা Elon Musk-সহ কয়েকজন প্রকাশ্যে স্বাগত জানিয়েছেন। এই পুনর্বহাল Nvidia-র নেতৃত্বে স্থিতিশীলতার বার্তা দিলেও ঘটনার মূল বিতর্ক ও দায়-দায়িত্বের প্রশ্ন পুরোপুরি মিটেছে কি না তা স্পষ্ট নয়।",
+        "added_at_ts": 1795535605,
+        "expires_at_ts": 1795622005,
+        "batch_label": "09:53 PM BDT",
+        "batch_edition": 2,
+        "is_new": true
+      },
       {
         "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
         "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
@@ -76,7 +121,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Trump engineered a risky comeback for Jensen Huang",
@@ -91,7 +136,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Welcome to elite impunity, Jensen Huang",
@@ -106,7 +151,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Nvidia CEO Jensen Huang is back. What happens next?",
@@ -121,7 +166,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -136,10 +181,61 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       }
     ],
     "github": [
+      {
+        "title": "youssefco1999-hash/aiseesoft-launch-pro",
+        "summary": "Aiseesoft Launch Pro: Desktop Utility for Aiseesoft Unlocker Operations",
+        "url": "https://github.com/youssefco1999-hash/aiseesoft-launch-pro",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/youssefco1999-hash/aiseesoft-launch-pro",
+        "stars": 339,
+        "language": "HTML",
+        "published_ts": 1795265973,
+        "published": "2026-11-21",
+        "bn_summary": "এই GitHub রিপোজিটরিটি Aiseesoft Unlocker-এর কাজ পরিচালনার জন্য একটি desktop utility হিসেবে উপস্থাপিত হয়েছে এবং এতে ৩৩৯টি star আছে। জনপ্রিয়তা থাকলেও unlocker-ধরনের সফটওয়্যার ব্যবহারের আগে এর নিরাপত্তা, লাইসেন্স এবং প্রকৃত কার্যকারিতা যাচাই করা জরুরি।",
+        "added_at_ts": 1795535605,
+        "expires_at_ts": 1795622005,
+        "batch_label": "09:53 PM BDT",
+        "batch_edition": 2,
+        "is_new": true
+      },
+      {
+        "title": "rafiiiakmall-cpu/aida-64-extreme",
+        "summary": "Aida 64 Extreme: Desktop Hardware Diagnostics and System Profiling Suite",
+        "url": "https://github.com/rafiiiakmall-cpu/aida-64-extreme",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/rafiiiakmall-cpu/aida-64-extreme",
+        "stars": 337,
+        "language": "HTML",
+        "published_ts": 1795265790,
+        "published": "2026-11-21",
+        "bn_summary": "এটি Aida64 Extreme-ধাঁচের desktop hardware diagnostics ও system profiling suite, যেখানে কম্পিউটারের উপাদান এবং পারফরম্যান্স পরীক্ষা করার লক্ষ্য রয়েছে। ৩৩৭টি star পাওয়া প্রকল্পটি হার্ডওয়্যার মনিটরিংয়ে আগ্রহ দেখালেও ব্যবহারকারীদের কোড ও ডেটা-অ্যাক্সেসের নিরাপত্তা যাচাই করা উচিত।",
+        "added_at_ts": 1795535605,
+        "expires_at_ts": 1795622005,
+        "batch_label": "09:53 PM BDT",
+        "batch_edition": 2,
+        "is_new": true
+      },
+      {
+        "title": "w01fb0ss/PiBot",
+        "summary": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+        "url": "https://github.com/w01fb0ss/PiBot",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/w01fb0ss/PiBot",
+        "stars": 546,
+        "language": "TypeScript",
+        "published_ts": 1795244064,
+        "published": "2026-11-21",
+        "bn_summary": "PiBot হলো local-first open-source AI agent team, যা multi-agent chat, computer use, browser automation, MCP, routines এবং approval workflow একত্র করে; এটি macOS, Windows ও Linux সমর্থন করে। ৫৪৬টি star পাওয়া প্রকল্পটি ব্যক্তিগত কম্পিউটারে স্বয়ংক্রিয় কাজ চালানোর সম্ভাবনা দেখায়, তবে agent-কে অনুমতি দেওয়ার ক্ষেত্রে নিয়ন্ত্রণ ও গোপনীয়তা গুরুত্বপূর্ণ।",
+        "added_at_ts": 1795535605,
+        "expires_at_ts": 1795622005,
+        "batch_label": "09:53 PM BDT",
+        "batch_edition": 2,
+        "is_new": true
+      },
       {
         "title": "erkamyaman/safe-anything",
         "summary": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
@@ -155,7 +251,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Developing-Gamer/agent-sim",
@@ -172,7 +268,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "praseesh369/youtube-ai-video-editing-system",
@@ -189,7 +285,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "qianyiai/kurocat",
@@ -206,7 +302,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "EL4CTEO/fast-anything",
@@ -223,7 +319,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       }
     ],
     "free_deals": [
@@ -240,7 +336,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Todd Stager, SEO Expert, Launches Free AI Sitemap Tool Using Open Knowledge Format - Times Herald-Record",
@@ -255,7 +351,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Meet LingSante-3.1-air-VL, an open-source multimodal medical model with 124B total and 5.5B active parameters. It combines medical image understanding, report generation and medica",
@@ -270,7 +366,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Today, we release LingSante-3.1-flash, an open-weight MoE model with 560B total parameters and 25B activations per token. It unifies diverse medical capabilities while retaining ge",
@@ -285,7 +381,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "1,000 free API credits on Modulate: https://t.co/F5ADUAmm5l - X",
@@ -300,10 +396,55 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       }
     ],
     "war": [
+      {
+        "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+        "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
+        "published_ts": 1795534553,
+        "published": "24 Nov, 09:35 PM",
+        "bn_summary": "গাজায় ইসরায়েলি বিমান হামলায় Hamas-এর internal security chief Naeem Abu Nahel নিহত হয়েছেন বলে প্রতিবেদনটি জানাচ্ছে, এবং মঙ্গলবারের হামলায় মোট সাত ফিলিস্তিনি নিহত হওয়ার খবর পাওয়া গেছে। ঘটনাটি চলমান সংঘাতে Hamas-এর প্রশাসনিক কাঠামো ও বেসামরিক নিরাপত্তার ওপর নতুন চাপ তৈরি করছে, যদিও হতাহতের তথ্য স্বাধীনভাবে যাচাই করা কঠিন হতে পারে।",
+        "added_at_ts": 1795535605,
+        "expires_at_ts": 1795622005,
+        "batch_label": "09:53 PM BDT",
+        "batch_edition": 2,
+        "is_new": true
+      },
+      {
+        "title": "China’s probes Shanghai party chief Chen Jining over corruption",
+        "summary": "Chen is the fourth Politburo member to be probed since last year in a campaign that has targeted top Chinese leaders.",
+        "url": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b059c9e8e-1795529886.jpg?resize=1920%2C1440",
+        "published_ts": 1795534010,
+        "published": "24 Nov, 09:26 PM",
+        "bn_summary": "চীনের Shanghai party chief Chen Jining-এর বিরুদ্ধে দুর্নীতির তদন্ত শুরু হয়েছে, যা গত বছরের পর তদন্তের মুখে পড়া চতুর্থ Politburo সদস্যের ঘটনা। এত উচ্চপর্যায়ের নেতাদের বিরুদ্ধে ধারাবাহিক পদক্ষেপ President Xi Jinping-এর দুর্নীতিবিরোধী অভিযান এবং দলের অভ্যন্তরীণ ক্ষমতার ভারসাম্য—দুই দিকই তুলে ধরে।",
+        "added_at_ts": 1795535605,
+        "expires_at_ts": 1795622005,
+        "batch_label": "09:53 PM BDT",
+        "batch_edition": 2,
+        "is_new": true
+      },
+      {
+        "title": "Land mine casualties soar in Syria, two years after war",
+        "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+        "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg",
+        "published_ts": 1795533448,
+        "published": "24 Nov, 09:17 PM",
+        "bn_summary": "সিরিয়ায় যুদ্ধ শেষ হওয়ার প্রায় দুই বছর পরও পরিত্যক্ত land mine ও বিস্ফোরক থেকে হতাহত দ্রুত বাড়ছে, এবং নিহত বা আহতদের মধ্যে প্রায় ১,০০০ শিশু রয়েছে। এটি দেখায় যে সংঘাত থামলেও অবিস্ফোরিত অস্ত্র দীর্ঘদিন মানুষের চলাচল, পুনর্গঠন ও নিরাপত্তার জন্য বড় হুমকি হয়ে থাকে।",
+        "added_at_ts": 1795535605,
+        "expires_at_ts": 1795622005,
+        "batch_label": "09:53 PM BDT",
+        "batch_edition": 2,
+        "is_new": true
+      },
       {
         "title": "Israeli air strike kills senior Hamas military official in Gaza",
         "summary": "The Hamas official was reportedly responsible for countering Palestinians suspected of collaborating with Israel.",
@@ -317,7 +458,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Ten years after its 2016 peace deal, Colombia faces a return to conflict",
@@ -332,7 +473,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
@@ -347,7 +488,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence",
@@ -362,7 +503,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Iran files lawsuits in US, EU courts: Will it get justice for ‘war crimes’?",
@@ -377,10 +518,55 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "Gold price testing support near $3,600 as US Consumer Confidence sees sharp rise in November - Kitco",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONW1hcGJjNFlvQ1ppXzM3S0l5YUpzbkZhXzg1c2FPMEhLNVZ0dklmVW1TUHY3dmtxN21ZZVNvQVNHRzh0RXBtN2lmeGZ1OHVEVW5vNFdlYTdSZFFxY0tJU05vQkh1dVRXUk1lYl9NZko0eTd1cGdjRmR1WU5lUGtaTDNXYUxKZTNfcUpsc1c1MG9IRmVWUWFrTVVDV0s5OVJiNHRXRUIwb3ZMeVZzQ0N6a09TZF90MDhOOEoyeUpB?oc=5",
+        "source": "Kitco",
+        "image": "",
+        "published_ts": 1795532507,
+        "published": "24 Nov, 09:01 PM",
+        "bn_summary": "নভেম্বরে যুক্তরাষ্ট্রের Consumer Confidence তীব্রভাবে বাড়ার পর gold price প্রায় ৩,৬০০ ডলারের support level পরীক্ষা করছে। শক্তিশালী ভোক্তা-আস্থা সুদের হার ও ডলারের প্রত্যাশাকে প্রভাবিত করতে পারে, তাই এই support ভাঙে কি না তা সোনার পরবর্তী দিক নির্ধারণে গুরুত্বপূর্ণ হতে পারে।",
+        "added_at_ts": 1795535605,
+        "expires_at_ts": 1795622005,
+        "batch_label": "09:53 PM BDT",
+        "batch_edition": 2,
+        "is_new": true
+      },
+      {
+        "title": "As the stock market rallies, fears of a bubble persist - Los Angeles Times",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUVncWdDbmkyb3ZfR0hYcXRia2ZhVW1kSVF3X1hPZVhmekFnWlRDQ1FRdlk1M0UxSkI4UG9ZcUNLWldvUXdzTUFFTUpNSjBzbXlleEtnWFNCR3poZTdmRXNvazltd2dXeTR3YlNQTG5QS252amtPTG54akFXUldONzlybTNPV0NDVnBjTnNCZkpCaXRST0FuOGFDdEhuWXF0NHp6ckFSUQ?oc=5",
+        "source": "Los Angeles Times",
+        "image": "",
+        "published_ts": 1795530600,
+        "published": "24 Nov, 08:30 PM",
+        "bn_summary": "শেয়ারবাজারের সাম্প্রতিক rally সত্ত্বেও বিনিয়োগকারীদের একাংশ মনে করছেন, দাম কোম্পানির প্রকৃত আয়ের সম্ভাবনার তুলনায় অতিরিক্ত বেড়ে গেছে। এই bubble-এর আশঙ্কা গুরুত্বপূর্ণ, কারণ প্রত্যাশা পূরণ না হলে দ্রুত ও বড় ধরনের বাজার পতন হতে পারে।",
+        "added_at_ts": 1795535605,
+        "expires_at_ts": 1795622005,
+        "batch_label": "09:53 PM BDT",
+        "batch_edition": 2,
+        "is_new": true
+      },
+      {
+        "title": "Gold Price Today on November 24, 2026 - USA Today",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdGV2LUZjZ21fUTFpcmtid3FCeXkxS3V5WXNZZ3lBdE1ZZ1hlaXhsdVJMVWZhdVhYeEdTVDFaOVJ2R3RPVG9Lb0tHWGIwWFhvcVo2U2FvX3l2NFdIVEdnMjJkWG9EX0pGa25LR0l2cWlYZ3hqVFJpQ1F6MU11bTAweGtZU1pXaUVWeGlXUHMyWjF1b1VGazAwZ2M3OEp5NVZHbUww?oc=5",
+        "source": "USA Today",
+        "image": "",
+        "published_ts": 1795529640,
+        "published": "24 Nov, 08:14 PM",
+        "bn_summary": "USA Today-এর প্রতিবেদনটি ২৪ নভেম্বর ২০২৬ তারিখে সোনার বাজারদর এবং সংশ্লিষ্ট বাজার পরিস্থিতি তুলে ধরেছে। বিনিয়োগকারীদের জন্য এটি গুরুত্বপূর্ণ, কারণ gold price পরিবর্তন মুদ্রাস্ফীতি, সুদের হার ও অনিশ্চয়তার সময় সম্পদ বণ্টনে প্রভাব ফেলে।",
+        "added_at_ts": 1795535605,
+        "expires_at_ts": 1795622005,
+        "batch_label": "09:53 PM BDT",
+        "batch_edition": 2,
+        "is_new": true
+      },
       {
         "title": "Gold Price Forecast: ETF Outflows Threaten Gold’s Sharp Recovery - FXEmpire",
         "summary": "",
@@ -394,7 +580,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
@@ -409,7 +595,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Nvidia Stock Is Falling Again. Why the Jensen Jubilation Is Already Fading. - Barron's",
@@ -424,7 +610,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Opinion | Nvidia proves nobody knows anything about the stock market - The Washington Post",
@@ -439,7 +625,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
@@ -454,10 +640,55 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "Micron Stock Is Counting on a Buyback Bounce. Why It’s No Slam Dunk. - Barron's",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpZ3dObUpYUENEWWp5NG43UDdpMlI0ZVdPRUp5clkzTXg1UlhCYVFlem9wYzU2eEV2UENYSXRHZjhTb1kxRlI5MXpvRFJ0dTJ3eElCeU01OGJWRUFvdHM5LV9GZkJiWnlOYW9IMFIxRQ?oc=5",
+        "source": "Barron's",
+        "image": "",
+        "published_ts": 1795534425,
+        "published": "24 Nov, 09:33 PM",
+        "bn_summary": "Micron শেয়ারের সম্ভাব্য buyback বিনিয়োগকারীদের সাময়িকভাবে উৎসাহিত করতে পারে, কারণ এতে outstanding share কমে প্রতি শেয়ারের আয় বাড়ার সুযোগ থাকে। তবে Barron's-এর শিরোনাম ইঙ্গিত করছে যে দুর্বল চিপ-চাহিদা বা অস্থির memory বাজার buyback-এর ইতিবাচক প্রভাবকে নিশ্চিত হতে দিচ্ছে না।",
+        "added_at_ts": 1795535605,
+        "expires_at_ts": 1795622005,
+        "batch_label": "09:53 PM BDT",
+        "batch_edition": 2,
+        "is_new": true
+      },
+      {
+        "title": "Micron Falls 7% as NVIDIA Pullback Partially Reverses Monday’s AI Chip Rally; SanDisk and SK Hynix Drop 6% - Yahoo Finance",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGk5X0RPa1BXQ09qWjZtNnZjWXp1bHZqNmpWdVV1TzRCbFg5QWJSVnBnVXk0czN3Rk5PLUYzeGU1M0oteTVqR2dBOWRMYXlGN3Z2b29DM2xkMGt3eUdfTk53TTMzTjE2dDV4LUZ2alFQQmV6UWFzakcxX245RW1pT0QxajFIbU5CSm1qZzNQWVhXRmcyNXptMU9GNA?oc=5",
+        "source": "Yahoo Finance",
+        "image": "",
+        "published_ts": 1795529253,
+        "published": "24 Nov, 08:07 PM",
+        "bn_summary": "NVIDIA শেয়ারে pullback হওয়ার পর AI-chip rally-এর একটি অংশ উল্টে যায়, ফলে Micron প্রায় ৭% এবং SanDisk ও SK Hynix প্রায় ৬% কমে। ঘটনাটি দেখায় যে AI-নির্ভর semiconductor stocks একই বিনিয়োগ-আবেগের সঙ্গে চলায় NVIDIA-র দুর্বলতা পুরো chip sector-এ ছড়িয়ে পড়তে পারে।",
+        "added_at_ts": 1795535605,
+        "expires_at_ts": 1795622005,
+        "batch_label": "09:53 PM BDT",
+        "batch_edition": 2,
+        "is_new": true
+      },
+      {
+        "title": "Micron Stock Drops After Monday’s Surge as Nvidia Scrutiny Hits Chipmakers - Benzinga",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRHBRR3ozWWtCTmVrLTdaNHBiUy0zTlk3WVFYNHZpWDBUWkhBYmg3a0haclJwNXRLWW96RklNUVJncnNCTl9EaDBlanYzMEV1QkZvTlA5X0dpeVJaaWlwRGJFazVoLUJfTXhwQTFJV2VUeFRqcHBVV3dmUDQ2bmg3M2RDTHpWZXRjWHBNZ0lma2lqRHhQOFI1bm9jSHI3QjlXODh6eThxRE5uS05EN3JvSWpfSnJHUzFRMFJZYzh3TVVBTUFP?oc=5",
+        "source": "Benzinga",
+        "image": "",
+        "published_ts": 1795527625,
+        "published": "24 Nov, 07:40 PM",
+        "bn_summary": "সোমবারের তীব্র উত্থানের পর Micron শেয়ার পড়ে যায়, যখন NVIDIA-কে ঘিরে scrutiny পুরো chipmaker গোষ্ঠীতে চাপ তৈরি করে। এতে বোঝা যায়, AI-চিপ ব্যবসা নিয়ে উচ্চ প্রত্যাশার পাশাপাশি valuation ও চাহিদা নিয়ে প্রশ্ন বাড়লে sector-wide volatility দ্রুত বেড়ে যেতে পারে।",
+        "added_at_ts": 1795535605,
+        "expires_at_ts": 1795622005,
+        "batch_label": "09:53 PM BDT",
+        "batch_edition": 2,
+        "is_new": true
+      },
       {
         "title": "Jensen Huang confessed to more affairs before the board reinstated him as Nvidia CEO, report claims",
         "summary": "Jensen Huang admitted to more affairs than the two that Nvidia's board members were already aware of before they agreed to let him return to the company as CEO, President, and board member, amid reports that one of the women involved is a Chinese spy.",
@@ -471,7 +702,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "The cheapest 32GB DDR5-6000 RAM kit on the market is on sale for only $439",
@@ -486,7 +717,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Corsair’s 32GB DDR5-6000 RGB RAM kit with AMD EXPO and Intel XMP is $499.99 in Newegg deal - MIXED News",
@@ -501,7 +732,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Trump pressured Nvidia to bring Jensen back, called into board meeting to push reinstatement, reports claim",
@@ -516,7 +747,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Samsung just launched a gaming monitor with a refresh rate higher than its price — dual-mode Odyssey G60H offers 1,100 Hz in HD",
@@ -531,7 +762,7 @@
         "expires_at_ts": 1795617874,
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
-        "is_new": true
+        "is_new": false
       }
     ]
   }
