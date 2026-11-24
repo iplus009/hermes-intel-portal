@@ -1,68 +1,113 @@
 {
-  "edition": 2,
-  "updated_ts": 1795535605,
-  "updated_dhaka": "24 Nov 2026, 09:53 PM (BDT)",
-  "updated_utc": "2026-11-24 15:53 UTC",
-  "batch_label": "09:53 PM BDT",
+  "edition": 3,
+  "updated_ts": 1795542985,
+  "updated_dhaka": "24 Nov 2026, 11:56 PM (BDT)",
+  "updated_utc": "2026-11-24 17:56 UTC",
+  "batch_label": "11:56 PM BDT",
   "new_added": 15,
   "expired_removed": 0,
-  "curated_by": "codex-relay (gpt-5.6-luna)",
+  "curated_by": "gemini (gemini-flash-lite-latest)",
   "advice": {
-    "title": "AI র‍্যালিতে বুদ্ধিমান এগোনো",
-    "body": "Amazon-Decart ও AI-agent খবরের পাশাপাশি aiseesoft-launch-pro, AIDA-64 Extreme এবং PiBot GitHub রিপো আগে sandbox-এ যাচাই করে, free API quota ও VPS budget সীমিত রেখে ছোট prototype চালান। S&P 500, NASDAQ, NVDA ও Micron-এর তীব্র উত্থানে FOMO না করে ধাপে ধাপে entry, stop-loss ও position-size ঠিক করুন; Gold $3,581-এর কাছে দুর্বল এবং Bitcoinও নেমেছে, তাই portfolio-তে কিছু cash hedge রাখুন। Gaza, China ও Syria-র geopolitical ঝুঁকিতে API, chip ও market volatility বাড়তে পারে—credential security, backup এবং অন্তত 2FA আজই সক্রিয় করুন।",
-    "tag": "AI & Dev"
+    "title": "টেক র‍্যালি ও গোল্ড কারেকশনে স্মার্ট মুভ",
+    "body": "আজ এনভিডিয়া ও নাসডাকের উল্লম্ফন এবং গোল্ডের দরপতন দেখায় যে বাজারের গতি দ্রুত বদলাচ্ছে। ফ্রি এআই টুল আর জিপিইউ ডিল কাজে লাগিয়ে প্রোজেক্ট অপ্টিমাইজ করুন এবং এই মার্জিন কারেকশনে পোর্টফোলিও ব্যালেন্স রাখুন।",
+    "tag": "Market & Gold"
   },
   "quote": {
-    "text_bn": "যদি তোর ডাক শুনে কেউ না আসে তবে একলা চলো রে।",
-    "author": "রবীন্দ্রনাথ ঠাকুর",
-    "note_bn": "আজ অন্যের অনুমোদনের অপেক্ষা না করে ছোট, যাচাইযোগ্য AI prototype নিজেই শুরু করুন।"
+    "text_bn": "ভবিষ্যতের পূর্বাভাস দেওয়ার সেরা উপায় হলো তা নিজে তৈরি করা।",
+    "author": "পিটার ড্রাকার",
+    "note_bn": "বাজারের বর্তমান অস্থিরতায় বসে না থেকে নিজের দক্ষতা ও টেক প্রজেক্ট গড়ায় মন দিন।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,581.10",
-      "change_pct": -1.93,
+      "price": "$3,565.50",
+      "change_pct": -2.35,
       "up": false
     },
     {
       "symbol": "^GSPC",
       "label": "S&P 500",
-      "price": "7,172.09",
-      "change_pct": 3.79,
+      "price": "7,207.76",
+      "change_pct": 4.3,
       "up": true
     },
     {
       "symbol": "^IXIC",
       "label": "NASDAQ",
-      "price": "23,617.52",
-      "change_pct": 4.42,
+      "price": "23,759.15",
+      "change_pct": 5.05,
       "up": true
     },
     {
       "symbol": "NVDA",
       "label": "NVIDIA",
-      "price": "$152.54",
-      "change_pct": 21.52,
+      "price": "$153.26",
+      "change_pct": 22.09,
       "up": true
     },
     {
       "symbol": "MU",
       "label": "Micron (RAM)",
-      "price": "$630.31",
-      "change_pct": 6.02,
+      "price": "$635.06",
+      "change_pct": 6.82,
       "up": true
     },
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$59,884.26",
-      "change_pct": -2.17,
+      "price": "$59,997.88",
+      "change_pct": -1.98,
       "up": false
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "Tidal will start banning AI-generated music next month",
+        "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move ",
+        "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+        "source": "The Verge",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published_ts": 1795540629,
+        "published": "24 Nov, 11:17 PM",
+        "bn_summary": "Tidal December 9 theke AI‑generated গানের প্ল্যাটফর্মে নিষেধাজ্ঞা আরোপ করবে, ফলে প্রায় ২৯ মিলিয়ন কৃত্রিম ট্র্যাক মুছে ফেলা হবে। এই পদক্ষেপ শিল্পীদের কাজের স্বচ্ছতা রক্ষা করবে এবং স্ট্রিমিং সার্ভিসে আসল সৃষ্টিকর্মের মূল্য বাড়াবে।",
+        "added_at_ts": 1795542985,
+        "expires_at_ts": 1795629385,
+        "batch_label": "11:56 PM BDT",
+        "batch_edition": 3,
+        "is_new": true
+      },
+      {
+        "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+        "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+        "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+        "source": "TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200",
+        "published_ts": 1795539600,
+        "published": "24 Nov, 11:00 PM",
+        "bn_summary": "Meta Muse AI-কে সরাসরি Instagram DM-এ ইন্টিগ্রেট করেছে, ফলে ইউজারদের আলাদা Muse অ্যাপ খুলতে হবে না। এটা কনভার্সেশনকে দ্রুত ও সহজ করে, এবং AI‑এর মাধ্যমে কন্টেন্ট ক্রিয়েশন ও সাপোর্টে নতুন সুযোগ দেয়।",
+        "added_at_ts": 1795542985,
+        "expires_at_ts": 1795629385,
+        "batch_label": "11:56 PM BDT",
+        "batch_edition": 3,
+        "is_new": true
+      },
+      {
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times'",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+        "source": "The Verge",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+        "published_ts": 1795539161,
+        "published": "24 Nov, 10:52 PM",
+        "bn_summary": "The New York Times ফ্রিল্যান্স ফটোগ্রাফারদের নতুন Photoshop (2027) আপডেট না করার পরামর্শ দিচ্ছে, কারণ এতে AI‑ভিত্তিক এডিটিং ফিচার আছে যা ছবির অখণ্ডতা বদলে দিতে পারে। এই সতর্কতা ফটোগ্রাফারদের কাজের স্বতন্ত্রতা রক্ষা ও কপিরাইট সমস্যার ঝুঁকি কমাতে গুরুত্বপূর্ণ।",
+        "added_at_ts": 1795542985,
+        "expires_at_ts": 1795629385,
+        "batch_label": "11:56 PM BDT",
+        "batch_edition": 3,
+        "is_new": true
+      },
       {
         "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
         "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
@@ -76,7 +121,7 @@
         "expires_at_ts": 1795622005,
         "batch_label": "09:53 PM BDT",
         "batch_edition": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
@@ -91,7 +136,7 @@
         "expires_at_ts": 1795622005,
         "batch_label": "09:53 PM BDT",
         "batch_edition": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
@@ -106,7 +151,7 @@
         "expires_at_ts": 1795622005,
         "batch_label": "09:53 PM BDT",
         "batch_edition": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
@@ -186,6 +231,57 @@
     ],
     "github": [
       {
+        "title": "xikhar/papercraft",
+        "summary": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
+        "url": "https://github.com/xikhar/papercraft",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/xikhar/papercraft",
+        "stars": 589,
+        "language": "JavaScript",
+        "published_ts": 1795220996,
+        "published": "2026-11-21",
+        "bn_summary": "GitHub‑এর xikhar/papercraft রেপোতে AI‑এর মাধ্যমে গেম, ইন্টারেক্টিভ দৃশ্য, ওয়েব পেজ এবং অ্যানিমেশন তৈরি করা যায় পেপারক্রাফ্ট স্টাইলে। ডেভেলপাররা এই টুল দিয়ে হ্যান্ডক্রাফটেড ভিজ্যুয়াল কন্টেন্ট দ্রুত প্রোটোটাইপ করতে পারে, যা ক্রিয়েটিভ প্রোডাকশনকে ত্বরান্বিত করে।",
+        "added_at_ts": 1795542985,
+        "expires_at_ts": 1795629385,
+        "batch_label": "11:56 PM BDT",
+        "batch_edition": 3,
+        "is_new": true
+      },
+      {
+        "title": "danielwh2/sprite-stacking",
+        "summary": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+        "url": "https://github.com/danielwh2/sprite-stacking",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/danielwh2/sprite-stacking",
+        "stars": 757,
+        "language": "HTML",
+        "published_ts": 1795185163,
+        "published": "2026-11-20",
+        "bn_summary": "danielwh2/sprite-stacking রেপো চারটি পিক্সেল আর্ট ভিউকে ফেক‑৩ডি স্প্রাইটে রূপান্তর করে, যা বিভিন্ন কোড জেনারেটর (Claude, Codex, ইত্যাদি) এর সাথে কাজ করে। এটি গেম ডেভেলপারদের কম সময়ে ডাইনামিক ভিজ্যুয়াল তৈরি করতে সহায়তা করে, ফলে প্রোডাকশন পাইপলাইন সহজ হয়।",
+        "added_at_ts": 1795542985,
+        "expires_at_ts": 1795629385,
+        "batch_label": "11:56 PM BDT",
+        "batch_edition": 3,
+        "is_new": true
+      },
+      {
+        "title": "sous-labs/songe",
+        "summary": "A training engine for your local model, using your idle compute",
+        "url": "https://github.com/sous-labs/songe",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/sous-labs/songe",
+        "stars": 463,
+        "language": "Python",
+        "published_ts": 1795172480,
+        "published": "2026-11-20",
+        "bn_summary": "sous-labs/songe একটি লোকাল মডেল ট্রেনিং ইঞ্জিন, যা আপনার কম্পিউটারের আইডল রিসোর্স ব্যবহার করে মডেল ট্রেন করে। এই পদ্ধতি ক্লাউড খরচ কমায় এবং ডেটা প্রাইভেসি বজায় রেখে AI ডেভেলপমেন্টকে আরও অ্যাক্সেসযোগ্য করে।",
+        "added_at_ts": 1795542985,
+        "expires_at_ts": 1795629385,
+        "batch_label": "11:56 PM BDT",
+        "batch_edition": 3,
+        "is_new": true
+      },
+      {
         "title": "youssefco1999-hash/aiseesoft-launch-pro",
         "summary": "Aiseesoft Launch Pro: Desktop Utility for Aiseesoft Unlocker Operations",
         "url": "https://github.com/youssefco1999-hash/aiseesoft-launch-pro",
@@ -200,7 +296,7 @@
         "expires_at_ts": 1795622005,
         "batch_label": "09:53 PM BDT",
         "batch_edition": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "rafiiiakmall-cpu/aida-64-extreme",
@@ -217,7 +313,7 @@
         "expires_at_ts": 1795622005,
         "batch_label": "09:53 PM BDT",
         "batch_edition": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "w01fb0ss/PiBot",
@@ -234,7 +330,7 @@
         "expires_at_ts": 1795622005,
         "batch_label": "09:53 PM BDT",
         "batch_edition": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "erkamyaman/safe-anything",
@@ -401,6 +497,51 @@
     ],
     "war": [
       {
+        "title": "Five tonnes of explosives set to blow up in Iowa",
+        "summary": "The US Army is preparing to detonate nearly five tonnes of unstable explosives in Iowa on Wednesday.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/five-tonnes-of-explosives-set-to-blow-up-in-iowa?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795541553.jpg?resize=1920%2C1080&quality=80",
+        "published_ts": 1795541621,
+        "published": "24 Nov, 11:33 PM",
+        "bn_summary": "US Army Iowa-তে প্রায় পাঁচ টন অস্থিতিশীল বিস্ফোরক ডিটোনেট করার পরিকল্পনা করেছে, যা বুধবার ঘটবে। এই ডিটোনেশন নিরাপত্তা ঝুঁকি কমাতে এবং সম্ভাব্য দুর্ঘটনা রোধে গুরুত্বপূর্ণ, কারণ পুরনো সামগ্রী রেডি-ইউজের জন্য ঝুঁকিপূর্ণ।",
+        "added_at_ts": 1795542985,
+        "expires_at_ts": 1795629385,
+        "batch_label": "11:56 PM BDT",
+        "batch_edition": 3,
+        "is_new": true
+      },
+      {
+        "title": "US sanctions on Lebanon’s Hezbollah-affiliates may have limited impact",
+        "summary": "Analysts say US sanctions unlikely to weaken Hezbollah significantly, but risk hurting everyday Lebanese.",
+        "url": "https://www.aljazeera.com/news/2026/11/24/us-sanctions-on-lebanons-hezbollah-affiliates-may-have-limited-impact?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab9d4e1ea0d-1790563553.jpg?resize=1920%2C1440",
+        "published_ts": 1795541157,
+        "published": "24 Nov, 11:25 PM",
+        "bn_summary": "US লেবাননের হিজবুল্লা-সংশ্লিষ্ট সংস্থাগুলোর উপর আর্থিক স্যাঙ্কশন আরোপ করেছে, কিন্তু বিশ্লেষকরা বলছেন এর প্রভাব সীমিত হবে। স্যাঙ্কশনগুলো দৈনন্দিন লেবাননিদের ওপর চাপ বাড়াতে পারে, তবে হিজবুল্লার সামরিক ক্ষমতা কমাতে ততটা কার্যকর নয়।",
+        "added_at_ts": 1795542985,
+        "expires_at_ts": 1795629385,
+        "batch_label": "11:56 PM BDT",
+        "batch_edition": 3,
+        "is_new": true
+      },
+      {
+        "title": "After Libya, where will Ukraine strike Russia next?",
+        "summary": "From Libya to Sudan and Mali, Ukraine is targeting Russia's military networks across Africa.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795539850.jpg?resize=1920%2C1080&quality=80",
+        "published_ts": 1795539945,
+        "published": "24 Nov, 11:05 PM",
+        "bn_summary": "লিবিয়া, সুদান ও মালি মতো আফ্রিকান দেশে রাশিয়ার সামরিক নেটওয়ার্ক লক্ষ্য করার পর ইউক্রেনের পরবর্তী আক্রমণ পরিকল্পনা চলছে। এই কৌশল রাশিয়ার বৈশ্বিক উপস্থিতি দুর্বল করতে এবং ইউক্রেনের প্রতিরক্ষা সক্ষমতা বাড়াতে গুরুত্বপূর্ণ।",
+        "added_at_ts": 1795542985,
+        "expires_at_ts": 1795629385,
+        "batch_label": "11:56 PM BDT",
+        "batch_edition": 3,
+        "is_new": true
+      },
+      {
         "title": "Israeli air strike kills Hamas internal security chief in Gaza",
         "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
         "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
@@ -413,7 +554,7 @@
         "expires_at_ts": 1795622005,
         "batch_label": "09:53 PM BDT",
         "batch_edition": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "China’s probes Shanghai party chief Chen Jining over corruption",
@@ -428,7 +569,7 @@
         "expires_at_ts": 1795622005,
         "batch_label": "09:53 PM BDT",
         "batch_edition": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Land mine casualties soar in Syria, two years after war",
@@ -443,7 +584,7 @@
         "expires_at_ts": 1795622005,
         "batch_label": "09:53 PM BDT",
         "batch_edition": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Israeli air strike kills senior Hamas military official in Gaza",
@@ -523,6 +664,51 @@
     ],
     "stocks_gold": [
       {
+        "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats Below $3600 - FXEmpire",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVp5Y2UzOUNNYXh6VUdOQzRSNW5HMm5SWEZ2NUdJQ1J6U3d6OGRPSDhZQjB0V2dZcFgtMVF5c3R5aGlnYWkwNEJGVl9LZWd0aUJhblhiWG5jSjVUVGhHSmV6djZMd1lKMUptSXlNS3lKMnZSWVZFcXhaN3o4ZDVCQ0pXcVdYdmMwMkk3RmhuRlM1ampEclNCS0JjVDFuVFh4MVlwc3dVVVpncXVNSkpBMVh5OA?oc=5",
+        "source": "FXEmpire",
+        "image": "",
+        "published_ts": 1795542747,
+        "published": "24 Nov, 11:52 PM",
+        "bn_summary": "FXEmpire রিপোর্ট করেছে যে স্বর্ণের দাম $3600 নিচে নেমে এসেছে, যা বাজারে ঝুঁকিপূর্ণ মনোভাবের ইঙ্গিত। স্বর্ণের এই পতন বিনিয়োগকারীদের জন্য রিস্ক ম্যানেজমেন্ট ও অন্যান্য ধাতু (সিলভার, প্লাটিনাম) এ পোর্টফোলিও রিডাইভার্সনের সুযোগ তৈরি করে।",
+        "added_at_ts": 1795542985,
+        "expires_at_ts": 1795629385,
+        "batch_label": "11:56 PM BDT",
+        "batch_edition": 3,
+        "is_new": true
+      },
+      {
+        "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump - WSJ",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEpzR3NLc2czaVQ0bUV4SzB6NTk3MjJtbWFoWXJVcjZxcDFNS1NYc1VSYkhDMTRXTUpHVktRQUQxb0c1VkVuTlBQOWF6TzA4N2pxZzdlSy1BczA3azhsX0N1dk9Td0R0d210ZVBfOGh3cXB1SkE1Yi1ZTnpKM0pFcnduQzlaV18wMGhlMUNfVW5OaVdPWGp6dDRLa2JMQQ?oc=5",
+        "source": "WSJ",
+        "image": "",
+        "published_ts": 1795541640,
+        "published": "24 Nov, 11:34 PM",
+        "bn_summary": "Nvidia আর Anthropic শেয়ার দারুণ ড্রপ করেছে, ফলে Nasdaq আবার সেলঅফে ফিরে এসেছে। এটা গুরুত্বপূর্ণ কারণ AI‑চালিত র্যালি ঠান্ডা হয়ে বাজারের টেক ভ্যালুয়েশনকে প্রভাবিত করছে।",
+        "added_at_ts": 1795542985,
+        "expires_at_ts": 1795629385,
+        "batch_label": "11:56 PM BDT",
+        "batch_edition": 3,
+        "is_new": true
+      },
+      {
+        "title": "Nasdaq, S&P 500 fall as Nvidia-driven AI rally unwinds - Reuters",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5",
+        "source": "Reuters",
+        "image": "",
+        "published_ts": 1795540474,
+        "published": "24 Nov, 11:14 PM",
+        "bn_summary": "Nvidia‑এর AI র্যালি হঠাৎ পিছিয়ে যাওয়ায় Nasdaq ও S&P 500 উভয়ই নিচে নামছে। এই পতন ইঙ্গিত দেয় যে AI‑তে অতিরিক্ত উচ্ছ্বাস কমে গেছে এবং গ্রোথ স্টকগুলো ঝুঁকিতে আছে।",
+        "added_at_ts": 1795542985,
+        "expires_at_ts": 1795629385,
+        "batch_label": "11:56 PM BDT",
+        "batch_edition": 3,
+        "is_new": true
+      },
+      {
         "title": "Gold price testing support near $3,600 as US Consumer Confidence sees sharp rise in November - Kitco",
         "summary": "",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONW1hcGJjNFlvQ1ppXzM3S0l5YUpzbkZhXzg1c2FPMEhLNVZ0dklmVW1TUHY3dmtxN21ZZVNvQVNHRzh0RXBtN2lmeGZ1OHVEVW5vNFdlYTdSZFFxY0tJU05vQkh1dVRXUk1lYl9NZko0eTd1cGdjRmR1WU5lUGtaTDNXYUxKZTNfcUpsc1c1MG9IRmVWUWFrTVVDV0s5OVJiNHRXRUIwb3ZMeVZzQ0N6a09TZF90MDhOOEoyeUpB?oc=5",
@@ -535,7 +721,7 @@
         "expires_at_ts": 1795622005,
         "batch_label": "09:53 PM BDT",
         "batch_edition": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "As the stock market rallies, fears of a bubble persist - Los Angeles Times",
@@ -550,7 +736,7 @@
         "expires_at_ts": 1795622005,
         "batch_label": "09:53 PM BDT",
         "batch_edition": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold Price Today on November 24, 2026 - USA Today",
@@ -565,7 +751,7 @@
         "expires_at_ts": 1795622005,
         "batch_label": "09:53 PM BDT",
         "batch_edition": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold Price Forecast: ETF Outflows Threaten Gold’s Sharp Recovery - FXEmpire",
@@ -645,6 +831,51 @@
     ],
     "ram_hardware": [
       {
+        "title": "The SSD crisis is being defeated with Black Friday 1TB and 2TB deals at less than $0.15 per GB",
+        "summary": "Some 1TB and 2TB PCIe 4.0 SSDs are cheaper than when we reviewed them at less than $0.15 per GB.",
+        "url": "https://www.tomshardware.com/pc-components/the-ssd-crisis-is-being-defeated-with-black-friday-1tb-and-2tb-deals-at-less-than-usd0-15-per-gb-some-pcie-4-0-ssds-are-now-cheaper-than-when-we-reviewed-them",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/mcxs4jUyfSNcSwPakjqbbf-1920-80.jpg",
+        "published_ts": 1795542000,
+        "published": "24 Nov, 11:40 PM",
+        "bn_summary": "Black Friday-তে 1TB ও 2TB PCIe 4.0 SSD এখন $0.15/GB এর নিচে দামে পাওয়া যাচ্ছে, যা SSD সংকটকে কমিয়ে দিচ্ছে। ফলে গেমার ও পিসি বিল্ডাররা উচ্চ পারফরম্যান্স স্টোরেজ সাশ্রয়ী দামে পেতে পারবে।",
+        "added_at_ts": 1795542985,
+        "expires_at_ts": 1795629385,
+        "batch_label": "11:56 PM BDT",
+        "batch_edition": 3,
+        "is_new": true
+      },
+      {
+        "title": "Best Black Friday gaming GPU deals 2026",
+        "summary": "Save money on GeForce, Radeon, and Arc graphics cards. We're constantly updating this list with the best Black Friday GPU deals across all sales at all retailers.",
+        "url": "https://www.tomshardware.com/pc-components/gpus/best-gaming-graphics-card-gpu-deals-nvidia-amd-intel",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/ADsE4q4BtLKBCuPbxTLb5L-1920-80.jpg",
+        "published_ts": 1795539576,
+        "published": "24 Nov, 10:59 PM",
+        "bn_summary": "GeForce, Radeon এবং Arc গেমিং GPU-তে বড় ডিসকাউন্টের অফার এসেছে Black Friday-তে। এই ডিলগুলো গেমারদের জন্য প্রবেশের বাধা কমাবে এবং বিক্রেতাদের বিক্রয় বাড়াবে।",
+        "added_at_ts": 1795542985,
+        "expires_at_ts": 1795629385,
+        "batch_label": "11:56 PM BDT",
+        "batch_edition": 3,
+        "is_new": true
+      },
+      {
+        "title": "Tom's Hardware’s CES 2027 Awards: How to enter your product",
+        "summary": "Here’s how to submit your products for Tom's Hardware CES 2027 Awards.",
+        "url": "https://www.tomshardware.com/pc-components/toms-hardwares-ces-2027-awards-how-to-enter-your-product",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/Y8hKUBiiaWfGi3mYgXC766-1920-80.jpg",
+        "published_ts": 1795536209,
+        "published": "24 Nov, 10:03 PM",
+        "bn_summary": "Tom's Hardware CES 2027 অ্যাওয়ার্ডে প্রোডাক্ট সাবমিট করার পদ্ধতি এখন গাইডেড আছে। পুরস্কারে জেতা ব্র্যান্ডের দৃশ্যমানতা ও বিশ্বাসযোগ্যতা বাড়ে, তাই নির্মাতাদের জন্য এটা বড় সুযোগ।",
+        "added_at_ts": 1795542985,
+        "expires_at_ts": 1795629385,
+        "batch_label": "11:56 PM BDT",
+        "batch_edition": 3,
+        "is_new": true
+      },
+      {
         "title": "Micron Stock Is Counting on a Buyback Bounce. Why It’s No Slam Dunk. - Barron's",
         "summary": "",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpZ3dObUpYUENEWWp5NG43UDdpMlI0ZVdPRUp5clkzTXg1UlhCYVFlem9wYzU2eEV2UENYSXRHZjhTb1kxRlI5MXpvRFJ0dTJ3eElCeU01OGJWRUFvdHM5LV9GZkJiWnlOYW9IMFIxRQ?oc=5",
@@ -657,7 +888,7 @@
         "expires_at_ts": 1795622005,
         "batch_label": "09:53 PM BDT",
         "batch_edition": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Micron Falls 7% as NVIDIA Pullback Partially Reverses Monday’s AI Chip Rally; SanDisk and SK Hynix Drop 6% - Yahoo Finance",
@@ -672,7 +903,7 @@
         "expires_at_ts": 1795622005,
         "batch_label": "09:53 PM BDT",
         "batch_edition": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Micron Stock Drops After Monday’s Surge as Nvidia Scrutiny Hits Chipmakers - Benzinga",
@@ -687,7 +918,7 @@
         "expires_at_ts": 1795622005,
         "batch_label": "09:53 PM BDT",
         "batch_edition": 2,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Jensen Huang confessed to more affairs before the board reinstated him as Nvidia CEO, report claims",
