@@ -1,68 +1,113 @@
 {
-  "edition": 14,
-  "updated_ts": 1795624345,
-  "updated_dhaka": "25 Nov 2026, 10:32 PM (BDT)",
-  "updated_utc": "2026-11-25 16:32 UTC",
-  "batch_label": "10:32 PM BDT",
+  "edition": 15,
+  "updated_ts": 1795631725,
+  "updated_dhaka": "26 Nov 2026, 12:35 AM (BDT)",
+  "updated_utc": "2026-11-25 18:35 UTC",
+  "batch_label": "12:35 AM BDT",
   "new_added": 12,
-  "expired_removed": 37,
-  "curated_by": "hcnsec (DeepSeek-V4-Flash)",
+  "expired_removed": 15,
+  "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
   "advice": {
-    "title": "বাজার ধসে, ধৈর্য ধরুন",
-    "body": "আজকের বাজারে নাসডাক ও এনভিডিয়ার বড় পতন দেখে আতঙ্কিত না হয়ে, আপনার দীর্ঘমেয়াদী বিনিয়োগ পরিকল্পনা মজবুত করুন। সস্তায় ভালো স্টক কেনার সুযোগ নিন, তবে ঝুঁকি কমাতে ধাপে ধাপে বিনিয়োগ করুন।",
-    "tag": "Market & Gold"
+    "title": "বাজার ধসে, স্কিল গড়ার সেরা সময়",
+    "body": "বাজার ধসে গেছে, কিন্তু AI-র ভবিষ্যৎ থেমে নেই। ফ্রি API/ট্রায়াল আর সস্তা RAM/GPU ডিভাইসে ছোট AI প্রজেক্ট শুরু করো; গোল্ড/স্টকে নয়, নিজের স্কিলে বিনিয়োগ এখন সবচেয়ে বড় লাভ।",
+    "tag": "AI & Dev"
   },
   "quote": {
-    "text_bn": "সংযমই প্রকৃত শক্তি, আর ধৈর্য্যই সাফল্যের চাবিকাঠি।",
-    "author": "জন মিলটন",
-    "note_bn": "বাজারের অস্থিরতায় ধৈর্য ধরুন, আবেগ নয়, কৌশলে সিদ্ধান্ত নিন।"
+    "text_bn": "আমরা যা বারবার করি, তাই আমরা; শ্রেষ্ঠত্ব তাই কোনো কাজ নয়, অভ্যাস।",
+    "author": "অ্যারিস্টটল",
+    "note_bn": "আজকের অস্থির বাজারে প্রতিদিন একটু করে শেখার অভ্যাসই দীর্ঘমেয়াদে জিতিয়ে দেবে।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,483.80",
-      "change_pct": -2.19,
+      "price": "$3,558.00",
+      "change_pct": -0.11,
       "up": false
     },
     {
       "symbol": "^GSPC",
       "label": "S&P 500",
-      "price": "7,006.81",
-      "change_pct": -3.18,
+      "price": "7,158.45",
+      "change_pct": -1.09,
       "up": false
     },
     {
       "symbol": "^IXIC",
       "label": "NASDAQ",
-      "price": "22,789.76",
-      "change_pct": -5.4,
+      "price": "23,417.06",
+      "change_pct": -2.79,
       "up": false
     },
     {
       "symbol": "NVDA",
       "label": "NVIDIA",
-      "price": "$141.95",
-      "change_pct": -14.0,
+      "price": "$147.59",
+      "change_pct": -10.58,
       "up": false
     },
     {
       "symbol": "MU",
       "label": "Micron (RAM)",
-      "price": "$554.00",
-      "change_pct": -21.72,
+      "price": "$582.08",
+      "change_pct": -17.75,
       "up": false
     },
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$58,519.63",
-      "change_pct": -2.06,
+      "price": "$59,502.61",
+      "change_pct": -0.41,
       "up": false
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+        "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+        "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+        "source": "TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2237660127.jpg?resize=1200,800",
+        "published_ts": 1795630306,
+        "published": "26 Nov, 12:11 AM",
+        "bn_summary": "নিউ ইয়র্ক শিশুদের জন্য AI chatbot-যুক্ত খেলনা পাঁচ বছরের জন্য নিষিদ্ধ করেছে। Common Sense Media-এর গবেষণায় অনুপযুক্ত বিষয়বস্তুতে শিশুদের exposureসহ গুরুতর নিরাপত্তা ঝুঁকি পাওয়ায় এই সিদ্ধান্ত নেওয়া হয়েছে।",
+        "added_at_ts": 1795631725,
+        "expires_at_ts": 1795718125,
+        "batch_label": "12:35 AM BDT",
+        "batch_edition": 15,
+        "is_new": true
+      },
+      {
+        "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+        "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in sp",
+        "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+        "source": "The Verge",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+        "published_ts": 1795628697,
+        "published": "25 Nov, 11:44 PM",
+        "bn_summary": "FCC SpaceX-কে AI চিপযুক্ত সর্বোচ্চ ১০ লাখ satellite মহাকাশে পাঠানোর পরিকল্পনায় অনুমোদন দিয়েছে। এই বিশাল orbital data-center নেটওয়ার্ক AI computing ক্ষমতা বাড়াতে পারে, তবে মহাকাশের ভিড়, শক্তি ব্যবহার ও নিরাপত্তা নিয়ে নতুন উদ্বেগ তৈরি করবে।",
+        "added_at_ts": 1795631725,
+        "expires_at_ts": 1795718125,
+        "batch_label": "12:35 AM BDT",
+        "batch_edition": 15,
+        "is_new": true
+      },
+      {
+        "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
+        "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+        "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+        "source": "TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/06/Character-Calls-Image-feat.jpg?resize=1200,675",
+        "published_ts": 1795628158,
+        "published": "25 Nov, 11:35 PM",
+        "bn_summary": "Character.ai দেউলিয়া হলে ২১ মিলিয়নের বেশি মার্কিন account-এর ব্যক্তিগত chat নিলামে বিক্রির প্রস্তাব করা হয়েছে, যার মধ্যে প্রায় ২১ লাখ অপ্রাপ্তবয়স্কের account রয়েছে। একাধিক অঙ্গরাজ্যের Attorney Generalরা এই তথ্য হস্তান্তর ঠেকাতে লড়ছেন, কারণ chatগুলোতে অত্যন্ত সংবেদনশীল ব্যক্তিগত তথ্য থাকতে পারে।",
+        "added_at_ts": 1795631725,
+        "expires_at_ts": 1795718125,
+        "batch_label": "12:35 AM BDT",
+        "batch_edition": 15,
+        "is_new": true
+      },
       {
         "title": "Nothing offers a full look at its AI earbuds and charging case",
         "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ea",
@@ -76,7 +121,7 @@
         "expires_at_ts": 1795710745,
         "batch_label": "10:32 PM BDT",
         "batch_edition": 14,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
@@ -91,7 +136,7 @@
         "expires_at_ts": 1795710745,
         "batch_label": "10:32 PM BDT",
         "batch_edition": 14,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Has vibe coding made open source the new normal for synths?",
@@ -106,7 +151,7 @@
         "expires_at_ts": 1795710745,
         "batch_label": "10:32 PM BDT",
         "batch_edition": 14,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Amazon is reportedly in talks to end Muse AI shopping block",
@@ -407,51 +452,6 @@
         "batch_label": "01:59 AM BDT",
         "batch_edition": 4,
         "is_new": false
-      },
-      {
-        "title": "Tidal will start banning AI-generated music next month",
-        "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move ",
-        "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-        "source": "The Verge",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "published_ts": 1795540629,
-        "published": "24 Nov, 11:17 PM",
-        "bn_summary": "Tidal December 9 theke AI‑generated গানের প্ল্যাটফর্মে নিষেধাজ্ঞা আরোপ করবে, ফলে প্রায় ২৯ মিলিয়ন কৃত্রিম ট্র্যাক মুছে ফেলা হবে। এই পদক্ষেপ শিল্পীদের কাজের স্বচ্ছতা রক্ষা করবে এবং স্ট্রিমিং সার্ভিসে আসল সৃষ্টিকর্মের মূল্য বাড়াবে।",
-        "added_at_ts": 1795542985,
-        "expires_at_ts": 1795629385,
-        "batch_label": "11:56 PM BDT",
-        "batch_edition": 3,
-        "is_new": false
-      },
-      {
-        "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-        "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-        "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-        "source": "TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200",
-        "published_ts": 1795539600,
-        "published": "24 Nov, 11:00 PM",
-        "bn_summary": "Meta Muse AI-কে সরাসরি Instagram DM-এ ইন্টিগ্রেট করেছে, ফলে ইউজারদের আলাদা Muse অ্যাপ খুলতে হবে না। এটা কনভার্সেশনকে দ্রুত ও সহজ করে, এবং AI‑এর মাধ্যমে কন্টেন্ট ক্রিয়েশন ও সাপোর্টে নতুন সুযোগ দেয়।",
-        "added_at_ts": 1795542985,
-        "expires_at_ts": 1795629385,
-        "batch_label": "11:56 PM BDT",
-        "batch_edition": 3,
-        "is_new": false
-      },
-      {
-        "title": "The New York Times warns photographers not to update Photoshop over AI features",
-        "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times'",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-        "source": "The Verge",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-        "published_ts": 1795539161,
-        "published": "24 Nov, 10:52 PM",
-        "bn_summary": "The New York Times ফ্রিল্যান্স ফটোগ্রাফারদের নতুন Photoshop (2027) আপডেট না করার পরামর্শ দিচ্ছে, কারণ এতে AI‑ভিত্তিক এডিটিং ফিচার আছে যা ছবির অখণ্ডতা বদলে দিতে পারে। এই সতর্কতা ফটোগ্রাফারদের কাজের স্বতন্ত্রতা রক্ষা ও কপিরাইট সমস্যার ঝুঁকি কমাতে গুরুত্বপূর্ণ।",
-        "added_at_ts": 1795542985,
-        "expires_at_ts": 1795629385,
-        "batch_label": "11:56 PM BDT",
-        "batch_edition": 3,
-        "is_new": false
       }
     ],
     "github": [
@@ -573,57 +573,6 @@
         "batch_label": "01:59 AM BDT",
         "batch_edition": 4,
         "is_new": false
-      },
-      {
-        "title": "xikhar/papercraft",
-        "summary": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
-        "url": "https://github.com/xikhar/papercraft",
-        "source": "GitHub",
-        "image": "https://opengraph.githubassets.com/1/xikhar/papercraft",
-        "stars": 589,
-        "language": "JavaScript",
-        "published_ts": 1795220996,
-        "published": "2026-11-21",
-        "bn_summary": "GitHub‑এর xikhar/papercraft রেপোতে AI‑এর মাধ্যমে গেম, ইন্টারেক্টিভ দৃশ্য, ওয়েব পেজ এবং অ্যানিমেশন তৈরি করা যায় পেপারক্রাফ্ট স্টাইলে। ডেভেলপাররা এই টুল দিয়ে হ্যান্ডক্রাফটেড ভিজ্যুয়াল কন্টেন্ট দ্রুত প্রোটোটাইপ করতে পারে, যা ক্রিয়েটিভ প্রোডাকশনকে ত্বরান্বিত করে।",
-        "added_at_ts": 1795542985,
-        "expires_at_ts": 1795629385,
-        "batch_label": "11:56 PM BDT",
-        "batch_edition": 3,
-        "is_new": false
-      },
-      {
-        "title": "danielwh2/sprite-stacking",
-        "summary": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
-        "url": "https://github.com/danielwh2/sprite-stacking",
-        "source": "GitHub",
-        "image": "https://opengraph.githubassets.com/1/danielwh2/sprite-stacking",
-        "stars": 757,
-        "language": "HTML",
-        "published_ts": 1795185163,
-        "published": "2026-11-20",
-        "bn_summary": "danielwh2/sprite-stacking রেপো চারটি পিক্সেল আর্ট ভিউকে ফেক‑৩ডি স্প্রাইটে রূপান্তর করে, যা বিভিন্ন কোড জেনারেটর (Claude, Codex, ইত্যাদি) এর সাথে কাজ করে। এটি গেম ডেভেলপারদের কম সময়ে ডাইনামিক ভিজ্যুয়াল তৈরি করতে সহায়তা করে, ফলে প্রোডাকশন পাইপলাইন সহজ হয়।",
-        "added_at_ts": 1795542985,
-        "expires_at_ts": 1795629385,
-        "batch_label": "11:56 PM BDT",
-        "batch_edition": 3,
-        "is_new": false
-      },
-      {
-        "title": "sous-labs/songe",
-        "summary": "A training engine for your local model, using your idle compute",
-        "url": "https://github.com/sous-labs/songe",
-        "source": "GitHub",
-        "image": "https://opengraph.githubassets.com/1/sous-labs/songe",
-        "stars": 463,
-        "language": "Python",
-        "published_ts": 1795172480,
-        "published": "2026-11-20",
-        "bn_summary": "sous-labs/songe একটি লোকাল মডেল ট্রেনিং ইঞ্জিন, যা আপনার কম্পিউটারের আইডল রিসোর্স ব্যবহার করে মডেল ট্রেন করে। এই পদ্ধতি ক্লাউড খরচ কমায় এবং ডেটা প্রাইভেসি বজায় রেখে AI ডেভেলপমেন্টকে আরও অ্যাক্সেসযোগ্য করে।",
-        "added_at_ts": 1795542985,
-        "expires_at_ts": 1795629385,
-        "batch_label": "11:56 PM BDT",
-        "batch_edition": 3,
-        "is_new": false
       }
     ],
     "free_deals": [
@@ -690,6 +639,51 @@
     ],
     "war": [
       {
+        "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
+        "summary": "Tinubu is under pressure to convince voters that military operations in the country's northeast will deliver security.",
+        "url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0719bca5cf-1795627452.jpg?resize=1920%2C1440",
+        "published_ts": 1795630484,
+        "published": "26 Nov, 12:14 AM",
+        "bn_summary": "নাইজেরিয়ার প্রেসিডেন্ট Bola Tinubu বিদ্রোহে ক্ষতিগ্রস্ত সীমান্ত অঞ্চলে শান্তি আনার প্রতিশ্রুতি দিয়েছেন। উত্তর-পূর্বাঞ্চলে সামরিক অভিযান নিরাপত্তা দিতে পারছে কি না, তা নিয়ে ভোটারদের চাপের মুখে তাঁর এই প্রতিশ্রুতি রাজনৈতিকভাবে গুরুত্বপূর্ণ।",
+        "added_at_ts": 1795631725,
+        "expires_at_ts": 1795718125,
+        "batch_label": "12:35 AM BDT",
+        "batch_edition": 15,
+        "is_new": true
+      },
+      {
+        "title": "Ecuador and US review joint military operations, official says",
+        "summary": "Joint military efforts have been paused as the US investigates a lethal operation carried out by Ecuador.",
+        "url": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0702d2-1795621586.jpg?resize=1920%2C1440",
+        "published_ts": 1795629041,
+        "published": "25 Nov, 11:50 PM",
+        "bn_summary": "ইকুয়েডর ও যুক্তরাষ্ট্র তাদের যৌথ সামরিক অভিযান পর্যালোচনা করছে, কারণ ইকুয়েডরের একটি প্রাণঘাতী অভিযানের তদন্ত চলছে। তদন্ত শেষ না হওয়া পর্যন্ত সহযোগিতা স্থগিত থাকায় দুই দেশের নিরাপত্তা সম্পর্ক ও ভবিষ্যৎ অভিযান অনিশ্চিত হয়েছে।",
+        "added_at_ts": 1795631725,
+        "expires_at_ts": 1795718125,
+        "batch_label": "12:35 AM BDT",
+        "batch_edition": 15,
+        "is_new": true
+      },
+      {
+        "title": "Djibouti: The Man Who Dared",
+        "summary": "War hero turned nationalist, Mahmoud Harbi defied colonial rule to fight for independence in today’s Djibouti.",
+        "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/25/djibouti-the-man-who-dared?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795600834.jpg?resize=1920%2C1080&quality=80",
+        "published_ts": 1795626000,
+        "published": "25 Nov, 11:00 PM",
+        "bn_summary": "মাহমুদ হারবি ছিলেন এক যুদ্ধবীর ও জাতীয়তাবাদী নেতা, যিনি ঔপনিবেশিক শাসনের বিরুদ্ধে দাঁড়িয়েছিলেন। স্বাধীনতার দাবিতে তাঁর সংগ্রাম আজকের জিবুতির রাজনৈতিক পরিচয় গঠনে গুরুত্বপূর্ণ ভূমিকা রেখেছে।",
+        "added_at_ts": 1795631725,
+        "expires_at_ts": 1795718125,
+        "batch_label": "12:35 AM BDT",
+        "batch_edition": 15,
+        "is_new": true
+      },
+      {
         "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
         "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
         "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
@@ -702,7 +696,7 @@
         "expires_at_ts": 1795710745,
         "batch_label": "10:32 PM BDT",
         "batch_edition": 14,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
@@ -717,7 +711,7 @@
         "expires_at_ts": 1795710745,
         "batch_label": "10:32 PM BDT",
         "batch_edition": 14,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Activist confronts ex-Mossad chief over 2024 Lebanon pager attacks",
@@ -732,7 +726,7 @@
         "expires_at_ts": 1795710745,
         "batch_label": "10:32 PM BDT",
         "batch_edition": 14,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "US court convicts Huawei of theft: A history of Chinese firm’s global woes",
@@ -1183,54 +1177,54 @@
         "batch_label": "01:59 AM BDT",
         "batch_edition": 4,
         "is_new": false
-      },
-      {
-        "title": "Five tonnes of explosives set to blow up in Iowa",
-        "summary": "The US Army is preparing to detonate nearly five tonnes of unstable explosives in Iowa on Wednesday.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/five-tonnes-of-explosives-set-to-blow-up-in-iowa?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795541553.jpg?resize=1920%2C1080&quality=80",
-        "published_ts": 1795541621,
-        "published": "24 Nov, 11:33 PM",
-        "bn_summary": "US Army Iowa-তে প্রায় পাঁচ টন অস্থিতিশীল বিস্ফোরক ডিটোনেট করার পরিকল্পনা করেছে, যা বুধবার ঘটবে। এই ডিটোনেশন নিরাপত্তা ঝুঁকি কমাতে এবং সম্ভাব্য দুর্ঘটনা রোধে গুরুত্বপূর্ণ, কারণ পুরনো সামগ্রী রেডি-ইউজের জন্য ঝুঁকিপূর্ণ।",
-        "added_at_ts": 1795542985,
-        "expires_at_ts": 1795629385,
-        "batch_label": "11:56 PM BDT",
-        "batch_edition": 3,
-        "is_new": false
-      },
-      {
-        "title": "US sanctions on Lebanon’s Hezbollah-affiliates may have limited impact",
-        "summary": "Analysts say US sanctions unlikely to weaken Hezbollah significantly, but risk hurting everyday Lebanese.",
-        "url": "https://www.aljazeera.com/news/2026/11/24/us-sanctions-on-lebanons-hezbollah-affiliates-may-have-limited-impact?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab9d4e1ea0d-1790563553.jpg?resize=1920%2C1440",
-        "published_ts": 1795541157,
-        "published": "24 Nov, 11:25 PM",
-        "bn_summary": "US লেবাননের হিজবুল্লা-সংশ্লিষ্ট সংস্থাগুলোর উপর আর্থিক স্যাঙ্কশন আরোপ করেছে, কিন্তু বিশ্লেষকরা বলছেন এর প্রভাব সীমিত হবে। স্যাঙ্কশনগুলো দৈনন্দিন লেবাননিদের ওপর চাপ বাড়াতে পারে, তবে হিজবুল্লার সামরিক ক্ষমতা কমাতে ততটা কার্যকর নয়।",
-        "added_at_ts": 1795542985,
-        "expires_at_ts": 1795629385,
-        "batch_label": "11:56 PM BDT",
-        "batch_edition": 3,
-        "is_new": false
-      },
-      {
-        "title": "After Libya, where will Ukraine strike Russia next?",
-        "summary": "From Libya to Sudan and Mali, Ukraine is targeting Russia's military networks across Africa.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795539850.jpg?resize=1920%2C1080&quality=80",
-        "published_ts": 1795539945,
-        "published": "24 Nov, 11:05 PM",
-        "bn_summary": "লিবিয়া, সুদান ও মালি মতো আফ্রিকান দেশে রাশিয়ার সামরিক নেটওয়ার্ক লক্ষ্য করার পর ইউক্রেনের পরবর্তী আক্রমণ পরিকল্পনা চলছে। এই কৌশল রাশিয়ার বৈশ্বিক উপস্থিতি দুর্বল করতে এবং ইউক্রেনের প্রতিরক্ষা সক্ষমতা বাড়াতে গুরুত্বপূর্ণ।",
-        "added_at_ts": 1795542985,
-        "expires_at_ts": 1795629385,
-        "batch_label": "11:56 PM BDT",
-        "batch_edition": 3,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap - Bloomberg.com",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
+        "source": "Bloomberg.com",
+        "image": "",
+        "published_ts": 1795629492,
+        "published": "25 Nov, 11:58 PM",
+        "bn_summary": "AI খাত নিয়ে উদ্বেগ ছড়িয়ে পড়ায় বিনিয়োগকারীরা শেয়ার বিক্রি করে US Treasury bonds-এ অর্থ সরিয়েছেন। এই নিরাপদ সম্পদের দিকে ঝোঁক বাজারে ঝুঁকি-বিমুখতা বাড়ার এবং প্রযুক্তি শেয়ারে চাপ তৈরি হওয়ার ইঙ্গিত দিচ্ছে।",
+        "added_at_ts": 1795631725,
+        "expires_at_ts": 1795718125,
+        "batch_label": "12:35 AM BDT",
+        "batch_edition": 15,
+        "is_new": true
+      },
+      {
+        "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Drops Below $3500 On Strong U.S. GDP Data - FXEmpire",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOW1JY0VEcjNNajlwRkgyTUZJT3RSeHUzcUxEWFNOQUhrTFV1QWJLWXZhSDZjRDJmLVlvckJsbTBSZDF1cjgwejVyZ0lWVml1ZU9pSkV2VkI4OVl4YnpEbFoyZFhaelBTNnpjOG9Mc3JRd3ZXYzhiMnVzcTNtNkJzZ0VLQjFOOWxvV2xRdlE4bDVVQjVqUkMtcFhHVnlZb1F5aGhJX2I1T296MXFnLVB6aVNOUE5VWl9URlZtdEEtNXJ2eHRqc09BZ0syQW9LUQ?oc=5",
+        "source": "FXEmpire",
+        "image": "",
+        "published_ts": 1795627251,
+        "published": "25 Nov, 11:20 PM",
+        "bn_summary": "শক্তিশালী US GDP data প্রকাশের পর সোনার দাম ৩৫০০ ডলারের নিচে নেমেছে, একই সঙ্গে silver ও platinum-এর দিকেও নজর রয়েছে। অর্থনীতি শক্তিশালী থাকলে সুদের হার কমার প্রত্যাশা পিছিয়ে যেতে পারে, ফলে সুদ না-দেওয়া precious metals-এর আকর্ষণ কমে।",
+        "added_at_ts": 1795631725,
+        "expires_at_ts": 1795718125,
+        "batch_label": "12:35 AM BDT",
+        "batch_edition": 15,
+        "is_new": true
+      },
+      {
+        "title": "Prediction markets push OpenAI IPO expectations later into 2027",
+        "summary": "Kalshi traders have cut the odds of OpenAI confirming an IPO before June 2027, as AI stocks and related markets have weakened.",
+        "url": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
+        "source": "CNBC",
+        "image": "https://image.cnbcfm.com/api/v1/image/108369813-1790712609527-gettyimages-2297765616-_q3a2873_m5g8wtsy.jpeg?v=1790712953&w=1920&h=1080",
+        "published_ts": 1795626483,
+        "published": "25 Nov, 11:08 PM",
+        "bn_summary": "AI-সম্পর্কিত শেয়ার ও বাজার দুর্বল হওয়ায় Kalshi-র tradersরা জুন ২০২৭-এর আগে OpenAI IPO হওয়ার সম্ভাবনা কমিয়ে দিয়েছেন। এতে বোঝা যায়, বাজার এখন AI কোম্পানির উচ্চ মূল্যায়ন ও লাভজনকতা নিয়ে আগের চেয়ে বেশি সতর্ক।",
+        "added_at_ts": 1795631725,
+        "expires_at_ts": 1795718125,
+        "batch_label": "12:35 AM BDT",
+        "batch_edition": 15,
+        "is_new": true
+      },
       {
         "title": "Nasdaq 100 Enters Bear Market Territory as AI Angst Fuels Losses - Bloomberg.com",
         "summary": "",
@@ -1244,7 +1238,7 @@
         "expires_at_ts": 1795710745,
         "batch_label": "10:32 PM BDT",
         "batch_edition": 14,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Nvidia Stock Keeps Falling. It’s Obvious Jensen Was Not the Only Problem. - Barron's",
@@ -1259,7 +1253,7 @@
         "expires_at_ts": 1795710745,
         "batch_label": "10:32 PM BDT",
         "batch_edition": 14,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold Price Prediction as XAU/USD Hits a 15-Month Low of $3,500 After US PCE Inflation Data - Cryptonews.net",
@@ -1274,7 +1268,7 @@
         "expires_at_ts": 1795710745,
         "batch_label": "10:32 PM BDT",
         "batch_edition": 14,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Nasdaq Futures Tumble as AI Selloff Returns - WSJ",
@@ -1695,54 +1689,54 @@
         "batch_label": "01:59 AM BDT",
         "batch_edition": 4,
         "is_new": false
-      },
-      {
-        "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats Below $3600 - FXEmpire",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVp5Y2UzOUNNYXh6VUdOQzRSNW5HMm5SWEZ2NUdJQ1J6U3d6OGRPSDhZQjB0V2dZcFgtMVF5c3R5aGlnYWkwNEJGVl9LZWd0aUJhblhiWG5jSjVUVGhHSmV6djZMd1lKMUptSXlNS3lKMnZSWVZFcXhaN3o4ZDVCQ0pXcVdYdmMwMkk3RmhuRlM1ampEclNCS0JjVDFuVFh4MVlwc3dVVVpncXVNSkpBMVh5OA?oc=5",
-        "source": "FXEmpire",
-        "image": "",
-        "published_ts": 1795542747,
-        "published": "24 Nov, 11:52 PM",
-        "bn_summary": "FXEmpire রিপোর্ট করেছে যে স্বর্ণের দাম $3600 নিচে নেমে এসেছে, যা বাজারে ঝুঁকিপূর্ণ মনোভাবের ইঙ্গিত। স্বর্ণের এই পতন বিনিয়োগকারীদের জন্য রিস্ক ম্যানেজমেন্ট ও অন্যান্য ধাতু (সিলভার, প্লাটিনাম) এ পোর্টফোলিও রিডাইভার্সনের সুযোগ তৈরি করে।",
-        "added_at_ts": 1795542985,
-        "expires_at_ts": 1795629385,
-        "batch_label": "11:56 PM BDT",
-        "batch_edition": 3,
-        "is_new": false
-      },
-      {
-        "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump - WSJ",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEpzR3NLc2czaVQ0bUV4SzB6NTk3MjJtbWFoWXJVcjZxcDFNS1NYc1VSYkhDMTRXTUpHVktRQUQxb0c1VkVuTlBQOWF6TzA4N2pxZzdlSy1BczA3azhsX0N1dk9Td0R0d210ZVBfOGh3cXB1SkE1Yi1ZTnpKM0pFcnduQzlaV18wMGhlMUNfVW5OaVdPWGp6dDRLa2JMQQ?oc=5",
-        "source": "WSJ",
-        "image": "",
-        "published_ts": 1795541640,
-        "published": "24 Nov, 11:34 PM",
-        "bn_summary": "Nvidia আর Anthropic শেয়ার দারুণ ড্রপ করেছে, ফলে Nasdaq আবার সেলঅফে ফিরে এসেছে। এটা গুরুত্বপূর্ণ কারণ AI‑চালিত র্যালি ঠান্ডা হয়ে বাজারের টেক ভ্যালুয়েশনকে প্রভাবিত করছে।",
-        "added_at_ts": 1795542985,
-        "expires_at_ts": 1795629385,
-        "batch_label": "11:56 PM BDT",
-        "batch_edition": 3,
-        "is_new": false
-      },
-      {
-        "title": "Nasdaq, S&P 500 fall as Nvidia-driven AI rally unwinds - Reuters",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5",
-        "source": "Reuters",
-        "image": "",
-        "published_ts": 1795540474,
-        "published": "24 Nov, 11:14 PM",
-        "bn_summary": "Nvidia‑এর AI র্যালি হঠাৎ পিছিয়ে যাওয়ায় Nasdaq ও S&P 500 উভয়ই নিচে নামছে। এই পতন ইঙ্গিত দেয় যে AI‑তে অতিরিক্ত উচ্ছ্বাস কমে গেছে এবং গ্রোথ স্টকগুলো ঝুঁকিতে আছে।",
-        "added_at_ts": 1795542985,
-        "expires_at_ts": 1795629385,
-        "batch_label": "11:56 PM BDT",
-        "batch_edition": 3,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "Save $2600 on the cheapest RTX 5090 prebuilt PC we've found so far in the Black Friday rush",
+        "summary": "This Corsair Vengeance prebuilt gaming PC pairs the RTX 5090 with Intel's most powerful Arrow Lake processor and 64GB of RAM for the most demanding work or play.",
+        "url": "https://www.tomshardware.com/pc-components/save-usd2600-on-the-cheapest-rtx-5090-prebuilt-pc-weve-found-so-far-in-the-black-friday-rush-corsair-vengeance-i7600-features-ultra-9-285k-cpu-64gb-ram-and-the-ultimate-gaming-gpu",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/QiPCaQpAET2HgXhu3mYFCR-1920-80.jpg",
+        "published_ts": 1795628700,
+        "published": "25 Nov, 11:45 PM",
+        "bn_summary": "Black Friday বিক্রিতে Corsair Vengeance prebuilt PC-তে RTX 5090, Intel-এর শক্তিশালী Arrow Lake processor এবং 64GB RAM একসঙ্গে পাওয়া যাচ্ছে। ২৬০০ ডলার সাশ্রয়ের এই দামটি demanding gaming ও professional কাজের জন্য উচ্চক্ষমতার PC কেনার বড় সুযোগ তৈরি করছে।",
+        "added_at_ts": 1795631725,
+        "expires_at_ts": 1795718125,
+        "batch_label": "12:35 AM BDT",
+        "batch_edition": 15,
+        "is_new": true
+      },
+      {
+        "title": "Save $200 with surprising deals on new Nvidia RTX Spark-powered Asus ProArt P14 laptops",
+        "summary": "Just a month after launch, the RTX Spark-powered Asus ProArt P14 is on sale for $200 off across both its 24GB and 32GB configurations.",
+        "url": "https://www.tomshardware.com/laptops/save-usd200-with-surprising-deals-on-new-nvidia-rtx-spark-powered-asus-proart-p14-laptops-both-24gb-and-32gb-configurations-are-already-on-sale",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/psHEmPVcpayrV46ijHZQGS-1920-80.jpg",
+        "published_ts": 1795625913,
+        "published": "25 Nov, 10:58 PM",
+        "bn_summary": "Asus ProArt P14 ল্যাপটপের নতুন RTX Spark ভেরিয়েন্ট লঞ্চের মাত্র এক মাসের মধ্যেই $200 ছাড়ে পাওয়া যাচ্ছে, 24GB এবং 32GB দুটি কনফিগারেশনেই। এই অফারটি গুরুত্বপূর্ণ কারণ নতুন মডেলে এত তাড়াতাড়ি দাম কমা ক্রিয়েটরদের জন্য একটি শক্তিশালী ও সাশ্রয়ী অপশন তৈরি করেছে।",
+        "added_at_ts": 1795631725,
+        "expires_at_ts": 1795718125,
+        "batch_label": "12:35 AM BDT",
+        "batch_edition": 15,
+        "is_new": true
+      },
+      {
+        "title": "Lawsuit alleges Trump strong-armed Intel",
+        "summary": "The president apparently threatened the Intel board with \"consequences\" if they did not accept his demand for a 10% stake on the company.",
+        "url": "https://www.tomshardware.com/tech-industry/policy/lawsuit-reveals-trumps-alleged-strong-arming-of-intel-troubled-chipmaker-allegedly-forced-to-give-white-house-10-percent-stake-for-release-of-chips-act-funds",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/DNfvQJUHCpDduHS9HATa3N-1920-80.jpg",
+        "published_ts": 1795624763,
+        "published": "25 Nov, 10:39 PM",
+        "bn_summary": "একটি মামলায় অভিযোগ করা হয়েছে যে প্রেসিডেন্ট ট্রাম্প ইন্টেলের বোর্ডকে ১০% শেয়ার দাবি মেনে নিতে না পারলে 'পরিণতি' ভোগ করতে হবে বলে হুমকি দিয়েছিলেন। এই ঘটনা গুরুত্বপূর্ণ কারণ এটি সরকারের পক্ষ থেকে একটি প্রধান চিপ প্রস্তুতকারক কোম্পানিতে অনৈতিক চাপের ইঙ্গিত দেয় এবং আইনি ও রাজনৈতিক প্রভাব ফেলতে পারে।",
+        "added_at_ts": 1795631725,
+        "expires_at_ts": 1795718125,
+        "batch_label": "12:35 AM BDT",
+        "batch_edition": 15,
+        "is_new": true
+      },
       {
         "title": "Best Black Friday Gaming PC Deals 2026",
         "summary": "We've gathered the top Black Friday pre-built gaming desktop deals. We're constantly updating this list with the best discounts across all retailers.",
@@ -1756,7 +1750,7 @@
         "expires_at_ts": 1795710745,
         "batch_label": "10:32 PM BDT",
         "batch_edition": 14,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "7 new Intel Nova Lake-S Core Ultra 4000-series CPUs detailed in new leak",
@@ -1771,7 +1765,7 @@
         "expires_at_ts": 1795710745,
         "batch_label": "10:32 PM BDT",
         "batch_edition": 14,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Save $250 on the 2026 M5 MacBook Air right now, undoing Apple's June price hike with a price of $1,049",
@@ -1786,7 +1780,7 @@
         "expires_at_ts": 1795710745,
         "batch_label": "10:32 PM BDT",
         "batch_edition": 14,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Resourceful PC owner repurposes CPU watercooler with dead pump as standalone LCD hardware monitor, vibecodes new software for module",
@@ -2146,51 +2140,6 @@
         "expires_at_ts": 1795636765,
         "batch_label": "01:59 AM BDT",
         "batch_edition": 4,
-        "is_new": false
-      },
-      {
-        "title": "The SSD crisis is being defeated with Black Friday 1TB and 2TB deals at less than $0.15 per GB",
-        "summary": "Some 1TB and 2TB PCIe 4.0 SSDs are cheaper than when we reviewed them at less than $0.15 per GB.",
-        "url": "https://www.tomshardware.com/pc-components/the-ssd-crisis-is-being-defeated-with-black-friday-1tb-and-2tb-deals-at-less-than-usd0-15-per-gb-some-pcie-4-0-ssds-are-now-cheaper-than-when-we-reviewed-them",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/mcxs4jUyfSNcSwPakjqbbf-1920-80.jpg",
-        "published_ts": 1795542000,
-        "published": "24 Nov, 11:40 PM",
-        "bn_summary": "Black Friday-তে 1TB ও 2TB PCIe 4.0 SSD এখন $0.15/GB এর নিচে দামে পাওয়া যাচ্ছে, যা SSD সংকটকে কমিয়ে দিচ্ছে। ফলে গেমার ও পিসি বিল্ডাররা উচ্চ পারফরম্যান্স স্টোরেজ সাশ্রয়ী দামে পেতে পারবে।",
-        "added_at_ts": 1795542985,
-        "expires_at_ts": 1795629385,
-        "batch_label": "11:56 PM BDT",
-        "batch_edition": 3,
-        "is_new": false
-      },
-      {
-        "title": "Best Black Friday gaming GPU deals 2026",
-        "summary": "Save money on GeForce, Radeon, and Arc graphics cards. We're constantly updating this list with the best Black Friday GPU deals across all sales at all retailers.",
-        "url": "https://www.tomshardware.com/pc-components/gpus/best-gaming-graphics-card-gpu-deals-nvidia-amd-intel",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/ADsE4q4BtLKBCuPbxTLb5L-1920-80.jpg",
-        "published_ts": 1795539576,
-        "published": "24 Nov, 10:59 PM",
-        "bn_summary": "GeForce, Radeon এবং Arc গেমিং GPU-তে বড় ডিসকাউন্টের অফার এসেছে Black Friday-তে। এই ডিলগুলো গেমারদের জন্য প্রবেশের বাধা কমাবে এবং বিক্রেতাদের বিক্রয় বাড়াবে।",
-        "added_at_ts": 1795542985,
-        "expires_at_ts": 1795629385,
-        "batch_label": "11:56 PM BDT",
-        "batch_edition": 3,
-        "is_new": false
-      },
-      {
-        "title": "Tom's Hardware’s CES 2027 Awards: How to enter your product",
-        "summary": "Here’s how to submit your products for Tom's Hardware CES 2027 Awards.",
-        "url": "https://www.tomshardware.com/pc-components/toms-hardwares-ces-2027-awards-how-to-enter-your-product",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/Y8hKUBiiaWfGi3mYgXC766-1920-80.jpg",
-        "published_ts": 1795536209,
-        "published": "24 Nov, 10:03 PM",
-        "bn_summary": "Tom's Hardware CES 2027 অ্যাওয়ার্ডে প্রোডাক্ট সাবমিট করার পদ্ধতি এখন গাইডেড আছে। পুরস্কারে জেতা ব্র্যান্ডের দৃশ্যমানতা ও বিশ্বাসযোগ্যতা বাড়ে, তাই নির্মাতাদের জন্য এটা বড় সুযোগ।",
-        "added_at_ts": 1795542985,
-        "expires_at_ts": 1795629385,
-        "batch_label": "11:56 PM BDT",
-        "batch_edition": 3,
         "is_new": false
       }
     ]
