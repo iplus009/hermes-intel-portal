@@ -1,28 +1,28 @@
 {
-  "edition": 11,
-  "updated_ts": 1795602445,
-  "updated_dhaka": "25 Nov 2026, 04:27 PM (BDT)",
-  "updated_utc": "2026-11-25 10:27 UTC",
-  "batch_label": "04:27 PM BDT",
-  "new_added": 12,
+  "edition": 12,
+  "updated_ts": 1795609705,
+  "updated_dhaka": "25 Nov 2026, 06:28 PM (BDT)",
+  "updated_utc": "2026-11-25 12:28 UTC",
+  "batch_label": "06:28 PM BDT",
+  "new_added": 9,
   "expired_removed": 0,
-  "curated_by": "codex-relay (gpt-5.6-luna)",
+  "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
   "advice": {
-    "title": "AI সিগন্যাল ধরুন, ঝুঁকি সামলান",
-    "body": "GitHub-এর KuroCat দেখে free LLM API দিয়ে ছোট Claude Code prototype বানিয়ে low-cost VPS-এ deploy করুন, তবে API key ও usage limit নিরাপদ রাখুন। আজ S&P 500, NASDAQ, NVIDIA ও Micron/RAM শক্তিশালী হলেও Gold প্রায় flat এবং Bitcoin নেমেছে—তাই একবারে বিনিয়োগ না করে ধাপে ধাপে entry, stop-loss ও cash buffer রাখুন। Iran, Libya ও Yemen-এর অস্থিরতায় supply-chain risk বাড়তে পারে; VPS uptime, RAM cost এবং portfolio exposure নিয়মিত review করুন।",
-    "tag": "AI & Dev"
+    "title": "NVDA রেকর্ড, সোনায় ভাটা—কী করবেন?",
+    "body": "সোনা কমছে, টেক শেয়ার আর RAM-চিপে উত্থান—পোর্টফোলিও ভারসাম্য রাখুন। GitHub-এ নতুন AI প্রজেক্টের জন্য ফ্রি API আর VPS ট্রায়াল খুঁজে নিন; যুদ্ধ-সংকটে বিশ্ববাজার অস্থির, তাই ঝুঁকি নিয়ন্ত্রণে ছোট লটে বিনিয়োগ করুন।",
+    "tag": "Market & Gold"
   },
   "quote": {
-    "text_bn": "জীবনে কোনো কিছুকেই ভয় পাওয়ার নয়; কেবল বুঝতে হবে।",
-    "author": "মারি কুরি",
-    "note_bn": "আজকের সিদ্ধান্তে আতঙ্কের বদলে ডেটা, ছোট পরীক্ষা ও সীমিত ঝুঁকি ব্যবহার করুন।"
+    "text_bn": "এক হাজার মাইলের যাত্রা শুরু হয় একটি পদক্ষেপ দিয়েই।",
+    "author": "লাও ত্সে",
+    "note_bn": "আজকের অস্থির বাজারে ছোট ছোট পদক্ষেপে এগোন—সব সুযোগ একসাথে নেওয়ার দরকার নেই।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,561.70",
-      "change_pct": -0.01,
+      "price": "$3,548.60",
+      "change_pct": -0.37,
       "up": false
     },
     {
@@ -56,8 +56,8 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$58,950.69",
-      "change_pct": -1.33,
+      "price": "$58,610.68",
+      "change_pct": -1.9,
       "up": false
     }
   ],
@@ -500,7 +500,7 @@
         "expires_at_ts": 1795688845,
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "lebrowndnasty-hash/ai-app-builder",
@@ -806,7 +806,7 @@
         "expires_at_ts": 1795688845,
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Best Free AI Models 2026: What's Free and Where to Use It - Fello AI",
@@ -821,7 +821,7 @@
         "expires_at_ts": 1795688845,
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Can an image model catch its own typos? Meet #SenseNova U1.6. 🎨 Built on Neo-unify, it pairs refined aesthetics with the ability to check and revise image text against your prompt.",
@@ -931,6 +931,51 @@
     ],
     "war": [
       {
+        "title": "Russian strikes on Ukraine cause power outages in five regions",
+        "summary": "A Ukrainian official says attacks on Zaporizhia and Dnipropetrovsk regions damaged a number of energy sites.",
+        "url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b06bd6a8681-1795603818.jpg?resize=1920%2C1440",
+        "published_ts": 1795609157,
+        "published": "25 Nov, 06:19 PM",
+        "bn_summary": "রাশিয়ার হামলায় ইউক্রেনের জাপোরিঝিয়া ও দনিপ্রোপেত্রোভস্কসহ পাঁচটি অঞ্চলের কয়েকটি জ্বালানি স্থাপনা ক্ষতিগ্রস্ত হয়েছে। এতে বিদ্যুৎ সরবরাহে বিঘ্ন ঘটেছে, যা সাধারণ মানুষের জীবন ও জরুরি সেবায় নতুন চাপ তৈরি করছে।",
+        "added_at_ts": 1795609705,
+        "expires_at_ts": 1795696105,
+        "batch_label": "06:28 PM BDT",
+        "batch_edition": 12,
+        "is_new": true
+      },
+      {
+        "title": "Overnight RSF drone attacks kill 19 in Sudan",
+        "summary": "The attacks on Blue Nile State also injured at least 20 people – in a drone war that is quickly escalating.",
+        "url": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b06b9bd3343-1795602877.jpg?resize=1920%2C1440",
+        "published_ts": 1795607895,
+        "published": "25 Nov, 05:58 PM",
+        "bn_summary": "সুদানের ব্লু নাইল রাজ্যে RSF-এর রাতভর ড্রোন হামলায় ১৯ জন নিহত এবং অন্তত ২০ জন আহত হয়েছেন। ড্রোন ব্যবহার দ্রুত বাড়তে থাকায় দেশটির সংঘাত আরও প্রাণঘাতী ও বিস্তৃত হওয়ার আশঙ্কা দেখা দিয়েছে।",
+        "added_at_ts": 1795609705,
+        "expires_at_ts": 1795696105,
+        "batch_label": "06:28 PM BDT",
+        "batch_edition": 12,
+        "is_new": true
+      },
+      {
+        "title": "Fire breaks out following drone strikes on a residential area in Al Damazin",
+        "summary": "Flames seen engulfing a house in Sudan’s Blue Nile state, following a large-scale drone strike carried out by the RSF.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/fire-breaks-out-following-drone-strikes-on-a-residential-area-in-al-damazin?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795607418.jpg?resize=1920%2C1080&quality=80",
+        "published_ts": 1795607450,
+        "published": "25 Nov, 05:50 PM",
+        "bn_summary": "RSF-এর বড় ধরনের ড্রোন হামলার পর সুদানের আল দামাজিনের একটি আবাসিক এলাকায় বাড়িতে আগুন ধরে যায়। বেসামরিক এলাকায় এমন হামলা মানুষের নিরাপত্তা সংকট বাড়ায় এবং সংঘাতের মানবিক ক্ষয়ক্ষতি আরও স্পষ্ট করে।",
+        "added_at_ts": 1795609705,
+        "expires_at_ts": 1795696105,
+        "batch_label": "06:28 PM BDT",
+        "batch_edition": 12,
+        "is_new": true
+      },
+      {
         "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
         "summary": "Iran, a major oil producer, is facing a worsening energy crisis as winter looms.",
         "url": "https://www.aljazeera.com/features/2026/11/25/iran-rations-electricity-how-deeply-are-us-sanctions-blockade-biting?traffic_source=rss",
@@ -943,7 +988,7 @@
         "expires_at_ts": 1795688845,
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Two Libyan soldiers die after Ukraine attack on Russian vessel",
@@ -958,7 +1003,7 @@
         "expires_at_ts": 1795688845,
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Rising prices push families to the brink in Yemen’s Hodeidah",
@@ -973,7 +1018,7 @@
         "expires_at_ts": 1795688845,
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Sentences served, but Gaza prisoners remain behind Israeli bars",
@@ -1424,39 +1469,54 @@
         "batch_label": "08:44 PM BDT",
         "batch_edition": 1,
         "is_new": false
-      },
-      {
-        "title": "Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence",
-        "summary": "Kyiv responds to criticism after claiming responsibility for attacking a Russian warship and a cargo vessel off Libya.",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b058e59021e8-1795526233.jpg?resize=1920%2C1440",
-        "published_ts": 1795527000,
-        "published": "24 Nov, 07:30 PM",
-        "bn_summary": "ইউক্রেনের কিয়েভ লিবিয়ায় রাশিয়ান জাহাজ ও কার্গো ভেসেল আক্রমণকে আত্মরক্ষা হিসেবে দাবি করেছে, যা মধ্যপ্রাচ্য অঞ্চলে যুদ্ধের বিস্তার নির্দেশ করে। এই দাবি আন্তর্জাতিক সমালোচনা ও নৌবাহিনীর উত্তেজনা বাড়িয়ে তুলেছে।",
-        "added_at_ts": 1795531474,
-        "expires_at_ts": 1795617874,
-        "batch_label": "08:44 PM BDT",
-        "batch_edition": 1,
-        "is_new": false
-      },
-      {
-        "title": "Iran files lawsuits in US, EU courts: Will it get justice for ‘war crimes’?",
-        "summary": "As Iran seeks accountability and compensation for alleged war crimes, experts say legal proceedings face steep hurdles.",
-        "url": "https://www.aljazeera.com/features/2026/11/24/irans-fight-for-wartime-redress-moves-from-battlefield-to-us-eu-courts?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b0552a97c-1795510953.jpg?resize=1920%2C1440",
-        "published_ts": 1795524989,
-        "published": "24 Nov, 06:56 PM",
-        "bn_summary": "ইরান যুক্তরাষ্ট্র ও ইউরোপীয় আদালতে ‘যুদ্ধ অপরাধ’ের জন্য মামলা দায়ের করেছে, তবে আইনি বাধা ও প্রমাণের কঠিনতা ফলাফলকে অনিশ্চিত করে তুলছে। যদি সফল হয়, এটি আন্তর্জাতিক কোর্টে যুদ্ধ অপরাধের দায়িত্ব নির্ধারণের নতুন দৃষ্টান্ত স্থাপন করতে পারে।",
-        "added_at_ts": 1795531474,
-        "expires_at_ts": 1795617874,
-        "batch_label": "08:44 PM BDT",
-        "batch_edition": 1,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "Gold price today, Wednesday, November 25, 2026: Gold prices fall as inflation data and potential new tariffs loom - Yahoo Finance",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPb3dFeUN5SkJCNHNoN2FGTDYzdHNOcXJtS0NVRlBDWUJtOFNiMndWMXBHNHJ0SHFRbm1ORkdDTUtBVEQ4ZUJlRC1QeU5xZ2VPVHVNTVNMa3E2SHpheU5XSGY0YVJEcS1OSmpKM21nTGx4QS1zVUxKWHVNeFd4Wko5NUltTHNTQTU2am1tRjZkX3dGTUttQ09DcUJaYmloUXExakZRUnFCVURWUy1sbENFdXFubllDSXVvZVgtVk5WejVKQzVZY1Nvbkx5N2hxNzhhelVheFlVTUFzNkJhMV9ISm9sR3cxanB0RXhlRGVyNmswd09EOXZuVU5kR3hJVXV4Vk9Wal9ReWY4M29mTGR1bHdhbw?oc=5",
+        "source": "Yahoo Finance",
+        "image": "",
+        "published_ts": 1795608948,
+        "published": "25 Nov, 06:15 PM",
+        "bn_summary": "২৫ নভেম্বর ২০২৬-এ মুদ্রাস্ফীতির নতুন তথ্য এবং সম্ভাব্য শুল্ক নিয়ে অনিশ্চয়তার মধ্যে সোনার দাম কমেছে। বিনিয়োগকারীরা অর্থনৈতিক নীতি ও মূল্যস্ফীতির দিকনির্দেশনা বুঝতে তথ্যের অপেক্ষায় থাকায় বাজারে চাপ তৈরি হয়েছে।",
+        "added_at_ts": 1795609705,
+        "expires_at_ts": 1795696105,
+        "batch_label": "06:28 PM BDT",
+        "batch_edition": 12,
+        "is_new": true
+      },
+      {
+        "title": "Gold Price Today on November 25, 2026 - USA Today",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdkN3Vkc5ZGNYOVpyNnFWbjQxMENmU0tGSFZQX3gxc2ZfS2RJSF9rM3M0bUZiY3dKUVAtYWxBbnNzRlE2dzZvZUVfdVlqT3pGbW5xWTRsNWtIdmctOEN4dl83VWhvcENZUUFDRTJ5NW55ZVZTeTVCSkZxMFdGR2VBWXRyeDNSWmh4ZHFiSWNGV3U0Y0dTNG5STHBScU1YSkFHSEhF?oc=5",
+        "source": "USA Today",
+        "image": "",
+        "published_ts": 1795605068,
+        "published": "25 Nov, 05:11 PM",
+        "bn_summary": "২৫ নভেম্বর ২০২৬-এর প্রতিবেদনে সোনার দিনের দাম ও বাজারের সাম্প্রতিক গতিপ্রকৃতি তুলে ধরা হয়েছে। মুদ্রাস্ফীতি, সুদের হার এবং বৈশ্বিক অনিশ্চয়তা সোনার দামের ওঠানামায় গুরুত্বপূর্ণ ভূমিকা রাখছে।",
+        "added_at_ts": 1795609705,
+        "expires_at_ts": 1795696105,
+        "batch_label": "06:28 PM BDT",
+        "batch_edition": 12,
+        "is_new": true
+      },
+      {
+        "title": "Trump owned millions in Nvidia stock as he pressed chip giant to reinstate Jensen Huang - CBS News",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95MDQ2enUzdlIwVHpBQTRKRG9Gek5jcTVtdGNaclcyRVpzSVVnWUIxRl90OFZoSGpaNS1HZ0N1bGw3TFNqazVDS1JMVVNvOEpRVWgzbnFPZUNfUm8ydVl6cnlkLWJ1M2wxWkNTQk5n?oc=5",
+        "source": "CBS News",
+        "image": "",
+        "published_ts": 1795604412,
+        "published": "25 Nov, 05:00 PM",
+        "bn_summary": "চিপ নির্মাতা Nvidia-কে Jensen Huang-কে পুনর্বহালের জন্য চাপ দেওয়ার সময় ডোনাল্ড ট্রাম্পের কাছে কোম্পানিটির কোটি ডলারের শেয়ার ছিল বলে প্রতিবেদনে বলা হয়েছে। এই মালিকানা তাঁর বক্তব্য ও নীতিগত চাপের ক্ষেত্রে সম্ভাব্য স্বার্থসংঘাত নিয়ে প্রশ্ন তুলতে পারে।",
+        "added_at_ts": 1795609705,
+        "expires_at_ts": 1795696105,
+        "batch_label": "06:28 PM BDT",
+        "batch_edition": 12,
+        "is_new": true
+      },
       {
         "title": "The Ruined Gold Market and Shopping Chaos That Gave Black Friday its Name - TheCollector",
         "summary": "",
@@ -1470,7 +1530,7 @@
         "expires_at_ts": 1795688845,
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Nasdaq futures slide over 2% on fresh US tariff concerns; inflation data in focus - Reuters",
@@ -1485,7 +1545,7 @@
         "expires_at_ts": 1795688845,
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "This JPMorgan Active ETF Aims to Beat the UK Stock Market - Morningstar",
@@ -1500,7 +1560,7 @@
         "expires_at_ts": 1795688845,
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold Price Analysis Today | Forex Gold Analysis | XAU/USD Analysis - November 25, 2026 - Mitrade",
@@ -1955,6 +2015,51 @@
     ],
     "ram_hardware": [
       {
+        "title": "AMD's Radeon RX 9060 XT sets new GPU frequency world record of 4.837 GHz",
+        "summary": "AMD's Radeon RX 9060 XT has reached a new GPU frequency world record of 4,837 MHz. AMD VP Jack Huynh and veteran overclocker Bill Alverson used liquid nitrogen cooling to help the smaller RDNA 4 GPU open a 48MHz gap over the previous world record run.",
+        "url": "https://www.tomshardware.com/pc-components/gpus/radeon-rx-9060-xt-sets-new-gpu-frequency-world-record-of-4-837-ghz-amd-overclocking-team-pushes-mid-range-rdna-4-gpu-to-the-max-under-liquid-nitrogen",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/xZuigq5Szn7wTRX8pM9SwP-1920-80.jpg",
+        "published_ts": 1795606200,
+        "published": "25 Nov, 05:30 PM",
+        "bn_summary": "তরল নাইট্রোজেন ব্যবহার করে AMD Radeon RX 9060 XT-এর ঘড়ির গতি ৪.৮৩৭ গিগাহার্টজে তোলা হয়েছে, যা নতুন GPU ফ্রিকোয়েন্সি বিশ্বরেকর্ড। এই ফলাফল সাধারণ ব্যবহারের গতি নয়, বরং চরম ওভারক্লকিংয়ে হার্ডওয়্যারটির সক্ষমতা দেখায়।",
+        "added_at_ts": 1795609705,
+        "expires_at_ts": 1795696105,
+        "batch_label": "06:28 PM BDT",
+        "batch_edition": 12,
+        "is_new": true
+      },
+      {
+        "title": "This Acer Nitro V laptop with Nvidia RTX 5060 GPU is $1,049 at Best Buy",
+        "summary": "This 15.6-inch Acer Nitro gaming laptop features an RTX 5060 GPU, a 10-core Intel CPU, and a 512GB SSD for $1,049",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/this-acer-nitro-v-laptop-with-nvidia-rtx-5060-gpu-is-usd1-049-at-best-buy-16-inch-boasts-16gb-ddr5-ram-and-a-512gb-ssd",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/EFmd4zw7NGtUgp9oMfGvvn-1920-80.jpg",
+        "published_ts": 1795605754,
+        "published": "25 Nov, 05:22 PM",
+        "bn_summary": "Best Buy-তে Acer Nitro V-এর এই ১৫.৬ ইঞ্চি গেমিং ল্যাপটপটি ১,০৪৯ ডলারে পাওয়া যাচ্ছে এবং এতে Nvidia RTX 5060, ১০-কোর Intel CPU ও ৫১২ জিবি SSD রয়েছে। তুলনামূলক দামে শক্তিশালী গ্রাফিক্স পাওয়ায় এটি 1080p গেমিং ও দৈনন্দিন ভারী কাজের জন্য আকর্ষণীয় হতে পারে।",
+        "added_at_ts": 1795609705,
+        "expires_at_ts": 1795696105,
+        "batch_label": "06:28 PM BDT",
+        "batch_edition": 12,
+        "is_new": true
+      },
+      {
+        "title": "PS5 modder rips out logic board, turns his console into liquid-cooled Phanteks PC",
+        "summary": "An intrepid YouTube tech enthusiast was dissatisfied with his PlayStation 5 Pro's cooling, so he ripped out the logic board and built an entire custom PC around it, complete with 3D-printed parts and liquid cooling.",
+        "url": "https://www.tomshardware.com/video-games/playstation/ps5-modder-rips-out-logic-board-to-turn-his-console-into-liquid-cooled-phanteks-pc-custom-playstation-5-pro-build-took-120-hours-has-its-own-psu-aio-and-3d-printed-parts",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/UncbiuVZTa9iiM6q2hL6hK-1920-80.png",
+        "published_ts": 1795604400,
+        "published": "25 Nov, 05:00 PM",
+        "bn_summary": "একজন PS5 Pro মডার কনসোলটির লজিক বোর্ড খুলে সেটিকে Phanteks কেসে তরল-শীতলীকৃত কাস্টম PC হিসেবে পুনর্নির্মাণ করেছেন। প্রকল্পটি সৃজনশীল হলেও অত্যন্ত জটিল, এবং এতে কনসোলের ওয়ারেন্টি ও মূল নকশা নষ্ট হওয়ার ঝুঁকি রয়েছে।",
+        "added_at_ts": 1795609705,
+        "expires_at_ts": 1795696105,
+        "batch_label": "06:28 PM BDT",
+        "batch_edition": 12,
+        "is_new": true
+      },
+      {
         "title": "New CPU benchmark tool promises 40 years of compatibility, with support as far back as i386, Windows 95",
         "summary": "There's a new CPU benchmark on the way designed to span 40 years of personal computer chipmaking from the i386 to the present day.",
         "url": "https://www.tomshardware.com/pc-components/cpus/new-cpu-benchmark-tool-promises-40-years-of-compatibility-with-support-as-far-back-as-i386-windows-95-crystalmark-cpuix-tested-on-nec-pc-98-21bs-pentium-100-and-more",
@@ -1967,7 +2072,7 @@
         "expires_at_ts": 1795688845,
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "These four portable monitors are on sale for Black Friday",
@@ -1982,7 +2087,7 @@
         "expires_at_ts": 1795688845,
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "AI Chip Boom to See Won Build on Best Year in Almost a Decade - Bloomberg",
@@ -1997,7 +2102,7 @@
         "expires_at_ts": 1795688845,
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Is Micron’s Record Margin Squeezing Apple And HP? - Trefis",
