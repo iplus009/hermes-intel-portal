@@ -1,28 +1,28 @@
 {
-  "edition": 9,
-  "updated_ts": 1795587685,
-  "updated_dhaka": "25 Nov 2026, 12:21 PM (BDT)",
-  "updated_utc": "2026-11-25 06:21 UTC",
-  "batch_label": "12:21 PM BDT",
+  "edition": 10,
+  "updated_ts": 1795595005,
+  "updated_dhaka": "25 Nov 2026, 02:23 PM (BDT)",
+  "updated_utc": "2026-11-25 08:23 UTC",
+  "batch_label": "02:23 PM BDT",
   "new_added": 7,
   "expired_removed": 0,
-  "curated_by": "codex-relay (gpt-5.6-luna)",
+  "curated_by": "gemini (gemini-flash-lite-latest)",
   "advice": {
-    "title": "AI প্রজেক্ট, বাজারে শৃঙ্খলা",
-    "body": "আজ AI প্রজেক্টের ছোট MVP GitHub-এ version-control করে Free API-এর rate limit মেনে কম খরচের VPS-এ deploy করুন। S&P 500 ও NASDAQ শক্তিশালী, NVIDIA ও Micron/RAM শেয়ারও ঊর্ধ্বমুখী—তাই একবারে ঝাঁপ না দিয়ে ধাপে কিনুন; Gold 1.07% ও Bitcoin 1.08% কমলেও যুদ্ধ-সাবোটাজের ঝুঁকিতে hedge রাখুন।",
-    "tag": "AI & Dev"
+    "title": "টেক ও স্টক মার্কেটে স্মার্ট বিনিয়োগের সময়",
+    "body": "এনভিআইডিএ এবং মাইক্রনের শেয়ারের উল্লম্ফন ও এআই মডেলের কোডিং সক্ষমতা কাজে লাগিয়ে আপনার ডেভলপমেন্ট প্রজেক্টে ফ্রি এপিআই এবং নতুন ফ্রি ভিপিএস সেটআপ করুন। একই সাথে গোল্ডের বর্তমান দরপতন এবং এসএন্ডপি ৫০০-এর উত্থান দেখে আপনার পোর্টফোলিও বুদ্ধিমত্তার সাথে রিব্যালেন্স করুন।",
+    "tag": "Market & Gold"
   },
   "quote": {
-    "text_bn": "যে ব্যক্তি পাহাড় সরাতে শুরু করে, সে ছোট ছোট পাথর সরিয়েই শুরু করে।",
-    "author": "কনফুসিয়াস",
-    "note_bn": "আজ বড় লক্ষ্যকে GitHub task, API পরীক্ষা ও VPS deployment-এর ছোট ধাপে ভাগ করে শুরু করুন।"
+    "text_bn": "ভবিষ্যৎ হলো তাদেরই, যারা তাদের স্বপ্নের সৌন্দর্যে বিশ্বাস করে।",
+    "author": "এলেনর রুজভেল্ট",
+    "note_bn": "আজকের প্রযুক্তিগত সুযোগ ও স্টক মার্কেট ট্রেন্ডকে বিশ্বাস করে আপনার দীর্ঘমেয়াদী লক্ষ্য ঠিক করুন।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,523.80",
-      "change_pct": -1.07,
+      "price": "$3,522.70",
+      "change_pct": -1.1,
       "up": false
     },
     {
@@ -56,13 +56,28 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$59,102.85",
-      "change_pct": -1.08,
+      "price": "$58,798.57",
+      "change_pct": -1.59,
       "up": false
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "Why can frontier AI models write complex code, yet still occasionally stumble when asked to identify the colors of five simple objects in order or verify what's not in an image? Th",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JVzBpczVUdW1aRjVIVExCajFrRjVBeFk2TzlwNG9KUXJXNXRQUGUzRHpvelVoSVJ4YzlseVpFTUpzT2tCamc4S3IxRkszU3VlNjRiYmFuNW9wTTA?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795549182,
+        "published": "25 Nov, 01:39 AM",
+        "bn_summary": "Frontier AI modelগুলো জটিল কোড লিখতে পারলেও খুব সহজ ভিজ্যুয়াল কাজ, যেমন পাঁচটি বস্তুর রং শনাক্ত করা, মাঝে মাঝে ভুল করে। এতে বোঝা যায় যে ভাষা ও কোডের প্যাটার্নে দক্ষতা থাকলেই মডেলের মৌলিক উপলব্ধি এবং নির্ভরযোগ্যতা নিশ্চিত হয় না।",
+        "added_at_ts": 1795595005,
+        "expires_at_ts": 1795681405,
+        "batch_label": "02:23 PM BDT",
+        "batch_edition": 10,
+        "is_new": true
+      },
       {
         "title": "Bye AI music. Starting December 9. More here: https://t.co/ZY9nDTknxz - X",
         "summary": "",
@@ -76,7 +91,7 @@
         "expires_at_ts": 1795674085,
         "batch_label": "12:21 PM BDT",
         "batch_edition": 9,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "@prlnet Exciting work team! - X",
@@ -869,6 +884,51 @@
     ],
     "war": [
       {
+        "title": "Sentences served, but Gaza prisoners remain behind Israeli bars",
+        "summary": "Palestinian families in Gaza wait for loved ones who remain in Israeli prisons despite completing their sentences.",
+        "url": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A2836-copy-1795550539.jpg?resize=1920%2C1440",
+        "published_ts": 1795591904,
+        "published": "25 Nov, 01:31 PM",
+        "bn_summary": "গাজায় কিছু ফিলিস্তিনি বন্দি সাজা শেষ করার পরও ইসরায়েলি কারাগারে আটক রয়েছেন, ফলে তাঁদের পরিবার অপেক্ষা ও অনিশ্চয়তার মধ্যে আছে। বিষয়টি কারাবন্দিদের আইনি অধিকার এবং সাজা শেষ হওয়ার পর মুক্তি দেওয়ার প্রক্রিয়া নিয়ে গুরুতর প্রশ্ন তুলছে।",
+        "added_at_ts": 1795595005,
+        "expires_at_ts": 1795681405,
+        "batch_label": "02:23 PM BDT",
+        "batch_edition": 10,
+        "is_new": true
+      },
+      {
+        "title": "Pakistan rejoices as country’s first astronaut enters orbit",
+        "summary": "Zeeshan Ali makes history as the first foreign national to board China's space station",
+        "url": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b067e9c711c-1795587740.jpg?resize=1920%2C1440",
+        "published_ts": 1795590359,
+        "published": "25 Nov, 01:05 PM",
+        "bn_summary": "জিশান আলি চীনের মহাকাশ স্টেশনে পৌঁছে পাকিস্তানের প্রথম মহাকাশচারী হিসেবে ইতিহাস গড়েছেন, যা দেশে ব্যাপক উদযাপনের জন্ম দিয়েছে। তিনি বিদেশি নাগরিক হিসেবে এই মিশনে অংশ নেওয়ায় ঘটনাটি পাকিস্তানের মহাকাশ-আকাঙ্ক্ষা এবং চীনের আন্তর্জাতিক সহযোগিতার প্রতীক হয়ে উঠেছে।",
+        "added_at_ts": 1795595005,
+        "expires_at_ts": 1795681405,
+        "batch_label": "02:23 PM BDT",
+        "batch_edition": 10,
+        "is_new": true
+      },
+      {
+        "title": "Galatasaray says Israel complained to UEFA over Palestine banners",
+        "summary": "Galatasaray’s chairman says Israel’s Netanyahu government has reported the club to UEFA over pro-Palestine fan banners.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795579912.jpg?resize=1920%2C1080&quality=80",
+        "published_ts": 1795579931,
+        "published": "25 Nov, 10:12 AM",
+        "bn_summary": "গালাতাসারায়ের চেয়ারম্যানের দাবি, ফিলিস্তিনপন্থী ব্যানারের কারণে ইসরায়েলি সরকার ক্লাবটির বিরুদ্ধে উয়েফার কাছে অভিযোগ করেছে। ঘটনাটি ফুটবল মাঠে রাজনৈতিক ও মানবিক প্রতীক ব্যবহারের অধিকার এবং ক্রীড়াঙ্গনে ইসরায়েল-ফিলিস্তিন বিরোধের প্রভাব নিয়ে বিতর্ক বাড়াতে পারে।",
+        "added_at_ts": 1795595005,
+        "expires_at_ts": 1795681405,
+        "batch_label": "02:23 PM BDT",
+        "batch_edition": 10,
+        "is_new": true
+      },
+      {
         "title": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
         "summary": "The opposition Congress party calls Israel’s war on Gaza a genocide, but its leader still wants strong ties with Israel.",
         "url": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi?traffic_source=rss",
@@ -881,7 +941,7 @@
         "expires_at_ts": 1795674085,
         "batch_label": "12:21 PM BDT",
         "batch_edition": 9,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "UK warns companies of potential Russian sabotage threat",
@@ -896,7 +956,7 @@
         "expires_at_ts": 1795674085,
         "batch_label": "12:21 PM BDT",
         "batch_edition": 9,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Israeli strike kills four people in Gaza",
@@ -911,7 +971,7 @@
         "expires_at_ts": 1795674085,
         "batch_label": "12:21 PM BDT",
         "batch_edition": 9,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Asia’s stock markets dive as doubts swirl over AI boom",
@@ -1306,6 +1366,21 @@
     ],
     "stocks_gold": [
       {
+        "title": "Gold Price Analysis Today | Forex Gold Analysis | XAU/USD Analysis - November 25, 2026 - Mitrade",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOWltekVJOW9vQzJ4Q0oyV0ZLRURoSnB3ZkhBMFVVeDVIQXVBcTFvUGVRT3JTVlpDRFJ6dE1Pa0YzLTItdDZ4bVhNOUJEd2JCbUxqLUZGeUVyUTc4U0RMUlhEZVJQSDJ6MTZaaC1La2Y1V3g4d0lOekdxc2xSTXJqMDhXalNtNmdxbGFYTVBBZ3JGb09X?oc=5",
+        "source": "Mitrade",
+        "image": "",
+        "published_ts": 1795576293,
+        "published": "25 Nov, 09:11 AM",
+        "bn_summary": "এই প্রতিবেদনে ২৫ নভেম্বর ২০২৬-এর জন্য XAU/USD বা সোনার দামের সম্ভাব্য গতিপথ নিয়ে ফরেক্স বিশ্লেষণ দেওয়ার কথা বলা হয়েছে। সাধারণত সুদের হার, ডলার, মুদ্রাস্ফীতি এবং ভূরাজনৈতিক ঝুঁকি সোনার দামে প্রভাব ফেলে, তাই বিশ্লেষণটি বিনিয়োগকারীদের বাজারের সম্ভাব্য দিক বুঝতে সহায়তা করতে পারে।",
+        "added_at_ts": 1795595005,
+        "expires_at_ts": 1795681405,
+        "batch_label": "02:23 PM BDT",
+        "batch_edition": 10,
+        "is_new": true
+      },
+      {
         "title": "National Security vs. the Stock Market - The New York Times",
         "summary": "",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX3lPVDltZFlETVlOV1E0N2tNMW1nbHdrSy16SHpmQVZlLXNTWTRHMnhKa2hwNTlReFRCXzc0TmRrTDNlaVFXSVZXWWZXMHRVek1OVjdmcHlhbTV6Y0tfalFveHltNlFRTDc2MTlFcDF1LVBZTkpPa0NUY1NyMVhOYTVCNA?oc=5",
@@ -1318,7 +1393,7 @@
         "expires_at_ts": 1795674085,
         "batch_label": "12:21 PM BDT",
         "batch_edition": 9,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "S&P Dow Jones Indices - S&P Global",
@@ -1333,7 +1408,7 @@
         "expires_at_ts": 1795674085,
         "batch_label": "12:21 PM BDT",
         "batch_edition": 9,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold Price Forecast: Will US PCE inflation data rescue XAU/USD buyers? - FXStreet",
@@ -1348,7 +1423,7 @@
         "expires_at_ts": 1795674085,
         "batch_label": "12:21 PM BDT",
         "batch_edition": 9,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold Price on 24 November 2026 - Gold Price",
@@ -1742,6 +1817,36 @@
       }
     ],
     "ram_hardware": [
+      {
+        "title": "Is Micron’s Record Margin Squeezing Apple And HP? - Trefis",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTXFfakw2TGtyVktURWEwZHNuc1ptMDZCQktGRlJ6ZXExYk1SY2xKa24tUVNucjRuM2hfY0dIb2FFMWtXcXJGbk00QmJiMnQxbkx6ZzhhY0dGU3dxX0dQZUlmbGViSW9zcGtrV3JldlptUzlvcktxd1ZEN2dRMjhhQVJxcmh5aXRqYUxyWTl3bjZ4LWVaVGFyekF2aVB5WWw3RXp0QW83QVRPVEk?oc=5",
+        "source": "Trefis",
+        "image": "",
+        "published_ts": 1795592714,
+        "published": "25 Nov, 01:45 PM",
+        "bn_summary": "Micron-এর রেকর্ড মুনাফার হার মেমরি চিপের শক্তিশালী চাহিদা বা উচ্চ দামের ইঙ্গিত দিচ্ছে, যা Apple ও HP-এর মতো বড় ক্রেতাদের খরচ বাড়াতে পারে। এতে ডিভাইস নির্মাতাদের লাভের মার্জিন কমে যেতে পারে অথবা অতিরিক্ত খরচ গ্রাহকদের ওপর পণ্যের দামের মাধ্যমে চাপানো হতে পারে।",
+        "added_at_ts": 1795595005,
+        "expires_at_ts": 1795681405,
+        "batch_label": "02:23 PM BDT",
+        "batch_edition": 10,
+        "is_new": true
+      },
+      {
+        "title": "Best Black Friday 2026 tech deals",
+        "summary": "All the best Black Friday deals for tech and PC hardware.",
+        "url": "https://www.tomshardware.com/live/news/black-friday-2026",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/u7NNVHRAq9CzD7mjKfQXH5-1920-80.jpg",
+        "published_ts": 1795590755,
+        "published": "25 Nov, 01:12 PM",
+        "bn_summary": "ব্ল্যাক ফ্রাইডে ২০২৬ উপলক্ষে প্রযুক্তি পণ্য ও PC হার্ডওয়্যারের উল্লেখযোগ্য ছাড়গুলো একত্র করা হয়েছে। ক্রেতারা ল্যাপটপ, উপাদান ও অন্যান্য গ্যাজেটের দাম তুলনা করে কেনাকাটার আগে প্রকৃত সাশ্রয় এবং ডিলের শর্ত যাচাই করতে পারবেন।",
+        "added_at_ts": 1795595005,
+        "expires_at_ts": 1795681405,
+        "batch_label": "02:23 PM BDT",
+        "batch_edition": 10,
+        "is_new": true
+      },
       {
         "title": "Debate Over AI Memory Boom's Peak Intensifies as Micron Price Target Halved, Chip Stocks Waver - BigGo Finance",
         "summary": "",
