@@ -1,28 +1,28 @@
 {
-  "edition": 7,
-  "updated_ts": 1795572805,
-  "updated_dhaka": "25 Nov 2026, 08:13 AM (BDT)",
-  "updated_utc": "2026-11-25 02:13 UTC",
-  "batch_label": "08:13 AM BDT",
-  "new_added": 12,
+  "edition": 8,
+  "updated_ts": 1795580245,
+  "updated_dhaka": "25 Nov 2026, 10:17 AM (BDT)",
+  "updated_utc": "2026-11-25 04:17 UTC",
+  "batch_label": "10:17 AM BDT",
+  "new_added": 11,
   "expired_removed": 0,
-  "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
+  "curated_by": "codex-relay (gpt-5.6-luna)",
   "advice": {
-    "title": "NVDA-র র্যালিতে Gold-এ সতর্ক থাকুন",
-    "body": "আজকের বাজারে Nvidia-র ২৩% উত্থান আর Gold-এর ২.৭% পতন স্পষ্ট সংকেত দিচ্ছে—AI-তে মনোযোগ দিন, সোনায় নয়। GitHub-এ নতুন AI app builder খুঁজে দেখুন, আর Micron-এর RAM স্টক ৫.৯% বাড়ায় hardware খাতে বিনিয়োগের সুযোগ নিন। বিশ্ব সংকটের মধ্যে নিজের দক্ষতা বাড়ান, কারণ AI-ই এখন সবচেয়ে বড় সুযোগ।",
+    "title": "AI Build, Cash Guard, Risk Watch",
+    "body": "GitHub-এ ছোট AI prototype বানিয়ে free API quota ও low-cost VPS-এ deploy করুন, তবে usage limit, secret key এবং backup আগে সেট করুন। আজ Nasdaq ও NVIDIA শক্তিশালী হলেও AI-boom নিয়ে বিশ্ববাজারে সন্দেহ আছে, তাই stocks/RAM-এ একবারে all-in না হয়ে ধাপে কিনুন; gold 2.94% নেমেছে বলে hedge হিসেবে অল্প অল্প করে পর্যবেক্ষণ করুন। Asia-র volatility, যুদ্ধসংবাদ ও Bitcoin দুর্বলতা দেখে leverage এড়িয়ে cash buffer রাখুন এবং Micron/RAM-সংক্রান্ত peak-risk headline নিয়মিত যাচাই করুন।",
     "tag": "AI & Dev"
   },
   "quote": {
-    "text_bn": "ওঠো, জাগো, লক্ষ্যে না পৌঁছানো পর্যন্ত থেমো না।",
-    "author": "স্বামী বিবেকানন্দ",
-    "note_bn": "আজকের AI-র দৌড়ে নিজের লক্ষ্য ঠিক রেখে এগিয়ে যান।"
+    "text_bn": "আমি কখনো হারি না। হয় জিতি, নয়তো শিখি।",
+    "author": "নেলসন ম্যান্ডেলা",
+    "note_bn": "আজকের market ও coding experiment-এ প্রতিটি ভুল লিখে রেখে পরের সিদ্ধান্তে তা কাজে লাগান।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,552.40",
-      "change_pct": -2.71,
+      "price": "$3,544.10",
+      "change_pct": -2.94,
       "up": false
     },
     {
@@ -56,13 +56,58 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$59,037.92",
-      "change_pct": -1.18,
+      "price": "$59,312.97",
+      "change_pct": -0.72,
       "up": false
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "@prlnet Exciting work team! - X",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MU1pVY2dkMEdmdVBTYmxjbU9CRUFaNTZUYzhUS3A3VXktUy1iazZTbDNGdlRpZG5DeldoQmFPMkFEVFBLdlBrWU9xSTlsNFZNc3Zjcy1xdDg4TElHbnc?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795558068,
+        "published": "25 Nov, 04:07 AM",
+        "bn_summary": "গবেষণা দলটি তাদের নতুন কাজের জন্য সামাজিক মাধ্যমে দারুণ উদ্দীপনা প্রকাশ করেছেন। এই ধরনের উদ্ভাবনী প্রচেষ্টা প্রযুক্তির ক্ষেত্রকে আরও এগিয়ে নিতে এবং নতুন দিগন্ত উন্মোচন করতে সাহায্য করবে।",
+        "added_at_ts": 1795580245,
+        "expires_at_ts": 1795666645,
+        "batch_label": "10:17 AM BDT",
+        "batch_edition": 8,
+        "is_new": true
+      },
+      {
+        "title": "Tidal Is Deleting, Rejecting, and Banning Fully AI-Generated Music This year we introduced Tidal’s AI Policy to protect artists and keep listeners informed. Since then, we’ve been ",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RNUh1YUo1OHBDSWFQcGJ5ZUgzak1fNURIcHNHRmgtbEtWNHlia3VKVUpaMzNsWVRrS3NYN0h5ajRPTTJicC1NeEdaaGtkSVlXRF9UdnY0QTFPQQ?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795530149,
+        "published": "24 Nov, 08:22 PM",
+        "bn_summary": "মিউজিক স্ট্রিমিং প্ল্যাটফর্ম টাইডাল পুরোপুরি এআই দ্বারা তৈরি গানগুলো প্ল্যাটফর্ম থেকে মুছে ফেলা এবং নিষিদ্ধ করা শুরু করেছে। এটি আসল শিল্পীদের কপিরাইট রক্ষা করবে এবং প্ল্যাটফর্মে মানুষের তৈরি আসল সঙ্গীতের মান বজায় রাখতে গুরুত্বপূর্ণ ভূমিকা রাখবে।",
+        "added_at_ts": 1795580245,
+        "expires_at_ts": 1795666645,
+        "batch_label": "10:17 AM BDT",
+        "batch_edition": 8,
+        "is_new": true
+      },
+      {
+        "title": "SCOOP: Internal, unreleased AI models at OpenAI and Anthropic are becoming so powerful that many employees believe they can no longer be safely released, according to more than two",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVX1dKTEFhLVY3eGVjZWlrTzIyWXphQWdkdFozU2hHYUZWeWVJUnd3aldvUW1oaFMyYkpUT2J4ajRxT3c0VGhIV1IzVE1Ob1ZIVFdtQlBUbEpESTZCN2xGblhlbU0tQQ?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795520859,
+        "published": "24 Nov, 05:47 PM",
+        "bn_summary": "ওপেনএআই এবং অ্যানথ্রপিক-এর ভেতরের অপ্রকাশিত এআই মডেলগুলো এতটাই শক্তিশালী হয়ে উঠছে যে অনেক কর্মী মনে করছেন তারা আর এর গতি রোধ করতে পারবেন না। এটি কৃত্রিম বুদ্ধিমত্তার দ্রুত অগ্রগতি এবং এর সম্ভাব্য ভবিষ্যৎ প্রভাব নিয়ে বড় ধরনের নিরাপত্তা ও নৈতিক প্রশ্ন তুলছে।",
+        "added_at_ts": 1795580245,
+        "expires_at_ts": 1795666645,
+        "batch_label": "10:17 AM BDT",
+        "batch_edition": 8,
+        "is_new": true
+      },
       {
         "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
         "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits",
@@ -76,7 +121,7 @@
         "expires_at_ts": 1795659205,
         "batch_label": "08:13 AM BDT",
         "batch_edition": 7,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "New Anthropic research: When an AI agent can escape its sandbox, will it choose to? Our new evaluation, Siren, gives Claude routine tasks in intentionally weakened sandboxes, with ",
@@ -91,7 +136,7 @@
         "expires_at_ts": 1795659205,
         "batch_label": "08:13 AM BDT",
         "batch_edition": 7,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Jensen Huang deepfakes are the hot new AI slop",
@@ -106,7 +151,7 @@
         "expires_at_ts": 1795659205,
         "batch_label": "08:13 AM BDT",
         "batch_edition": 7,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
@@ -425,7 +470,7 @@
         "expires_at_ts": 1795659205,
         "batch_label": "08:13 AM BDT",
         "batch_edition": 7,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "ali7080/adobe-air-sdk",
@@ -809,6 +854,51 @@
     ],
     "war": [
       {
+        "title": "Asia’s stock markets dive as doubts swirl over AI boom",
+        "summary": "Markets fall sharply in Japan, South Korea and Taiwan in latest tech-led sell-off.",
+        "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26328080652490-1795572292.jpg?resize=1920%2C1440",
+        "published_ts": 1795577519,
+        "published": "25 Nov, 09:31 AM",
+        "bn_summary": "এআই খাতের স্থায়িত্ব নিয়ে সংশয় দেখা দেওয়ায় এশিয়ার শেয়ারবাজারে বড় ধস নেমেছে। এই পতন বিশ্বজুড়ে প্রযুক্তি খাতের বিনিয়োগকারীদের মধ্যে উদ্বেগ তৈরি করেছে এবং অর্থনীতির ভবিষ্যৎ গতিপ্রকৃতি নিয়ে নতুন করে ভাবাচ্ছে।",
+        "added_at_ts": 1795580245,
+        "expires_at_ts": 1795666645,
+        "batch_label": "10:17 AM BDT",
+        "batch_edition": 8,
+        "is_new": true
+      },
+      {
+        "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+        "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+        "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg",
+        "published_ts": 1795568211,
+        "published": "25 Nov, 06:56 AM",
+        "bn_summary": "রাশিয়ার নিজস্ব ফাঁস হওয়া উপাত্ত থেকে ইউক্রেন যুদ্ধে প্রায় ৫ লাখ মৃত্যুর ভয়াবহ চিত্র প্রকাশ পেয়েছে। এই পরিসংখ্যান যুদ্ধের কারণে রাশিয়ার জনমিতি ও মৃত্যুর হারে যে মারাত্মক পরিবর্তন এসেছে তা স্পষ্টভাবে তুলে ধরে।",
+        "added_at_ts": 1795580245,
+        "expires_at_ts": 1795666645,
+        "batch_label": "10:17 AM BDT",
+        "batch_edition": 8,
+        "is_new": true
+      },
+      {
+        "title": "Gunmen hold dozens hostage in Colombia supermarket",
+        "summary": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795567656.jpg?resize=1920%2C1080&quality=80",
+        "published_ts": 1795567775,
+        "published": "25 Nov, 06:49 AM",
+        "bn_summary": "কলম্বিয়ার কার্টাজেনা শহরে একদল সশস্ত্র ব্যক্তি একটি সুপারমার্কেটে হামলা চালিয়ে প্রায় ২০ জনকে জিম্মি করেছে। এই ঘটনাটি ওই অঞ্চলের আইনশৃঙ্খলা পরিস্থিতি এবং সাধারণ মানুষের নিরাপত্তা নিয়ে মারাত্মক উদ্বেগের সৃষ্টি করেছে।",
+        "added_at_ts": 1795580245,
+        "expires_at_ts": 1795666645,
+        "batch_label": "10:17 AM BDT",
+        "batch_edition": 8,
+        "is_new": true
+      },
+      {
         "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
         "summary": "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman.",
         "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
@@ -821,7 +911,7 @@
         "expires_at_ts": 1795659205,
         "batch_label": "08:13 AM BDT",
         "batch_edition": 7,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
@@ -836,7 +926,7 @@
         "expires_at_ts": 1795659205,
         "batch_label": "08:13 AM BDT",
         "batch_edition": 7,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Poll finds US voters want government to end Iran war regardless of terms",
@@ -851,7 +941,7 @@
         "expires_at_ts": 1795659205,
         "batch_label": "08:13 AM BDT",
         "batch_edition": 7,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
@@ -1156,6 +1246,51 @@
     ],
     "stocks_gold": [
       {
+        "title": "Gold Price on 24 November 2026 - Gold Price",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WSFQxR1dqMDBnMXcxdEtRX1hGTUoxNHUydk4zLTZtY2pnOFc1cXBBUGtQMVVSTEV4T0pRb20tdE1KWHZtRDhSVThkcTN0VlgzRnczTWppX3BOa1laMHc?oc=5",
+        "source": "Gold Price",
+        "image": "",
+        "published_ts": 1795575763,
+        "published": "25 Nov, 09:02 AM",
+        "bn_summary": "২০২৬ সালের ২৪ নভেম্বর প্রকাশিত সোনার বাজার দর অনুযায়ী মূল্যবান এই ধাতুর বর্তমান দাম নির্ধারিত হয়েছে। বিনিয়োগকারীরা বাজারের গতিবিধি বুঝতে এবং তাদের আর্থিক পরিকল্পনা সাজাতে এই হালনাগাদ মূল্য নিয়মিত পর্যবেক্ষণ করছেন।",
+        "added_at_ts": 1795580245,
+        "expires_at_ts": 1795666645,
+        "batch_label": "10:17 AM BDT",
+        "batch_edition": 8,
+        "is_new": true
+      },
+      {
+        "title": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed - Yahoo Finance",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDZ0bDdjN0JUTWU4T0c1eU5YZGdUckxKMTh3ZHVnd2VkVjQwTWRHWGcxMFA1cTlwMlJrYW9rNXhjV2NheHVzeXZrdHl6alZaNk5ZNzZUdTFNZXNUaXFYQzRWVk02dmtMdVFWTU9ZclBwc1ZOOHhiTmZ4Ym0xRHBmZzU3bFJDdEg0R3BITXkyOXQ?oc=5",
+        "source": "Yahoo Finance",
+        "image": "",
+        "published_ts": 1795570920,
+        "published": "25 Nov, 07:42 AM",
+        "bn_summary": "এসঅ্যান্ডপি ৫০০ এবং নাসডাক সূচকের পতনের পর ওয়াল স্ট্রিটের ফিউচার বাজার নিম্নমুখী রয়েছে এবং বিনিয়োগকারীরা আসন্ন মুদ্রাস্ফীতির ডেটার অপেক্ষায় আছেন। এই পরিস্থিতি মার্কিন অর্থনৈতিক স্থিতিশীলতা এবং ফেডের পরবর্তী সুদের হার নির্ধারণের ওপর বড় প্রভাব ফেলতে পারে।",
+        "added_at_ts": 1795580245,
+        "expires_at_ts": 1795666645,
+        "batch_label": "10:17 AM BDT",
+        "batch_edition": 8,
+        "is_new": true
+      },
+      {
+        "title": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Floated - Bloomberg.com",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcHhkVFpXSmc2SFJ3VEV3WHg5Vm4xYmRlM2l5R3Z2TEx6emJsdVRiQVBJTjJpaDJ3X2NsZFBURUR4anlRVDY4aTl0cHFvUzFTWUw5VUtXcE5pSEt1TzNPTWlXU0xHYV84QjVURk9LV1pFRGloYTQ1aU1iUmJ4TlN1NlVRYXN6QS1ub2Z6Mm1HMlNXS0hYV1YxNzF5SV9MSUNkNUtRTnRqb1phaUlESmRaMUxjcTM0dw?oc=5",
+        "source": "Bloomberg.com",
+        "image": "",
+        "published_ts": 1795556355,
+        "published": "25 Nov, 03:39 AM",
+        "bn_summary": "এনভিডিয়ার সাফল্যের উন্মাদনা কমে যাওয়া এবং নতুন শুল্কের আশঙ্কায় নাসডাক ১০০ সূচকে বড় পতন ঘটেছে। এই ধরনের বাজার ওঠানামা প্রযুক্তি খাতের ভবিষ্যৎ বিনিয়োগ এবং বৈশ্বিক বাণিজ্যের ওপর গভীর প্রভাব ফেলে।",
+        "added_at_ts": 1795580245,
+        "expires_at_ts": 1795666645,
+        "batch_label": "10:17 AM BDT",
+        "batch_edition": 8,
+        "is_new": true
+      },
+      {
         "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
         "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
         "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
@@ -1168,7 +1303,7 @@
         "expires_at_ts": 1795659205,
         "batch_label": "08:13 AM BDT",
         "batch_edition": 7,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March - StoneX",
@@ -1183,7 +1318,7 @@
         "expires_at_ts": 1795659205,
         "batch_label": "08:13 AM BDT",
         "batch_edition": 7,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Nasdaq, S&P 500 close lower, giving up some Nvidia-fueled gains - NBC News",
@@ -1198,7 +1333,7 @@
         "expires_at_ts": 1795659205,
         "batch_label": "08:13 AM BDT",
         "batch_edition": 7,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Analysis | Trump’s Nvidia gambit shows the stock market is the economy - The Washington Post",
@@ -1503,6 +1638,36 @@
     ],
     "ram_hardware": [
       {
+        "title": "Debate Over AI Memory Boom's Peak Intensifies as Micron Price Target Halved, Chip Stocks Waver - BigGo Finance",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ra2ZhbFNXcjh5X0hLU0Nyc1FuNXdjc0JYeFhOb2pUa3JXbkNRQ1JQRUhkRGpWYkZqOE9fbmZCYU1TR1k5djlsOVE2WG5aT280YnpkWS10WTNFLXY0cGF6OGxodFJqcm1JeXBHX0FjU21CNVNZOFE?oc=5",
+        "source": "BigGo Finance",
+        "image": "",
+        "published_ts": 1795575300,
+        "published": "25 Nov, 08:55 AM",
+        "bn_summary": "মাইক্রনের মূল্য লক্ষ্যমাত্রা অর্ধেকে নেমে যাওয়ায় এআই মেমোরি বুমের স্থায়িত্ব নিয়ে বাজারে তীব্র বিতর্ক শুরু হয়েছে। এর ফলে চিপ প্রস্তুতকারক কোম্পানিগুলোর শেয়ারের দামে অস্থিরতা দেখা দিয়েছে, যা সামগ্রিক প্রযুক্তি বাজারকে প্রভাবিত করছে।",
+        "added_at_ts": 1795580245,
+        "expires_at_ts": 1795666645,
+        "batch_label": "10:17 AM BDT",
+        "batch_edition": 8,
+        "is_new": true
+      },
+      {
+        "title": "Micron: The Music Has Stopped (NASDAQ:MU) - Seeking Alpha",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJT3NnXzhOZGpBckthQmpJSHZBdXhfR2tHTVE5ajV5eEdSbEs1VFg0QzNfbTh0SFFsaTlraHNTakxpLXFaMG4tZlZ6T2cxcUhON29vclg5cUFpc1I2aWtJTnItZXlhYzhvbDlXRjZFdjRWTlZLbFJ3TA?oc=5",
+        "source": "Seeking Alpha",
+        "image": "",
+        "published_ts": 1795530600,
+        "published": "24 Nov, 08:30 PM",
+        "bn_summary": "মাইক্রনের শেয়ারের সাম্প্রতিক উত্থান থেমে যাওয়ার ইঙ্গিত দিচ্ছে, কারণ মেমোরি চিপের বাজারে চাহিদা ও দাম নিয়ে উদ্বেগ তৈরি হচ্ছে। এটি বিনিয়োগকারীদের জন্য গুরুত্বপূর্ণ কারণ মাইক্রনের আয় মূলত DRAM ও NAND চিপের দামের ওপর নির্ভরশীল, তাই এই সংকেত শেয়ারের ভবিষ্যৎ প্রবণতা নির্ধারণে বড় ভূমিকা রাখতে পারে।",
+        "added_at_ts": 1795580245,
+        "expires_at_ts": 1795666645,
+        "batch_label": "10:17 AM BDT",
+        "batch_edition": 8,
+        "is_new": true
+      },
+      {
         "title": "AMD Ryzen 9 8940HX and RTX 5070 gaming laptop with 32GB DDR5 RAM gets $405 price cut in Black Friday deal - PC Guide",
         "summary": "",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ19EQ1FBbnI3WUJnX3dtWmhNVTZmLW12bGVpT2w4d0VyQ2ZqUFBOLVd1Nk55QnR1UW1fbFZLaGxRcWdXQ3B5YjNaMDhfMGZ6UXNEQWRUVkNLdFMybTF3cDEzWENyeUxXX1pxSmhDSkNUU3k3YzAtUHI2RlNoX0pENE44SjM5QUU3Wjg1d3l2c1c0NzUzcXlSUUhQbWcyRXBpTVY1bXNkek1SVjFHbU82ZFlTYXIydzlDQlFEUmxnMS1MNDVYYTRxU2kzMEJoUGha?oc=5",
@@ -1515,7 +1680,7 @@
         "expires_at_ts": 1795659205,
         "batch_label": "08:13 AM BDT",
         "batch_edition": 7,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Why Micron Stock Dove Today - Yahoo Finance",
@@ -1530,7 +1695,7 @@
         "expires_at_ts": 1795659205,
         "batch_label": "08:13 AM BDT",
         "batch_edition": 7,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Patriot’s 32GB DDR5-6000 CL30 RAM kit is $60 off Amazon’s list price - MIXED News",
