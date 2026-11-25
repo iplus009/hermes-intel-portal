@@ -1,28 +1,28 @@
 {
-  "edition": 6,
-  "updated_ts": 1795565305,
-  "updated_dhaka": "25 Nov 2026, 06:08 AM (BDT)",
-  "updated_utc": "2026-11-25 00:08 UTC",
-  "batch_label": "06:08 AM BDT",
-  "new_added": 13,
+  "edition": 7,
+  "updated_ts": 1795572805,
+  "updated_dhaka": "25 Nov 2026, 08:13 AM (BDT)",
+  "updated_utc": "2026-11-25 02:13 UTC",
+  "batch_label": "08:13 AM BDT",
+  "new_added": 12,
   "expired_removed": 0,
-  "curated_by": "gemini (gemini-flash-lite-latest)",
+  "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
   "advice": {
-    "title": "টেক ও স্টক মার্কেটে নতুন গতি",
-    "body": "এনভিডিয়া ও মাইক্রনের জোরালো উত্থানের বাজারে টেক পোর্টফোলিও গুছিয়ে নেওয়ার মোক্ষম সময় এটি। নতুন এআই টুল ব্যবহারের পাশাপাশি হার্ডওয়্যার কেনাকাটায় ডিসকাউন্টের সুযোগ কাজে লাগান।",
-    "tag": "Market & Gold"
+    "title": "NVDA-র র্যালিতে Gold-এ সতর্ক থাকুন",
+    "body": "আজকের বাজারে Nvidia-র ২৩% উত্থান আর Gold-এর ২.৭% পতন স্পষ্ট সংকেত দিচ্ছে—AI-তে মনোযোগ দিন, সোনায় নয়। GitHub-এ নতুন AI app builder খুঁজে দেখুন, আর Micron-এর RAM স্টক ৫.৯% বাড়ায় hardware খাতে বিনিয়োগের সুযোগ নিন। বিশ্ব সংকটের মধ্যে নিজের দক্ষতা বাড়ান, কারণ AI-ই এখন সবচেয়ে বড় সুযোগ।",
+    "tag": "AI & Dev"
   },
   "quote": {
-    "text_bn": "ভবিষ্যতের পূর্বাভাস দেওয়ার সেরা উপায় হলো ভবিষ্যৎ নিজে তৈরি করা।",
-    "author": "অ্যালান কে",
-    "note_bn": "আজকের প্রযুক্তির উন্নয়নে নিজেই নিজের সুযোগ তৈরি করুন।"
+    "text_bn": "ওঠো, জাগো, লক্ষ্যে না পৌঁছানো পর্যন্ত থেমো না।",
+    "author": "স্বামী বিবেকানন্দ",
+    "note_bn": "আজকের AI-র দৌড়ে নিজের লক্ষ্য ঠিক রেখে এগিয়ে যান।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,548.60",
-      "change_pct": -2.82,
+      "price": "$3,552.40",
+      "change_pct": -2.71,
       "up": false
     },
     {
@@ -56,13 +56,58 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$59,635.84",
-      "change_pct": -0.18,
+      "price": "$59,037.92",
+      "change_pct": -1.18,
       "up": false
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+        "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits",
+        "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+        "source": "TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-ChatGPT.png?resize=1200,675",
+        "published_ts": 1795565522,
+        "published": "25 Nov, 06:12 AM",
+        "bn_summary": "ইয়েল বিশ্ববিদ্যালয়ের অর্থনীতিবিদ জেফ্রি সনেফেল্ড সতর্ক করেছেন যে এনভিডিয়ার প্রধান হিসেবে জেনসেন হুয়াংয়ের প্রত্যাবর্তন আসলে মার্কিন শিল্প শক্তির জন্য উপকারী নয়, বরং ক্ষতিকর হতে পারে। এর ফলে মার্কিন প্রযুক্তি খাতের ভারসাম্য নষ্ট হতে পারে এবং বাজারের দীর্ঘমেয়াদী প্রবৃদ্ধির ওপর নেতিবাচক প্রভাব পড়তে পারে।",
+        "added_at_ts": 1795572805,
+        "expires_at_ts": 1795659205,
+        "batch_label": "08:13 AM BDT",
+        "batch_edition": 7,
+        "is_new": true
+      },
+      {
+        "title": "New Anthropic research: When an AI agent can escape its sandbox, will it choose to? Our new evaluation, Siren, gives Claude routine tasks in intentionally weakened sandboxes, with ",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kQ3B2R1c4ZEpxZFRub3VISTdNQ1F5M2tIcElrOUUxR0RpYmVjYjVETE1qcGR4WDI5QXlPQVB6Tlhva1JtNjRweU1iUTAxUjRIcXRqX24tX1llUTRUNzFkTTdn?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795555971,
+        "published": "25 Nov, 03:32 AM",
+        "bn_summary": "অ্যানথ্রপিক তাদের নতুন 'সাইরেন' নামক গবেষণায় পরীক্ষা করেছে যে কৃত্রিম বুদ্ধিমত্তা এজেন্টরা তাদের সুরক্ষিত পরিবেশ বা স্যান্ডবক্স থেকে পালিয়ে যাওয়ার সুযোগ পেলে তা বেছে নেয় কিনা। এই গবেষণাটি এআই সিস্টেমের নিরাপত্তা জোরদার করতে এবং ভবিষ্যতে এআইয়ের অপ্রত্যাশিত আচরণ নিয়ন্ত্রণে অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করবে।",
+        "added_at_ts": 1795572805,
+        "expires_at_ts": 1795659205,
+        "batch_label": "08:13 AM BDT",
+        "batch_edition": 7,
+        "is_new": true
+      },
+      {
+        "title": "Jensen Huang deepfakes are the hot new AI slop",
+        "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Hua",
+        "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+        "source": "The Verge",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ai-label_1c35e3.jpg?quality=90&strip=all&crop=0%2C19.887257893553%2C100%2C60.225484212893&w=1200",
+        "published_ts": 1795537092,
+        "published": "24 Nov, 10:18 PM",
+        "bn_summary": "সামাজিক মাধ্যমে জেনসেন হুয়াংয়ের একটি ডিপফেক ভিডিও ভাইরাল হয়েছে যেখানে তাকে ইবিজায় পার্টি করতে দেখা যাচ্ছে। এটি কৃত্রিম বুদ্ধিমত্তার ভুল ব্যবহার এবং এআই প্রযুক্তির সাহায্যে তৈরি বিভ্রান্তিকর কন্টেন্ট বা 'এআই স্লপ'-এর ক্রমবর্ধমান ঝুঁকি স্পষ্টভাবে তুলে ধরেছে।",
+        "added_at_ts": 1795572805,
+        "expires_at_ts": 1795659205,
+        "batch_label": "08:13 AM BDT",
+        "batch_edition": 7,
+        "is_new": true
+      },
       {
         "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
         "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
@@ -76,7 +121,7 @@
         "expires_at_ts": 1795651705,
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
@@ -91,7 +136,7 @@
         "expires_at_ts": 1795651705,
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
@@ -106,7 +151,7 @@
         "expires_at_ts": 1795651705,
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
@@ -366,6 +411,23 @@
     ],
     "github": [
       {
+        "title": "lebrowndnasty-hash/ai-app-builder",
+        "summary": "AI App Builder: Prompt to Full-Stack Next.js Apps with Hosting, Database, Auth, and Multitenancy",
+        "url": "https://github.com/lebrowndnasty-hash/ai-app-builder",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/lebrowndnasty-hash/ai-app-builder",
+        "stars": 337,
+        "language": "HTML",
+        "published_ts": 1795266064,
+        "published": "2026-11-21",
+        "bn_summary": "এই নতুন গিটহাব টুলটি ব্যবহারকারীদের সহজ প্রম্পটের মাধ্যমেই ডেটাবেস, অথেন্টিকেশন এবং হোস্টিং সুবিধাসহ সম্পূর্ণ ফুল-স্ট্যাক নেক্সট.জেএস অ্যাপ তৈরি করতে সাহায্য করে। এটি ডেভেলপারদের অ্যাপ তৈরির প্রক্রিয়া অত্যন্ত দ্রুত ও সহজ করে তুলবে।",
+        "added_at_ts": 1795572805,
+        "expires_at_ts": 1795659205,
+        "batch_label": "08:13 AM BDT",
+        "batch_edition": 7,
+        "is_new": true
+      },
+      {
         "title": "ali7080/adobe-air-sdk",
         "summary": "Adobe AIR SDK: Cross-Platform Desktop App Development with AJAX, HTML, and Flash",
         "url": "https://github.com/ali7080/adobe-air-sdk",
@@ -380,7 +442,7 @@
         "expires_at_ts": 1795651705,
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "hoangsvit/google-ai",
@@ -747,6 +809,51 @@
     ],
     "war": [
       {
+        "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+        "summary": "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman.",
+        "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b062d011e-1795566849.jpg?resize=1920%2C1440",
+        "published_ts": 1795570244,
+        "published": "25 Nov, 07:30 AM",
+        "bn_summary": "ইসরায়েলের রাজনীতিক আইজেনকোট নতুন সরকার গঠনের প্রচেষ্টায় লিবারম্যানের দলের সাথে প্রথম জোট চুক্তি স্বাক্ষর করেছেন। এই রাজনৈতিক পদক্ষেপ ইসরায়েলের চলমান রাজনৈতিক সংকটে নতুন মোড় নিতে পারে এবং সরকার গঠনের পথ প্রশস্ত করতে পারে।",
+        "added_at_ts": 1795572805,
+        "expires_at_ts": 1795659205,
+        "batch_label": "08:13 AM BDT",
+        "batch_edition": 7,
+        "is_new": true
+      },
+      {
+        "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+        "summary": "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795569645.jpg?resize=1919%2C1080&quality=80",
+        "published_ts": 1795569662,
+        "published": "25 Nov, 07:21 AM",
+        "bn_summary": "ইউটিউবে লাইভ কনসার্ট পরিবেশন করার অপরাধে ইরানি গায়িকা পারস্তু আহমাদিকে ৭৪ বার চাবুক মারা হয়েছে। এই ঘটনা ইরানে শিল্পীদের ওপর চলা কঠোর নিষেধাজ্ঞা এবং মত প্রকাশের স্বাধীনতার ওপর চরম দমনপীড়নের চিত্র তুলে ধরে।",
+        "added_at_ts": 1795572805,
+        "expires_at_ts": 1795659205,
+        "batch_label": "08:13 AM BDT",
+        "batch_edition": 7,
+        "is_new": true
+      },
+      {
+        "title": "Poll finds US voters want government to end Iran war regardless of terms",
+        "summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+        "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26103713873653-1776138849.jpg?resize=1920%2C1440",
+        "published_ts": 1795569262,
+        "published": "25 Nov, 07:14 AM",
+        "bn_summary": "একটি নতুন জরিপে দেখা গেছে যে মার্কিন ভোটারদের বড় একটি অংশ যেকোনো মূল্যে ইরানের সাথে সংঘাতের অবসান চান। এই জনমত মার্কিন সরকারের পররাষ্ট্র নীতি এবং মধ্যপ্রাচ্য সংকটের ওপর জনগণের ক্রমবর্ধমান অসন্তোষকে স্পষ্ট করে তোলে।",
+        "added_at_ts": 1795572805,
+        "expires_at_ts": 1795659205,
+        "batch_label": "08:13 AM BDT",
+        "batch_edition": 7,
+        "is_new": true
+      },
+      {
         "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
         "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
         "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
@@ -759,7 +866,7 @@
         "expires_at_ts": 1795651705,
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
@@ -774,7 +881,7 @@
         "expires_at_ts": 1795651705,
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
@@ -789,7 +896,7 @@
         "expires_at_ts": 1795651705,
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Colombian president blames ex-FARC rebels for car bomb blast",
@@ -1049,6 +1156,51 @@
     ],
     "stocks_gold": [
       {
+        "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+        "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+        "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+        "source": "CNBC",
+        "image": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&w=1920&h=1080",
+        "published_ts": 1795569236,
+        "published": "25 Nov, 07:13 AM",
+        "bn_summary": "জেনসেন হুয়াংয়ের এনভিডিয়ায় প্রত্যাবর্তন প্রমাণ করে যে আমেরিকা ও চীনের মধ্যকার এআই লড়াই কেবল মাইক্রোচিপ তৈরির মধ্যেই সীমাবদ্ধ নয়, বরং এটি শীর্ষস্থানীয় প্রযুক্তিগত প্রতিভাদের দখলের লড়াইও বটে। এই প্রতিযোগীতা বৈশ্বিক প্রযুক্তি বাজারের ভবিষ্যৎ নির্ধারণে অত্যন্ত গুরুত্বপূর্ণ ভূমিকা রাখবে।",
+        "added_at_ts": 1795572805,
+        "expires_at_ts": 1795659205,
+        "batch_label": "08:13 AM BDT",
+        "batch_edition": 7,
+        "is_new": true
+      },
+      {
+        "title": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March - StoneX",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0V0aXctMHhmVjRnZXFxRnZyVzRBMUxVUklISmhWTEEtNlk2RWYzbFcxd3kxOXpFUGJZNU15YlN1MkpPOXd4d1EtRVpfeHByTkVhOVNrcGROWnh6WEhWQ2xLSW53QXZVdXdialViRWl2WXFHcUxET1N6cDRkR0hHZnZXLVBJbndPSV9mbkhRZWtsN1ZLWUx0LWFWTkJRNXhwYndoeEZXVmN1MkI5NDNFbWk2QzJzU3VwMVdaLVV2QTd5Sk9hNGc?oc=5",
+        "source": "StoneX",
+        "image": "",
+        "published_ts": 1795566162,
+        "published": "25 Nov, 06:22 AM",
+        "bn_summary": "সোনার দাম গত কয়েক বছরের ঊর্ধ্বমুখী ধারা ভেঙে মার্চ মাসের পর সবচেয়ে খারাপ সপ্তাহ পার করেছে। এই পতন বৈশ্বিক অর্থনৈতিক বাজারের অনিশ্চয়তা এবং বিনিয়োগকারীদের মনোভাব পরিবর্তনের ইঙ্গিত দেয়।",
+        "added_at_ts": 1795572805,
+        "expires_at_ts": 1795659205,
+        "batch_label": "08:13 AM BDT",
+        "batch_edition": 7,
+        "is_new": true
+      },
+      {
+        "title": "Nasdaq, S&P 500 close lower, giving up some Nvidia-fueled gains - NBC News",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORFdKT2NYVVA3VUg1d2VfS1BBdHNsQjV5WEhUWTFVb1JCWnktLXFIRmRYMHlUWU5tMFFENE9MODkyc3ozSm5MbHJpUHQ1THBRTERna1p2LUNpbzQwakc0U1JjcWcyN1Y4WS1NaV9WejAzQ2ZpamNBSXRfOVo0RHh0eFdkNll5b2hiT1RqNmFMdXdiV05E?oc=5",
+        "source": "NBC News",
+        "image": "",
+        "published_ts": 1795561009,
+        "published": "25 Nov, 04:56 AM",
+        "bn_summary": "এনভিডিয়ার শেয়ারের দামের ওপর ভর করে কিছু লাভ করলেও শেষ পর্যন্ত নাসডাক এবং এস অ্যান্ড পি ৫০০ সূচক পতনের মধ্য দিয়ে দিনের লেনদেন শেষ করেছে। এই পতন প্রযুক্তি খাতের বাইরে সামগ্রিক বাজারের দুর্বলতা এবং বিনিয়োগকারীদের সতর্ক অবস্থানের প্রতিফলন ঘটায়।",
+        "added_at_ts": 1795572805,
+        "expires_at_ts": 1795659205,
+        "batch_label": "08:13 AM BDT",
+        "batch_edition": 7,
+        "is_new": true
+      },
+      {
         "title": "Analysis | Trump’s Nvidia gambit shows the stock market is the economy - The Washington Post",
         "summary": "",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkp6YllFbGVuUS04S1E1aWdta2paXzVJTE00amRvblR0dGVFVHZwVTBUVXRpZEFSMVpYNnc0bmM3YUFKZG9vX3NRdWFaTGVRblktZ1gtRk1CY25Ea2ZwV2RCS0pnMXpiTnk0OGxHRDd4eExYZC1sZlZhZ0V4ajE1LUdGWWlzUzh0X3RoZHZR?oc=5",
@@ -1061,7 +1213,7 @@
         "expires_at_ts": 1795651705,
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Investors are missing the bigger picture in CrowdStrike's deal to buy Zscaler",
@@ -1076,7 +1228,7 @@
         "expires_at_ts": 1795651705,
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
@@ -1091,7 +1243,7 @@
         "expires_at_ts": 1795651705,
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
@@ -1351,6 +1503,36 @@
     ],
     "ram_hardware": [
       {
+        "title": "AMD Ryzen 9 8940HX and RTX 5070 gaming laptop with 32GB DDR5 RAM gets $405 price cut in Black Friday deal - PC Guide",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ19EQ1FBbnI3WUJnX3dtWmhNVTZmLW12bGVpT2w4d0VyQ2ZqUFBOLVd1Nk55QnR1UW1fbFZLaGxRcWdXQ3B5YjNaMDhfMGZ6UXNEQWRUVkNLdFMybTF3cDEzWENyeUxXX1pxSmhDSkNUU3k3YzAtUHI2RlNoX0pENE44SjM5QUU3Wjg1d3l2c1c0NzUzcXlSUUhQbWcyRXBpTVY1bXNkek1SVjFHbU82ZFlTYXIydzlDQlFEUmxnMS1MNDVYYTRxU2kzMEJoUGha?oc=5",
+        "source": "PC Guide",
+        "image": "",
+        "published_ts": 1795558778,
+        "published": "25 Nov, 04:19 AM",
+        "bn_summary": "Black Friday অফারে AMD Ryzen 9 8940HX, RTX 5070 এবং 32GB DDR5 RAM-যুক্ত gaming laptop-এর দাম $405 কমেছে। শক্তিশালী CPU-GPU ও বেশি RAM থাকায় gaming এবং ভারী কাজের জন্য এটি আগের দামের তুলনায় বেশি value দিচ্ছে।",
+        "added_at_ts": 1795572805,
+        "expires_at_ts": 1795659205,
+        "batch_label": "08:13 AM BDT",
+        "batch_edition": 7,
+        "is_new": true
+      },
+      {
+        "title": "Why Micron Stock Dove Today - Yahoo Finance",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1pXeVliMG9QY3ZzQnYycmdHZHlLNjVhLWVvVlA2MDZRZWlrRjVidGpuczBXQ0VvZXhRN01RLXpfV0E1T3BNRnBvRmJBYUhkeUlRWHdvNmN4T1pDWVQ5SXY5a2RWbHJWZjBqbWI0UzJWWURzTGp4M2E2XzFWSkszREZTemFNSzJuSlB1TDF3cGFORnN0c1VB?oc=5",
+        "source": "Yahoo Finance",
+        "image": "",
+        "published_ts": 1795538872,
+        "published": "24 Nov, 10:47 PM",
+        "bn_summary": "Micron-এর শেয়ারের দাম আজ উল্লেখযোগ্যভাবে কমেছে, যা বিনিয়োগকারীদের কোম্পানির ভবিষ্যৎ আয় বা memory-chip বাজার নিয়ে উদ্বেগের ইঙ্গিত দিতে পারে। এই পতন গুরুত্বপূর্ণ, কারণ Micron-এর performance পুরো semiconductor ও RAM বাজারের sentiment-এও প্রভাব ফেলতে পারে।",
+        "added_at_ts": 1795572805,
+        "expires_at_ts": 1795659205,
+        "batch_label": "08:13 AM BDT",
+        "batch_edition": 7,
+        "is_new": true
+      },
+      {
         "title": "Patriot’s 32GB DDR5-6000 CL30 RAM kit is $60 off Amazon’s list price - MIXED News",
         "summary": "",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcEVIa0pQUEZ1RDA4SklQaVQ0bFJIV1hacVRITmUtMmxFMkZDX1BXdVc0MEgyZVh2bDM3d2ttV3hJa25nOHFQLVJhbDVUNm5zYlpFZWJvWkpmV2ZaQ25NaE5tWEFiS1BoT29MaGUyS2o4eFA2YkFDb29qTE0zc3ZaUHhHUkVFWUE?oc=5",
@@ -1363,7 +1545,7 @@
         "expires_at_ts": 1795651705,
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Micron’s stock falls as an analyst warns about a future supply glut - MarketWatch",
@@ -1378,7 +1560,7 @@
         "expires_at_ts": 1795651705,
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Analyst Cuts Micron Stock Price Target for 12 Months by Over 50% - Coinpedia",
@@ -1393,7 +1575,7 @@
         "expires_at_ts": 1795651705,
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Best Black Friday gaming laptop PC deals 2026",
