@@ -1,68 +1,113 @@
 {
-  "edition": 16,
-  "updated_ts": 1795639045,
-  "updated_dhaka": "26 Nov 2026, 02:37 AM (BDT)",
-  "updated_utc": "2026-11-25 20:37 UTC",
-  "batch_label": "02:37 AM BDT",
-  "new_added": 13,
-  "expired_removed": 16,
-  "curated_by": "codex-relay (gpt-5.6-luna)",
+  "edition": 17,
+  "updated_ts": 1795646425,
+  "updated_dhaka": "26 Nov 2026, 04:40 AM (BDT)",
+  "updated_utc": "2026-11-25 22:40 UTC",
+  "batch_label": "04:40 AM BDT",
+  "new_added": 12,
+  "expired_removed": 14,
+  "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
   "advice": {
-    "title": "আজকের Signal, Smart Action",
-    "body": "Open-source GitHub-এর PaddleOCR ও LangChain দিয়ে ছোট AI prototype বানান, free API quota মেপে VPS-এ deploy করুন এবং usage limit নজরে রাখুন। Gold 1.27% উঠলেও S&P 500, NASDAQ, NVIDIA ও Micron/RAM তীব্রভাবে নেমেছে—তাই একবারে বড় বিনিয়োগ না করে cash buffer, staggered buying ও stop-loss রাখুন; বিশ্বজুড়ে উত্তেজনা থাকায় backup ও নিরাপত্তা পরিকল্পনাও আপডেট করুন।",
+    "title": "গোল্ড চড়া, NVDA পড়া: প্রজেক্টে ফোকাস",
+    "body": "সোনার দাম বাড়ছে আর টেক স্টক পড়ছে—তাই ঝুঁকি নিয়ে নতুন AI প্রজেক্টে হাত দাও। GitHub Actions, free tier VPS আর ফ্রি API দিয়ে কস্ট-কমানোর টুল বানাও; Micron-এর RAM সস্তা হওয়ায় এখন ডেভেলপমেন্ট মেশিন আপগ্রেডের সময়। যুদ্ধ-পরিস্থিতির খবরে গ্লোবাল সাপ্লাই চেইন অনিশ্চিত, তাই লোকাল হোস্টিং আর অফলাইন ফিচারকে প্রাধান্য দাও।",
     "tag": "AI & Dev"
   },
   "quote": {
-    "text_bn": "এমনভাবে কাজ করো যেন তোমার কাজের ফল সত্যিই গুরুত্বপূর্ণ—কারণ তা গুরুত্বপূর্ণ।",
-    "author": "উইলিয়াম জেমস",
-    "note_bn": "আজ একটি ছোট কিন্তু মাপযোগ্য কাজ শেষ করে তার ফল লিখে রাখুন।"
+    "text_bn": "আমি যা করতে পারি না, তুমি তা পারো; তুমি যা পারো না, আমি তা পারি; একসাথে আমরা মহৎ কাজ করতে পারি।",
+    "author": "মাদার তেরেসা",
+    "note_bn": "আজকের বাজারের অস্থিরতায় একা না ভেবে টিম বা কমিউনিটির সাথে মিলে প্রজেক্ট বা বিনিয়োগের সিদ্ধান্ত নাও।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,607.30",
-      "change_pct": 1.27,
+      "price": "$3,617.80",
+      "change_pct": 1.57,
       "up": true
     },
     {
       "symbol": "^GSPC",
       "label": "S&P 500",
-      "price": "7,158.39",
-      "change_pct": -1.09,
+      "price": "7,182.78",
+      "change_pct": -0.75,
       "up": false
     },
     {
       "symbol": "^IXIC",
       "label": "NASDAQ",
-      "price": "23,452.71",
-      "change_pct": -2.64,
+      "price": "23,585.80",
+      "change_pct": -2.09,
       "up": false
     },
     {
       "symbol": "NVDA",
       "label": "NVIDIA",
-      "price": "$147.32",
-      "change_pct": -10.74,
+      "price": "$149.30",
+      "change_pct": -9.54,
       "up": false
     },
     {
       "symbol": "MU",
       "label": "Micron (RAM)",
-      "price": "$591.75",
-      "change_pct": -16.38,
+      "price": "$601.25",
+      "change_pct": -15.04,
       "up": false
     },
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$59,910.79",
-      "change_pct": 0.27,
+      "price": "$60,123.71",
+      "change_pct": 0.63,
       "up": true
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+        "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortuna",
+        "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+        "source": "The Verge",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375%2C11.97652241473%2C93.788122558594%2C75.148782257541&w=1200",
+        "published_ts": 1795643486,
+        "published": "26 Nov, 03:51 AM",
+        "bn_summary": "Google একটি পেটেন্ট filed করেছে যেখানে My Channel নামে একটি সিস্টেম থাকবে যা ব্যবহারকারীর জন্য personalized AI-generated ভিডিও এবং বিজ্ঞাপনের ফিড তৈরি করবে। এটি গুরুত্বপূর্ণ কারণ এতে বিনোদনের ভবিষ্যৎ আরও অ্যালগরিদম-নিয়ন্ত্রিত হতে পারে এবং কনটেন্ট তৈরি ও বিজ্ঞাপনের মধ্যে সীমানা ঝাপসা হয়ে যেতে পারে।",
+        "added_at_ts": 1795646425,
+        "expires_at_ts": 1795732825,
+        "batch_label": "04:40 AM BDT",
+        "batch_edition": 17,
+        "is_new": true
+      },
+      {
+        "title": "Backblaze explains why it's sharing customer information with advertisers",
+        "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+        "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+        "source": "Ars Technica",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1219679299-1152x648.jpg",
+        "published_ts": 1795631909,
+        "published": "26 Nov, 12:38 AM",
+        "bn_summary": "Backblaze জানিয়েছে যে তারা বিজ্ঞাপনদাতাদের সাথে কিছু তথ্য শেয়ার করবে, তবে ব্যবহারকারীদের ব্যাকআপ বা স্টোরেজ ফাইল শেয়ার করবে না। এই খবরটি গুরুত্বপূর্ণ কারণ এটি ক্লাউড স্টোরেজ কোম্পানিগুলোর ডেটা গোপনীয়তা নীতি নিয়ে ব্যবহারকারীদের আস্থা ও সন্দেহের বিষয়টি সামনে আনে।",
+        "added_at_ts": 1795646425,
+        "expires_at_ts": 1795732825,
+        "batch_label": "04:40 AM BDT",
+        "batch_edition": 17,
+        "is_new": true
+      },
+      {
+        "title": "No, I do not believe that we should “surrender human free will” to AI systems, and it’s absurd to suggest that I do. I have written hundreds of pages of essays and a constant theme",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wQndfQjZRTFlIcG9fVDlZSW5EajlGWDBaelFjUlVyaTl4eXdOSjA1djF4SzlHSDZLTHNQNDVtTU8weGVCNjV3Ymh2WkNLSTV4OWVtcThGZjJfVnlpSENKS013?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795630953,
+        "published": "26 Nov, 12:22 AM",
+        "bn_summary": "একজন লেখক স্পষ্টভাবে বলেছেন যে AI সিস্টেমের কাছে মানুষের স্বাধীন ইচ্ছা সমর্পণ করা উচিত বলে তিনি বিশ্বাস করেন না, এবং এই ধারণাটি অযৌক্তিক। এটি গুরুত্বপূর্ণ কারণ AI-এর ক্ষমতা বৃদ্ধির সাথে সাথে মানব নিয়ন্ত্রণ ও নৈতিকতা নিয়ে বিতর্ক আরও জোরালো হচ্ছে।",
+        "added_at_ts": 1795646425,
+        "expires_at_ts": 1795732825,
+        "batch_label": "04:40 AM BDT",
+        "batch_edition": 17,
+        "is_new": true
+      },
       {
         "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
         "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
@@ -76,7 +121,7 @@
         "expires_at_ts": 1795725445,
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
@@ -91,7 +136,7 @@
         "expires_at_ts": 1795725445,
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
@@ -106,7 +151,7 @@
         "expires_at_ts": 1795725445,
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
@@ -407,51 +452,6 @@
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
         "is_new": false
-      },
-      {
-        "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-        "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
-        "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-        "source": "TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-        "published_ts": 1795556907,
-        "published": "25 Nov, 03:48 AM",
-        "bn_summary": "All-hands বৈঠকে Jensen Huang কর্মীদের কাছে ক্ষমা চেয়ে বলেন যে তিনি therapy নিচ্ছেন এবং Nvidia নেতৃত্ব দেওয়ার জন্য আরেকটি সুযোগ পেয়ে কৃতজ্ঞ। এই বক্তব্যটি তাঁর ব্যক্তিগত চাপ, নেতৃত্বের জবাবদিহি এবং কর্মীদের আস্থা পুনর্গঠনের প্রচেষ্টাকে সামনে আনে।",
-        "added_at_ts": 1795557805,
-        "expires_at_ts": 1795644205,
-        "batch_label": "04:03 AM BDT",
-        "batch_edition": 5,
-        "is_new": false
-      },
-      {
-        "title": "Even the best AI agents struggle with everyday life",
-        "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-        "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-        "source": "TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296543552.jpg?w=1024",
-        "published_ts": 1795556009,
-        "published": "25 Nov, 03:33 AM",
-        "bn_summary": "নতুন benchmark দেখিয়েছে, উন্নত AI agent-ও দৈনন্দিন কাজ নির্ভরযোগ্য ও নিরাপদভাবে শেষ করতে প্রায়ই ব্যর্থ হয়। ব্যক্তিগত assistant হিসেবে এগুলো দ্রুত জনপ্রিয় হলেও বাস্তব ব্যবহারে ভুল সিদ্ধান্ত, অসম্পূর্ণ কাজ ও safety risk এখনো বড় সমস্যা।",
-        "added_at_ts": 1795557805,
-        "expires_at_ts": 1795644205,
-        "batch_label": "04:03 AM BDT",
-        "batch_edition": 5,
-        "is_new": false
-      },
-      {
-        "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-        "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-        "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-        "source": "TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200",
-        "published_ts": 1795555958,
-        "published": "25 Nov, 03:32 AM",
-        "bn_summary": "Walmart Meta-র AI agent Muse-এর মাধ্যমে Black Friday-এর পণ্য ও discount কেনার সুবিধা চালু করেছে। এতে shopping সরাসরি conversational agent-এর মধ্যে চলে আসছে, যা ক্রেতাদের জন্য সহজ হলেও recommendation ও purchase decision-এ AI-এর প্রভাব বাড়াবে।",
-        "added_at_ts": 1795557805,
-        "expires_at_ts": 1795644205,
-        "batch_label": "04:03 AM BDT",
-        "batch_edition": 5,
-        "is_new": false
       }
     ],
     "github": [
@@ -505,23 +505,6 @@
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
         "is_new": false
-      },
-      {
-        "title": "hoangsvit/google-ai",
-        "summary": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.",
-        "url": "https://github.com/hoangsvit/google-ai",
-        "source": "GitHub",
-        "image": "https://opengraph.githubassets.com/1/hoangsvit/google-ai",
-        "stars": 495,
-        "language": "Python",
-        "published_ts": 1795015073,
-        "published": "2026-11-18",
-        "bn_summary": "এই GitHub projectটি Windows ও macOS-এ Android, ADB, Frida এবং Google Play ব্যবহার করে Google AI Pro offer পরীক্ষা করার terminal toolkit দেয়। Textual-ভিত্তিক shared dashboard থাকায় offer যাচাই ও device-level inspection সহজ হয়, তবে এ ধরনের tooling ব্যবহারে account security ও platform policy মানা জরুরি।",
-        "added_at_ts": 1795557805,
-        "expires_at_ts": 1795644205,
-        "batch_label": "04:03 AM BDT",
-        "batch_edition": 5,
-        "is_new": false
       }
     ],
     "free_deals": [
@@ -538,7 +521,7 @@
         "expires_at_ts": 1795725445,
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "One Claude Code App Build Saves $10 Using the Free LLM API - Geeky Gadgets",
@@ -569,24 +552,54 @@
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
         "is_new": false
-      },
-      {
-        "title": "Can an image model catch its own typos? Meet #SenseNova U1.6. 🎨 Built on Neo-unify, it pairs refined aesthetics with the ability to check and revise image text against your prompt.",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rQVBzb3BveGotbmRBLTV3NzBiOVpySkZxRXRfZmtNN2lHN1dQZ01HWnlTUTNWSXh4VUlaRE5EUWZPSlRpZWV0c0M3Z1BxRHc1UzRoamN6eGVoeVZOSjRTcjdYaw?oc=5",
-        "source": "X",
-        "image": "",
-        "published_ts": 1795485588,
-        "published": "24 Nov, 07:59 AM",
-        "bn_summary": "SenseNova U1.6 হলো Neo-unify-ভিত্তিক একটি image model, যা নান্দনিক ছবি তৈরির পাশাপাশি নিজের তৈরি লেখার typo ধরার সক্ষমতা দেখাচ্ছে। এই self-correction বৈশিষ্ট্য image generation-এর text quality উন্নত করতে পারে, যেখানে প্রচলিত modelগুলো প্রায়ই ভুল বানান তৈরি করে।",
-        "added_at_ts": 1795557805,
-        "expires_at_ts": 1795644205,
-        "batch_label": "04:03 AM BDT",
-        "batch_edition": 5,
-        "is_new": false
       }
     ],
     "war": [
+      {
+        "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+        "summary": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
+        "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af49632-1794414130.jpg?resize=1920%2C1440",
+        "published_ts": 1795640631,
+        "published": "26 Nov, 03:03 AM",
+        "bn_summary": "গাজার প্রায় ১,০০০ আশ্রয়কেন্দ্র শীতের বৃষ্টিতে হুমকির মুখে পড়েছে এবং প্রায় ২০০,০০০ তাঁবু প্রতিস্থাপনের প্রয়োজন। এটি গুরুত্বপূর্ণ কারণ শীতকালীন পরিস্থিতি ইতিমধ্যে বাস্তুচ্যুত মানুষের জীবনযাত্রাকে আরও সংকটাপন্ন করে তুলতে পারে, এবং ইউরোপীয় ইউনিয়ন ইসরায়েলকে সব ক্রসিং খুলে দেওয়ার আহ্বান জানিয়েছে।",
+        "added_at_ts": 1795646425,
+        "expires_at_ts": 1795732825,
+        "batch_label": "04:40 AM BDT",
+        "batch_edition": 17,
+        "is_new": true
+      },
+      {
+        "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
+        "summary": "The judges' recommendations came as Israel's longest-serving prime minister fights for his political survival.",
+        "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b072e2c3fac-1795632684.jpg?resize=1920%2C1440",
+        "published_ts": 1795638562,
+        "published": "26 Nov, 02:29 AM",
+        "bn_summary": "নেতানিয়াহুর দুর্নীতি মামলা শেষ করার দাবি জানিয়েছেন এবং আদালত মামলা প্রত্যাহারের পরামর্শ দিয়েছে। এটি গুরুত্বপূর্ণ কারণ ইসরায়েলের দীর্ঘমেয়াদী প্রধানমন্ত্রীর রাজনৈতিক ভবিষ্যৎ এই মামলার ফলাফলের উপর নির্ভর করছে।",
+        "added_at_ts": 1795646425,
+        "expires_at_ts": 1795732825,
+        "batch_label": "04:40 AM BDT",
+        "batch_edition": 17,
+        "is_new": true
+      },
+      {
+        "title": "Ukrainian laser downs Russian jet-powered drone in world first",
+        "summary": "Ukraine says that its Blysk laser system has intercepted a Russian jet-powered drone in combat for the first time",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795634127.jpg?resize=1800%2C1080&quality=80",
+        "published_ts": 1795634175,
+        "published": "26 Nov, 01:16 AM",
+        "bn_summary": "ইউক্রেন দাবি করেছে যে তাদের Blysk লেজার সিস্টেম প্রথমবারের মতো একটি রাশিয়ান জেট-চালিত ড্রোন গুলি করে ভূপাতিত করেছে। এটি গুরুত্বপূর্ণ কারণ এটি যুদ্ধক্ষেত্রে লেজার অস্ত্রের কার্যকারিতা প্রমাণ করে এবং ভবিষ্যতে বিমান প্রতিরক্ষা কৌশলে পরিবর্তন আনতে পারে।",
+        "added_at_ts": 1795646425,
+        "expires_at_ts": 1795732825,
+        "batch_label": "04:40 AM BDT",
+        "batch_edition": 17,
+        "is_new": true
+      },
       {
         "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
         "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
@@ -600,7 +613,7 @@
         "expires_at_ts": 1795725445,
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "US Army declares Iowa lead azide detonation ‘tremendously successful’",
@@ -615,7 +628,7 @@
         "expires_at_ts": 1795725445,
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "North Korea expels Swiss diplomat in sanctions row",
@@ -630,7 +643,7 @@
         "expires_at_ts": 1795725445,
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
@@ -1081,54 +1094,54 @@
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
         "is_new": false
-      },
-      {
-        "title": "Colombian president blames ex-FARC rebels for car bomb blast",
-        "summary": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate.",
-        "url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05c84d4491-1795541069.jpg?resize=1920%2C1440",
-        "published_ts": 1795556742,
-        "published": "25 Nov, 03:45 AM",
-        "bn_summary": "কলম্বিয়ার প্রেসিডেন্ট Abelardo de la Espriella car bomb বিস্ফোরণের জন্য সাবেক FARC বিদ্রোহীদের দায়ী করেছেন; ঘটনায় বহু মানুষ আহত হয়েছে। সরকার পাল্টা ব্যবস্থা নেওয়ার প্রতিশ্রুতি দেওয়ায় ঘটনাটি শান্তি-প্রক্রিয়া, নিরাপত্তা এবং সশস্ত্র গোষ্ঠীর সঙ্গে সংঘাত আরও তীব্র হওয়ার আশঙ্কা বাড়াচ্ছে।",
-        "added_at_ts": 1795557805,
-        "expires_at_ts": 1795644205,
-        "batch_label": "04:03 AM BDT",
-        "batch_edition": 5,
-        "is_new": false
-      },
-      {
-        "title": "Russian jets spark air raid alert in South Korea",
-        "summary": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795554891.jpg?resize=1920%2C1080&quality=80",
-        "published_ts": 1795554897,
-        "published": "25 Nov, 03:14 AM",
-        "bn_summary": "রুশ সামরিক বিমান দক্ষিণ কোরিয়ার আকাশসীমার কাছে আসায় দেশটির বাসিন্দাদের shelter নিতে বলা হয় এবং air raid alert জারি করা হয়। ঘটনাটি সরাসরি হামলা না হলেও রাশিয়া ও দক্ষিণ কোরিয়ার মধ্যে সামরিক উত্তেজনা এবং ভুল হিসাবের ঝুঁকি বাড়াতে পারে।",
-        "added_at_ts": 1795557805,
-        "expires_at_ts": 1795644205,
-        "batch_label": "04:03 AM BDT",
-        "batch_edition": 5,
-        "is_new": false
-      },
-      {
-        "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
-        "summary": "President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena.",
-        "url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05e778013d-1795549048.jpg?resize=1920%2C1440",
-        "published_ts": 1795554286,
-        "published": "25 Nov, 03:04 AM",
-        "bn_summary": "কলম্বিয়ার Cartagena-তে সশস্ত্র কয়েকজন ব্যক্তি পালিয়ে একটি supermarket-এ ঢোকার পর hostage situation-এর খবর পাওয়া গেছে। প্রেসিডেন্ট পুলিশ ও সামরিক বাহিনী মোতায়েন করেছেন, ফলে বেসামরিক নিরাপত্তা এবং জিম্মিদের নিরাপদ উদ্ধারের বিষয়টি এখন প্রধান অগ্রাধিকার।",
-        "added_at_ts": 1795557805,
-        "expires_at_ts": 1795644205,
-        "batch_label": "04:03 AM BDT",
-        "batch_edition": 5,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "Stock Market Today (Nov 25, 2026): Nasdaq Trims Losses, Gold Price Falls, Brent Oil $91 - Eurasia Business News",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2RjT2JadEU4U2dETV94OG43V0ZnZElweC1GeElfVUkzemF2RU5Yb3ZaVDVUeWFmeDhva0Ntb3JrR2NlcmlteWdja3JadnpCNFp3eXRmR0U3Z1JtaXBpLW9NWllTWTJyeW9Sc1lVNFBmS1FVWlgzMnVHdExvR0hrU1liVVNvaExYbWE3SUszRFdSNl9nTURIU3dKei1LU3dhanFmTmV0aTBOOFFxekY5OW5zSS1sX3IxR1R6MV9kbzRCUQ?oc=5",
+        "source": "Eurasia Business News",
+        "image": "",
+        "published_ts": 1795644817,
+        "published": "26 Nov, 04:13 AM",
+        "bn_summary": "আজকের বাজারে Nasdaq কিছুটা ক্ষতি কমিয়েছে, সোনার দাম কমেছে এবং ব্রেন্ট অয়েল ৯১ ডলারে রয়েছে। এটি গুরুত্বপূর্ণ কারণ বিনিয়োগকারীদের জন্য বাজারের এই মিশ্র সংকেত বিভিন্ন সম্পদ শ্রেণীর মধ্যে ঝুঁকি ও সুযোগ নির্দেশ করে।",
+        "added_at_ts": 1795646425,
+        "expires_at_ts": 1795732825,
+        "batch_label": "04:40 AM BDT",
+        "batch_edition": 17,
+        "is_new": true
+      },
+      {
+        "title": "S&P 500, Nasdaq, Dow Forecast: Wall Street Rebound Faces Major Resistance—Bull Trap or Breakout? - StoneX",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdklPRnp5aF8zbVJaTnU0QUJXNWpVUnJPUjRxUzNoUjNCVjFsVW5mQWpLbWFJMUo2SXo3empTdkl3S253eUZiZzIxXzhwVzlEa1NNNl94X2J1V0lVRDNrTjVncGhNTnlRYktqeXZUbjg5QzF0bFJlRXo1WlBFWnExWEJXTllQRDlRQmZmb20tMjFrX0hnQllORXN4azdVcmFXMnhIVG9EN2lnNWFzNzJhdGZTMGZVUFNQWkplTW40UFJQc1c3NW16WHFpejlBLTVyclN2ZUduSU95UQ?oc=5",
+        "source": "StoneX",
+        "image": "",
+        "published_ts": 1795644681,
+        "published": "26 Nov, 04:11 AM",
+        "bn_summary": "ওয়াল স্ট্রিটের পুনরুদ্ধার গুরুত্বপূর্ণ প্রতিরোধের মুখোমুখি হচ্ছে, এবং বিশ্লেষকরা প্রশ্ন তুলছেন এটি একটি বুল ট্র্যাপ নাকি প্রকৃত ব্রেকআউট। এটি গুরুত্বপূর্ণ কারণ বিনিয়োগকারীদের জন্য সঠিক দিক নির্ণয় করা বড় ধরনের লাভ বা ক্ষতির কারণ হতে পারে।",
+        "added_at_ts": 1795646425,
+        "expires_at_ts": 1795732825,
+        "batch_label": "04:40 AM BDT",
+        "batch_edition": 17,
+        "is_new": true
+      },
+      {
+        "title": "Gold Price Short-term Outlook: XAU/USD Bears Face Critical Test at Yearly Lows - StoneX",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT01LRy1TcHVtWVBnVGVSVUJSYTFDNHV5bVBpMGJRazAzSkd2Nno5MlkwNEFNTmFZd2pvM3U0YXJiOTF1b2FaaWhCNzRIY2VTOE9qSy1hRjZwSmhpOEFUcHM1T0VCWE95c0ItRVVwX3JPeWhud1RGdGpGWWdSSUJsWS1fWFdRU0lnbWVOVXZYQVNqWjQyOVRKVXRPaFg2Rzd5QjVONE1Wem90WlNKRWwzeXFXaUpGdERMZVRDYnBiZlp0ZHM?oc=5",
+        "source": "StoneX",
+        "image": "",
+        "published_ts": 1795639458,
+        "published": "26 Nov, 02:44 AM",
+        "bn_summary": "সোনার স্বল্পমেয়াদী দৃষ্টিভঙ্গিতে XAU/USD বার্ষিক সর্বনিম্ন স্তরে গুরুত্বপূর্ণ পরীক্ষার মুখোমুখি। এটি গুরুত্বপূর্ণ কারণ সোনার দাম এই স্তরে সমর্থন পেলে বা ভাঙলে পরবর্তী প্রবণতা নির্ধারিত হবে, যা বিনিয়োগকারীদের জন্য গুরুত্বপূর্ণ সংকেত।",
+        "added_at_ts": 1795646425,
+        "expires_at_ts": 1795732825,
+        "batch_label": "04:40 AM BDT",
+        "batch_edition": 17,
+        "is_new": true
+      },
       {
         "title": "SEC Approves NYSE American's $5 Million Market Capitalization Rule While Nasdaq's Comparable Rule Remains Stayed - Clark Hill",
         "summary": "",
@@ -1142,7 +1155,7 @@
         "expires_at_ts": 1795725445,
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Michael Burry Is More Long Than Short After Dumping Nasdaq Puts - Bloomberg",
@@ -1157,7 +1170,7 @@
         "expires_at_ts": 1795725445,
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "This Strategist Still Sees the S&P 500 Hitting 10,000 - Barron's",
@@ -1172,7 +1185,7 @@
         "expires_at_ts": 1795725445,
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap - Bloomberg.com",
@@ -1593,54 +1606,54 @@
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
         "is_new": false
-      },
-      {
-        "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
-        "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
-        "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
-        "source": "CNBC",
-        "image": "https://image.cnbcfm.com/api/v1/image/108356930-1788263231780-gettyimages-2280241265-jung-aipowere260610_npIEa.jpeg?v=1788263336&w=1920&h=1080",
-        "published_ts": 1795557777,
-        "published": "25 Nov, 04:02 AM",
-        "bn_summary": "Dell-এর তৃতীয় প্রান্তিকের বিক্রি বছরে দ্বিগুণেরও বেশি বেড়েছে, মূলত AI server-এর জোরালো চাহিদায়, এবং earnings প্রত্যাশা ছাড়িয়েছে। কোম্পানি $25 billion share buyback অনুমোদন করায় বিনিয়োগকারীদের আস্থা বাড়তে পারে, যদিও AI infrastructure demand-এর ওপর নির্ভরতা ভবিষ্যৎ ঝুঁকিও তৈরি করে।",
-        "added_at_ts": 1795557805,
-        "expires_at_ts": 1795644205,
-        "batch_label": "04:03 AM BDT",
-        "batch_edition": 5,
-        "is_new": false
-      },
-      {
-        "title": "Gold price falls 2% on hawkish Fed bets, US inflation data in focus - Mining.com",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFhNU3Z6SGt5cklJWjR2Y1RERTFHdGRmVERBVW9HOV83aGhCQ1NrU0V2Z2ZjWXVGNkNhNW9ldVMyMmNzWWFWODZkd252Tzc2LVZlR05vNktLNFdTNDdFSE1kMnNVSTRwMW9ENkJneXp2dGxNTUlra1JTSHR2TVFyem9wVmFlXzJlakRSeU5oWTNlY3dpdk9XMg?oc=5",
-        "source": "Mining.com",
-        "image": "",
-        "published_ts": 1795554237,
-        "published": "25 Nov, 03:03 AM",
-        "bn_summary": "ফেডারেল রিজার্ভ সুদের হার কমাতে তাড়াহুড়ো করবে না—এমন প্রত্যাশা এবং সামনে আসা মার্কিন মুদ্রাস্ফীতি প্রতিবেদনের অপেক্ষায় সোনার দাম প্রায় ২% কমেছে। উচ্চ সুদের হার সাধারণত সুদ না-দেওয়া সম্পদ সোনার আকর্ষণ কমায়, তাই inflation data বাজারের পরবর্তী দিক নির্ধারণে গুরুত্বপূর্ণ হবে।",
-        "added_at_ts": 1795557805,
-        "expires_at_ts": 1795644205,
-        "batch_label": "04:03 AM BDT",
-        "batch_edition": 5,
-        "is_new": false
-      },
-      {
-        "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-        "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
-        "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-        "source": "CNBC",
-        "image": "https://image.cnbcfm.com/api/v1/image/108313716-17800536432026-03-12t071236z_1666355942_rc27fjaubt68_rtrmadp_0_tech-robots-conflict-zones.jpeg?v=1780053657&w=1920&h=1080",
-        "published_ts": 1795476499,
-        "published": "24 Nov, 05:28 AM",
-        "bn_summary": "Eric Trump-সমর্থিত robot startup Foundation নগদ সংকটে কর্মীদের health benefits বন্ধ করেছে এবং জরুরি bridge loan খুঁজছে। South Korea-র Base Group থেকে প্রত্যাশিত $150 million বিনিয়োগ না আসা পর্যন্ত এই অনিশ্চয়তা কর্মীদের কল্যাণ ও কোম্পানির টিকে থাকা—দুই ক্ষেত্রেই বড় চাপ তৈরি করছে।",
-        "added_at_ts": 1795557805,
-        "expires_at_ts": 1795644205,
-        "batch_label": "04:03 AM BDT",
-        "batch_edition": 5,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "Get 2TB of PCIe 5.0 storage for less than $300 in stellar Crucial P510 sale",
+        "summary": "Snag 2TB of PCIe 5.0 storage for just $294.99 with a deal on the Crucial P510 SSD over at Adorama.",
+        "url": "https://www.tomshardware.com/pc-components/ssds/get-2tb-of-pcie-5-0-storage-for-less-than-usd300-in-stellar-crucial-p510-sale-drive-is-available-for-just-usd294-99-less-than-some-1tb-alternatives",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/FoFXUu2LwvmzpRb2cfASF4-1920-80.jpg",
+        "published_ts": 1795644645,
+        "published": "26 Nov, 04:10 AM",
+        "bn_summary": "Crucial P510 2TB PCIe 5.0 SSD-এর দাম $294.99 করা হয়েছে, যা সাধারণত $300-এর বেশি। এটি গুরুত্বপূর্ণ কারণ এটি PCIe 5.0 স্টোরেজের জন্য একটি অসাধারণ দাম, যা উচ্চ-গতির স্টোরেজ আপগ্রেড করতে চাওয়া ব্যবহারকারীদের জন্য সাশ্রয়ী সুযোগ।",
+        "added_at_ts": 1795646425,
+        "expires_at_ts": 1795732825,
+        "batch_label": "04:40 AM BDT",
+        "batch_edition": 17,
+        "is_new": true
+      },
+      {
+        "title": "Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade - Yahoo Finance",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVk9mVUxsUll4NmpxRklUb1dFaHduU3ZURXZRV2ktV0pDM2ZMNElPb3RrV0NiS0JlLTVXQXJKNnpTV1JmV1k2NGMtdzNLa0F0c2tsY2xRMmJKZHhwY1dueWZXb0l4VXhWNkl4NmJ6QUlTNjBpZUItN0xkX21JUXJ5WGlUbWdON0E0V2FOT2lGYkozcm9VSjlXVjR3SDc5WWQ3VzJhWm5mb29YbjBQSU1hQURkYw?oc=5",
+        "source": "Yahoo Finance",
+        "image": "",
+        "published_ts": 1795641486,
+        "published": "26 Nov, 03:18 AM",
+        "bn_summary": "এআই ট্রেড নিয়ে উদ্বেগের কারণে এনভিডিয়া, এএমডি এবং মাইক্রনের শেয়ারের দাম আগে বড় পতন হয়েছিল, তবে পরে কিছুটা ঘুরে দাঁড়িয়েছে। এটি গুরুত্বপূর্ণ কারণ এই কোম্পানিগুলো এআই হার্ডওয়্যারের মূল খেলোয়াড়, এবং তাদের শেয়ারের গতিবিধি বিনিয়োগকারীদের এআই চাহিদার টেকসইতা নিয়ে আস্থা প্রতিফলিত করে।",
+        "added_at_ts": 1795646425,
+        "expires_at_ts": 1795732825,
+        "batch_label": "04:40 AM BDT",
+        "batch_edition": 17,
+        "is_new": true
+      },
+      {
+        "title": "David Tepper Sold All of His AMD Stock. His Biggest Position Is Micron. - The Motley Fool",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTGl1bWtTekVZUlZjbHA2eERfTFVwdnRyYldoVlNkUjYtOHBYVlBobEZBTXZIRkRQNGZyT3BaYk1vc0N0YUtzLXhrYTlGTk9lT0o5bEZaeDNaSUxHLVZQcy01REF3VDRDRUpleV9pMTEzbG5qM2JDclZnQjJWMUY5eTBLTTgzbVdlRXFuZ052WTNpU1AzRDFfRm9FWEhySzhzZzhBVFBrT2VTWnhuZVlpUnBR?oc=5",
+        "source": "The Motley Fool",
+        "image": "",
+        "published_ts": 1795633202,
+        "published": "26 Nov, 01:00 AM",
+        "bn_summary": "ডেভিড টেপার তার AMD-এর সব শেয়ার বিক্রি করে দিয়েছেন, এবং তার সবচেয়ে বড় বিনিয়োগ এখন Micron-এ। এটি গুরুত্বপূর্ণ কারণ টেপারের মতো প্রভাবশালী বিনিয়োগকারীর সিদ্ধান্ত বাজারে সংকেত দেয়, এবং মেমরি চিপের ভবিষ্যৎ সম্ভাবনা সম্পর্কে আস্থা নির্দেশ করে।",
+        "added_at_ts": 1795646425,
+        "expires_at_ts": 1795732825,
+        "batch_label": "04:40 AM BDT",
+        "batch_edition": 17,
+        "is_new": true
+      },
       {
         "title": "Save up to 36% on a some of the best PC speakers we've reviewed",
         "summary": "Some of the best PC speakers we've tested are on sale for Black Friday, including options from AudioEngine, Creative, and Onkyo.",
@@ -1654,7 +1667,7 @@
         "expires_at_ts": 1795725445,
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Stocks mount a huge comeback from morning lows. Plus, a closer look at Micron and Starbucks - CNBC",
@@ -1669,7 +1682,7 @@
         "expires_at_ts": 1795725445,
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Best Black Friday hard drive deals 2026",
@@ -1684,7 +1697,7 @@
         "expires_at_ts": 1795725445,
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Save $2600 on the cheapest RTX 5090 prebuilt PC we've found so far in the Black Friday rush",
@@ -2044,51 +2057,6 @@
         "expires_at_ts": 1795651705,
         "batch_label": "06:08 AM BDT",
         "batch_edition": 6,
-        "is_new": false
-      },
-      {
-        "title": "Best Black Friday gaming laptop PC deals 2026",
-        "summary": "Here are the best Black Friday gaming laptop deals. We're constantly updating this list with the best deals still available across all of the major retailers.",
-        "url": "https://www.tomshardware.com/laptops/gaming-laptops/best-gaming-laptop-deals-dell-msi-alienware-rog",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/aiCE4SUBa5i2RfFxXdKRNU-1920-80.jpg",
-        "published_ts": 1795555819,
-        "published": "25 Nov, 03:30 AM",
-        "bn_summary": "Black Friday উপলক্ষে বিভিন্ন বড় retailer-এ gaming laptop ও PC-র একাধিক ছাড়ের তালিকা প্রকাশ করা হয়েছে, এবং নতুন offer পাওয়া গেলে তালিকাটি নিয়মিত আপডেট হচ্ছে। ক্রেতারা একই ধরনের hardware-এর দামে তুলনা করে বেশি সাশ্রয় করতে পারবেন, তবে stock ও discount দ্রুত বদলে যেতে পারে।",
-        "added_at_ts": 1795557805,
-        "expires_at_ts": 1795644205,
-        "batch_label": "04:03 AM BDT",
-        "batch_edition": 5,
-        "is_new": false
-      },
-      {
-        "title": "512GB MacBook Neo drops to $699 — comes with Touch ID, but only in pink",
-        "summary": "Apple's MacBook Neo with 512GB of storage and Touch ID is $699 on Amazon.",
-        "url": "https://www.tomshardware.com/laptops/macbooks/512gb-macbook-neo-drops-to-usd699-comes-with-touch-id-but-only-in-pink",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/kH4igqKSVcu3DjKZdupbFY-1920-80.jpg",
-        "published_ts": 1795552567,
-        "published": "25 Nov, 02:36 AM",
-        "bn_summary": "Amazon-এ Apple-এর 512GB MacBook Neo-এর দাম কমে $699 হয়েছে, এবং এই configuration-এ Touch ID সুবিধাও রয়েছে। অফারটি আকর্ষণীয় হলেও এটি শুধু pink রঙে পাওয়া যাচ্ছে, তাই storage ও biometric login চাইলে রঙের সীমাবদ্ধতা মেনে নিতে হবে।",
-        "added_at_ts": 1795557805,
-        "expires_at_ts": 1795644205,
-        "batch_label": "04:03 AM BDT",
-        "batch_edition": 5,
-        "is_new": false
-      },
-      {
-        "title": "RAM price tracking 2026",
-        "summary": "Check the best prices on DDR5 and DDR4 memory kits of different capacities.",
-        "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/ram-price-tracking-2026-lowest-price-on-ddr5-and-ddr4-memory-of-all-capacities",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/3VUDhTYYDLmHbVLRhcwPz4-1920-80.png",
-        "published_ts": 1795543128,
-        "published": "24 Nov, 11:58 PM",
-        "bn_summary": "এই price tracker-এ বিভিন্ন capacity-র DDR5 ও DDR4 memory kit-এর চলতি সেরা দাম একসঙ্গে দেখা যায়। RAM কেনার সময় এটি ব্যবহার করলে generation, capacity ও kit-এর দামের পরিবর্তন তুলনা করে উপযুক্ত সময়ে কেনার সিদ্ধান্ত নেওয়া সহজ হবে।",
-        "added_at_ts": 1795557805,
-        "expires_at_ts": 1795644205,
-        "batch_label": "04:03 AM BDT",
-        "batch_edition": 5,
         "is_new": false
       }
     ]
