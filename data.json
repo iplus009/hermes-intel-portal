@@ -1,28 +1,28 @@
 {
-  "edition": 5,
-  "updated_ts": 1795557805,
-  "updated_dhaka": "25 Nov 2026, 04:03 AM (BDT)",
-  "updated_utc": "2026-11-24 22:03 UTC",
-  "batch_label": "04:03 AM BDT",
-  "new_added": 14,
+  "edition": 6,
+  "updated_ts": 1795565305,
+  "updated_dhaka": "25 Nov 2026, 06:08 AM (BDT)",
+  "updated_utc": "2026-11-25 00:08 UTC",
+  "batch_label": "06:08 AM BDT",
+  "new_added": 13,
   "expired_removed": 0,
-  "curated_by": "codex-relay (gpt-5.6-luna)",
+  "curated_by": "gemini (gemini-flash-lite-latest)",
   "advice": {
-    "title": "AI সুযোগে সতর্ক এগিয়ে চলুন",
-    "body": "AI agent এখনও দৈনন্দিন কাজে ভুল করে, তাই GitHub-এর google-ai দেখে Free API ও কম-খরচের VPS-এ ছোট sandbox তৈরি করে প্রতিটি output যাচাই করুন। S&P 500, NASDAQ, NVIDIA ও Micron শক্তিশালী হলেও Gold 2.69% এবং Bitcoin 2.19% নেমেছে—FOMO না করে ধাপে বিনিয়োগ, stop-loss ও RAM/ল্যাপটপ কেনায় বাজেট সীমা রাখুন। কোরিয়া ও কলম্বিয়ার নিরাপত্তা সংকেত নজরে রেখে backup, 2FA এবং গুরুত্বপূর্ণ ডেটার offsite copy আজই প্রস্তুত করুন।",
-    "tag": "AI & Dev"
+    "title": "টেক ও স্টক মার্কেটে নতুন গতি",
+    "body": "এনভিডিয়া ও মাইক্রনের জোরালো উত্থানের বাজারে টেক পোর্টফোলিও গুছিয়ে নেওয়ার মোক্ষম সময় এটি। নতুন এআই টুল ব্যবহারের পাশাপাশি হার্ডওয়্যার কেনাকাটায় ডিসকাউন্টের সুযোগ কাজে লাগান।",
+    "tag": "Market & Gold"
   },
   "quote": {
-    "text_bn": "জীবন সাইকেল চালানোর মতো। ভারসাম্য রাখতে হলে চলতে থাকতেই হবে।",
-    "author": "আলবার্ট আইনস্টাইন",
-    "note_bn": "আজ ছোট কিন্তু ধারাবাহিক একটি পরীক্ষা বা উন্নতি করুন, যাতে থেমে না গিয়ে আপনার দক্ষতা ও নিরাপত্তা দুটিই বাড়ে।"
+    "text_bn": "ভবিষ্যতের পূর্বাভাস দেওয়ার সেরা উপায় হলো ভবিষ্যৎ নিজে তৈরি করা।",
+    "author": "অ্যালান কে",
+    "note_bn": "আজকের প্রযুক্তির উন্নয়নে নিজেই নিজের সুযোগ তৈরি করুন।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,553.00",
-      "change_pct": -2.69,
+      "price": "$3,548.60",
+      "change_pct": -2.82,
       "up": false
     },
     {
@@ -56,13 +56,58 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$59,869.47",
-      "change_pct": -2.19,
+      "price": "$59,635.84",
+      "change_pct": -0.18,
       "up": false
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+        "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+        "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+        "source": "TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192215566.jpg?resize=1200,800",
+        "published_ts": 1795559272,
+        "published": "25 Nov, 04:27 AM",
+        "bn_summary": "এনভিডিয়ার সিইও জেনসেন হুয়াং মনে করেন যে কোম্পানির উত্তরাধিকার পরিকল্পনা অপ্রয়োজনীয় পদমর্যাদার সৃষ্টি করে। এই দৃষ্টিভঙ্গি অবাক করার মতো, কারণ সম্প্রতি প্রতিষ্ঠাতা ছাড়াই কোম্পানি চালানোর চ্যালেঞ্জগুলো স্পষ্ট হয়ে উঠেছে।",
+        "added_at_ts": 1795565305,
+        "expires_at_ts": 1795651705,
+        "batch_label": "06:08 AM BDT",
+        "batch_edition": 6,
+        "is_new": true
+      },
+      {
+        "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+        "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+        "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+        "source": "TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/11/01-maple-hero-chargebacks-photo-16x9-1.png?resize=1200,675",
+        "published_ts": 1795555192,
+        "published": "25 Nov, 03:19 AM",
+        "bn_summary": "ম্যাপল নামের একটি স্টার্টআপ ৫৩ লক্ষ ডলার তহবিল সংগ্রহ করেছে এনক্রিপ্ট করা এআই পণ্য তৈরির জন্য। এই প্রযুক্তির মাধ্যমে কোম্পানি নিজেও ব্যবহারকারীদের গোপন ডেটা দেখতে পারবে না, যা ডেটা সুরক্ষায় বড় ভূমিকা রাখবে।",
+        "added_at_ts": 1795565305,
+        "expires_at_ts": 1795651705,
+        "batch_label": "06:08 AM BDT",
+        "batch_edition": 6,
+        "is_new": true
+      },
+      {
+        "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+        "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomber",
+        "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+        "source": "The Verge",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0%2C1.2974525602559%2C100%2C78.525377525853&w=1200",
+        "published_ts": 1795553539,
+        "published": "25 Nov, 02:52 AM",
+        "bn_summary": "এনভিডিয়া সিইও জেনসেন হুয়াং কর্মীদের জানিয়েছেন যে ডোনাল্ড ট্রাম্প তাকে পুনর্বহাল করেছেন—এই কথাটি সত্য নয়। কোম্পানিকে রাজনৈতিক প্রভাবের আলোচনা থেকে দূরে রাখতে তিনি এই স্পষ্টীকরণ দিয়েছেন।",
+        "added_at_ts": 1795565305,
+        "expires_at_ts": 1795651705,
+        "batch_label": "06:08 AM BDT",
+        "batch_edition": 6,
+        "is_new": true
+      },
       {
         "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
         "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
@@ -76,7 +121,7 @@
         "expires_at_ts": 1795644205,
         "batch_label": "04:03 AM BDT",
         "batch_edition": 5,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Even the best AI agents struggle with everyday life",
@@ -91,7 +136,7 @@
         "expires_at_ts": 1795644205,
         "batch_label": "04:03 AM BDT",
         "batch_edition": 5,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
@@ -106,7 +151,7 @@
         "expires_at_ts": 1795644205,
         "batch_label": "04:03 AM BDT",
         "batch_edition": 5,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "David Fincher is being dragged for suspected use of AI in his latest film",
@@ -321,6 +366,23 @@
     ],
     "github": [
       {
+        "title": "ali7080/adobe-air-sdk",
+        "summary": "Adobe AIR SDK: Cross-Platform Desktop App Development with AJAX, HTML, and Flash",
+        "url": "https://github.com/ali7080/adobe-air-sdk",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/ali7080/adobe-air-sdk",
+        "stars": 337,
+        "language": "HTML",
+        "published_ts": 1795265459,
+        "published": "2026-11-21",
+        "bn_summary": "অ্যাডোবি এআইআর এসডিকে ডেভেলপারদের এহিউএল, এইচটিএমএল এবং ফ্ল্যাশ ব্যবহার করে ক্রস-প্লাটফর্ম ডেস্কটপ অ্যাপ তৈরি করতে সহায়তা করে। পুরোনো প্রযুক্তি হওয়া সত্ত্বেও এটি দিয়ে বহুমুখী ডেস্কটপ অ্যাপ্লিকেশন তৈরি করা যায়।",
+        "added_at_ts": 1795565305,
+        "expires_at_ts": 1795651705,
+        "batch_label": "06:08 AM BDT",
+        "batch_edition": 6,
+        "is_new": true
+      },
+      {
         "title": "hoangsvit/google-ai",
         "summary": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.",
         "url": "https://github.com/hoangsvit/google-ai",
@@ -335,7 +397,7 @@
         "expires_at_ts": 1795644205,
         "batch_label": "04:03 AM BDT",
         "batch_edition": 5,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "ThreatDefence/agentic-attack-detections",
@@ -590,7 +652,7 @@
         "expires_at_ts": 1795644205,
         "batch_label": "04:03 AM BDT",
         "batch_edition": 5,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "The noise speedrun is an awesome benchmark for backprop-free LLM training: get to 3.5 val loss ASAP. We had fun pointing the Eureka Machine at it, and we set a new record under 10 ",
@@ -685,6 +747,51 @@
     ],
     "war": [
       {
+        "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+        "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
+        "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260613__B6YT743__v2__HighRes__TopshotDrcongoHealthEbola-1795558000.jpg?resize=1920%2C1440",
+        "published_ts": 1795563553,
+        "published": "25 Nov, 05:39 AM",
+        "bn_summary": "কংগো প্রজাতন্ত্রের একটি বিদ্রোহী দল সরকারের সাথে ভারী সংঘর্ষের পর বুনিয়ার দিকে তাদের অগ্রগতি থামিয়ে পিছু হটেছে। উগান্ডার মধ্যস্থতায় হওয়া শান্তি আলোচনার প্রতিশ্রুতি রক্ষা করতেই তারা এই পদক্ষেপ নিয়েছে।",
+        "added_at_ts": 1795565305,
+        "expires_at_ts": 1795651705,
+        "batch_label": "06:08 AM BDT",
+        "batch_edition": 6,
+        "is_new": true
+      },
+      {
+        "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+        "summary": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
+        "url": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b05fc7f7b842-1795554431.jpg?resize=1920%2C1440",
+        "published_ts": 1795562980,
+        "published": "25 Nov, 05:29 AM",
+        "bn_summary": "দক্ষিণ আফ্রিকার আদালত রাশিয়ার পক্ষে ইউক্রেনের বিরুদ্ধে যুদ্ধ করার চেষ্টা করা এক জিম্বাবুয়ীয় নাগরিককে দোষী সাব্যস্ত করেছে। জোহানেসবার্গ বিমানবন্দর থেকে রাশিয়ার ফ্লাইট ধরার সময় তাকে গ্রেপ্তার করা হয়েছিল।",
+        "added_at_ts": 1795565305,
+        "expires_at_ts": 1795651705,
+        "batch_label": "06:08 AM BDT",
+        "batch_edition": 6,
+        "is_new": true
+      },
+      {
+        "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+        "summary": "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy.",
+        "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2024/03/2021-06-23T213734Z_2018083332_RC2J6O9U7F43_RTRMADP_3_HUAWEI-5G-1-1709274412.jpg?resize=1920%2C1440",
+        "published_ts": 1795556614,
+        "published": "25 Nov, 03:43 AM",
+        "bn_summary": "যুক্তরাষ্ট্রের একটি আদালত বাণিজ্য গোপনীয়তা ষড়যন্ত্র ও প্রতারণার অভিযোগে হুয়াওয়েকে দোষী সাব্যস্ত করেছে। তবে জুরির রায়ে তাদের বিরুদ্ধে আনীত সবচেয়ে গুরুতর অপরাধমূলক র‍্যাকেটিরিং ষড়যন্ত্রের অভিযোগ থেকে অব্যাহতি দেওয়া হয়েছে।",
+        "added_at_ts": 1795565305,
+        "expires_at_ts": 1795651705,
+        "batch_label": "06:08 AM BDT",
+        "batch_edition": 6,
+        "is_new": true
+      },
+      {
         "title": "Colombian president blames ex-FARC rebels for car bomb blast",
         "summary": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate.",
         "url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
@@ -697,7 +804,7 @@
         "expires_at_ts": 1795644205,
         "batch_label": "04:03 AM BDT",
         "batch_edition": 5,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Russian jets spark air raid alert in South Korea",
@@ -712,7 +819,7 @@
         "expires_at_ts": 1795644205,
         "batch_label": "04:03 AM BDT",
         "batch_edition": 5,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
@@ -727,7 +834,7 @@
         "expires_at_ts": 1795644205,
         "batch_label": "04:03 AM BDT",
         "batch_edition": 5,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
@@ -942,6 +1049,51 @@
     ],
     "stocks_gold": [
       {
+        "title": "Analysis | Trump’s Nvidia gambit shows the stock market is the economy - The Washington Post",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkp6YllFbGVuUS04S1E1aWdta2paXzVJTE00amRvblR0dGVFVHZwVTBUVXRpZEFSMVpYNnc0bmM3YUFKZG9vX3NRdWFaTGVRblktZ1gtRk1CY25Ea2ZwV2RCS0pnMXpiTnk0OGxHRDd4eExYZC1sZlZhZ0V4ajE1LUdGWWlzUzh0X3RoZHZR?oc=5",
+        "source": "The Washington Post",
+        "image": "",
+        "published_ts": 1795564582,
+        "published": "25 Nov, 05:56 AM",
+        "bn_summary": "ট্রাম্পের এনভিডিয়া সম্পর্কিত মন্তব্য প্রমাণ করে যে বর্তমানে মার্কিন পুঁজিবাজার সামগ্রিক অর্থনীতিকে গভীরভাবে প্রভাবিত করছে। স্টক মার্কেটের এই অস্থিরতা দেশের সার্বিক অর্থনৈতিক চিত্রের একটি বড় প্রতিফলন।",
+        "added_at_ts": 1795565305,
+        "expires_at_ts": 1795651705,
+        "batch_label": "06:08 AM BDT",
+        "batch_edition": 6,
+        "is_new": true
+      },
+      {
+        "title": "Investors are missing the bigger picture in CrowdStrike's deal to buy Zscaler",
+        "summary": "CrowdStrike's quarterly results, released alongside the deal's announcement, show a company acting from a position of strength rather than weakness.",
+        "url": "https://www.cnbc.com/investingclub/2026/11/23/crowdstrikes-zscaler-deal-investors-are-missing-the-bigger-picture.html",
+        "source": "CNBC",
+        "image": "https://image.cnbcfm.com/api/v1/image/108316343-1780518921561-gettyimages-2243418927-NVIDIA_AI_KEYNOTE.jpeg?v=1780519019&w=1920&h=1080",
+        "published_ts": 1795465599,
+        "published": "24 Nov, 02:26 AM",
+        "bn_summary": "ক্রাউডস্ট্রাইকের জিভলার অধিগ্রহণের চুক্তির পেছনে বিনিয়োগকারীরা অনেক বড় ব্যবসায়িক সম্ভাবনা এড়িয়ে যাচ্ছেন। এই ত্রৈমাসিক ফলাফল প্রমাণ করে যে কোম্পানিটি দুর্বলতা নয় বরং বেশ শক্তিশালী অবস্থান থেকে এগোচ্ছে।",
+        "added_at_ts": 1795565305,
+        "expires_at_ts": 1795651705,
+        "batch_label": "06:08 AM BDT",
+        "batch_edition": 6,
+        "is_new": true
+      },
+      {
+        "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+        "summary": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
+        "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+        "source": "CNBC",
+        "image": "https://image.cnbcfm.com/api/v1/image/108553211-1794932257620-Traders-Photo-20261116-KK-PRESS-012.jpg?v=1794932755&w=1920&h=1080",
+        "published_ts": 1795456847,
+        "published": "24 Nov, 12:00 AM",
+        "bn_summary": "ওয়াল স্ট্রিটের বিশ্লেষকদের মতে, জেনসেন হুয়াংয়ের এনভিডিয়ায় প্রত্যাবর্তন বর্তমান পুঁজিবাজারের দরপতন ঠেকাতে সাহায্য করবে। তবে ডাটা সেন্টারের খরচ ও বাজারের ঝুঁকিগুলো এখনও পুরোপুরি কাটেনি।",
+        "added_at_ts": 1795565305,
+        "expires_at_ts": 1795651705,
+        "batch_label": "06:08 AM BDT",
+        "batch_edition": 6,
+        "is_new": true
+      },
+      {
         "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
         "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
         "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
@@ -954,7 +1106,7 @@
         "expires_at_ts": 1795644205,
         "batch_label": "04:03 AM BDT",
         "batch_edition": 5,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold price falls 2% on hawkish Fed bets, US inflation data in focus - Mining.com",
@@ -969,7 +1121,7 @@
         "expires_at_ts": 1795644205,
         "batch_label": "04:03 AM BDT",
         "batch_edition": 5,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
@@ -984,7 +1136,7 @@
         "expires_at_ts": 1795644205,
         "batch_label": "04:03 AM BDT",
         "batch_edition": 5,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Retail turnarounds are taking hold just in time for the holiday season",
@@ -1199,6 +1351,51 @@
     ],
     "ram_hardware": [
       {
+        "title": "Patriot’s 32GB DDR5-6000 CL30 RAM kit is $60 off Amazon’s list price - MIXED News",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcEVIa0pQUEZ1RDA4SklQaVQ0bFJIV1hacVRITmUtMmxFMkZDX1BXdVc0MEgyZVh2bDM3d2ttV3hJa25nOHFQLVJhbDVUNm5zYlpFZWJvWkpmV2ZaQ25NaE5tWEFiS1BoT29MaGUyS2o4eFA2YkFDb29qTE0zc3ZaUHhHUkVFWUE?oc=5",
+        "source": "MIXED News",
+        "image": "",
+        "published_ts": 1795564102,
+        "published": "25 Nov, 05:48 AM",
+        "bn_summary": "Patriot-এর 32GB DDR5-6000 CL30 RAM kit Amazon-এর তালিকাভুক্ত দামের চেয়ে $60 কমে পাওয়া যাচ্ছে, তাই high-performance PC build করা ক্রেতাদের জন্য এটি আকর্ষণীয় deal হতে পারে। DDR5-6000 speed ও CL30 latency gaming এবং demanding workloads-এ ভালো performance দিতে পারে, যদিও কেনার আগে বর্তমান price ও seller details যাচাই করা জরুরি।",
+        "added_at_ts": 1795565305,
+        "expires_at_ts": 1795651705,
+        "batch_label": "06:08 AM BDT",
+        "batch_edition": 6,
+        "is_new": true
+      },
+      {
+        "title": "Micron’s stock falls as an analyst warns about a future supply glut - MarketWatch",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeFFlMktrdm9XRGNQNzR6SFdtNDFVZjJvZkV2TDFzczB1WGlXMUJTSDlmcjc4RUxTQm1VSFoxeGNzNHdzRTJlMUxEaDhfNWZ1bERkWmEtRTFadnhsSWYwQkhPY3hpUkN6TFNEdnlSTmU3T1VZU2FUX0VqMnJsc2RHNi15cFJXclRWeVF0SVFxeEdLUkpiZVk1VTZfYkVodFpfUjZvTzM1aFhLS1BWSkE?oc=5",
+        "source": "MarketWatch",
+        "image": "",
+        "published_ts": 1795555320,
+        "published": "25 Nov, 03:22 AM",
+        "bn_summary": "একজন analyst ভবিষ্যতে memory supply glut বা অতিরিক্ত মজুত তৈরি হতে পারে বলে সতর্ক করার পর Micron-এর stock price কমেছে। Supply demand-এর তুলনায় বেড়ে গেলে DRAM ও অন্যান্য memory chip-এর দাম এবং Micron-এর profit margin কমে যেতে পারে, তাই বিনিয়োগকারীরা earnings outlook নিয়ে উদ্বিগ্ন।",
+        "added_at_ts": 1795565305,
+        "expires_at_ts": 1795651705,
+        "batch_label": "06:08 AM BDT",
+        "batch_edition": 6,
+        "is_new": true
+      },
+      {
+        "title": "Analyst Cuts Micron Stock Price Target for 12 Months by Over 50% - Coinpedia",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmRzeDlKNTZQWlFRTTBLSHRwY0lhTmxOZkRQcjFhdDBGc0pUREVfazFRVXVmS2h0M0p4OE91VUtnekVWS2psUmJXOU4zb2xieldrb2JXeTR3QnVGMnUtbVpDYTF5clBiSk9MREQ0aWRadU1nTk00STE0Z2xNR3hEUXpFV3F1RWNOZzY2VzRxTVlvbThXTDFFazdiT3pIWXA3a09J0gGoAUFVX3lxTFBwWVVibHJCMzl3Mk5rZE95cWtQZV80R1VrTHlDdmU0QXpHSWF0em83SGtVV2M2NjZQZmxJdGtPMml6NW84Zkd2THFWbGpVS19NZWtBMkI2Y0xiQjY3NHRHNGJpSUsxbWlkbmNPT093VXFXWG9fRTRSTHhrNFlPZDNLV1pULUEzQS1XYmRNYVVJWDZoclZIdnVSQy1jVG9RT01zZFRabFExaw?oc=5",
+        "source": "Coinpedia",
+        "image": "",
+        "published_ts": 1795553756,
+        "published": "25 Nov, 02:55 AM",
+        "bn_summary": "একজন analyst আগামী ১২ মাসের জন্য Micron stock-এর price target ৫০%-এরও বেশি কমিয়েছেন, যা কোম্পানির ভবিষ্যৎ growth ও valuation নিয়ে বড় ধরনের সতর্কতার ইঙ্গিত। এই downgrade মূলত সম্ভাব্য memory oversupply, chip pricing pressure এবং আয়ের ওপর নেতিবাচক প্রভাবের আশঙ্কা প্রতিফলিত করে।",
+        "added_at_ts": 1795565305,
+        "expires_at_ts": 1795651705,
+        "batch_label": "06:08 AM BDT",
+        "batch_edition": 6,
+        "is_new": true
+      },
+      {
         "title": "Best Black Friday gaming laptop PC deals 2026",
         "summary": "Here are the best Black Friday gaming laptop deals. We're constantly updating this list with the best deals still available across all of the major retailers.",
         "url": "https://www.tomshardware.com/laptops/gaming-laptops/best-gaming-laptop-deals-dell-msi-alienware-rog",
@@ -1211,7 +1408,7 @@
         "expires_at_ts": 1795644205,
         "batch_label": "04:03 AM BDT",
         "batch_edition": 5,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "512GB MacBook Neo drops to $699 — comes with Touch ID, but only in pink",
@@ -1226,7 +1423,7 @@
         "expires_at_ts": 1795644205,
         "batch_label": "04:03 AM BDT",
         "batch_edition": 5,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "RAM price tracking 2026",
@@ -1241,7 +1438,7 @@
         "expires_at_ts": 1795644205,
         "batch_label": "04:03 AM BDT",
         "batch_edition": 5,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "These are the four cheapest 32GB DDR5 memory kits we’ve found",
