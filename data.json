@@ -1,28 +1,28 @@
 {
-  "edition": 18,
-  "updated_ts": 1795653685,
-  "updated_dhaka": "26 Nov 2026, 06:41 AM (BDT)",
-  "updated_utc": "2026-11-26 00:41 UTC",
-  "batch_label": "06:41 AM BDT",
+  "edition": 19,
+  "updated_ts": 1795661065,
+  "updated_dhaka": "26 Nov 2026, 08:44 AM (BDT)",
+  "updated_utc": "2026-11-26 02:44 UTC",
+  "batch_label": "08:44 AM BDT",
   "new_added": 12,
-  "expired_removed": 13,
+  "expired_removed": 12,
   "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
   "advice": {
-    "title": "সোনায় লাভ, টেকে ধাক্কা—স্মার্ট মুভ কী?",
-    "body": "সোনার উত্থান আর NVDA/Micron-এর পতন—এখন নগদ টাকা আর সোনায় কিছু অংশ রাখুন, টেক শেয়ারে নতুন কেনা এড়িয়ে চলুন। GitHub Actions আর ফ্রি API দিয়ে ছোট অটোমেশন টুল বানান; RAM-এর দাম কমায় VPS-এ মেমরি বাড়ানোর ভালো সময়। যুদ্ধ আর ট্যারিফের খবরে বাজার অস্থির, তাই ঝুঁকি ছড়িয়ে দিন।",
-    "tag": "Market & Gold"
+    "title": "বাজারের ধাক্কায় AI শিখুন, সুযোগ খুঁজুন",
+    "body": "বাজার যখন অস্থির, তখন ফ্রি API আর GitHub-এর ওপেন সোর্স প্রজেক্টে হাত দিন—আজই llm.asm বা Gemini API CLI নিয়ে ছোট কিছু বানিয়ে ফেলুন। NVDA/মাইক্রন পড়েছে, কিন্তু AI টুলের চাহিদা কমেনি; ফ্রি টায়ার VPS-এ একটা মডেল ডিপ্লয় করে শিখুন। সোনা বাড়ছে, তাই ঝুঁকি ছড়িয়ে রাখুন—সব বিনিয়োগ এক জায়গায় নয়।",
+    "tag": "AI & Dev"
   },
   "quote": {
-    "text_bn": "যদি তোর ডাক শুনে কেউ না আসে তবে একলা চলো রে",
-    "author": "রবীন্দ্রনাথ ঠাকুর",
-    "note_bn": "আজকের অস্থির বাজারে নিজের কৌশল নিজেকেই ঠিক করতে হবে—ছোট অটোমেশন বা সোনার ছোট বিনিয়োগ দিয়েই শুরু করুন।"
+    "text_bn": "বুদ্ধিমত্তা হলো পরিবর্তনের সাথে খাপ খাওয়ানোর ক্ষমতা।",
+    "author": "স্টিফেন হকিং",
+    "note_bn": "আজকের বাজারের অস্থিরতাকে মানিয়ে নেওয়ার সুযোগ হিসেবে ব্যবহার করুন।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,601.80",
-      "change_pct": 1.12,
+      "price": "$3,621.20",
+      "change_pct": 1.66,
       "up": true
     },
     {
@@ -56,13 +56,58 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$60,627.42",
-      "change_pct": 0.41,
+      "price": "$60,938.64",
+      "change_pct": 0.93,
       "up": true
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "David Fincher says he used AI to replace dialogue and adjust actors’ lip movements in post-production on ‘THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH’. The actors spent 4-5 days re-r",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLM1FhekVUYUdWVEIxUEltTGFUWkFaLWZiaFVrVEx3QWVXa3dZNDV2djlEVjMydTZtOGR1dTVHZ0tNLVlqdTlpeHRfTjZEcE5Ld3hEYTN4WGtET1VTaFhLMTlBR0stUQ?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795639336,
+        "published": "26 Nov, 02:42 AM",
+        "bn_summary": "David Fincher বলেছেন, post-production-এ AI ব্যবহার করে সংলাপ বদলানো এবং অভিনেতাদের lip movement নতুন কথার সঙ্গে মিলিয়ে নেওয়া হয়েছে। এতে reshoot ছাড়াই অভিনয়ের পারফরম্যান্স পরিবর্তন করা সম্ভব, তবে শিল্পীদের সম্মতি, credit ও কাজের ভবিষ্যৎ নিয়ে বড় প্রশ্ন উঠছে।",
+        "added_at_ts": 1795661065,
+        "expires_at_ts": 1795747465,
+        "batch_label": "08:44 AM BDT",
+        "batch_edition": 19,
+        "is_new": true
+      },
+      {
+        "title": "Today, only 4 models set the Agent Arena Capability vs. Alignment Pareto frontier: - GPT-6.2 Sol by @OpenAI - GPT-6.2 Astra by @OpenAI - GPT-6 Astra by @OpenAI - Claude Fable 5.2 b",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95NUtBYWRPNERycGlSMGJCVTV5eFZsLWVoTXJkazNudDN1TGpUOVJyS1RZbGc3RjFPeWt5SExQZ29CNWdnbHc5MTZqMWdubkpGTjU3cXotWlladw?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795634935,
+        "published": "26 Nov, 01:28 AM",
+        "bn_summary": "Agent Arena-র একটি বিশ্লেষণে বলা হয়েছে, capability ও alignment—দুই দিক মিলিয়ে মাত্র চারটি model বর্তমানে Pareto frontier-এ আছে, যার মধ্যে GPT-6.2 Sol ও Astra-র নাম দেওয়া হয়েছে। এমন ranking agent-এর দক্ষতার পাশাপাশি নিরাপত্তা ও নির্ভরযোগ্যতাকেও গুরুত্ব দেয়, তবে মডেলগুলোর নাম ও ফলাফল স্বাধীনভাবে যাচাই করা দরকার।",
+        "added_at_ts": 1795661065,
+        "expires_at_ts": 1795747465,
+        "batch_label": "08:44 AM BDT",
+        "batch_edition": 19,
+        "is_new": true
+      },
+      {
+        "title": "David Fincher \"I won't miss focus in AI\" This is a very bleak take on the future of filmmaking. via @TheBigPic - X",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5weXd3Zm16Qm9XMVM1NmJqYy1HeFdHd3JIYVRQdVh6MEtmemszTnMya2pPc3N4bXA5bnVybGpud3JHaEJaZnJhZExDM2lhYWNfS05yUHFfWF9OMHdGQmlYag?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795628683,
+        "published": "25 Nov, 11:44 PM",
+        "bn_summary": "Fincher-এর মন্তব্যের সারকথা হলো, AI ব্যবহারে filmmaking-এর কিছু বাস্তব সীমাবদ্ধতা—যেমন focus বা production precision—কমে যেতে পারে। একই সঙ্গে এই দৃষ্টিভঙ্গি ইঙ্গিত করে যে প্রযুক্তি সৃজনশীল নিয়ন্ত্রণ বাড়ালেও সেটি মানবিক অভিনয় ও প্রচলিত চলচ্চিত্র নির্মাণের জায়গা সংকুচিত করতে পারে।",
+        "added_at_ts": 1795661065,
+        "expires_at_ts": 1795747465,
+        "batch_label": "08:44 AM BDT",
+        "batch_edition": 19,
+        "is_new": true
+      },
       {
         "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
         "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
@@ -76,7 +121,7 @@
         "expires_at_ts": 1795740085,
         "batch_label": "06:41 AM BDT",
         "batch_edition": 18,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Exciting news: MAI-Code-2.1 by @MicrosoftAI has just debuted in Code Arena: WebDev at #13 overall with a score of 1717 pts, placing Microsoft AI #6 among frontier AI labs! MAI-Code",
@@ -91,7 +136,7 @@
         "expires_at_ts": 1795740085,
         "batch_label": "06:41 AM BDT",
         "batch_edition": 18,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Rival AI leaders push back against Anthropic vision of surrendering human agency to AI https://t.co/HbjrWZBBqK - X",
@@ -106,7 +151,7 @@
         "expires_at_ts": 1795740085,
         "batch_label": "06:41 AM BDT",
         "batch_edition": 18,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
@@ -407,54 +452,26 @@
         "batch_label": "10:17 AM BDT",
         "batch_edition": 8,
         "is_new": false
-      },
-      {
-        "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
-        "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits",
-        "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-        "source": "TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-ChatGPT.png?resize=1200,675",
-        "published_ts": 1795565522,
-        "published": "25 Nov, 06:12 AM",
-        "bn_summary": "ইয়েল বিশ্ববিদ্যালয়ের অর্থনীতিবিদ জেফ্রি সনেফেল্ড সতর্ক করেছেন যে এনভিডিয়ার প্রধান হিসেবে জেনসেন হুয়াংয়ের প্রত্যাবর্তন আসলে মার্কিন শিল্প শক্তির জন্য উপকারী নয়, বরং ক্ষতিকর হতে পারে। এর ফলে মার্কিন প্রযুক্তি খাতের ভারসাম্য নষ্ট হতে পারে এবং বাজারের দীর্ঘমেয়াদী প্রবৃদ্ধির ওপর নেতিবাচক প্রভাব পড়তে পারে।",
-        "added_at_ts": 1795572805,
-        "expires_at_ts": 1795659205,
-        "batch_label": "08:13 AM BDT",
-        "batch_edition": 7,
-        "is_new": false
-      },
-      {
-        "title": "New Anthropic research: When an AI agent can escape its sandbox, will it choose to? Our new evaluation, Siren, gives Claude routine tasks in intentionally weakened sandboxes, with ",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kQ3B2R1c4ZEpxZFRub3VISTdNQ1F5M2tIcElrOUUxR0RpYmVjYjVETE1qcGR4WDI5QXlPQVB6Tlhva1JtNjRweU1iUTAxUjRIcXRqX24tX1llUTRUNzFkTTdn?oc=5",
-        "source": "X",
-        "image": "",
-        "published_ts": 1795555971,
-        "published": "25 Nov, 03:32 AM",
-        "bn_summary": "অ্যানথ্রপিক তাদের নতুন 'সাইরেন' নামক গবেষণায় পরীক্ষা করেছে যে কৃত্রিম বুদ্ধিমত্তা এজেন্টরা তাদের সুরক্ষিত পরিবেশ বা স্যান্ডবক্স থেকে পালিয়ে যাওয়ার সুযোগ পেলে তা বেছে নেয় কিনা। এই গবেষণাটি এআই সিস্টেমের নিরাপত্তা জোরদার করতে এবং ভবিষ্যতে এআইয়ের অপ্রত্যাশিত আচরণ নিয়ন্ত্রণে অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করবে।",
-        "added_at_ts": 1795572805,
-        "expires_at_ts": 1795659205,
-        "batch_label": "08:13 AM BDT",
-        "batch_edition": 7,
-        "is_new": false
-      },
-      {
-        "title": "Jensen Huang deepfakes are the hot new AI slop",
-        "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Hua",
-        "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-        "source": "The Verge",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ai-label_1c35e3.jpg?quality=90&strip=all&crop=0%2C19.887257893553%2C100%2C60.225484212893&w=1200",
-        "published_ts": 1795537092,
-        "published": "24 Nov, 10:18 PM",
-        "bn_summary": "সামাজিক মাধ্যমে জেনসেন হুয়াংয়ের একটি ডিপফেক ভিডিও ভাইরাল হয়েছে যেখানে তাকে ইবিজায় পার্টি করতে দেখা যাচ্ছে। এটি কৃত্রিম বুদ্ধিমত্তার ভুল ব্যবহার এবং এআই প্রযুক্তির সাহায্যে তৈরি বিভ্রান্তিকর কন্টেন্ট বা 'এআই স্লপ'-এর ক্রমবর্ধমান ঝুঁকি স্পষ্টভাবে তুলে ধরেছে।",
-        "added_at_ts": 1795572805,
-        "expires_at_ts": 1795659205,
-        "batch_label": "08:13 AM BDT",
-        "batch_edition": 7,
-        "is_new": false
       }
     ],
     "github": [
+      {
+        "title": "alesha-pro/llm.asm",
+        "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+        "url": "https://github.com/alesha-pro/llm.asm",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/alesha-pro/llm.asm",
+        "stars": 344,
+        "language": "Assembly",
+        "published_ts": 1795591731,
+        "published": "2026-11-25",
+        "bn_summary": "এই GitHub প্রকল্পে মাত্র 12 KB-তে Qwen3-0.6B inference, 22 KB-তে bootable bare-metal OS এবং 32 KB-তে Mini-GPT trainer তৈরি করা হয়েছে, সবই pure x86-64 NASM assembly দিয়ে। এত কম resource-এ কাজগুলো দেখানো assembly optimization, low-level systems programming এবং ছোট মডেল চালানোর শিক্ষামূলক সম্ভাবনা তুলে ধরে।",
+        "added_at_ts": 1795661065,
+        "expires_at_ts": 1795747465,
+        "batch_label": "08:44 AM BDT",
+        "batch_edition": 19,
+        "is_new": true
+      },
       {
         "title": "chanke17/KuroCat",
         "summary": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
@@ -471,26 +488,24 @@
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
         "is_new": false
-      },
-      {
-        "title": "lebrowndnasty-hash/ai-app-builder",
-        "summary": "AI App Builder: Prompt to Full-Stack Next.js Apps with Hosting, Database, Auth, and Multitenancy",
-        "url": "https://github.com/lebrowndnasty-hash/ai-app-builder",
-        "source": "GitHub",
-        "image": "https://opengraph.githubassets.com/1/lebrowndnasty-hash/ai-app-builder",
-        "stars": 337,
-        "language": "HTML",
-        "published_ts": 1795266064,
-        "published": "2026-11-21",
-        "bn_summary": "এই নতুন গিটহাব টুলটি ব্যবহারকারীদের সহজ প্রম্পটের মাধ্যমেই ডেটাবেস, অথেন্টিকেশন এবং হোস্টিং সুবিধাসহ সম্পূর্ণ ফুল-স্ট্যাক নেক্সট.জেএস অ্যাপ তৈরি করতে সাহায্য করে। এটি ডেভেলপারদের অ্যাপ তৈরির প্রক্রিয়া অত্যন্ত দ্রুত ও সহজ করে তুলবে।",
-        "added_at_ts": 1795572805,
-        "expires_at_ts": 1795659205,
-        "batch_label": "08:13 AM BDT",
-        "batch_edition": 7,
-        "is_new": false
       }
     ],
     "free_deals": [
+      {
+        "title": "Give the Gemini API CLI a try if you haven't already. I use it daily within Antigravity so that Neon can add background music to demos or build character voices for games. P.S. Goo",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45TU1rV255YUU5UWY4TUQ0SE1Vd29LdWVVeGRMQVJ6bjVyWUVuRVNKOXFJcUZhcGVmeC1UOFk2MnhmclFaSFZNa1luLUk5RFdHS08wTXRnRHEzTHBiam9xbw?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795644035,
+        "published": "26 Nov, 04:00 AM",
+        "bn_summary": "পোস্টটিতে Gemini API CLI বিনা খরচে বা সহজে পরীক্ষা করার পরামর্শ দেওয়া হয়েছে এবং বলা হয়েছে যে এটি Antigravity workflow-তে নিয়মিত ব্যবহার করা হয়। ব্যবহারকারী এটিকে Neon-এর মতো প্রকল্পে background music যোগ করার automation-এ কাজে লাগাচ্ছেন, তাই CLI-টি coding ও media workflow দুদিকেই উপকারী হতে পারে।",
+        "added_at_ts": 1795661065,
+        "expires_at_ts": 1795747465,
+        "batch_label": "08:44 AM BDT",
+        "batch_edition": 19,
+        "is_new": true
+      },
       {
         "title": "From PaddleOCR to LangChain to free LLM courses: 20 open source text mining repos with 2M GitHub stars, grouped by the job they do. #textmining #github...Show more - X",
         "summary": "",
@@ -539,6 +554,51 @@
     ],
     "war": [
       {
+        "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+        "summary": "North Korean leader warns attempts to deny country's nuclear status will be seen as \"an open declaration of war\".",
+        "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0788bbb53d-1795655867.jpg?resize=1920%2C1440",
+        "published_ts": 1795658583,
+        "published": "26 Nov, 08:03 AM",
+        "bn_summary": "Kim Jong Un বলেছেন, North Korea-র tactical nuclear weapons-এর deployment আরও বিস্তৃত করা উচিত এবং দেশটির nuclear status অস্বীকারের চেষ্টা হলে তা open declaration of war হিসেবে দেখা হবে। এই বক্তব্য আঞ্চলিক nuclear tension বাড়াতে পারে এবং South Korea, Japan ও যুক্তরাষ্ট্রের নিরাপত্তা হিসাব আরও কঠিন করে তুলতে পারে।",
+        "added_at_ts": 1795661065,
+        "expires_at_ts": 1795747465,
+        "batch_label": "08:44 AM BDT",
+        "batch_edition": 19,
+        "is_new": true
+      },
+      {
+        "title": "Ukraine attacks Russian military base, says five planes struck",
+        "summary": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
+        "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-06-15T152617Z_1851412768_RC2CQ49SS6FD_RTRMADP_3_RUSSIA-AIRPLANE-CRASH-1795653630.jpg?resize=1920%2C1440",
+        "published_ts": 1795657186,
+        "published": "26 Nov, 07:39 AM",
+        "bn_summary": "Ukraine-এর General Staff দাবি করেছে, তাদের বাহিনী Moscow-র পূর্বদিকে Nizhny Novgorod অঞ্চলের একটি Russian airbase-এ হামলা চালিয়ে পাঁচটি aircraft-এ আঘাত করেছে। ঘটনাটি সত্য হলে Russia-র গভীর অভ্যন্তরে Ukrainian strike capability ও সামরিক বিমান অবকাঠামোর vulnerability—দুটিই সামনে আসে।",
+        "added_at_ts": 1795661065,
+        "expires_at_ts": 1795747465,
+        "batch_label": "08:44 AM BDT",
+        "batch_edition": 19,
+        "is_new": true
+      },
+      {
+        "title": "ISIL blamed for multiple suicide attacks in Syria",
+        "summary": "ISIL suicide attack kills two in an assault on a security post in northeastern Syria.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795654236.jpg?resize=1920%2C1080&quality=80",
+        "published_ts": 1795654277,
+        "published": "26 Nov, 06:51 AM",
+        "bn_summary": "Syria-র উত্তর-পূর্বাঞ্চলে একটি security post-এ আত্মঘাতী হামলায় দুইজন নিহত হয়েছে, এবং এর জন্য ISIL-কে দায়ী করা হচ্ছে। হামলাটি দেখায় যে territorial control কমে গেলেও ISIL-এর মতো গোষ্ঠী এখনও নিরাপত্তা বাহিনীকে লক্ষ্য করে প্রাণঘাতী আক্রমণ চালাতে সক্ষম।",
+        "added_at_ts": 1795661065,
+        "expires_at_ts": 1795747465,
+        "batch_label": "08:44 AM BDT",
+        "batch_edition": 19,
+        "is_new": true
+      },
+      {
         "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
         "summary": "A blast hits Sanaa after air strikes near the airport, as the Saudi coalition intercepts missiles over Riyadh.",
         "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
@@ -551,7 +611,7 @@
         "expires_at_ts": 1795740085,
         "batch_label": "06:41 AM BDT",
         "batch_edition": 18,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Israel’s War on Palestinian Healthcare Workers: A Pattern of Violence and Repression - Arab Center Washington DC",
@@ -566,7 +626,7 @@
         "expires_at_ts": 1795740085,
         "batch_label": "06:41 AM BDT",
         "batch_edition": 18,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "US announces new tariffs on host of countries including China",
@@ -581,7 +641,7 @@
         "expires_at_ts": 1795740085,
         "batch_label": "06:41 AM BDT",
         "batch_edition": 18,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
@@ -1032,54 +1092,54 @@
         "batch_label": "10:17 AM BDT",
         "batch_edition": 8,
         "is_new": false
-      },
-      {
-        "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
-        "summary": "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman.",
-        "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b062d011e-1795566849.jpg?resize=1920%2C1440",
-        "published_ts": 1795570244,
-        "published": "25 Nov, 07:30 AM",
-        "bn_summary": "ইসরায়েলের রাজনীতিক আইজেনকোট নতুন সরকার গঠনের প্রচেষ্টায় লিবারম্যানের দলের সাথে প্রথম জোট চুক্তি স্বাক্ষর করেছেন। এই রাজনৈতিক পদক্ষেপ ইসরায়েলের চলমান রাজনৈতিক সংকটে নতুন মোড় নিতে পারে এবং সরকার গঠনের পথ প্রশস্ত করতে পারে।",
-        "added_at_ts": 1795572805,
-        "expires_at_ts": 1795659205,
-        "batch_label": "08:13 AM BDT",
-        "batch_edition": 7,
-        "is_new": false
-      },
-      {
-        "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
-        "summary": "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795569645.jpg?resize=1919%2C1080&quality=80",
-        "published_ts": 1795569662,
-        "published": "25 Nov, 07:21 AM",
-        "bn_summary": "ইউটিউবে লাইভ কনসার্ট পরিবেশন করার অপরাধে ইরানি গায়িকা পারস্তু আহমাদিকে ৭৪ বার চাবুক মারা হয়েছে। এই ঘটনা ইরানে শিল্পীদের ওপর চলা কঠোর নিষেধাজ্ঞা এবং মত প্রকাশের স্বাধীনতার ওপর চরম দমনপীড়নের চিত্র তুলে ধরে।",
-        "added_at_ts": 1795572805,
-        "expires_at_ts": 1795659205,
-        "batch_label": "08:13 AM BDT",
-        "batch_edition": 7,
-        "is_new": false
-      },
-      {
-        "title": "Poll finds US voters want government to end Iran war regardless of terms",
-        "summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
-        "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26103713873653-1776138849.jpg?resize=1920%2C1440",
-        "published_ts": 1795569262,
-        "published": "25 Nov, 07:14 AM",
-        "bn_summary": "একটি নতুন জরিপে দেখা গেছে যে মার্কিন ভোটারদের বড় একটি অংশ যেকোনো মূল্যে ইরানের সাথে সংঘাতের অবসান চান। এই জনমত মার্কিন সরকারের পররাষ্ট্র নীতি এবং মধ্যপ্রাচ্য সংকটের ওপর জনগণের ক্রমবর্ধমান অসন্তোষকে স্পষ্ট করে তোলে।",
-        "added_at_ts": 1795572805,
-        "expires_at_ts": 1795659205,
-        "batch_label": "08:13 AM BDT",
-        "batch_edition": 7,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+        "summary": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
+        "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+        "source": "CNBC",
+        "image": "https://image.cnbcfm.com/api/v1/image/108268316-1771829545481-gettyimages-2201260900-omarques_24022025_phone_tech-4.jpeg?v=1771829556&w=1920&h=1080",
+        "published_ts": 1795656898,
+        "published": "26 Nov, 07:34 AM",
+        "bn_summary": "একজন hedge fund manager মনে করছেন, AI boom অতিরিক্ত বিনিয়োগ ও ঋণের মাধ্যমে recession-এর ঝুঁকি তৈরি করতে পারে, যদিও data center এখনও আকর্ষণীয় বিনিয়োগ হিসেবে থাকতে পারে। অর্থাৎ AI-সংক্রান্ত কোম্পানি ও অবকাঠামোর সম্ভাবনা থাকলেও বাজারের উচ্চ মূল্যায়ন, volatility এবং high-yield debt-এ risk mispricing বড় ক্ষতির কারণ হতে পারে।",
+        "added_at_ts": 1795661065,
+        "expires_at_ts": 1795747465,
+        "batch_label": "08:44 AM BDT",
+        "batch_edition": 19,
+        "is_new": true
+      },
+      {
+        "title": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains - Yahoo Finance",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekxNUWtOR1pxOTJPX2dfTUhyWW4teS1oQUY4V0ZsNHZwV2d4a2NWU280b0hYSWhyNFEydWxhTWdrbXpKendCTUx3RS1FT2V1NmJlRzdPOFIxcG9tdXQwMGN1QWhsanpHUWhCbHl3TFEwQUtmWVZtWGhSVFhjRXh1Vm5GYzVsQVdWSE4tOXNYaFZKQk82TzNB?oc=5",
+        "source": "Yahoo Finance",
+        "image": "",
+        "published_ts": 1795645170,
+        "published": "26 Nov, 04:19 AM",
+        "bn_summary": "Nasdaq ও S&P 500 দিন শেষে কমেছে, কিন্তু দিনের সর্বনিম্ন অবস্থান থেকে অনেকটা ঘুরে দাঁড়িয়েছে কারণ বিনিয়োগকারীরা কম দামে শেয়ার কিনেছেন। এই rebound দেখায় যে বাজারে উদ্বেগ বজায় থাকলেও কিছু বিনিয়োগকারী পতনকে দীর্ঘমেয়াদি সুযোগ হিসেবে দেখছেন।",
+        "added_at_ts": 1795661065,
+        "expires_at_ts": 1795747465,
+        "batch_label": "08:44 AM BDT",
+        "batch_edition": 19,
+        "is_new": true
+      },
+      {
+        "title": "US stocks fall further as fears over AI intensify - BBC",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENVVNamVYdzF3V0tzVDBVWlVHWEV3WE9Wem5kMVgxRkNOQjI3Y0Nla0YzOFczWk5QbmhnSjk0LU5xTXUzeGdOY05IOVQ2ZE9YY3ExdG9WdE1NME0?oc=5",
+        "source": "BBC",
+        "image": "",
+        "published_ts": 1795642998,
+        "published": "26 Nov, 03:43 AM",
+        "bn_summary": "যুক্তরাষ্ট্রের শেয়ারবাজারে ধস নামছে, কারণ বিনিয়োগকারীরা কৃত্রিম বুদ্ধিমত্তা (AI) খাতের অতিমূল্যায়ন নিয়ে উদ্বিগ্ন হয়ে পড়েছে। এই পতন বাজারের আস্থা কমিয়ে দিতে পারে এবং প্রযুক্তি স্টকগুলোর ভবিষ্যৎ প্রবৃদ্ধি নিয়ে প্রশ্ন তুলেছে।",
+        "added_at_ts": 1795661065,
+        "expires_at_ts": 1795747465,
+        "batch_label": "08:44 AM BDT",
+        "batch_edition": 19,
+        "is_new": true
+      },
       {
         "title": "Explaining the stock market: Why is it still so hard? - CEPR",
         "summary": "",
@@ -1093,7 +1153,7 @@
         "expires_at_ts": 1795740085,
         "batch_label": "06:41 AM BDT",
         "batch_edition": 18,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Don’t Let the Bounce Fool You: The Stock Market’s Pain Could Get Way Worse - Barron's",
@@ -1108,7 +1168,7 @@
         "expires_at_ts": 1795740085,
         "batch_label": "06:41 AM BDT",
         "batch_edition": 18,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
@@ -1123,7 +1183,7 @@
         "expires_at_ts": 1795740085,
         "batch_label": "06:41 AM BDT",
         "batch_edition": 18,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Stock Market Today (Nov 25, 2026): Nasdaq Trims Losses, Gold Price Falls, Brent Oil $91 - Eurasia Business News",
@@ -1544,54 +1604,24 @@
         "batch_label": "10:17 AM BDT",
         "batch_edition": 8,
         "is_new": false
-      },
-      {
-        "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-        "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
-        "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-        "source": "CNBC",
-        "image": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&w=1920&h=1080",
-        "published_ts": 1795569236,
-        "published": "25 Nov, 07:13 AM",
-        "bn_summary": "জেনসেন হুয়াংয়ের এনভিডিয়ায় প্রত্যাবর্তন প্রমাণ করে যে আমেরিকা ও চীনের মধ্যকার এআই লড়াই কেবল মাইক্রোচিপ তৈরির মধ্যেই সীমাবদ্ধ নয়, বরং এটি শীর্ষস্থানীয় প্রযুক্তিগত প্রতিভাদের দখলের লড়াইও বটে। এই প্রতিযোগীতা বৈশ্বিক প্রযুক্তি বাজারের ভবিষ্যৎ নির্ধারণে অত্যন্ত গুরুত্বপূর্ণ ভূমিকা রাখবে।",
-        "added_at_ts": 1795572805,
-        "expires_at_ts": 1795659205,
-        "batch_label": "08:13 AM BDT",
-        "batch_edition": 7,
-        "is_new": false
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March - StoneX",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0V0aXctMHhmVjRnZXFxRnZyVzRBMUxVUklISmhWTEEtNlk2RWYzbFcxd3kxOXpFUGJZNU15YlN1MkpPOXd4d1EtRVpfeHByTkVhOVNrcGROWnh6WEhWQ2xLSW53QXZVdXdialViRWl2WXFHcUxET1N6cDRkR0hHZnZXLVBJbndPSV9mbkhRZWtsN1ZLWUx0LWFWTkJRNXhwYndoeEZXVmN1MkI5NDNFbWk2QzJzU3VwMVdaLVV2QTd5Sk9hNGc?oc=5",
-        "source": "StoneX",
-        "image": "",
-        "published_ts": 1795566162,
-        "published": "25 Nov, 06:22 AM",
-        "bn_summary": "সোনার দাম গত কয়েক বছরের ঊর্ধ্বমুখী ধারা ভেঙে মার্চ মাসের পর সবচেয়ে খারাপ সপ্তাহ পার করেছে। এই পতন বৈশ্বিক অর্থনৈতিক বাজারের অনিশ্চয়তা এবং বিনিয়োগকারীদের মনোভাব পরিবর্তনের ইঙ্গিত দেয়।",
-        "added_at_ts": 1795572805,
-        "expires_at_ts": 1795659205,
-        "batch_label": "08:13 AM BDT",
-        "batch_edition": 7,
-        "is_new": false
-      },
-      {
-        "title": "Nasdaq, S&P 500 close lower, giving up some Nvidia-fueled gains - NBC News",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORFdKT2NYVVA3VUg1d2VfS1BBdHNsQjV5WEhUWTFVb1JCWnktLXFIRmRYMHlUWU5tMFFENE9MODkyc3ozSm5MbHJpUHQ1THBRTERna1p2LUNpbzQwakc0U1JjcWcyN1Y4WS1NaV9WejAzQ2ZpamNBSXRfOVo0RHh0eFdkNll5b2hiT1RqNmFMdXdiV05E?oc=5",
-        "source": "NBC News",
-        "image": "",
-        "published_ts": 1795561009,
-        "published": "25 Nov, 04:56 AM",
-        "bn_summary": "এনভিডিয়ার শেয়ারের দামের ওপর ভর করে কিছু লাভ করলেও শেষ পর্যন্ত নাসডাক এবং এস অ্যান্ড পি ৫০০ সূচক পতনের মধ্য দিয়ে দিনের লেনদেন শেষ করেছে। এই পতন প্রযুক্তি খাতের বাইরে সামগ্রিক বাজারের দুর্বলতা এবং বিনিয়োগকারীদের সতর্ক অবস্থানের প্রতিফলন ঘটায়।",
-        "added_at_ts": 1795572805,
-        "expires_at_ts": 1795659205,
-        "batch_label": "08:13 AM BDT",
-        "batch_edition": 7,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows - MarketWatch",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRnpwTTlhRF9HOHJIRUpwMDlGV1RfaklpS2JpN294dndhLUFaQXZZN1dIZG81dXhoa21rNEU5VHFiaEg3QlI3WjhWVlRFaFNxZXNfX0E2T1hSSW14OG40S2RYaXEyWWpKUlpkR045WThlbEQyRWRVa0ZhSi1YRjN6cHNUTnRtd0EtOFplYlVYdVdLZ1piYlVwc1JHWVYzc3Bvbzh2Ni1zU1VVVDlQRUhWRFItUFU1M0xhaXNJcA?oc=5",
+        "source": "MarketWatch",
+        "image": "",
+        "published_ts": 1795618860,
+        "published": "25 Nov, 09:01 PM",
+        "bn_summary": "মাইক্রন তাদের সিইও সঞ্জয় মেহরোত্রার নিরাপত্তা ব্যয় ২,০০০% বাড়িয়েছে, যা শীর্ষ নির্বাহীদের প্রতি ক্রমবর্ধমান হুমকির ইঙ্গিত দেয়। এই খবর গুরুত্বপূর্ণ কারণ এটি কর্পোরেট নেতাদের নিরাপত্তা ঝুঁকি এবং কোম্পানির প্রশাসনিক সিদ্ধান্তের ওপর আলোকপাত করে।",
+        "added_at_ts": 1795661065,
+        "expires_at_ts": 1795747465,
+        "batch_label": "08:44 AM BDT",
+        "batch_edition": 19,
+        "is_new": true
+      },
       {
         "title": "Is Micron Cheap Only If Its Record Margin Lasts? - Trefis",
         "summary": "",
@@ -1605,7 +1635,7 @@
         "expires_at_ts": 1795740085,
         "batch_label": "06:41 AM BDT",
         "batch_edition": 18,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Get an RTX 5060 prebuilt for just $750 in deal that seems too good to be true",
@@ -1620,7 +1650,7 @@
         "expires_at_ts": 1795740085,
         "batch_label": "06:41 AM BDT",
         "batch_edition": 18,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Micron Stock and Other Memory Plays Will Bear the Brunt of This AI Pain - Barron's",
@@ -1635,7 +1665,7 @@
         "expires_at_ts": 1795740085,
         "batch_label": "06:41 AM BDT",
         "batch_edition": 18,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Get 2TB of PCIe 5.0 storage for less than $300 in stellar Crucial P510 sale",
@@ -2010,36 +2040,6 @@
         "expires_at_ts": 1795666645,
         "batch_label": "10:17 AM BDT",
         "batch_edition": 8,
-        "is_new": false
-      },
-      {
-        "title": "AMD Ryzen 9 8940HX and RTX 5070 gaming laptop with 32GB DDR5 RAM gets $405 price cut in Black Friday deal - PC Guide",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ19EQ1FBbnI3WUJnX3dtWmhNVTZmLW12bGVpT2w4d0VyQ2ZqUFBOLVd1Nk55QnR1UW1fbFZLaGxRcWdXQ3B5YjNaMDhfMGZ6UXNEQWRUVkNLdFMybTF3cDEzWENyeUxXX1pxSmhDSkNUU3k3YzAtUHI2RlNoX0pENE44SjM5QUU3Wjg1d3l2c1c0NzUzcXlSUUhQbWcyRXBpTVY1bXNkek1SVjFHbU82ZFlTYXIydzlDQlFEUmxnMS1MNDVYYTRxU2kzMEJoUGha?oc=5",
-        "source": "PC Guide",
-        "image": "",
-        "published_ts": 1795558778,
-        "published": "25 Nov, 04:19 AM",
-        "bn_summary": "Black Friday অফারে AMD Ryzen 9 8940HX, RTX 5070 এবং 32GB DDR5 RAM-যুক্ত gaming laptop-এর দাম $405 কমেছে। শক্তিশালী CPU-GPU ও বেশি RAM থাকায় gaming এবং ভারী কাজের জন্য এটি আগের দামের তুলনায় বেশি value দিচ্ছে।",
-        "added_at_ts": 1795572805,
-        "expires_at_ts": 1795659205,
-        "batch_label": "08:13 AM BDT",
-        "batch_edition": 7,
-        "is_new": false
-      },
-      {
-        "title": "Why Micron Stock Dove Today - Yahoo Finance",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1pXeVliMG9QY3ZzQnYycmdHZHlLNjVhLWVvVlA2MDZRZWlrRjVidGpuczBXQ0VvZXhRN01RLXpfV0E1T3BNRnBvRmJBYUhkeUlRWHdvNmN4T1pDWVQ5SXY5a2RWbHJWZjBqbWI0UzJWWURzTGp4M2E2XzFWSkszREZTemFNSzJuSlB1TDF3cGFORnN0c1VB?oc=5",
-        "source": "Yahoo Finance",
-        "image": "",
-        "published_ts": 1795538872,
-        "published": "24 Nov, 10:47 PM",
-        "bn_summary": "Micron-এর শেয়ারের দাম আজ উল্লেখযোগ্যভাবে কমেছে, যা বিনিয়োগকারীদের কোম্পানির ভবিষ্যৎ আয় বা memory-chip বাজার নিয়ে উদ্বেগের ইঙ্গিত দিতে পারে। এই পতন গুরুত্বপূর্ণ, কারণ Micron-এর performance পুরো semiconductor ও RAM বাজারের sentiment-এও প্রভাব ফেলতে পারে।",
-        "added_at_ts": 1795572805,
-        "expires_at_ts": 1795659205,
-        "batch_label": "08:13 AM BDT",
-        "batch_edition": 7,
         "is_new": false
       }
     ]
