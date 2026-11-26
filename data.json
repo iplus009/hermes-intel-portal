@@ -1,21 +1,21 @@
 {
-  "edition": 21,
-  "updated_ts": 1795675705,
-  "updated_dhaka": "26 Nov 2026, 12:48 PM (BDT)",
-  "updated_utc": "2026-11-26 06:48 UTC",
-  "batch_label": "12:48 PM BDT",
-  "new_added": 9,
+  "edition": 22,
+  "updated_ts": 1795683025,
+  "updated_dhaka": "26 Nov 2026, 02:50 PM (BDT)",
+  "updated_utc": "2026-11-26 08:50 UTC",
+  "batch_label": "02:50 PM BDT",
+  "new_added": 10,
   "expired_removed": 7,
   "curated_by": "hcnsec (DeepSeek-V4-Flash)",
   "advice": {
-    "title": "মেমরি সেক্টরে সতর্ক থাকুন, সোনায় লাভ",
-    "body": "মাইক্রন ও এনভিডিয়ার শেয়ার বড় পতনে পড়েছে, তাই মেমরি/চিপ সেক্টরে নতুন বিনিয়োগের আগে অপেক্ষা করুন। সোনার দাম বেড়ে $3,600 ছুঁয়েছে, তাই স্বল্পমেয়াদে সোনায় লাভ নেওয়ার সুযোগ আছে। আজকের বাজারের অস্থিরতায় AI টুলস ব্যবহার করে ডেটা বিশ্লেষণ করুন, যেমন ফ্রি API দিয়ে স্টক ট্র্যাকিং অ্যাপ বানান।",
+    "title": "সোনা ও AI-তে স্মার্ট বিনিয়োগ",
+    "body": "সোনার দাম বাড়ছে, তাই অল্প অল্প করে সোনা কেনা শুরু করুন। AI সেক্টরে চাকরি বদলাচ্ছে, তাই নতুন AI টুল শিখে নিজের দক্ষতা বাড়ান।",
     "tag": "Market & Gold"
   },
   "quote": {
-    "text_bn": "সাফল্য চূড়ান্ত নয়, ব্যর্থতা মারাত্মক নয়; এটি চালিয়ে যাওয়ার সাহসই আসল।",
+    "text_bn": "সাফল্য চূড়ান্ত নয়, ব্যর্থতা মারাত্মক নয়; এটা চালিয়ে যাওয়ার সাহসই আসল।",
     "author": "উইনস্টন চার্চিল",
-    "note_bn": "বাজারের পতনে হতাশ না হয়ে, দীর্ঘমেয়াদী লক্ষ্যে মনোযোগ দিন।"
+    "note_bn": "আজকের বাজারের অস্থিরতায় ধৈর্য ধরুন, দীর্ঘমেয়াদী লক্ষ্যে মন দিন।"
   },
   "markets": [
     {
@@ -56,13 +56,28 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$60,376.68",
-      "change_pct": -0.0,
-      "up": false
+      "price": "$60,984.21",
+      "change_pct": 1.0,
+      "up": true
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "I've joined OpenAI! I'm very proud of my time at Anthropic, and I'll continue to root for my former colleagues. Both companies have important roles to play in the future. There is ",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCUVZ5dTRDdjZJNFVsTE13UlNCNDZVaXRDWUJvWWl2ZnZfUGFTTENkdlJxSkRHVlRWSlNVOUc4N244SmoyY003TjB1WVM4dFJGQnlUUDJnckktQ1k?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795635515,
+        "published": "26 Nov, 01:38 AM",
+        "bn_summary": "তিনি Anthropic-এ কাজের পর OpenAI-তে যোগ দেওয়ার ঘোষণা দিয়েছেন এবং সাবেক সহকর্মীদের প্রতি সমর্থন বজায় রাখার কথা বলেছেন। এই পরিবর্তনটি দুই শীর্ষ AI প্রতিষ্ঠানের মধ্যে প্রতিভা ও নেতৃত্ব আকর্ষণের প্রতিযোগিতার গুরুত্ব তুলে ধরে।",
+        "added_at_ts": 1795683025,
+        "expires_at_ts": 1795769425,
+        "batch_label": "02:50 PM BDT",
+        "batch_edition": 22,
+        "is_new": true
+      },
       {
         "title": "Sand AI's 480B-parameter MAGI-2 debuts at #1 in Image to Video, statistically tied with Dreamina Seedance 2.5 This sets a new Quality vs Price frontier on AA-Video-I2V v2.1 at $0.0",
         "summary": "",
@@ -76,7 +91,7 @@
         "expires_at_ts": 1795762105,
         "batch_label": "12:48 PM BDT",
         "batch_edition": 21,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Rumor that OpenAI or Anthropic found a way to break RSA encryption reaches ACM Prize–winning UT Austin professor Scott Aaronson, AI tipster Andrew Curran (who flagged the Navier–St",
@@ -437,21 +452,6 @@
         "batch_label": "08:30 PM BDT",
         "batch_edition": 13,
         "is_new": false
-      },
-      {
-        "title": "Why can frontier AI models write complex code, yet still occasionally stumble when asked to identify the colors of five simple objects in order or verify what's not in an image? Th",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JVzBpczVUdW1aRjVIVExCajFrRjVBeFk2TzlwNG9KUXJXNXRQUGUzRHpvelVoSVJ4YzlseVpFTUpzT2tCamc4S3IxRkszU3VlNjRiYmFuNW9wTTA?oc=5",
-        "source": "X",
-        "image": "",
-        "published_ts": 1795549182,
-        "published": "25 Nov, 01:39 AM",
-        "bn_summary": "Frontier AI modelগুলো জটিল কোড লিখতে পারলেও খুব সহজ ভিজ্যুয়াল কাজ, যেমন পাঁচটি বস্তুর রং শনাক্ত করা, মাঝে মাঝে ভুল করে। এতে বোঝা যায় যে ভাষা ও কোডের প্যাটার্নে দক্ষতা থাকলেই মডেলের মৌলিক উপলব্ধি এবং নির্ভরযোগ্যতা নিশ্চিত হয় না।",
-        "added_at_ts": 1795595005,
-        "expires_at_ts": 1795681405,
-        "batch_label": "02:23 PM BDT",
-        "batch_edition": 10,
-        "is_new": false
       }
     ],
     "github": [
@@ -554,6 +554,51 @@
     ],
     "war": [
       {
+        "title": "Ms Rachel on Gaza: ‘everybody should speak out’",
+        "summary": "US content creator Ms Rachel has called for more celebrities to speak out against the Gaza genocide.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795681784.jpg?resize=1920%2C1080&quality=80",
+        "published_ts": 1795681793,
+        "published": "26 Nov, 02:29 PM",
+        "bn_summary": "মার্কিন কনটেন্ট নির্মাতা Ms Rachel গাজায় চলমান মানবিক সংকটের বিরুদ্ধে আরও সেলিব্রিটিকে প্রকাশ্যে কথা বলার আহ্বান জানিয়েছেন। তার বক্তব্যটি গুরুত্বপূর্ণ, কারণ জনপ্রিয় ব্যক্তিদের জনমত গঠন ও মানবিক সহায়তার পক্ষে চাপ তৈরিতে বড় প্রভাব থাকতে পারে।",
+        "added_at_ts": 1795683025,
+        "expires_at_ts": 1795769425,
+        "batch_label": "02:50 PM BDT",
+        "batch_edition": 22,
+        "is_new": true
+      },
+      {
+        "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
+        "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+        "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
+        "published_ts": 1795678804,
+        "published": "26 Nov, 01:40 PM",
+        "bn_summary": "নতুন UK-EU চুক্তিতে ১০ বছরের termination clause বা চুক্তি বাতিলের বিধান রয়েছে বলে BBC জানিয়েছে, এবং শিগগিরই পূর্ণ পাঠ প্রকাশ করা হবে। এই শর্তটি ভবিষ্যৎ সরকারগুলোর জন্য চুক্তি পুনর্বিবেচনার সুযোগ রাখে, যদিও বাস্তবায়নের জন্য সংশ্লিষ্ট আইনও পাস করতে হবে।",
+        "added_at_ts": 1795683025,
+        "expires_at_ts": 1795769425,
+        "batch_label": "02:50 PM BDT",
+        "batch_edition": 22,
+        "is_new": true
+      },
+      {
+        "title": "French navy intercepts suspected drug-smuggling semi-submersible",
+        "summary": "French forces intercepted a semi-submersible suspected of drug trafficking in the Atlantic.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/french-navy-intercepts-suspected-drug-smuggling-semi-submersible?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-26-at-07.11.22-1795677182.png?resize=1200%2C675",
+        "published_ts": 1795677339,
+        "published": "26 Nov, 01:15 PM",
+        "bn_summary": "ফরাসি নৌবাহিনী আটলান্টিকে মাদক পাচারে ব্যবহৃত হতে পারে এমন একটি semi-submersible নৌযান আটক করেছে। এ ধরনের কম-দৃশ্যমান নৌযান সমুদ্রপথে মাদক পরিবহনের বড় চ্যালেঞ্জ তৈরি করে, তাই অভিযানটি আন্তঃদেশীয় চোরাচালান ঠেকানোর অংশ।",
+        "added_at_ts": 1795683025,
+        "expires_at_ts": 1795769425,
+        "batch_label": "02:50 PM BDT",
+        "batch_edition": 22,
+        "is_new": true
+      },
+      {
         "title": "Gaza meningitis cases surge as collapsing infrastructure fuels health fears",
         "summary": "Meningitis is raising alarm in Gaza, where overcrowding, damaged sanitation are putting children at risk.",
         "url": "https://www.aljazeera.com/news/2026/11/26/gaza-meningitis-cases-surge-as-collapsing-infrastructure-fuels-health-fears?traffic_source=rss",
@@ -566,7 +611,7 @@
         "expires_at_ts": 1795762105,
         "batch_label": "12:48 PM BDT",
         "batch_edition": 21,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "How Silicon Valley became central to Israel’s war on Palestinians",
@@ -581,7 +626,7 @@
         "expires_at_ts": 1795762105,
         "batch_label": "12:48 PM BDT",
         "batch_edition": 21,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Sri Lanka mass grave revives quest for answers to forgotten Muslim massacre",
@@ -596,7 +641,7 @@
         "expires_at_ts": 1795762105,
         "batch_label": "12:48 PM BDT",
         "batch_edition": 21,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Colombian president taunts arrested supermarket hostage-takers",
@@ -1047,54 +1092,54 @@
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
         "is_new": false
-      },
-      {
-        "title": "Sentences served, but Gaza prisoners remain behind Israeli bars",
-        "summary": "Palestinian families in Gaza wait for loved ones who remain in Israeli prisons despite completing their sentences.",
-        "url": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A2836-copy-1795550539.jpg?resize=1920%2C1440",
-        "published_ts": 1795591904,
-        "published": "25 Nov, 01:31 PM",
-        "bn_summary": "গাজায় কিছু ফিলিস্তিনি বন্দি সাজা শেষ করার পরও ইসরায়েলি কারাগারে আটক রয়েছেন, ফলে তাঁদের পরিবার অপেক্ষা ও অনিশ্চয়তার মধ্যে আছে। বিষয়টি কারাবন্দিদের আইনি অধিকার এবং সাজা শেষ হওয়ার পর মুক্তি দেওয়ার প্রক্রিয়া নিয়ে গুরুতর প্রশ্ন তুলছে।",
-        "added_at_ts": 1795595005,
-        "expires_at_ts": 1795681405,
-        "batch_label": "02:23 PM BDT",
-        "batch_edition": 10,
-        "is_new": false
-      },
-      {
-        "title": "Pakistan rejoices as country’s first astronaut enters orbit",
-        "summary": "Zeeshan Ali makes history as the first foreign national to board China's space station",
-        "url": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b067e9c711c-1795587740.jpg?resize=1920%2C1440",
-        "published_ts": 1795590359,
-        "published": "25 Nov, 01:05 PM",
-        "bn_summary": "জিশান আলি চীনের মহাকাশ স্টেশনে পৌঁছে পাকিস্তানের প্রথম মহাকাশচারী হিসেবে ইতিহাস গড়েছেন, যা দেশে ব্যাপক উদযাপনের জন্ম দিয়েছে। তিনি বিদেশি নাগরিক হিসেবে এই মিশনে অংশ নেওয়ায় ঘটনাটি পাকিস্তানের মহাকাশ-আকাঙ্ক্ষা এবং চীনের আন্তর্জাতিক সহযোগিতার প্রতীক হয়ে উঠেছে।",
-        "added_at_ts": 1795595005,
-        "expires_at_ts": 1795681405,
-        "batch_label": "02:23 PM BDT",
-        "batch_edition": 10,
-        "is_new": false
-      },
-      {
-        "title": "Galatasaray says Israel complained to UEFA over Palestine banners",
-        "summary": "Galatasaray’s chairman says Israel’s Netanyahu government has reported the club to UEFA over pro-Palestine fan banners.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795579912.jpg?resize=1920%2C1080&quality=80",
-        "published_ts": 1795579931,
-        "published": "25 Nov, 10:12 AM",
-        "bn_summary": "গালাতাসারায়ের চেয়ারম্যানের দাবি, ফিলিস্তিনপন্থী ব্যানারের কারণে ইসরায়েলি সরকার ক্লাবটির বিরুদ্ধে উয়েফার কাছে অভিযোগ করেছে। ঘটনাটি ফুটবল মাঠে রাজনৈতিক ও মানবিক প্রতীক ব্যবহারের অধিকার এবং ক্রীড়াঙ্গনে ইসরায়েল-ফিলিস্তিন বিরোধের প্রভাব নিয়ে বিতর্ক বাড়াতে পারে।",
-        "added_at_ts": 1795595005,
-        "expires_at_ts": 1795681405,
-        "batch_label": "02:23 PM BDT",
-        "batch_edition": 10,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "Gold Price Forecast: Lower Yields Fuel Rebound Despite Fed Hike Bets - FXEmpire",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlBUYWVDNmx4RVZ4X2JpNHlocy03NmI3YVIxQkhUWkphRG0yTVZNc19nVk4wS3JzUGpDNUhoMVV6LUp5Zk9sRlFFYUxhd3FNbm1xZWJIaW52NV9TTW04YmE3YVNoVk83OWlCMW95cnFYNWZ0OTNPb1Z1bGVmSW1nUnlqNGVQeFB5MjBIa1A4RTdaOVZxY2JUQjVLR2llSnRhRGZoZ0JYTnE2a0V2V1hwR2toX20yY0VYa0E?oc=5",
+        "source": "FXEmpire",
+        "image": "",
+        "published_ts": 1795682221,
+        "published": "26 Nov, 02:37 PM",
+        "bn_summary": "FXEmpire-এর বিশ্লেষণে বলা হয়েছে, কম বন্ড-ইল্ড সোনার দামে পুনরুদ্ধার আনতে পারে, যদিও বাজারে Federal Reserve-এর সুদ বাড়ানোর আশঙ্কা রয়েছে। ইল্ড ও সুদের প্রত্যাশা সোনার মতো non-yielding সম্পদের আকর্ষণকে প্রভাবিত করে, তাই দামের দিক নির্ধারণে এই দুই বিপরীত শক্তি গুরুত্বপূর্ণ।",
+        "added_at_ts": 1795683025,
+        "expires_at_ts": 1795769425,
+        "batch_label": "02:50 PM BDT",
+        "batch_edition": 22,
+        "is_new": true
+      },
+      {
+        "title": "Prediction: This Is What Nvidia Stock Will Be Worth by 2028 - Yahoo Finance",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc0Jod0ZBTDdSNzVmQ2o4Z2t2OHpkaGdBT1VBWmF2QWZfUkQ3SzRnOW16emZia3FaQTVoUDZVNGNnZ2toVmFjZXZvSno3RzlMWnFnNEYzSE9tYmFmWjlfWEYxOWJyelhBcnpVMnY0STVhc0ZUalAxeXlMTHFQc0U4bDVubUxsbk55REgzbm5aclZIbUVqMnVJdTZDRUtmYTJk?oc=5",
+        "source": "Yahoo Finance",
+        "image": "",
+        "published_ts": 1795679640,
+        "published": "26 Nov, 01:54 PM",
+        "bn_summary": "Yahoo Finance-এর পূর্বাভাসে ২০২৮ সালের মধ্যে Nvidia শেয়ারের সম্ভাব্য মূল্য নিয়ে আলোচনা করা হয়েছে, যা কোম্পানিটির AI-কেন্দ্রিক প্রবৃদ্ধির ওপর নির্ভরশীল। উচ্চ প্রত্যাশার পাশাপাশি প্রতিযোগিতা, মূল্যায়ন ও AI বিনিয়োগের গতি—এই ঝুঁকিগুলো ভবিষ্যৎ ফলাফলে বড় প্রভাব ফেলতে পারে।",
+        "added_at_ts": 1795683025,
+        "expires_at_ts": 1795769425,
+        "batch_label": "02:50 PM BDT",
+        "batch_edition": 22,
+        "is_new": true
+      },
+      {
+        "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+        "summary": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.",
+        "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+        "source": "CNBC",
+        "image": "https://image.cnbcfm.com/api/v1/image/108559771-1795666498962-gettyimages-2306353593-CHINA_XPENG.jpeg?v=1795666528&w=1920&h=1080",
+        "published_ts": 1795678211,
+        "published": "26 Nov, 01:30 PM",
+        "bn_summary": "চীনা বৈদ্যুতিক গাড়ি নির্মাতা Xpeng-এর এক শীর্ষ কর্মকর্তা বলেছেন, এক থেকে দুই বছরের মধ্যেই গৃহস্থালির কিছু কাজ humanoid robot করতে পারে। এমন পূর্বাভাস সত্যি হলে ভোক্তা রোবটিকসের বাজার দ্রুত বাড়তে পারে, তবে প্রযুক্তির নির্ভরযোগ্যতা ও খরচ এখনো বড় অনিশ্চয়তা।",
+        "added_at_ts": 1795683025,
+        "expires_at_ts": 1795769425,
+        "batch_label": "02:50 PM BDT",
+        "batch_edition": 22,
+        "is_new": true
+      },
       {
         "title": "Is the Stock Market Open Today? Here Are the Trading Hours for Thanksgiving. - Barron's",
         "summary": "",
@@ -1108,7 +1153,7 @@
         "expires_at_ts": 1795762105,
         "batch_label": "12:48 PM BDT",
         "batch_edition": 21,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Dow Jones Futures Rise After Nasdaq Slashes Losses In Wild Market Ride - Investor's Business Daily",
@@ -1123,7 +1168,7 @@
         "expires_at_ts": 1795762105,
         "batch_label": "12:48 PM BDT",
         "batch_edition": 21,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold price faces a key test as $4,000 breaks and weekly support beckons - investingLive",
@@ -1138,7 +1183,7 @@
         "expires_at_ts": 1795762105,
         "batch_label": "12:48 PM BDT",
         "batch_edition": 21,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Why Is Gold Price Falling? What XAUUSDT's Closes Show - Phemex",
@@ -1589,24 +1634,54 @@
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
         "is_new": false
-      },
-      {
-        "title": "Gold Price Analysis Today | Forex Gold Analysis | XAU/USD Analysis - November 25, 2026 - Mitrade",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOWltekVJOW9vQzJ4Q0oyV0ZLRURoSnB3ZkhBMFVVeDVIQXVBcTFvUGVRT3JTVlpDRFJ6dE1Pa0YzLTItdDZ4bVhNOUJEd2JCbUxqLUZGeUVyUTc4U0RMUlhEZVJQSDJ6MTZaaC1La2Y1V3g4d0lOekdxc2xSTXJqMDhXalNtNmdxbGFYTVBBZ3JGb09X?oc=5",
-        "source": "Mitrade",
-        "image": "",
-        "published_ts": 1795576293,
-        "published": "25 Nov, 09:11 AM",
-        "bn_summary": "এই প্রতিবেদনে ২৫ নভেম্বর ২০২৬-এর জন্য XAU/USD বা সোনার দামের সম্ভাব্য গতিপথ নিয়ে ফরেক্স বিশ্লেষণ দেওয়ার কথা বলা হয়েছে। সাধারণত সুদের হার, ডলার, মুদ্রাস্ফীতি এবং ভূরাজনৈতিক ঝুঁকি সোনার দামে প্রভাব ফেলে, তাই বিশ্লেষণটি বিনিয়োগকারীদের বাজারের সম্ভাব্য দিক বুঝতে সহায়তা করতে পারে।",
-        "added_at_ts": 1795595005,
-        "expires_at_ts": 1795681405,
-        "batch_label": "02:23 PM BDT",
-        "batch_edition": 10,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "Cash-rich SK Hynix taps SK Square veterans for investment push - KED Global",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YV3c2c2FPQmJKdXFzOU9jTjhPRlZocDFja1VIY0tJeVVQS0hyQ2t5U3k2TFZCal9QZ2Y5bVVNc3g5WjRIdUp5TDNsaldaQnFMUGJ5OEFtTGxoM1JUVHlMMUZITmdrR3Q4cmpoN0ZEQktOdjktb1hOYnhVNA?oc=5",
+        "source": "KED Global",
+        "image": "",
+        "published_ts": 1795680480,
+        "published": "26 Nov, 02:08 PM",
+        "bn_summary": "নগদ অর্থে শক্তিশালী SK Hynix বিনিয়োগ কার্যক্রম জোরদার করতে SK Square-এর অভিজ্ঞ সাবেক কর্মকর্তাদের কাজে লাগাচ্ছে। এই পদক্ষেপটি মেমোরি চিপ ব্যবসার পাশাপাশি নতুন প্রযুক্তি ও কৌশলগত সম্পদে পুঁজি বরাদ্দ বাড়ানোর ইঙ্গিত দেয়।",
+        "added_at_ts": 1795683025,
+        "expires_at_ts": 1795769425,
+        "batch_label": "02:50 PM BDT",
+        "batch_edition": 22,
+        "is_new": true
+      },
+      {
+        "title": "Micron’s Margins Peaked Before. How Far Did MU Fall? - Trefis",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa0xHTDZadWZlRVJwemVtZV9EaWZQaUxOcjZqZ1ZWd01QZnpFaWNrRmMwNThFYTBSQm1GWEk1dURtNndtUm9LOEdfOGlFd3VicXRpWVRMTWRlSm00UUQzY0ZUbzdPb0dyT3hrWDdDQmVsNE9MMlpiM1BVWTBfVFdQek1jZGVxYUdxWTFJeWM0S1ZyMlhVcFAtYTFPUkxFNkYwendneXM0WmI5TGZtN2c?oc=5",
+        "source": "Trefis",
+        "image": "",
+        "published_ts": 1795678386,
+        "published": "26 Nov, 01:33 PM",
+        "bn_summary": "Trefis বিশ্লেষণ করেছে যে Micron-এর মুনাফার মার্জিন আগে সর্বোচ্চ পর্যায়ে পৌঁছেছিল এবং পরে কতটা কমেছে। মেমোরি চিপের চক্রাকার দাম, সরবরাহের ভারসাম্য ও চাহিদার পরিবর্তন Micron-এর লাভজনকতায় বড় ওঠানামা তৈরি করতে পারে।",
+        "added_at_ts": 1795683025,
+        "expires_at_ts": 1795769425,
+        "batch_label": "02:50 PM BDT",
+        "batch_edition": 22,
+        "is_new": true
+      },
+      {
+        "title": "Micron Technology (MU) Products Are Exempt From New US Tariffs - Yahoo Finance",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT0lyUFVtNWVHZ3g3a2NlRk8yX0FWUnVtVGxGWndjUmNaak1OY1E3N1A2ejNLVXlHMkVEU3VZbzc3Z3dCWDJoaERSRnZXTlA5Yy1RZWw0dERzak5hX1VHbHNBUnZrd2hldTRLcDJyckJvbXh3OEpCRFl4ZS1uVHAzbFRSRWUtemR3T0l3RnZIRlpZeTVPQjFuRVd6a1JuQmxVZ0Nz?oc=5",
+        "source": "Yahoo Finance",
+        "image": "",
+        "published_ts": 1795677120,
+        "published": "26 Nov, 01:12 PM",
+        "bn_summary": "Micron Technology-এর পণ্য নতুন মার্কিন শুল্কের আওতামুক্ত থাকবে বলে Yahoo Finance জানিয়েছে। এই ছাড় কোম্পানির আমদানি ব্যয় ও সরবরাহ-শৃঙ্খলার চাপ কমাতে পারে, ফলে লাভের মার্জিন ও গ্রাহকদের জন্য দামের ওপর ইতিবাচক প্রভাব পড়ার সম্ভাবনা রয়েছে।",
+        "added_at_ts": 1795683025,
+        "expires_at_ts": 1795769425,
+        "batch_label": "02:50 PM BDT",
+        "batch_edition": 22,
+        "is_new": true
+      },
       {
         "title": "RTX 5060 gaming PC with 16GB DDR5 RAM gets a decent Black Friday discount on Amazon - PC Guide",
         "summary": "",
@@ -1620,7 +1695,7 @@
         "expires_at_ts": 1795762105,
         "batch_label": "12:48 PM BDT",
         "batch_edition": 21,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Why Micron Stock Just Dropped Again - Yahoo Finance",
@@ -1635,7 +1710,7 @@
         "expires_at_ts": 1795762105,
         "batch_label": "12:48 PM BDT",
         "batch_edition": 21,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "The Consensus on Micron Stock Is Changing. Here’s What Investors Should Know - Yahoo Finance",
@@ -2025,36 +2100,6 @@
         "expires_at_ts": 1795688845,
         "batch_label": "04:27 PM BDT",
         "batch_edition": 11,
-        "is_new": false
-      },
-      {
-        "title": "Is Micron’s Record Margin Squeezing Apple And HP? - Trefis",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTXFfakw2TGtyVktURWEwZHNuc1ptMDZCQktGRlJ6ZXExYk1SY2xKa24tUVNucjRuM2hfY0dIb2FFMWtXcXJGbk00QmJiMnQxbkx6ZzhhY0dGU3dxX0dQZUlmbGViSW9zcGtrV3JldlptUzlvcktxd1ZEN2dRMjhhQVJxcmh5aXRqYUxyWTl3bjZ4LWVaVGFyekF2aVB5WWw3RXp0QW83QVRPVEk?oc=5",
-        "source": "Trefis",
-        "image": "",
-        "published_ts": 1795592714,
-        "published": "25 Nov, 01:45 PM",
-        "bn_summary": "Micron-এর রেকর্ড মুনাফার হার মেমরি চিপের শক্তিশালী চাহিদা বা উচ্চ দামের ইঙ্গিত দিচ্ছে, যা Apple ও HP-এর মতো বড় ক্রেতাদের খরচ বাড়াতে পারে। এতে ডিভাইস নির্মাতাদের লাভের মার্জিন কমে যেতে পারে অথবা অতিরিক্ত খরচ গ্রাহকদের ওপর পণ্যের দামের মাধ্যমে চাপানো হতে পারে।",
-        "added_at_ts": 1795595005,
-        "expires_at_ts": 1795681405,
-        "batch_label": "02:23 PM BDT",
-        "batch_edition": 10,
-        "is_new": false
-      },
-      {
-        "title": "Best Black Friday 2026 tech deals",
-        "summary": "All the best Black Friday deals for tech and PC hardware.",
-        "url": "https://www.tomshardware.com/live/news/black-friday-2026",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/u7NNVHRAq9CzD7mjKfQXH5-1920-80.jpg",
-        "published_ts": 1795590755,
-        "published": "25 Nov, 01:12 PM",
-        "bn_summary": "ব্ল্যাক ফ্রাইডে ২০২৬ উপলক্ষে প্রযুক্তি পণ্য ও PC হার্ডওয়্যারের উল্লেখযোগ্য ছাড়গুলো একত্র করা হয়েছে। ক্রেতারা ল্যাপটপ, উপাদান ও অন্যান্য গ্যাজেটের দাম তুলনা করে কেনাকাটার আগে প্রকৃত সাশ্রয় এবং ডিলের শর্ত যাচাই করতে পারবেন।",
-        "added_at_ts": 1795595005,
-        "expires_at_ts": 1795681405,
-        "batch_label": "02:23 PM BDT",
-        "batch_edition": 10,
         "is_new": false
       }
     ]
