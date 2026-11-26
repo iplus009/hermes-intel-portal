@@ -1,28 +1,28 @@
 {
-  "edition": 20,
-  "updated_ts": 1795668385,
-  "updated_dhaka": "26 Nov 2026, 10:46 AM (BDT)",
-  "updated_utc": "2026-11-26 04:46 UTC",
-  "batch_label": "10:46 AM BDT",
-  "new_added": 10,
-  "expired_removed": 11,
+  "edition": 21,
+  "updated_ts": 1795675705,
+  "updated_dhaka": "26 Nov 2026, 12:48 PM (BDT)",
+  "updated_utc": "2026-11-26 06:48 UTC",
+  "batch_label": "12:48 PM BDT",
+  "new_added": 9,
+  "expired_removed": 7,
   "curated_by": "hcnsec (DeepSeek-V4-Flash)",
   "advice": {
-    "title": "সোনা ও AI-তে স্মার্ট মুভ",
-    "body": "সোনার দাম আজ ১.৭৩% বেড়েছে, কিন্তু NASDAQ ও NVDA-তে বড় পতন—তাই ঝুঁকি নিয়ে শেয়ারে না গিয়ে সোনায় কিছু অংশ রাখুন। AI নিয়ে RSA ভাঙার গুজব শুনে নতুন প্রজেক্টে দেরি করবেন না; GitHub-এর ফ্রি API আর VPS দিয়ে ছোট AI টুল বানিয়ে ফেলুন। RAM-এর দাম পড়ছে, তাই মাইক্রন বা র্যাম স্টক কেনার আগে আরও ২-৩ দিন অপেক্ষা করুন।",
-    "tag": "AI & Dev"
+    "title": "মেমরি সেক্টরে সতর্ক থাকুন, সোনায় লাভ",
+    "body": "মাইক্রন ও এনভিডিয়ার শেয়ার বড় পতনে পড়েছে, তাই মেমরি/চিপ সেক্টরে নতুন বিনিয়োগের আগে অপেক্ষা করুন। সোনার দাম বেড়ে $3,600 ছুঁয়েছে, তাই স্বল্পমেয়াদে সোনায় লাভ নেওয়ার সুযোগ আছে। আজকের বাজারের অস্থিরতায় AI টুলস ব্যবহার করে ডেটা বিশ্লেষণ করুন, যেমন ফ্রি API দিয়ে স্টক ট্র্যাকিং অ্যাপ বানান।",
+    "tag": "Market & Gold"
   },
   "quote": {
-    "text_bn": "সাফল্য চূড়ান্ত নয়, ব্যর্থতা মারাত্মক নয়; চলতে থাকার সাহসই আসল কথা।",
+    "text_bn": "সাফল্য চূড়ান্ত নয়, ব্যর্থতা মারাত্মক নয়; এটি চালিয়ে যাওয়ার সাহসই আসল।",
     "author": "উইনস্টন চার্চিল",
-    "note_bn": "আজকের বাজারের ওঠানামায় স্থির থাকুন, ছোট ছোট ধাপে এগোন।"
+    "note_bn": "বাজারের পতনে হতাশ না হয়ে, দীর্ঘমেয়াদী লক্ষ্যে মনোযোগ দিন।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,623.60",
-      "change_pct": 1.73,
+      "price": "$3,598.30",
+      "change_pct": 1.02,
       "up": true
     },
     {
@@ -56,13 +56,28 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$60,904.41",
-      "change_pct": 0.87,
-      "up": true
+      "price": "$60,376.68",
+      "change_pct": -0.0,
+      "up": false
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "Sand AI's 480B-parameter MAGI-2 debuts at #1 in Image to Video, statistically tied with Dreamina Seedance 2.5 This sets a new Quality vs Price frontier on AA-Video-I2V v2.1 at $0.0",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PcUJOVng2Y3RqSm9jRXBtbjdHZ3BwTjIwbHYwaVEzVHJqRkdQcXhyeEFtR3l4cE5HMElucENGY1psVV9Dd2JTTzdtRmxyZUo0RklsRDZNbEpBVlBGekJ2ZlZSOVlDWG8?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795655592,
+        "published": "26 Nov, 07:13 AM",
+        "bn_summary": "Sand AI-এর 480 বিলিয়ন-প্যারামিটারের MAGI-2 Image-to-Video বিভাগে শীর্ষস্থানে উঠে Dreamina Seedance 2.5-এর সঙ্গে পরিসংখ্যানগতভাবে প্রায় সমতায় এসেছে। এই ফলাফল ভিডিও-জেনারেশন মডেলের মান ও প্রতিযোগিতায় নতুন benchmark তৈরি হওয়ার ইঙ্গিত দিচ্ছে।",
+        "added_at_ts": 1795675705,
+        "expires_at_ts": 1795762105,
+        "batch_label": "12:48 PM BDT",
+        "batch_edition": 21,
+        "is_new": true
+      },
       {
         "title": "Rumor that OpenAI or Anthropic found a way to break RSA encryption reaches ACM Prize–winning UT Austin professor Scott Aaronson, AI tipster Andrew Curran (who flagged the Navier–St",
         "summary": "",
@@ -76,7 +91,7 @@
         "expires_at_ts": 1795754785,
         "batch_label": "10:46 AM BDT",
         "batch_edition": 20,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Inkling 2 mini ain't Qwen 3.8 27B - Reddit",
@@ -91,7 +106,7 @@
         "expires_at_ts": 1795754785,
         "batch_label": "10:46 AM BDT",
         "batch_edition": 20,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "The Riemann Hypothesis proof has been condensed into a - Reddit",
@@ -106,7 +121,7 @@
         "expires_at_ts": 1795754785,
         "batch_label": "10:46 AM BDT",
         "batch_edition": 20,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "David Fincher says he used AI to replace dialogue and adjust actors’ lip movements in post-production on ‘THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH’. The actors spent 4-5 days re-r",
@@ -437,21 +452,6 @@
         "batch_label": "02:23 PM BDT",
         "batch_edition": 10,
         "is_new": false
-      },
-      {
-        "title": "Bye AI music. Starting December 9. More here: https://t.co/ZY9nDTknxz - X",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuMUp4bmxMVXNCekV5TFUyNEtWemZpYm5UU2ZzSm9oYmJWbWZVM2Y2SE1hWDB2YllvZkptVnVYX3p4a0FXMGZwQjY5WVNBSFdBeThjMkdoVWpCUQ?oc=5",
-        "source": "X",
-        "image": "",
-        "published_ts": 1795543576,
-        "published": "25 Nov, 12:06 AM",
-        "bn_summary": "একটি এক্স পোস্টে জানানো হয়েছে যে ডিসেম্বর ৯ থেকে একটি এআই মিউজিক পরিষেবা বন্ধ হয়ে যাচ্ছে। যারা এই পরিষেবা ব্যবহার করেন তাদের জন্য এটি গুরুত্বপূর্ণ কারণ তাদের আগে থেকেই কাজ সংরক্ষণ বা বিকল্প খুঁজে নিতে হবে।",
-        "added_at_ts": 1795587685,
-        "expires_at_ts": 1795674085,
-        "batch_label": "12:21 PM BDT",
-        "batch_edition": 9,
-        "is_new": false
       }
     ],
     "github": [
@@ -554,6 +554,51 @@
     ],
     "war": [
       {
+        "title": "Gaza meningitis cases surge as collapsing infrastructure fuels health fears",
+        "summary": "Meningitis is raising alarm in Gaza, where overcrowding, damaged sanitation are putting children at risk.",
+        "url": "https://www.aljazeera.com/news/2026/11/26/gaza-meningitis-cases-surge-as-collapsing-infrastructure-fuels-health-fears?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A3804-copy-1795641969.jpeg?resize=1920%2C1440",
+        "published_ts": 1795673655,
+        "published": "26 Nov, 12:14 PM",
+        "bn_summary": "গাজায় মেনিনজাইটিসের ঘটনা বাড়ছে, কারণ অতিরিক্ত ভিড়, ক্ষতিগ্রস্ত পয়ঃনিষ্কাশন ব্যবস্থা ও দুর্বল স্বাস্থ্য অবকাঠামো সংক্রমণের ঝুঁকি বাড়িয়েছে। বিশেষ করে শিশুরা বেশি ঝুঁকিতে থাকায় এটি চলমান মানবিক সংকটকে আরও গুরুতর করে তুলছে।",
+        "added_at_ts": 1795675705,
+        "expires_at_ts": 1795762105,
+        "batch_label": "12:48 PM BDT",
+        "batch_edition": 21,
+        "is_new": true
+      },
+      {
+        "title": "How Silicon Valley became central to Israel’s war on Palestinians",
+        "summary": "From surveillance systems to AI targeting, US tech giants are deeply embedded in Israel's war machine.",
+        "url": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2024-10-15T021535Z_123914133_RC2IKAA62WWQ_RTRMADP_3_USA-DEFENSE-ARMY-1784890221.jpg?resize=1920%2C1440",
+        "published_ts": 1795673573,
+        "published": "26 Nov, 12:12 PM",
+        "bn_summary": "সার্ভেইলেন্স সিস্টেম, ক্লাউড অবকাঠামো ও AI-ভিত্তিক টার্গেটিংয়ের মাধ্যমে সিলিকন ভ্যালির প্রযুক্তি কোম্পানিগুলো ইসরায়েলের সামরিক কার্যক্রমের সঙ্গে গভীরভাবে যুক্ত হয়েছে। এতে বেসরকারি প্রযুক্তি খাতের সরবরাহ করা সরঞ্জাম কীভাবে যুদ্ধ ও বেসামরিক ক্ষয়ক্ষতিতে ভূমিকা রাখে, সে বিষয়ে জবাবদিহির প্রশ্ন উঠছে।",
+        "added_at_ts": 1795675705,
+        "expires_at_ts": 1795762105,
+        "batch_label": "12:48 PM BDT",
+        "batch_edition": 21,
+        "is_new": true
+      },
+      {
+        "title": "Sri Lanka mass grave revives quest for answers to forgotten Muslim massacre",
+        "summary": "As Sri Lanka's Tamil separatists fought a deadly war with the army, they also killed hundreds of Muslims.",
+        "url": "https://www.aljazeera.com/news/2026/11/26/sri-lanka-mass-grave-revives-quest-for-answers-to-forgotten-muslim-massacre?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG-20261120-WA0001-1795612088.jpg?resize=1200%2C630",
+        "published_ts": 1795673452,
+        "published": "26 Nov, 12:10 PM",
+        "bn_summary": "শ্রীলঙ্কার একটি গণকবরের সন্ধান বহু বছর আগে তামিল বিদ্রোহীদের হাতে নিহত মুসলিমদের ঘটনার তদন্তের দাবি আবার সামনে এনেছে। এই ঘটনা গৃহযুদ্ধের কম আলোচিত অধ্যায় ও ভুক্তভোগী পরিবারগুলোর ন্যায়বিচার পাওয়ার প্রয়োজনীয়তা স্মরণ করিয়ে দিচ্ছে।",
+        "added_at_ts": 1795675705,
+        "expires_at_ts": 1795762105,
+        "batch_label": "12:48 PM BDT",
+        "batch_edition": 21,
+        "is_new": true
+      },
+      {
         "title": "Colombian president taunts arrested supermarket hostage-takers",
         "summary": "Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
@@ -566,7 +611,7 @@
         "expires_at_ts": 1795754785,
         "batch_label": "10:46 AM BDT",
         "batch_edition": 20,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade - WSJ",
@@ -581,7 +626,7 @@
         "expires_at_ts": 1795754785,
         "batch_label": "10:46 AM BDT",
         "batch_edition": 20,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Two Syrian security personnel killed in ISIL suicide attack",
@@ -596,7 +641,7 @@
         "expires_at_ts": 1795754785,
         "batch_label": "10:46 AM BDT",
         "batch_edition": 20,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
@@ -1047,54 +1092,54 @@
         "batch_label": "02:23 PM BDT",
         "batch_edition": 10,
         "is_new": false
-      },
-      {
-        "title": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
-        "summary": "The opposition Congress party calls Israel’s war on Gaza a genocide, but its leader still wants strong ties with Israel.",
-        "url": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-02-26T125806Z_667581333_RC2OTJAZOSZ2_RTRMADP_3_ISRAEL-INDIA-1795520918.jpg?resize=1920%2C1440",
-        "published_ts": 1795584452,
-        "published": "25 Nov, 11:27 AM",
-        "bn_summary": "ভারত ও ইসরায়েলের কৌশলগত সম্পর্ক ফোন গোয়েন্দাগিরি থেকে ক্ষেপণাস্ত্র পর্যন্ত বিস্তৃত, যা মোদির নেতৃত্বে আরও গভীর হয়েছে। ভারতের বিরোধী দল কংগ্রেস গাজায় ইসরায়েলের যুদ্ধকে গণহত্যা বললেও তাদের নেতা ইসরায়েলের সাথে শক্তিশালী সম্পর্ক চান, যা এই জটিল কূটনৈতিক অবস্থানকে তুলে ধরে।",
-        "added_at_ts": 1795587685,
-        "expires_at_ts": 1795674085,
-        "batch_label": "12:21 PM BDT",
-        "batch_edition": 9,
-        "is_new": false
-      },
-      {
-        "title": "UK warns companies of potential Russian sabotage threat",
-        "summary": "Britain's Defence Ministry and security service warn of the threat in unusual public announcement.",
-        "url": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2024-11-17T142342Z_505293507_RC227BANRU6A_RTRMADP_3_UKRAINE-CRISIS-ANNIVERSARY-BRITAIN-PROTEST-1795573872.jpg?resize=1920%2C1440",
-        "published_ts": 1795582137,
-        "published": "25 Nov, 10:48 AM",
-        "bn_summary": "ব্রিটেনের প্রতিরক্ষা মন্ত্রণালয় এবং নিরাপত্তা সংস্থা অস্বাভাবিকভাবে প্রকাশ্য ঘোষণায় কোম্পানিগুলোকে রাশিয়ার সম্ভাব্য নাশকতার হুমকি সম্পর্কে সতর্ক করেছে। এটি গুরুত্বপূর্ণ কারণ যুক্তরাজ্য সরকার ব্যবসায়িক খাতকে সাইবার ও শারীরিক হামলা থেকে সুরক্ষিত রাখতে সক্রিয় ভূমিকা নিচ্ছে।",
-        "added_at_ts": 1795587685,
-        "expires_at_ts": 1795674085,
-        "batch_label": "12:21 PM BDT",
-        "batch_edition": 9,
-        "is_new": false
-      },
-      {
-        "title": "Israeli strike kills four people in Gaza",
-        "summary": "An Israeli airstrike on an apartment building in the Shati refugee camp has killed at least four people.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795579972.jpg?resize=1200%2C675",
-        "published_ts": 1795580038,
-        "published": "25 Nov, 10:13 AM",
-        "bn_summary": "ইসরায়েলের বিমান হামলায় গাজার শাতি শরণার্থী শিবিরের একটি অ্যাপার্টমেন্ট ভবনে অন্তত চারজন নিহত হয়েছে। এই ঘটনা গাজায় চলমান সংঘাতের তীব্রতা এবং বেসামরিক নাগরিকদের ওপর যুদ্ধের প্রভাবকে আরও স্পষ্ট করে তুলেছে।",
-        "added_at_ts": 1795587685,
-        "expires_at_ts": 1795674085,
-        "batch_label": "12:21 PM BDT",
-        "batch_edition": 9,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "Is the Stock Market Open Today? Here Are the Trading Hours for Thanksgiving. - Barron's",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzdFdXowaFJjRG1ROEE3WDZiZEtZYnJyQ0txNTVCczFPcldrVmpwUk5qUmFZTU5zV0FBbzhCYmlCYlVna2tQR1pScTJIUjFCTC0yZTZNVEladVoxRjNuQnYtUjlZU042djlBb2FyclFBTXZNRll1UEhyUnhRSWxZM1pCeHVqX3pSU3RrTjItTjdiOTdHMTdiTHJONDNkbFpjZ0w2b2tKMnNRajhLMFE?oc=5",
+        "source": "Barron's",
+        "image": "",
+        "published_ts": 1795669260,
+        "published": "26 Nov, 11:01 AM",
+        "bn_summary": "থ্যাঙ্কসগিভিং উপলক্ষে যুক্তরাষ্ট্রের শেয়ারবাজারের নিয়মিত ট্রেডিং সময়সূচিতে পরিবর্তন থাকে এবং বাজার বন্ধও থাকতে পারে। বিনিয়োগকারীদের অর্ডার দেওয়ার আগে এক্সচেঞ্জের ছুটির ক্যালেন্ডার ও সংশ্লিষ্ট সময় যাচাই করা গুরুত্বপূর্ণ।",
+        "added_at_ts": 1795675705,
+        "expires_at_ts": 1795762105,
+        "batch_label": "12:48 PM BDT",
+        "batch_edition": 21,
+        "is_new": true
+      },
+      {
+        "title": "Dow Jones Futures Rise After Nasdaq Slashes Losses In Wild Market Ride - Investor's Business Daily",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObC1aVl9wd1oxYktYZFRnZjVBMHFrS0ZPMVV3UzdacGU1SHh2clYzeTZXYTROc2ItcjhMVUFFZDlMUGkxUXg1TnNKcDRvdUZPVmo2OUduaTc4dHFqVE9BalVvRmJVWndMMWtvbHAtREJQQ294cDc3cFcxdF96OF9pY2dKWDBnLWN2M1AyeUtKLVhHUEp0Q20tSVJPM25ITXY4dFlfakdfMjE5RUJiMGRaZ3llUWZrRVlMZm5NVFcwWmhWdjFhX2YtckNpTTdsV0Nld3Vz?oc=5",
+        "source": "Investor's Business Daily",
+        "image": "",
+        "published_ts": 1795665960,
+        "published": "26 Nov, 10:06 AM",
+        "bn_summary": "অস্থির লেনদেনে Nasdaq-এর ক্ষতি কিছুটা কমার পর Dow Jones futures বেড়েছে, যা বাজারে সাময়িকভাবে ইতিবাচক মনোভাব ফিরেছে বলে ইঙ্গিত করছে। তবে এমন দ্রুত ওঠানামা বিনিয়োগকারীদের জন্য ঝুঁকি বজায় রাখে এবং futures-এর দিকনির্দেশনা দিনের চূড়ান্ত ফল নিশ্চিত করে না।",
+        "added_at_ts": 1795675705,
+        "expires_at_ts": 1795762105,
+        "batch_label": "12:48 PM BDT",
+        "batch_edition": 21,
+        "is_new": true
+      },
+      {
+        "title": "Gold price faces a key test as $4,000 breaks and weekly support beckons - investingLive",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOHNXNmFLNHM0dkNtZ0pwdGdBVFJrUExYemMwbjEwdVA5YXdLcGxkRUloR2d0aUJ2aWRzdlpkakhicjB5ZmprRGhGeTFhbkgtU2VQelNqVHJ5NGV3X3o2MDRabXlybjVsMGliOFFud2k2M0ZSb2RlZXUza2VhOGVjZFNoMEliX20xUVBhcGJFU0NMLXdQdzdUVklkLWt2RlNlY0EteC1uZy1lbG51Smc?oc=5",
+        "source": "investingLive",
+        "image": "",
+        "published_ts": 1795664144,
+        "published": "26 Nov, 09:35 AM",
+        "bn_summary": "সোনার দাম ৪,০০০ ডলারের গুরুত্বপূর্ণ স্তর ভাঙার পর সাপ্তাহিক সাপোর্টের দিকে তাকিয়ে আছে, ফলে বাজারে পরবর্তী বড় দিকনির্দেশনা নির্ধারণের পর্যায় চলছে। এই স্তর ধরে রাখতে পারলে পুনরুদ্ধারের সুযোগ তৈরি হতে পারে, আর সাপোর্ট ভাঙলে আরও পতনের আশঙ্কা বাড়বে।",
+        "added_at_ts": 1795675705,
+        "expires_at_ts": 1795762105,
+        "batch_label": "12:48 PM BDT",
+        "batch_edition": 21,
+        "is_new": true
+      },
       {
         "title": "Why Is Gold Price Falling? What XAUUSDT's Closes Show - Phemex",
         "summary": "",
@@ -1108,7 +1153,7 @@
         "expires_at_ts": 1795754785,
         "batch_label": "10:46 AM BDT",
         "batch_edition": 20,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold (XAU/USD) Price Forecast: Buyers Defend Critical Support After Sharp Selloff - FXEmpire",
@@ -1123,7 +1168,7 @@
         "expires_at_ts": 1795754785,
         "batch_label": "10:46 AM BDT",
         "batch_edition": 20,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "E-mini Nasdaq-100 futures slide as Core PCE tops estimates. - CME Group",
@@ -1138,7 +1183,7 @@
         "expires_at_ts": 1795754785,
         "batch_label": "10:46 AM BDT",
         "batch_edition": 20,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
@@ -1559,54 +1604,39 @@
         "batch_label": "02:23 PM BDT",
         "batch_edition": 10,
         "is_new": false
-      },
-      {
-        "title": "National Security vs. the Stock Market - The New York Times",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX3lPVDltZFlETVlOV1E0N2tNMW1nbHdrSy16SHpmQVZlLXNTWTRHMnhKa2hwNTlReFRCXzc0TmRrTDNlaVFXSVZXWWZXMHRVek1OVjdmcHlhbTV6Y0tfalFveHltNlFRTDc2MTlFcDF1LVBZTkpPa0NUY1NyMVhOYTVCNA?oc=5",
-        "source": "The New York Times",
-        "image": "",
-        "published_ts": 1795585500,
-        "published": "25 Nov, 11:45 AM",
-        "bn_summary": "নিউ ইয়র্ক টাইমসের একটি নিবন্ধ জাতীয় নিরাপত্তা এবং শেয়ারবাজারের মধ্যে দ্বন্দ্ব নিয়ে আলোচনা করেছে। এটি গুরুত্বপূর্ণ কারণ সরকারের নিরাপত্তা নীতি বাজারের স্থিতিশীলতা এবং বিনিয়োগকারীদের সিদ্ধান্তকে প্রভাবিত করতে পারে।",
-        "added_at_ts": 1795587685,
-        "expires_at_ts": 1795674085,
-        "batch_label": "12:21 PM BDT",
-        "batch_edition": 9,
-        "is_new": false
-      },
-      {
-        "title": "S&P Dow Jones Indices - S&P Global",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XMTA2SzF2cDl1YXNGY3RGTG4tU0ZwWU1YLUlhSlNnUEhRNmJ3eEJPUDJ4VExzZDFJUWhQcW9naTcxWFRNZTNwNjdR?oc=5",
-        "source": "S&P Global",
-        "image": "",
-        "published_ts": 1795581492,
-        "published": "25 Nov, 10:38 AM",
-        "bn_summary": "এসঅ্যান্ডপি ডাও জোন্স ইন্ডিসিস থেকে সূচকের সর্বশেষ তথ্য প্রকাশ করা হয়েছে, যা বাজারের সামগ্রিক অবস্থা প্রতিফলিত করে। বিনিয়োগকারীদের জন্য এটি গুরুত্বপূর্ণ কারণ এই সূচকগুলো অর্থনৈতিক প্রবণতা বুঝতে এবং বিনিয়োগ কৌশল নির্ধারণে সহায়তা করে।",
-        "added_at_ts": 1795587685,
-        "expires_at_ts": 1795674085,
-        "batch_label": "12:21 PM BDT",
-        "batch_edition": 9,
-        "is_new": false
-      },
-      {
-        "title": "Gold Price Forecast: Will US PCE inflation data rescue XAU/USD buyers? - FXStreet",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2ZWdWZJQ3ZmNUdBVi1sWDBkSmc1OHhaaTc2MVdUVlFKX2R3Z3o4V19DSWV2Uk5ickhremxMMmxTNk41c3k1S2M0LVhSMWotQnV1ZTZsMi14QXl4V1ozWk81QS1RM0Jjb2NQQ0VybHVTQ2trTjcycWlwMklWclVuSFVWRlF2WFlaU1VLZXBZOXlKcHJ1RWZXUnJ2TmZpWnZFYVM4X0FscTVWdGg3MGg0Ym9IckhsQQ?oc=5",
-        "source": "FXStreet",
-        "image": "",
-        "published_ts": 1795579909,
-        "published": "25 Nov, 10:11 AM",
-        "bn_summary": "সোনার দামের পূর্বাভাস নিয়ে আলোচনায় বলা হয়েছে যে মার্কিন পিসিই মূল্যস্ফীতি তথ্য এক্সএইউ/ইউএসডি ক্রেতাদের জন্য গুরুত্বপূর্ণ হতে পারে। এই তথ্য প্রকাশের পর সোনার দামের দিকনির্দেশনা স্পষ্ট হবে, যা বিনিয়োগকারীদের জন্য তাৎপর্যপূর্ণ।",
-        "added_at_ts": 1795587685,
-        "expires_at_ts": 1795674085,
-        "batch_label": "12:21 PM BDT",
-        "batch_edition": 9,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "RTX 5060 gaming PC with 16GB DDR5 RAM gets a decent Black Friday discount on Amazon - PC Guide",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSjRmdmFFTXZHem1xTkw0V0VDbUJQdVl2czltaHppNHJZdmNOU0I0ckFkdTRHVHBCU2I5T1dMZ0NIa25rRWlkeFRHNV9Ba0pYMS1zbV9xTmFxc0wxRWdyMUkyUlpxLThvX3R1TGVTaEV1cUk1VTJXM0JUdDFhT1d2UlJzYWJGM0Nnak5NeFVPTUgxd0RUQ2VVcHRwX3ByamR4Wl9BcUR3RXgta3JtdnAwMzNta2o?oc=5",
+        "source": "PC Guide",
+        "image": "",
+        "published_ts": 1795657876,
+        "published": "26 Nov, 07:51 AM",
+        "bn_summary": "Amazon-এ RTX 5060-সমৃদ্ধ একটি gaming PC-তে 16GB DDR5 RAMসহ Black Friday ছাড় দেওয়া হয়েছে। এতে তুলনামূলক কম দামে আধুনিক 1080p বা মাঝারি-উচ্চ সেটিংসের gaming setup পাওয়া যেতে পারে, তবে কেনার আগে CPU, storage ও upgrade options যাচাই করা দরকার।",
+        "added_at_ts": 1795675705,
+        "expires_at_ts": 1795762105,
+        "batch_label": "12:48 PM BDT",
+        "batch_edition": 21,
+        "is_new": true
+      },
+      {
+        "title": "Why Micron Stock Just Dropped Again - Yahoo Finance",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkpQcm91R3l5eFo3OVEtQ2lXN2I2WmVhZmFFZ0hvN2RTZ2hWd1dwNDRveEEtQzBFV1hCLWZiUE1JNklNeVNIRUUwbTdvUklvNlNyWkFGT2VQSG5ia2k5QjNGeG5lQWJGdjVMRUZiQ1h6UE91OURpVUR6bDFUNjZ3SnVvNXp4M1Q4dzFjZmU3Yno2WkZzamd4aVl3?oc=5",
+        "source": "Yahoo Finance",
+        "image": "",
+        "published_ts": 1795622058,
+        "published": "25 Nov, 09:54 PM",
+        "bn_summary": "Micron-এর শেয়ারের দাম আবার কমেছে, যা মেমরি চিপের চাহিদা, মূল্যচক্র বা কোম্পানির ভবিষ্যৎ আয় নিয়ে বিনিয়োগকারীদের উদ্বেগের প্রতিফলন হতে পারে। Micron-এর মতো সেমিকন্ডাক্টর কোম্পানির ক্ষেত্রে বাজারের প্রত্যাশা ও চিপের দামের পরিবর্তন শেয়ারে দ্রুত প্রভাব ফেলে।",
+        "added_at_ts": 1795675705,
+        "expires_at_ts": 1795762105,
+        "batch_label": "12:48 PM BDT",
+        "batch_edition": 21,
+        "is_new": true
+      },
       {
         "title": "The Consensus on Micron Stock Is Changing. Here’s What Investors Should Know - Yahoo Finance",
         "summary": "",
@@ -1620,7 +1650,7 @@
         "expires_at_ts": 1795754785,
         "batch_label": "10:46 AM BDT",
         "batch_edition": 20,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows - MarketWatch",
