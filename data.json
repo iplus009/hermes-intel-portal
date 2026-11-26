@@ -1,28 +1,28 @@
 {
-  "edition": 26,
-  "updated_ts": 1795712185,
-  "updated_dhaka": "26 Nov 2026, 10:56 PM (BDT)",
-  "updated_utc": "2026-11-26 16:56 UTC",
-  "batch_label": "10:56 PM BDT",
-  "new_added": 10,
+  "edition": 27,
+  "updated_ts": 1795719505,
+  "updated_dhaka": "27 Nov 2026, 12:58 AM (BDT)",
+  "updated_utc": "2026-11-26 18:58 UTC",
+  "batch_label": "12:58 AM BDT",
+  "new_added": 9,
   "expired_removed": 12,
-  "curated_by": "codex-relay (gpt-5.6-luna)",
+  "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
   "advice": {
-    "title": "আজকের সিগনালে স্মার্ট বিল্ড",
-    "body": "AI/GitHub-এ ছোট automation project ship করুন, free API quota ও low-cost VPS-এ আগে prototype চালিয়ে usage limit, security এবং backup পরীক্ষা করুন। Gold 1.04% উঠলেও S&P 500 0.75%, NASDAQ 2.09%, NVIDIA 9.54% এবং Micron 15.04% নেমেছে—তাই একক stock বা RAM-related bet না নিয়ে ধাপে ধাপে entry ও cash buffer রাখুন। DRAM shortage, AI GPU shipment restriction এবং Kuwait-এর drone-সংঘাতের মতো global riskে supply ও volatility নজরে রেখে আজই API keys rotate এবং গুরুত্বপূর্ণ data backup করুন।",
-    "tag": "AI & Dev"
+    "title": "দরপতনে সুযোগ, সোনায় লাভ",
+    "body": "স্টক মার্কেটে ধস, কিন্তু সোনা ও বিটকয়েন সবুজ। NVDA ও Micron-এর দাম পড়েছে—দীর্ঘমেয়াদে ভালো কেনার সুযোগ। GitHub Actions-এর ফ্রি টায়ার আর VPS-এ নিজের AI প্রজেক্ট চালিয়ে খরচ বাঁচাও, আর RAM/SSD-এর সেল ধরো।",
+    "tag": "Market & Gold"
   },
   "quote": {
-    "text_bn": "যে ব্যক্তি প্রশ্ন করে, সে পাঁচ মিনিটের জন্য বোকা; যে ব্যক্তি প্রশ্ন করে না, সে সারাজীবন বোকা থাকে।",
-    "author": "কনফুসিয়াস",
-    "note_bn": "আজ একটি কঠিন প্রশ্ন লিখে অভিজ্ঞ কাউকে জিজ্ঞেস করুন এবং উত্তরটি আপনার project বা বিনিয়োগ পরিকল্পনায় প্রয়োগ করুন।"
+    "text_bn": "তোমার দেশ তোমার জন্য কী করতে পারে তা জিজ্ঞেস করো না, তুমি তোমার দেশের জন্য কী করতে পারো তা জিজ্ঞেস করো।",
+    "author": "জন এফ. কেনেডি",
+    "note_bn": "আজকের বাজারে নিজের দক্ষতা ও সম্পদ বাড়ানোর দিকে মন দাও, বাইরের সংকটে নয়।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,599.10",
-      "change_pct": 1.04,
+      "price": "$3,596.20",
+      "change_pct": 0.96,
       "up": true
     },
     {
@@ -56,8 +56,8 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$60,460.44",
-      "change_pct": 0.14,
+      "price": "$60,413.77",
+      "change_pct": 0.06,
       "up": true
     }
   ],
@@ -76,7 +76,7 @@
         "expires_at_ts": 1795798585,
         "batch_label": "10:56 PM BDT",
         "batch_edition": 26,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Point taken 📍 Mistral Large 4 finds the exact match and outlines it on the map. On visual grounding tasks, Le Chonk beats even closed frontier models. - X",
@@ -362,51 +362,6 @@
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
         "is_new": false
-      },
-      {
-        "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-        "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
-        "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-        "source": "TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2237660127.jpg?resize=1200,800",
-        "published_ts": 1795630306,
-        "published": "26 Nov, 12:11 AM",
-        "bn_summary": "নিউ ইয়র্ক শিশুদের জন্য AI chatbot-যুক্ত খেলনা পাঁচ বছরের জন্য নিষিদ্ধ করেছে। Common Sense Media-এর গবেষণায় অনুপযুক্ত বিষয়বস্তুতে শিশুদের exposureসহ গুরুতর নিরাপত্তা ঝুঁকি পাওয়ায় এই সিদ্ধান্ত নেওয়া হয়েছে।",
-        "added_at_ts": 1795631725,
-        "expires_at_ts": 1795718125,
-        "batch_label": "12:35 AM BDT",
-        "batch_edition": 15,
-        "is_new": false
-      },
-      {
-        "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-        "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in sp",
-        "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-        "source": "The Verge",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
-        "published_ts": 1795628697,
-        "published": "25 Nov, 11:44 PM",
-        "bn_summary": "FCC SpaceX-কে AI চিপযুক্ত সর্বোচ্চ ১০ লাখ satellite মহাকাশে পাঠানোর পরিকল্পনায় অনুমোদন দিয়েছে। এই বিশাল orbital data-center নেটওয়ার্ক AI computing ক্ষমতা বাড়াতে পারে, তবে মহাকাশের ভিড়, শক্তি ব্যবহার ও নিরাপত্তা নিয়ে নতুন উদ্বেগ তৈরি করবে।",
-        "added_at_ts": 1795631725,
-        "expires_at_ts": 1795718125,
-        "batch_label": "12:35 AM BDT",
-        "batch_edition": 15,
-        "is_new": false
-      },
-      {
-        "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
-        "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
-        "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-        "source": "TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/06/Character-Calls-Image-feat.jpg?resize=1200,675",
-        "published_ts": 1795628158,
-        "published": "25 Nov, 11:35 PM",
-        "bn_summary": "Character.ai দেউলিয়া হলে ২১ মিলিয়নের বেশি মার্কিন account-এর ব্যক্তিগত chat নিলামে বিক্রির প্রস্তাব করা হয়েছে, যার মধ্যে প্রায় ২১ লাখ অপ্রাপ্তবয়স্কের account রয়েছে। একাধিক অঙ্গরাজ্যের Attorney Generalরা এই তথ্য হস্তান্তর ঠেকাতে লড়ছেন, কারণ chatগুলোতে অত্যন্ত সংবেদনশীল ব্যক্তিগত তথ্য থাকতে পারে।",
-        "added_at_ts": 1795631725,
-        "expires_at_ts": 1795718125,
-        "batch_label": "12:35 AM BDT",
-        "batch_edition": 15,
-        "is_new": false
       }
     ],
     "github": [
@@ -511,6 +466,51 @@
     ],
     "war": [
       {
+        "title": "Kushner explains the ‘good thing’ about Gaza’s destruction",
+        "summary": "Jared Kushner says the “good thing” about Israel’s genocidal war on Gaza is that it can be built into “something new”.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795717775.jpg?resize=1920%2C1079&quality=80",
+        "published_ts": 1795717836,
+        "published": "27 Nov, 12:30 AM",
+        "bn_summary": "কুশনার গাজার ধ্বংসকে 'ভালো কিছু' বলে মন্তব্য করেছেন কারণ তিনি মনে করেন এটি নতুন করে নির্মাণের সুযোগ তৈরি করবে। এই মন্তব্য বিতর্কিত কারণ এটি ফিলিস্তিনিদের দুর্ভোগকে উপেক্ষা করে এবং যুদ্ধ-পরবর্তী পরিকল্পনার ইঙ্গিত দেয়।",
+        "added_at_ts": 1795719505,
+        "expires_at_ts": 1795805905,
+        "batch_label": "12:58 AM BDT",
+        "batch_edition": 27,
+        "is_new": true
+      },
+      {
+        "title": "Guinea-Bissau presidential election delayed by two years",
+        "summary": "Military leaders say presidential and legislative poll scheduled for December 6 will now take place in November 2028.",
+        "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b086d135f5d-1795714323.jpg?resize=1920%2C1440",
+        "published_ts": 1795716438,
+        "published": "27 Nov, 12:07 AM",
+        "bn_summary": "গিনি-বিসাউতে সামরিক নেতারা প্রেসিডেন্ট ও আইনসভা নির্বাচন দুই বছর পিছিয়ে ২০২৮ সালের নভেম্বরে করার ঘোষণা দিয়েছেন। এই সিদ্ধান্ত দেশটির রাজনৈতিক অস্থিরতা এবং গণতান্ত্রিক প্রক্রিয়ার উপর নেতিবাচক প্রভাব ফেলতে পারে।",
+        "added_at_ts": 1795719505,
+        "expires_at_ts": 1795805905,
+        "batch_label": "12:58 AM BDT",
+        "batch_edition": 27,
+        "is_new": true
+      },
+      {
+        "title": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
+        "summary": "The bloc is holding an extraordinary summit in Brussels to discuss its budget proposal for 2028 to 2034.",
+        "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261126__D8NR9MQ__v1__HighRes__BelgiumEuCouncilSummit-1795708617.jpg?resize=1920%2C1440",
+        "published_ts": 1795715624,
+        "published": "26 Nov, 11:53 PM",
+        "bn_summary": "ইউরোপীয় ইউনিয়নের নেতারা ২০২৮-৩৪ বাজেট ও ইউক্রেনের জন্য অতিরিক্ত অর্থ বরাদ্দ নিয়ে ব্রাসেলসে জরুরি শীর্ষ সম্মেলনে মতভেদে ভুগছেন। এই সম্মেলন থেকে সিদ্ধান্ত না আসলে ইউক্রেনের অর্থায়ন এবং ইইউর ভবিষ্যৎ পরিকল্পনা অনিশ্চিত থাকবে।",
+        "added_at_ts": 1795719505,
+        "expires_at_ts": 1795805905,
+        "batch_label": "12:58 AM BDT",
+        "batch_edition": 27,
+        "is_new": true
+      },
+      {
         "title": "Italy says two citizens killed in Iranian strike in Kuwait",
         "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
         "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
@@ -523,7 +523,7 @@
         "expires_at_ts": 1795798585,
         "batch_label": "10:56 PM BDT",
         "batch_edition": 26,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
@@ -538,7 +538,7 @@
         "expires_at_ts": 1795798585,
         "batch_label": "10:56 PM BDT",
         "batch_edition": 26,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Two dead after Iranian drone attack on Kuwait",
@@ -553,7 +553,7 @@
         "expires_at_ts": 1795798585,
         "batch_label": "10:56 PM BDT",
         "batch_edition": 26,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Can Trump continue with Iran war despite funding restrictions?",
@@ -1004,54 +1004,54 @@
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
         "is_new": false
-      },
-      {
-        "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
-        "summary": "Tinubu is under pressure to convince voters that military operations in the country's northeast will deliver security.",
-        "url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0719bca5cf-1795627452.jpg?resize=1920%2C1440",
-        "published_ts": 1795630484,
-        "published": "26 Nov, 12:14 AM",
-        "bn_summary": "নাইজেরিয়ার প্রেসিডেন্ট Bola Tinubu বিদ্রোহে ক্ষতিগ্রস্ত সীমান্ত অঞ্চলে শান্তি আনার প্রতিশ্রুতি দিয়েছেন। উত্তর-পূর্বাঞ্চলে সামরিক অভিযান নিরাপত্তা দিতে পারছে কি না, তা নিয়ে ভোটারদের চাপের মুখে তাঁর এই প্রতিশ্রুতি রাজনৈতিকভাবে গুরুত্বপূর্ণ।",
-        "added_at_ts": 1795631725,
-        "expires_at_ts": 1795718125,
-        "batch_label": "12:35 AM BDT",
-        "batch_edition": 15,
-        "is_new": false
-      },
-      {
-        "title": "Ecuador and US review joint military operations, official says",
-        "summary": "Joint military efforts have been paused as the US investigates a lethal operation carried out by Ecuador.",
-        "url": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0702d2-1795621586.jpg?resize=1920%2C1440",
-        "published_ts": 1795629041,
-        "published": "25 Nov, 11:50 PM",
-        "bn_summary": "ইকুয়েডর ও যুক্তরাষ্ট্র তাদের যৌথ সামরিক অভিযান পর্যালোচনা করছে, কারণ ইকুয়েডরের একটি প্রাণঘাতী অভিযানের তদন্ত চলছে। তদন্ত শেষ না হওয়া পর্যন্ত সহযোগিতা স্থগিত থাকায় দুই দেশের নিরাপত্তা সম্পর্ক ও ভবিষ্যৎ অভিযান অনিশ্চিত হয়েছে।",
-        "added_at_ts": 1795631725,
-        "expires_at_ts": 1795718125,
-        "batch_label": "12:35 AM BDT",
-        "batch_edition": 15,
-        "is_new": false
-      },
-      {
-        "title": "Djibouti: The Man Who Dared",
-        "summary": "War hero turned nationalist, Mahmoud Harbi defied colonial rule to fight for independence in today’s Djibouti.",
-        "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/25/djibouti-the-man-who-dared?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795600834.jpg?resize=1920%2C1080&quality=80",
-        "published_ts": 1795626000,
-        "published": "25 Nov, 11:00 PM",
-        "bn_summary": "মাহমুদ হারবি ছিলেন এক যুদ্ধবীর ও জাতীয়তাবাদী নেতা, যিনি ঔপনিবেশিক শাসনের বিরুদ্ধে দাঁড়িয়েছিলেন। স্বাধীনতার দাবিতে তাঁর সংগ্রাম আজকের জিবুতির রাজনৈতিক পরিচয় গঠনে গুরুত্বপূর্ণ ভূমিকা রেখেছে।",
-        "added_at_ts": 1795631725,
-        "expires_at_ts": 1795718125,
-        "batch_label": "12:35 AM BDT",
-        "batch_edition": 15,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "Gold price stalls near $3,570 as Fed hike bets keep bulls at bay - FXStreet",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb29vaFQ2a1Z3UmxfQzZKcnpMcGMtMmZwcGNZZkkxOGhDSWVqczlWbTV2eThPY3FvczlnQVI4aXg4UEx4UVIzcnlSNmNQT0dzT1JRRG1mVmcxUHVxNEY3bVZjc3RmUEZFY3lKcmV0cVpoWXdkSXJrWl9COXlUbTFKVEZLMjNtZEMycGdvZUhwRVFwU2cyak5wZlhIcmZ0X0QwZU02ZS1vZjh3Zw?oc=5",
+        "source": "FXStreet",
+        "image": "",
+        "published_ts": 1795716086,
+        "published": "27 Nov, 12:01 AM",
+        "bn_summary": "সোনার দাম ৩,৫৭০ ডলারের কাছাকাছি স্থবির রয়েছে কারণ ফেডারেল রিজার্ভের সুদহার বৃদ্ধির সম্ভাবনা বিনিয়োগকারীদের আগ্রহ কমিয়ে দিচ্ছে। এই পরিস্থিতি সোনার বাজারে অস্থিরতা তৈরি করছে এবং বিনিয়োগকারীরা দিকনির্দেশনার অপেক্ষায় রয়েছেন।",
+        "added_at_ts": 1795719505,
+        "expires_at_ts": 1795805905,
+        "batch_label": "12:58 AM BDT",
+        "batch_edition": 27,
+        "is_new": true
+      },
+      {
+        "title": "Nvidia Stock Has Found Its Next Big Catalyst, Making the Stock a Once-in-a-Decade Buying Opportunity. - The Motley Fool",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNlYtanViOVZ0ZUxOeUxTeXpWaXE5Slc5R2tLNjU4UDI3YzVEUnV0ckNfQ1QtOGxySUI1REtKd3JSQ3RqOF9ab0VCVDlrMk9maFFTbEtNRHdtbHJPTzM3MHlENl81WjFYdUJueGdtQ3F5Q05lMTJIWnRtaFR1OG41a0VoVGtTN0JwaUI5WTN4SnJhV1VfRFZ5S200TUxISFZKYmZJNjh0bWxMLTktaERMX0FWN1JxLWl0dFNNeXY4a3BabHVIMlQ2QkNXSVhYZldJZUJzVEtuc2NxZw?oc=5",
+        "source": "The Motley Fool",
+        "image": "",
+        "published_ts": 1795715822,
+        "published": "26 Nov, 11:57 PM",
+        "bn_summary": "Nvidia-এর স্টক নতুন বড় ক্যাটালিস্ট পেয়েছে বলে মনে করছে Motley Fool, যা এক দশকে একবার আসা কেনার সুযোগ বলে দাবি করা হচ্ছে। কৃত্রিম বুদ্ধিমত্তা চিপের চাহিদা বৃদ্ধি এবং নতুন প্রযুক্তি উদ্ভাবনের কারণে কোম্পানিটির ভবিষ্যৎ সম্ভাবনা উজ্জ্বল বলে বিশ্লেষকরা মনে করছেন।",
+        "added_at_ts": 1795719505,
+        "expires_at_ts": 1795805905,
+        "batch_label": "12:58 AM BDT",
+        "batch_edition": 27,
+        "is_new": true
+      },
+      {
+        "title": "Gold Price Forecast: Can Gold Recover to $4,000 as US Inflation Reaches 3.8%? - Coinpaper",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa04xRXB2aUxyR0xYUVY2T3ZNVXVKelN3Q1pycnhQODZRb1lMRks2NHVmSmRFM3NsWnRDWm9pOU9vc3lxUS0tSkdpLUZ0Yl9IR3lUQXdXcTU1NldJODhKR1JJa3lhejZWLXQ4YmxQdVhYZ2FYOFB2TUd5R1BDakJHWV9YanpuYXQ2U1Qtd1NmRFRTUmhTcnRpVjlTaFROamNIU2Mw?oc=5",
+        "source": "Coinpaper",
+        "image": "",
+        "published_ts": 1795709873,
+        "published": "26 Nov, 10:17 PM",
+        "bn_summary": "মার্কিন মুদ্রাস্ফীতি ৩.৮% পৌঁছানোর পর সোনার দাম আবার ৪,০০০ ডলারে পৌঁছাতে পারে কিনা তা নিয়ে বিশ্লেষণ চলছে। মুদ্রাস্ফীতি বাড়লে সাধারণত সোনার চাহিদা বাড়ে, তবে অন্যান্য অর্থনৈতিক কারণও এখানে ভূমিকা রাখতে পারে।",
+        "added_at_ts": 1795719505,
+        "expires_at_ts": 1795805905,
+        "batch_label": "12:58 AM BDT",
+        "batch_edition": 27,
+        "is_new": true
+      },
       {
         "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
         "summary": "ETF Action founding partner Mike Akins and GraniteShares CEO Will Rhind react to Nvidia's sharp losses and latest comeback.",
@@ -1065,7 +1065,7 @@
         "expires_at_ts": 1795798585,
         "batch_label": "10:56 PM BDT",
         "batch_edition": 26,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold price at $3,550: Could the sell-off resume? - IG Bank",
@@ -1080,7 +1080,7 @@
         "expires_at_ts": 1795798585,
         "batch_label": "10:56 PM BDT",
         "batch_edition": 26,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "XAUUSD 15m: Reading Signal Candles, Structure Zones & Retracemen for OANDA:XAUUSD by Niko-picasso369 - TradingView",
@@ -1095,7 +1095,7 @@
         "expires_at_ts": 1795798585,
         "batch_label": "10:56 PM BDT",
         "batch_edition": 26,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Semiconductor chips are the new oil. Here's why",
@@ -1546,54 +1546,54 @@
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
         "is_new": false
-      },
-      {
-        "title": "Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap - Bloomberg.com",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
-        "source": "Bloomberg.com",
-        "image": "",
-        "published_ts": 1795629492,
-        "published": "25 Nov, 11:58 PM",
-        "bn_summary": "AI খাত নিয়ে উদ্বেগ ছড়িয়ে পড়ায় বিনিয়োগকারীরা শেয়ার বিক্রি করে US Treasury bonds-এ অর্থ সরিয়েছেন। এই নিরাপদ সম্পদের দিকে ঝোঁক বাজারে ঝুঁকি-বিমুখতা বাড়ার এবং প্রযুক্তি শেয়ারে চাপ তৈরি হওয়ার ইঙ্গিত দিচ্ছে।",
-        "added_at_ts": 1795631725,
-        "expires_at_ts": 1795718125,
-        "batch_label": "12:35 AM BDT",
-        "batch_edition": 15,
-        "is_new": false
-      },
-      {
-        "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Drops Below $3500 On Strong U.S. GDP Data - FXEmpire",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOW1JY0VEcjNNajlwRkgyTUZJT3RSeHUzcUxEWFNOQUhrTFV1QWJLWXZhSDZjRDJmLVlvckJsbTBSZDF1cjgwejVyZ0lWVml1ZU9pSkV2VkI4OVl4YnpEbFoyZFhaelBTNnpjOG9Mc3JRd3ZXYzhiMnVzcTNtNkJzZ0VLQjFOOWxvV2xRdlE4bDVVQjVqUkMtcFhHVnlZb1F5aGhJX2I1T296MXFnLVB6aVNOUE5VWl9URlZtdEEtNXJ2eHRqc09BZ0syQW9LUQ?oc=5",
-        "source": "FXEmpire",
-        "image": "",
-        "published_ts": 1795627251,
-        "published": "25 Nov, 11:20 PM",
-        "bn_summary": "শক্তিশালী US GDP data প্রকাশের পর সোনার দাম ৩৫০০ ডলারের নিচে নেমেছে, একই সঙ্গে silver ও platinum-এর দিকেও নজর রয়েছে। অর্থনীতি শক্তিশালী থাকলে সুদের হার কমার প্রত্যাশা পিছিয়ে যেতে পারে, ফলে সুদ না-দেওয়া precious metals-এর আকর্ষণ কমে।",
-        "added_at_ts": 1795631725,
-        "expires_at_ts": 1795718125,
-        "batch_label": "12:35 AM BDT",
-        "batch_edition": 15,
-        "is_new": false
-      },
-      {
-        "title": "Prediction markets push OpenAI IPO expectations later into 2027",
-        "summary": "Kalshi traders have cut the odds of OpenAI confirming an IPO before June 2027, as AI stocks and related markets have weakened.",
-        "url": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
-        "source": "CNBC",
-        "image": "https://image.cnbcfm.com/api/v1/image/108369813-1790712609527-gettyimages-2297765616-_q3a2873_m5g8wtsy.jpeg?v=1790712953&w=1920&h=1080",
-        "published_ts": 1795626483,
-        "published": "25 Nov, 11:08 PM",
-        "bn_summary": "AI-সম্পর্কিত শেয়ার ও বাজার দুর্বল হওয়ায় Kalshi-র tradersরা জুন ২০২৭-এর আগে OpenAI IPO হওয়ার সম্ভাবনা কমিয়ে দিয়েছেন। এতে বোঝা যায়, বাজার এখন AI কোম্পানির উচ্চ মূল্যায়ন ও লাভজনকতা নিয়ে আগের চেয়ে বেশি সতর্ক।",
-        "added_at_ts": 1795631725,
-        "expires_at_ts": 1795718125,
-        "batch_label": "12:35 AM BDT",
-        "batch_edition": 15,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "Two Californian Nvidia AI chip customers are really Chinese-owned",
+        "summary": "Nvidia sells its advanced AI chips to two Californian companies with links to Chinese parent companies, including one that has already been blacklisted. Nvidia is only allowed to sell to specific companies, with export controls intended to prevent these chips ",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/two-californian-nvidia-ai-chip-customers-are-really-chinese-owned-companies-used-as-workaround-for-government-export-controls",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/TVYovaCvDrBoMvxiTPWqLL-1920-80.png",
+        "published_ts": 1795716000,
+        "published": "27 Nov, 12:00 AM",
+        "bn_summary": "Nvidia তার উন্নত AI চিপ বিক্রি করছে দুটি ক্যালিফোর্নিয়া-ভিত্তিক কোম্পানিকে, যাদের মূল মালিক চীনা এবং একটি কোম্পানি আগে থেকেই নিষিদ্ধ তালিকায় রয়েছে। এই খবরটি চিপ রপ্তানি নিয়ন্ত্রণ এবং জাতীয় নিরাপত্তা নিয়ে নতুন উদ্বেগ তৈরি করেছে।",
+        "added_at_ts": 1795719505,
+        "expires_at_ts": 1795805905,
+        "batch_label": "12:58 AM BDT",
+        "batch_edition": 27,
+        "is_new": true
+      },
+      {
+        "title": "Credit rating agency puts Nvidia on notice for possible downgrade",
+        "summary": "S&P Global Ratings says that it could lower Nvidia's credit rating because of various risks that it faces, including the smuggling allegations and the fact the lack of succession planning for its CEO.",
+        "url": "https://www.tomshardware.com/tech-industry/credit-rating-agency-puts-nvidia-on-notice-for-possible-downgrade-s-and-p-global-ratings-says-board-members-may-have-compromised-their-independence",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/V58pCYCTU9ChhLRLiLHMe5-1920-80.jpg",
+        "published_ts": 1795712400,
+        "published": "26 Nov, 11:00 PM",
+        "bn_summary": "S&P Global Ratings সতর্ক করেছে যে Nvidia-এর ক্রেডিট রেটিং কমিয়ে দেওয়া হতে পারে, কারণ চিপ পাচারের অভিযোগসহ বিভিন্ন ঝুঁকি রয়েছে। রেটিং কমলে Nvidia-এর জন্য ঋণ নেওয়া আরও ব্যয়বহুল হয়ে উঠতে পারে এবং কোম্পানির সুনামে আঘাত লাগতে পারে।",
+        "added_at_ts": 1795719505,
+        "expires_at_ts": 1795805905,
+        "batch_label": "12:58 AM BDT",
+        "batch_edition": 27,
+        "is_new": true
+      },
+      {
+        "title": "Save 21% on this ultra-fast 2TB SanDisk Optimus GX Pro 8100 SSD, now just 17.5 cents per GB",
+        "summary": "A huge discount on the Gen 5 2TB Sandisk Optimus GX Pro 8100, down to $349.99 right now.",
+        "url": "https://www.tomshardware.com/pc-components/ssds/save-21-percent-on-this-ultra-fast-2tb-sandisk-optimus-gx-pro-8100-ssd-now-just-17-5-cents-per-gb-rebranded-sn8100-offers-gen-5-speeds-of-up-to-14-900-mb-s-at-a-record-low-price",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/ZGGZR3k7yxaZm44LU3cVYc-1920-80.png",
+        "published_ts": 1795708372,
+        "published": "26 Nov, 09:52 PM",
+        "bn_summary": "SanDisk-এর Gen 5 2TB Optimus GX Pro 8100 SSD-এর দাম ২১% কমিয়ে ৩৪৯.৯৯ ডলার করা হয়েছে, যা প্রতি গিগাবাইটে মাত্র ১৭.৫ সেন্ট। এই ডিসকাউন্টটি উচ্চ গতির স্টোরেজ খুঁজছেন এমন ব্যবহারকারীদের জন্য একটি ভালো সুযোগ।",
+        "added_at_ts": 1795719505,
+        "expires_at_ts": 1795805905,
+        "batch_label": "12:58 AM BDT",
+        "batch_edition": 27,
+        "is_new": true
+      },
       {
         "title": "13 tech bargains for only $13 or less to upgrade your desktop PC setup",
         "summary": "Don't break the bank this Black Friday with these 13 tech gadgets and tools to help you upgrade your setup for less than $13.",
@@ -1607,7 +1607,7 @@
         "expires_at_ts": 1795798585,
         "batch_label": "10:56 PM BDT",
         "batch_edition": 26,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Electronics manufacturers set up memory 'war rooms' to find, lock in DRAM supplies amid worst shortage in history",
@@ -1622,7 +1622,7 @@
         "expires_at_ts": 1795798585,
         "batch_label": "10:56 PM BDT",
         "batch_edition": 26,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Nvidia stops AI GPU shipments to Southeast Asia amid purported China cloud access ban, report claims",
@@ -1637,7 +1637,7 @@
         "expires_at_ts": 1795798585,
         "batch_label": "10:56 PM BDT",
         "batch_edition": 26,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Get an RTX 5060 gaming PC with DDR5 for just $1,141",
@@ -2012,51 +2012,6 @@
         "expires_at_ts": 1795725445,
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
-        "is_new": false
-      },
-      {
-        "title": "Save $2600 on the cheapest RTX 5090 prebuilt PC we've found so far in the Black Friday rush",
-        "summary": "This Corsair Vengeance prebuilt gaming PC pairs the RTX 5090 with Intel's most powerful Arrow Lake processor and 64GB of RAM for the most demanding work or play.",
-        "url": "https://www.tomshardware.com/pc-components/save-usd2600-on-the-cheapest-rtx-5090-prebuilt-pc-weve-found-so-far-in-the-black-friday-rush-corsair-vengeance-i7600-features-ultra-9-285k-cpu-64gb-ram-and-the-ultimate-gaming-gpu",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/QiPCaQpAET2HgXhu3mYFCR-1920-80.jpg",
-        "published_ts": 1795628700,
-        "published": "25 Nov, 11:45 PM",
-        "bn_summary": "Black Friday বিক্রিতে Corsair Vengeance prebuilt PC-তে RTX 5090, Intel-এর শক্তিশালী Arrow Lake processor এবং 64GB RAM একসঙ্গে পাওয়া যাচ্ছে। ২৬০০ ডলার সাশ্রয়ের এই দামটি demanding gaming ও professional কাজের জন্য উচ্চক্ষমতার PC কেনার বড় সুযোগ তৈরি করছে।",
-        "added_at_ts": 1795631725,
-        "expires_at_ts": 1795718125,
-        "batch_label": "12:35 AM BDT",
-        "batch_edition": 15,
-        "is_new": false
-      },
-      {
-        "title": "Save $200 with surprising deals on new Nvidia RTX Spark-powered Asus ProArt P14 laptops",
-        "summary": "Just a month after launch, the RTX Spark-powered Asus ProArt P14 is on sale for $200 off across both its 24GB and 32GB configurations.",
-        "url": "https://www.tomshardware.com/laptops/save-usd200-with-surprising-deals-on-new-nvidia-rtx-spark-powered-asus-proart-p14-laptops-both-24gb-and-32gb-configurations-are-already-on-sale",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/psHEmPVcpayrV46ijHZQGS-1920-80.jpg",
-        "published_ts": 1795625913,
-        "published": "25 Nov, 10:58 PM",
-        "bn_summary": "Asus ProArt P14 ল্যাপটপের নতুন RTX Spark ভেরিয়েন্ট লঞ্চের মাত্র এক মাসের মধ্যেই $200 ছাড়ে পাওয়া যাচ্ছে, 24GB এবং 32GB দুটি কনফিগারেশনেই। এই অফারটি গুরুত্বপূর্ণ কারণ নতুন মডেলে এত তাড়াতাড়ি দাম কমা ক্রিয়েটরদের জন্য একটি শক্তিশালী ও সাশ্রয়ী অপশন তৈরি করেছে।",
-        "added_at_ts": 1795631725,
-        "expires_at_ts": 1795718125,
-        "batch_label": "12:35 AM BDT",
-        "batch_edition": 15,
-        "is_new": false
-      },
-      {
-        "title": "Lawsuit alleges Trump strong-armed Intel",
-        "summary": "The president apparently threatened the Intel board with \"consequences\" if they did not accept his demand for a 10% stake on the company.",
-        "url": "https://www.tomshardware.com/tech-industry/policy/lawsuit-reveals-trumps-alleged-strong-arming-of-intel-troubled-chipmaker-allegedly-forced-to-give-white-house-10-percent-stake-for-release-of-chips-act-funds",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/DNfvQJUHCpDduHS9HATa3N-1920-80.jpg",
-        "published_ts": 1795624763,
-        "published": "25 Nov, 10:39 PM",
-        "bn_summary": "একটি মামলায় অভিযোগ করা হয়েছে যে প্রেসিডেন্ট ট্রাম্প ইন্টেলের বোর্ডকে ১০% শেয়ার দাবি মেনে নিতে না পারলে 'পরিণতি' ভোগ করতে হবে বলে হুমকি দিয়েছিলেন। এই ঘটনা গুরুত্বপূর্ণ কারণ এটি সরকারের পক্ষ থেকে একটি প্রধান চিপ প্রস্তুতকারক কোম্পানিতে অনৈতিক চাপের ইঙ্গিত দেয় এবং আইনি ও রাজনৈতিক প্রভাব ফেলতে পারে।",
-        "added_at_ts": 1795631725,
-        "expires_at_ts": 1795718125,
-        "batch_label": "12:35 AM BDT",
-        "batch_edition": 15,
         "is_new": false
       }
     ]
