@@ -1,28 +1,28 @@
 {
-  "edition": 22,
-  "updated_ts": 1795683025,
-  "updated_dhaka": "26 Nov 2026, 02:50 PM (BDT)",
-  "updated_utc": "2026-11-26 08:50 UTC",
-  "batch_label": "02:50 PM BDT",
+  "edition": 23,
+  "updated_ts": 1795690345,
+  "updated_dhaka": "26 Nov 2026, 04:52 PM (BDT)",
+  "updated_utc": "2026-11-26 10:52 UTC",
+  "batch_label": "04:52 PM BDT",
   "new_added": 10,
-  "expired_removed": 7,
-  "curated_by": "hcnsec (DeepSeek-V4-Flash)",
+  "expired_removed": 12,
+  "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
   "advice": {
-    "title": "সোনা ও AI-তে স্মার্ট বিনিয়োগ",
-    "body": "সোনার দাম বাড়ছে, তাই অল্প অল্প করে সোনা কেনা শুরু করুন। AI সেক্টরে চাকরি বদলাচ্ছে, তাই নতুন AI টুল শিখে নিজের দক্ষতা বাড়ান।",
+    "title": "সোনা ও RAM-এ সুযোগ, AI-তে সতর্ক",
+    "body": "বাজার অস্থির, তাই সোনা কেনা ভালো কৌশল। RAM/GPU-র দাম কমছে, দরকারি হার্ডওয়্যার এখনই কিনে নিন। AI প্রজেক্টে ফ্রি API আর GitHub Codespaces ব্যবহার করুন, তবে ডেটা প্রাইভেসি ঝুঁকি এড়িয়ে চলুন।",
     "tag": "Market & Gold"
   },
   "quote": {
-    "text_bn": "সাফল্য চূড়ান্ত নয়, ব্যর্থতা মারাত্মক নয়; এটা চালিয়ে যাওয়ার সাহসই আসল।",
-    "author": "উইনস্টন চার্চিল",
-    "note_bn": "আজকের বাজারের অস্থিরতায় ধৈর্য ধরুন, দীর্ঘমেয়াদী লক্ষ্যে মন দিন।"
+    "text_bn": "উঠ, জাগো, লক্ষ্য না পাওয়া পর্যন্ত থামো না।",
+    "author": "স্বামী বিবেকানন্দ",
+    "note_bn": "আজকের অস্থির বাজারে এই মনোভাবই আপনাকে সঠিক সিদ্ধান্ত নিতে সাহায্য করবে।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,598.30",
-      "change_pct": 1.02,
+      "price": "$3,580.70",
+      "change_pct": 0.53,
       "up": true
     },
     {
@@ -56,13 +56,28 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$60,984.21",
-      "change_pct": 1.0,
+      "price": "$60,437.46",
+      "change_pct": 0.1,
       "up": true
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+        "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction ",
+        "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+        "source": "The Verge",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published_ts": 1795686880,
+        "published": "26 Nov, 03:54 PM",
+        "bn_summary": "Chapter 11 bankruptcy চলাকালে Character.AI ব্যবহারকারীদের chat data বিক্রি ঠেকাতে ৪২টি অঙ্গরাজ্যের attorney general একজোট হয়েছে। বিষয়টি গুরুত্বপূর্ণ কারণ data বিক্রি হলে ব্যক্তিগত কথোপকথনের privacy ও user control গুরুতরভাবে ক্ষতিগ্রস্ত হতে পারে।",
+        "added_at_ts": 1795690345,
+        "expires_at_ts": 1795776745,
+        "batch_label": "04:52 PM BDT",
+        "batch_edition": 23,
+        "is_new": true
+      },
       {
         "title": "I've joined OpenAI! I'm very proud of my time at Anthropic, and I'll continue to root for my former colleagues. Both companies have important roles to play in the future. There is ",
         "summary": "",
@@ -76,7 +91,7 @@
         "expires_at_ts": 1795769425,
         "batch_label": "02:50 PM BDT",
         "batch_edition": 22,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Sand AI's 480B-parameter MAGI-2 debuts at #1 in Image to Video, statistically tied with Dreamina Seedance 2.5 This sets a new Quality vs Price frontier on AA-Video-I2V v2.1 at $0.0",
@@ -471,23 +486,6 @@
         "batch_label": "08:44 AM BDT",
         "batch_edition": 19,
         "is_new": false
-      },
-      {
-        "title": "chanke17/KuroCat",
-        "summary": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
-        "url": "https://github.com/chanke17/KuroCat",
-        "source": "GitHub",
-        "image": "https://opengraph.githubassets.com/1/chanke17/KuroCat",
-        "stars": 469,
-        "language": "C++",
-        "published_ts": 1795395978,
-        "published": "2026-11-23",
-        "bn_summary": "KuroCat একটি ফ্রি ওপেন-সোর্স নেটিভ ডেস্কটপ ক্যাট-পেট ও OBS overlay, যা macOS, Windows, Linux এবং UOS-এ চলার জন্য তৈরি। মাত্র ৮০২ KB আকারের এই Swift/C++ প্রকল্পটি Bongo Cat-এর বিকল্প হিসেবে ডিজিটাল পোষা প্রাণী, 2.5D head tracking ও drawing-tablet support দিতে পারে—তাই স্ট্রিমার ও হালকা অ্যাপ পছন্দকারীদের জন্য এটি আকর্ষণীয়।",
-        "added_at_ts": 1795602445,
-        "expires_at_ts": 1795688845,
-        "batch_label": "04:27 PM BDT",
-        "batch_edition": 11,
-        "is_new": false
       }
     ],
     "free_deals": [
@@ -520,39 +518,54 @@
         "batch_label": "02:37 AM BDT",
         "batch_edition": 16,
         "is_new": false
-      },
-      {
-        "title": "One Claude Code App Build Saves $10 Using the Free LLM API - Geeky Gadgets",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Tckk5TkgzTGNrM0xvQzFxQVhjSnhjUWliTjgzSGRGRXJvRkIxN3dNQ3duN3hkYjV6ZE5aVDQ4NVVJSVQ4eGVEWmEtVXJBTndlalJudnFfazg5VWx4SFNoem04bjA5Qlh0U2NJeldYTjBTWjg?oc=5",
-        "source": "Geeky Gadgets",
-        "image": "",
-        "published_ts": 1795599931,
-        "published": "25 Nov, 03:45 PM",
-        "bn_summary": "ফ্রি LLM API ব্যবহার করে একটি Claude Code অ্যাপ বানিয়ে কীভাবে প্রায় ১০ ডলার সাশ্রয় করা যায়, প্রতিবেদনটি সেই উদাহরণ দেখায়। এতে বোঝা যায়, API-ভিত্তিক ফ্রি ব্যবহারের সীমা কাজে লাগালে ছোট ডেভেলপমেন্ট প্রজেক্টের খরচ কমানো সম্ভব, যদিও শর্ত ও usage limit যাচাই করা জরুরি।",
-        "added_at_ts": 1795602445,
-        "expires_at_ts": 1795688845,
-        "batch_label": "04:27 PM BDT",
-        "batch_edition": 11,
-        "is_new": false
-      },
-      {
-        "title": "Best Free AI Models 2026: What's Free and Where to Use It - Fello AI",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FSGoyTkZPOWtOb0xLUld6QTBoamp3MGg0b2pjcURBaXk2dllWN3B6SlNvYUMxZzdIUnM2UG5JRlVvcDhoY1QxcVlBVQ?oc=5",
-        "source": "Fello AI",
-        "image": "",
-        "published_ts": 1795597862,
-        "published": "25 Nov, 03:11 PM",
-        "bn_summary": "২০২৬ সালে কোন AI মডেলগুলো বিনামূল্যে পাওয়া যায় এবং কোন প্ল্যাটফর্মে ব্যবহার করা যায়, এই গাইডে তার তালিকা ও ব্যবহারিক দিক তুলে ধরা হয়েছে। যারা paid subscription ছাড়া AI পরীক্ষা করতে চান, তাদের জন্য এটি মডেল বাছাই ও বিনামূল্যের access সীমা বোঝার সহায়ক হতে পারে।",
-        "added_at_ts": 1795602445,
-        "expires_at_ts": 1795688845,
-        "batch_label": "04:27 PM BDT",
-        "batch_edition": 11,
-        "is_new": false
       }
     ],
     "war": [
+      {
+        "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
+        "summary": "Russian forces launch ballistic missile attack on Ukrainian capital Kyiv, hitting a shopping centre and other buildings.",
+        "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b07dde5-1795677669.jpg?resize=1200%2C675",
+        "published_ts": 1795687329,
+        "published": "26 Nov, 04:02 PM",
+        "bn_summary": "রুশ-অধিকৃত Zaporizhia-তে একটি drone হামলায় পাঁচজন নিহত হয়েছে বলে প্রতিবেদনটি জানাচ্ছে, আর একই সময়ে Kyiv-তে রুশ ballistic missile হামলায় shopping centre ও অন্য ভবন ক্ষতিগ্রস্ত হয়েছে। ঘটনাগুলো যুদ্ধের বিস্তার এবং বেসামরিক মানুষের ওপর চলমান ঝুঁকি আরও স্পষ্ট করছে।",
+        "added_at_ts": 1795690345,
+        "expires_at_ts": 1795776745,
+        "batch_label": "04:52 PM BDT",
+        "batch_edition": 23,
+        "is_new": true
+      },
+      {
+        "title": "Iqbal in space: Urdu poet’s verses unite India, Pakistan beyond Earth",
+        "summary": "Pakistan's first astronaut recited Iqbal on board China's space station, echoing two earlier encounters in orbit.",
+        "url": "https://www.aljazeera.com/news/2026/11/26/iqbal-in-space-urdu-poets-verses-unite-india-pakistan-beyond-earth?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T025517Z_1582279526_RC2NUOADQ0AE_RTRMADP_3_SPACE-EXPLORATION-CHINA-PAKISTAN-1795680433.jpg?resize=1920%2C1440",
+        "published_ts": 1795686059,
+        "published": "26 Nov, 03:40 PM",
+        "bn_summary": "চীনের space station-এ পাকিস্তানের প্রথম astronaut উর্দু কবি ইকবালের কবিতা আবৃত্তি করেছেন, যা মহাকাশে ভারত-পাকিস্তানের যৌথ সাংস্কৃতিক স্মৃতিকে সামনে এনেছে। রাজনৈতিক বিভাজনের বাইরে ভাষা ও সাহিত্য কীভাবে মানুষের মধ্যে সংযোগ তৈরি করতে পারে, ঘটনাটি তার প্রতীকী উদাহরণ।",
+        "added_at_ts": 1795690345,
+        "expires_at_ts": 1795776745,
+        "batch_label": "04:52 PM BDT",
+        "batch_edition": 23,
+        "is_new": true
+      },
+      {
+        "title": "Israeli attacks on Gaza kill senior education official, seven other people",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu confirms killing of Khaled Abu Nada, undersecretary of Education Ministry.",
+        "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b07de84e346-1795677828.jpg?resize=1920%2C1440",
+        "published_ts": 1795683606,
+        "published": "26 Nov, 03:00 PM",
+        "bn_summary": "গাজায় ইসরায়েলি হামলায় শিক্ষা মন্ত্রণালয়ের জ্যেষ্ঠ কর্মকর্তা Khaled Abu Nada-সহ আরও সাতজন নিহত হয়েছেন বলে জানানো হয়েছে। এই মৃত্যু বেসামরিক প্রশাসন ও শিক্ষা ব্যবস্থার ওপর সংঘাতের বড় প্রভাব এবং গাজায় মানবিক সংকটের গভীরতা তুলে ধরে।",
+        "added_at_ts": 1795690345,
+        "expires_at_ts": 1795776745,
+        "batch_label": "04:52 PM BDT",
+        "batch_edition": 23,
+        "is_new": true
+      },
       {
         "title": "Ms Rachel on Gaza: ‘everybody should speak out’",
         "summary": "US content creator Ms Rachel has called for more celebrities to speak out against the Gaza genocide.",
@@ -566,7 +579,7 @@
         "expires_at_ts": 1795769425,
         "batch_label": "02:50 PM BDT",
         "batch_edition": 22,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
@@ -581,7 +594,7 @@
         "expires_at_ts": 1795769425,
         "batch_label": "02:50 PM BDT",
         "batch_edition": 22,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "French navy intercepts suspected drug-smuggling semi-submersible",
@@ -596,7 +609,7 @@
         "expires_at_ts": 1795769425,
         "batch_label": "02:50 PM BDT",
         "batch_edition": 22,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gaza meningitis cases surge as collapsing infrastructure fuels health fears",
@@ -1047,54 +1060,54 @@
         "batch_label": "06:28 PM BDT",
         "batch_edition": 12,
         "is_new": false
-      },
-      {
-        "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
-        "summary": "Iran, a major oil producer, is facing a worsening energy crisis as winter looms.",
-        "url": "https://www.aljazeera.com/features/2026/11/25/iran-rations-electricity-how-deeply-are-us-sanctions-blockade-biting?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b069e778520-1795595895.jpg?resize=1920%2C1440",
-        "published_ts": 1795600868,
-        "published": "25 Nov, 04:01 PM",
-        "bn_summary": "শীত আসার আগে ইরান ক্রমেই গভীরতর বিদ্যুৎ ও জ্বালানি সংকটে পড়েছে, ফলে দেশটি বিদ্যুৎ রেশনিং করতে বাধ্য হচ্ছে। তেল উৎপাদনকারী দেশ হওয়া সত্ত্বেও মার্কিন নিষেধাজ্ঞা ও অবরোধের চাপ জ্বালানি সরবরাহে কীভাবে প্রভাব ফেলছে, এই পরিস্থিতি তারই ইঙ্গিত দেয়।",
-        "added_at_ts": 1795602445,
-        "expires_at_ts": 1795688845,
-        "batch_label": "04:27 PM BDT",
-        "batch_edition": 11,
-        "is_new": false
-      },
-      {
-        "title": "Two Libyan soldiers die after Ukraine attack on Russian vessel",
-        "summary": "Khalifa Haftar’s Libyan National Army, which Russia backs, vowed retaliation for the death of its soldiers",
-        "url": "https://www.aljazeera.com/news/2026/11/25/two-libyan-soldiers-die-after-ukraine-attack-on-russian-vessel?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0696ca9bb9d-1795593930.jpg?resize=1920%2C1440",
-        "published_ts": 1795600682,
-        "published": "25 Nov, 03:58 PM",
-        "bn_summary": "ইউক্রেনের একটি হামলায় রাশিয়ার সমর্থিত খলিফা হাফতার-নেতৃত্বাধীন লিবিয়ান ন্যাশনাল আর্মির দুই সৈন্য নিহত হয়েছে বলে প্রতিবেদনটি জানায়। ঘটনাটি লিবিয়ার অভ্যন্তরীণ পক্ষগুলোর সঙ্গে রাশিয়া-ইউক্রেন সংঘাতের যোগসূত্র আরও স্পষ্ট করছে এবং প্রতিশোধের আশঙ্কা বাড়াচ্ছে।",
-        "added_at_ts": 1795602445,
-        "expires_at_ts": 1795688845,
-        "batch_label": "04:27 PM BDT",
-        "batch_edition": 11,
-        "is_new": false
-      },
-      {
-        "title": "Rising prices push families to the brink in Yemen’s Hodeidah",
-        "summary": "Renewed fighting, rising fuel costs and shrinking incomes deepen the struggle to survive in the Houthi-controlled city.",
-        "url": "https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2021-11-22T115343Z_1052369494_RC2YYQ9INXUV_RTRMADP_3_YEMEN-SECURITY-DISPLACED-1795557695.jpg?resize=1920%2C1440",
-        "published_ts": 1795597253,
-        "published": "25 Nov, 03:00 PM",
-        "bn_summary": "ইয়েমেনের হোদেইদায় নতুন করে লড়াই, জ্বালানির দাম বৃদ্ধি ও আয় কমে যাওয়ায় পরিবারগুলোর দৈনন্দিন জীবন আরও কঠিন হয়ে উঠেছে। হুথি-নিয়ন্ত্রিত শহরটির এই সংকট দেখায় যে সংঘাতের পাশাপাশি মূল্যস্ফীতি ও দুর্বল অর্থনীতি সাধারণ মানুষের বেঁচে থাকাকে সরাসরি বিপন্ন করছে।",
-        "added_at_ts": 1795602445,
-        "expires_at_ts": 1795688845,
-        "batch_label": "04:27 PM BDT",
-        "batch_edition": 11,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027. - The Motley Fool",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWVpU0ZjeVA4V2o0NE5nRTM0bDhVMHdySkFHUU5lQ0FpVFhPM01kanhaYldpMjhCTlg1N0lHUlN2aVhfYWlZbkJlWldHak91bkh5OHloOGlGNlE4ZjNJaFhiSzlFSFBwbzJDdVhFNjNCZy0wb3VRYTJxaWN2WnRFcUlsencySk5TVzRHY3NReWx1ZTFqSzJz?oc=5",
+        "source": "The Motley Fool",
+        "image": "",
+        "published_ts": 1795688942,
+        "published": "26 Nov, 04:29 PM",
+        "bn_summary": "প্রতিবেদনটি Nvidia CEO Jensen Huang-এর প্রত্যাবর্তনের প্রেক্ষাপটে ২০২৭ সাল পর্যন্ত Nvidia শেয়ারের সম্ভাব্য দিক নিয়ে একটি পূর্বাভাস দিচ্ছে। AI chip-এর চাহিদা ও কোম্পানির ভবিষ্যৎ প্রবৃদ্ধির ওপর এমন অনুমান নির্ভর করলেও বাজারের অনিশ্চয়তার কারণে এটিকে নিশ্চিত ফল হিসেবে দেখা উচিত নয়।",
+        "added_at_ts": 1795690345,
+        "expires_at_ts": 1795776745,
+        "batch_label": "04:52 PM BDT",
+        "batch_edition": 23,
+        "is_new": true
+      },
+      {
+        "title": "Gold Price Forecast: XAU/USD struggles below $3,600 amid Thanksgiving light trading - FXStreet",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXhUOTE4OUlfNVJEaGpJMmM5ZVh6My1vUFBMMnhWRWU5WWY5Qi1wZkY5djVJSHdmNVFPUnptV3VsbEVUMDk0VEs1UkdiUktjYmJWWWRrNmw4WGxOSmZHdWViQ3FSYklMS3hsbWpEa1gxTS0tSVU4RmJvbGtDZ3dfNEZqQ1pENGZiM1h6QVYyaWFiVW9wd1hjVlN2V24yYmlVSC1nVHRrbEUwQmFuSjVGZXR0OUVpTnpCbmkyZEJWLTJUckI0S2Uw?oc=5",
+        "source": "FXStreet",
+        "image": "",
+        "published_ts": 1795667177,
+        "published": "26 Nov, 10:26 AM",
+        "bn_summary": "Thanksgiving-এর কারণে trading activity কম থাকায় Gold-এর XAU/USD দর ৩,৬০০-এর নিচে চাপের মধ্যে রয়েছে। কম liquidity-তে দামের ওঠানামা বেশি বিভ্রান্তিকর হতে পারে, তাই এই পরিস্থিতি স্বর্ণের স্বল্পমেয়াদি trend বোঝার জন্য গুরুত্বপূর্ণ।",
+        "added_at_ts": 1795690345,
+        "expires_at_ts": 1795776745,
+        "batch_label": "04:52 PM BDT",
+        "batch_edition": 23,
+        "is_new": true
+      },
+      {
+        "title": "Gold Price on 25 November 2026 - Gold Price",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pcmNoQXo5SzFMcHhWVWVuVWoxbHM1S3dDRXRHMUo3dEpuUXRFVnZiV2xvUDNjeEpkYWJBMm50R0lwNXZrbWl3dzlyeWxWMmxtMjhwNGVXYzBjcm5YS2c?oc=5",
+        "source": "Gold Price",
+        "image": "",
+        "published_ts": 1795663118,
+        "published": "26 Nov, 09:18 AM",
+        "bn_summary": "২৫ নভেম্বর ২০২৬ তারিখে স্বর্ণের বাজারদর ও সংশ্লিষ্ট price information এই প্রতিবেদনে দেওয়া হয়েছে। বিনিয়োগকারী ও ক্রেতারা ওই দিনের benchmark হিসেবে এটি ব্যবহার করতে পারেন, তবে স্থানীয় বাজারদর ও currency movement আলাদা হতে পারে।",
+        "added_at_ts": 1795690345,
+        "expires_at_ts": 1795776745,
+        "batch_label": "04:52 PM BDT",
+        "batch_edition": 23,
+        "is_new": true
+      },
       {
         "title": "Gold Price Forecast: Lower Yields Fuel Rebound Despite Fed Hike Bets - FXEmpire",
         "summary": "",
@@ -1108,7 +1121,7 @@
         "expires_at_ts": 1795769425,
         "batch_label": "02:50 PM BDT",
         "batch_edition": 22,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Prediction: This Is What Nvidia Stock Will Be Worth by 2028 - Yahoo Finance",
@@ -1123,7 +1136,7 @@
         "expires_at_ts": 1795769425,
         "batch_label": "02:50 PM BDT",
         "batch_edition": 22,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
@@ -1138,7 +1151,7 @@
         "expires_at_ts": 1795769425,
         "batch_label": "02:50 PM BDT",
         "batch_edition": 22,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Is the Stock Market Open Today? Here Are the Trading Hours for Thanksgiving. - Barron's",
@@ -1589,54 +1602,54 @@
         "batch_label": "06:28 PM BDT",
         "batch_edition": 12,
         "is_new": false
-      },
-      {
-        "title": "The Ruined Gold Market and Shopping Chaos That Gave Black Friday its Name - TheCollector",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFFVcGhjUVd4M0IwS0U1LVUyWGdwV25WdV9ObmhRX1BWbGsycmQxQlZINXY4VXcxS0xKUUx5a192Tk13QndjZnpYQzVDZmkybDM0ZndnYWd5dVdYYkZ3ZS1KRV84Z1dYRklnbGI0VDJ3M0FKdmo2bk05NkZWWkxJTWl3?oc=5",
-        "source": "TheCollector",
-        "image": "",
-        "published_ts": 1795602078,
-        "published": "25 Nov, 04:21 PM",
-        "bn_summary": "‘Black Friday’ নামটির পেছনে থাকা পুরনো সোনার বাজার ধস ও কেনাকাটার বিশৃঙ্খলার ঐতিহাসিক প্রেক্ষাপট এই লেখায় ব্যাখ্যা করা হয়েছে। ফলে জনপ্রিয় shopping event-টির নাম শুধু ছাড়ের উৎসব নয়, বরং আর্থিক আতঙ্ক ও জনসমাগমের ইতিহাসের সঙ্গেও যুক্ত—এটি বোঝা যায়।",
-        "added_at_ts": 1795602445,
-        "expires_at_ts": 1795688845,
-        "batch_label": "04:27 PM BDT",
-        "batch_edition": 11,
-        "is_new": false
-      },
-      {
-        "title": "Nasdaq futures slide over 2% on fresh US tariff concerns; inflation data in focus - Reuters",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
-        "source": "Reuters",
-        "image": "",
-        "published_ts": 1795601503,
-        "published": "25 Nov, 04:11 PM",
-        "bn_summary": "নতুন মার্কিন শুল্ক নিয়ে উদ্বেগ দেখা দেওয়ায় Nasdaq futures ২ শতাংশের বেশি নেমেছে, আর বিনিয়োগকারীরা মূল্যস্ফীতির তথ্যের অপেক্ষায় রয়েছে। শুল্ক বাড়লে বাণিজ্য খরচ ও inflation চাপতে পারে—তাই এই পতন বাজারের অনিশ্চয়তা এবং ভবিষ্যৎ সুদের নীতির দুশ্চিন্তা প্রতিফলিত করছে।",
-        "added_at_ts": 1795602445,
-        "expires_at_ts": 1795688845,
-        "batch_label": "04:27 PM BDT",
-        "batch_edition": 11,
-        "is_new": false
-      },
-      {
-        "title": "This JPMorgan Active ETF Aims to Beat the UK Stock Market - Morningstar",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWG5HamFINFNTd1JreEFiUWl6RzY2RjRqY01KWFJzWTdiXzlkeGFYT2Rab3gwYUdXeXJEUWtEUGtWemhXamVXUTREbmNOclAwRUpLd1BvZFRTNDBNZE10N2w3ZXZuMXBZYkNUUFpiSk5CY0FkU0ZlS25HYWpKSjVCM2h6S3ZnR19KZEN1VjNjbHlHV3ZsRHhn?oc=5",
-        "source": "Morningstar",
-        "image": "",
-        "published_ts": 1795600608,
-        "published": "25 Nov, 03:56 PM",
-        "bn_summary": "JPMorgan-এর একটি active ETF যুক্তরাজ্যের stock market-কে হারানোর লক্ষ্য নিয়ে সক্রিয়ভাবে শেয়ার বাছাই করবে। এটি passive index tracking-এর বদলে fund manager-এর সিদ্ধান্তের ওপর নির্ভর করে অতিরিক্ত return পাওয়ার চেষ্টা করবে, তবে সেই সঙ্গে ব্যবস্থাপনা-ঝুঁকি ও খরচও বিবেচনা করতে হবে।",
-        "added_at_ts": 1795602445,
-        "expires_at_ts": 1795688845,
-        "batch_label": "04:27 PM BDT",
-        "batch_edition": 11,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "Save $1300 on this RTX 5090-equipped 16-inch Lenovo Legion Pro 7i gaming laptop",
+        "summary": "If you're looking to gear up with a powerful new gaming laptop this Black Friday, Lenovo's 16-inch Legion Pro 7i is now $1300 off at B&H.",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd1300-on-this-rtx-5090-equipped-16-inch-lenovo-legion-pro-7i-gaming-laptop-core-ultra-9-system-with-1tb-storage-and-32gb-of-ddr5-drops-to-usd3999",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/g2t9uSVsG8dCSmdLjpixLo-1920-80.jpg",
+        "published_ts": 1795689000,
+        "published": "26 Nov, 04:30 PM",
+        "bn_summary": "Black Friday অফারে Lenovo Legion Pro 7i gaming laptop-এর দাম ১,৩০০ ডলার কমেছে, এবং এতে RTX 5090 GPU রয়েছে। শক্তিশালী gaming ও graphics performance চাওয়া ব্যবহারকারীদের জন্য এটি বড় সাশ্রয়, যদিও মোট দাম ও প্রয়োজনীয়তা যাচাই করা জরুরি।",
+        "added_at_ts": 1795690345,
+        "expires_at_ts": 1795776745,
+        "batch_label": "04:52 PM BDT",
+        "batch_edition": 23,
+        "is_new": true
+      },
+      {
+        "title": "Score a huge $1,700 discount on an RTX 5080 gaming PC from HP, now $2,699.99",
+        "summary": "A huge discount at HP has knocked $1,700 off a HyperX Omen 35L rig with an RTX 5080 and Intel Core Ultra 7 270K, bringing it down to $2,699.99.",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/score-a-huge-usd1-700-discount-on-an-rtx-5080-gaming-pc-from-hp-now-usd2-699-99-massive-deal-on-a-hyperx-omen-rig-with-a-24-core-intel-cpu-and-1tb-ssd",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/MNE2XXPkMkFy37pUZfJoYm-1920-80.png",
+        "published_ts": 1795688100,
+        "published": "26 Nov, 04:15 PM",
+        "bn_summary": "HP-এর HyperX Omen 35L gaming PC-তে ১,৭০০ ডলার discount দিয়ে দাম ২,৬৯৯.৯৯ ডলারে নামানো হয়েছে, আর এতে RTX 5080 ও Intel Core Ultra 7 270K আছে। উচ্চমানের gaming বা content creation-এর জন্য configuration-টি আকর্ষণীয় হলেও deal-এর stock ও শর্ত দ্রুত বদলাতে পারে।",
+        "added_at_ts": 1795690345,
+        "expires_at_ts": 1795776745,
+        "batch_label": "04:52 PM BDT",
+        "batch_edition": 23,
+        "is_new": true
+      },
+      {
+        "title": "SK Hynix Shares Gain 2.48% After Hours - SK hynix (NASDAQ:SKHY) - Benzinga",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNXpET01oMFN6aHdXRnFkM0JUcVV0N3IzMEwwSW51VnBWTUtjTFVheDhLRHpXbjM5VWZsazBIUm8zWnU4MGdXZlo4eThTeHIyeFUzUlEwWXFZLUpQMGJGMXpRTV9aT2d2RWRXYk8zNzk2aGhUWHN4NE42U3ZocTV2OXRvVERiSi12dzhEc3VlVE16X3RnOTNsMFhnUWJZUlpVcGtvbWcxZ0IzNlJ5aS15bnBXQQ?oc=5",
+        "source": "Benzinga",
+        "image": "",
+        "published_ts": 1795685393,
+        "published": "26 Nov, 03:29 PM",
+        "bn_summary": "After-hours trading-এ SK Hynix-এর শেয়ার ২.৪৮ শতাংশ বেড়েছে বলে প্রতিবেদনে উল্লেখ করা হয়েছে। এই উত্থান memory-chip কোম্পানিটির প্রতি বিনিয়োগকারীদের স্বল্পমেয়াদি ইতিবাচক মনোভাব দেখাতে পারে, তবে regular market session-এ দাম ভিন্নভাবে চলতে পারে।",
+        "added_at_ts": 1795690345,
+        "expires_at_ts": 1795776745,
+        "batch_label": "04:52 PM BDT",
+        "batch_edition": 23,
+        "is_new": true
+      },
       {
         "title": "Cash-rich SK Hynix taps SK Square veterans for investment push - KED Global",
         "summary": "",
@@ -1650,7 +1663,7 @@
         "expires_at_ts": 1795769425,
         "batch_label": "02:50 PM BDT",
         "batch_edition": 22,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Micron’s Margins Peaked Before. How Far Did MU Fall? - Trefis",
@@ -1665,7 +1678,7 @@
         "expires_at_ts": 1795769425,
         "batch_label": "02:50 PM BDT",
         "batch_edition": 22,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Micron Technology (MU) Products Are Exempt From New US Tariffs - Yahoo Finance",
@@ -1680,7 +1693,7 @@
         "expires_at_ts": 1795769425,
         "batch_label": "02:50 PM BDT",
         "batch_edition": 22,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "RTX 5060 gaming PC with 16GB DDR5 RAM gets a decent Black Friday discount on Amazon - PC Guide",
@@ -2055,51 +2068,6 @@
         "expires_at_ts": 1795696105,
         "batch_label": "06:28 PM BDT",
         "batch_edition": 12,
-        "is_new": false
-      },
-      {
-        "title": "New CPU benchmark tool promises 40 years of compatibility, with support as far back as i386, Windows 95",
-        "summary": "There's a new CPU benchmark on the way designed to span 40 years of personal computer chipmaking from the i386 to the present day.",
-        "url": "https://www.tomshardware.com/pc-components/cpus/new-cpu-benchmark-tool-promises-40-years-of-compatibility-with-support-as-far-back-as-i386-windows-95-crystalmark-cpuix-tested-on-nec-pc-98-21bs-pentium-100-and-more",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/XymoBGPsECpJ69wCk5EaJQ-1920-80.jpg",
-        "published_ts": 1795600800,
-        "published": "25 Nov, 04:00 PM",
-        "bn_summary": "নতুন CPU benchmark toolটি i386 যুগ থেকে বর্তমান প্রসেসর পর্যন্ত প্রায় ৪০ বছরের hardware compatibility কভার করার দাবি করছে, এমনকি Windows 95 support-ও থাকবে। এত পুরনো ও নতুন সিস্টেমে একই পরীক্ষার সুযোগ দিলে CPU performance-এর দীর্ঘমেয়াদি তুলনা করা সহজ হবে এবং legacy PC-র ব্যবহারকারীরাও উপকৃত হতে পারেন।",
-        "added_at_ts": 1795602445,
-        "expires_at_ts": 1795688845,
-        "batch_label": "04:27 PM BDT",
-        "batch_edition": 11,
-        "is_new": false
-      },
-      {
-        "title": "These four portable monitors are on sale for Black Friday",
-        "summary": "These four portable monitors are available at low prices for Black Friday. Get a second screen for your PC or console, starting under $55",
-        "url": "https://www.tomshardware.com/monitors/portable-monitors/these-four-portable-monitors-are-on-sale-for-black-friday-get-a-second-screen-for-your-pc-or-console-for-less",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/zUKkpzrNjmEmdMxuvXGZRR-1920-80.jpg",
-        "published_ts": 1795600800,
-        "published": "25 Nov, 04:00 PM",
-        "bn_summary": "Black Friday উপলক্ষে চারটি portable monitor কম দামে বিক্রি হচ্ছে, যার দাম শুরু হচ্ছে ৫৫ ডলারেরও কম থেকে। এগুলো laptop, PC বা console-এর জন্য দ্বিতীয় screen হিসেবে কাজে লাগবে এবং চলার পথে বেশি screen space দেবে।",
-        "added_at_ts": 1795602445,
-        "expires_at_ts": 1795688845,
-        "batch_label": "04:27 PM BDT",
-        "batch_edition": 11,
-        "is_new": false
-      },
-      {
-        "title": "AI Chip Boom to See Won Build on Best Year in Almost a Decade - Bloomberg",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUlpdHNJRUdKekF1dG83c2k2dlZkeEVQaHNZVXJPZGtRelRmc1hXMVJBLTl0dDJXWHVIeklrbGdzRUxDR195M1FudHJQMzBHbTNXRTNEMndFbE0xekt0ZGdLMGJUWmhZd19kMGtqOEx1S2l0cElkd3pWLWJOYXNaX1ZjbUtQVGFwcUFRUWtBVGVOOWVRNFVFV2VIR1RPMW5aUmliZGU4aUd5dDlaQkZPOVBR?oc=5",
-        "source": "Bloomberg",
-        "image": "",
-        "published_ts": 1795596848,
-        "published": "25 Nov, 02:54 PM",
-        "bn_summary": "AI chip-এর চাহিদা বাড়ার ফলে Won-এর ব্যবসা প্রায় এক দশকের মধ্যে সেরা বছরের দিকে এগোচ্ছে বলে Bloomberg জানিয়েছে। এই প্রবৃদ্ধি AI infrastructure ও computing hardware-এ বিনিয়োগ বৃদ্ধির প্রভাব দেখায়, যা chip নির্মাতাদের আয় বাড়াচ্ছে।",
-        "added_at_ts": 1795602445,
-        "expires_at_ts": 1795688845,
-        "batch_label": "04:27 PM BDT",
-        "batch_edition": 11,
         "is_new": false
       }
     ]
