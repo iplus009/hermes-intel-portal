@@ -1,28 +1,28 @@
 {
-  "edition": 23,
-  "updated_ts": 1795690345,
-  "updated_dhaka": "26 Nov 2026, 04:52 PM (BDT)",
-  "updated_utc": "2026-11-26 10:52 UTC",
-  "batch_label": "04:52 PM BDT",
+  "edition": 24,
+  "updated_ts": 1795697665,
+  "updated_dhaka": "26 Nov 2026, 06:54 PM (BDT)",
+  "updated_utc": "2026-11-26 12:54 UTC",
+  "batch_label": "06:54 PM BDT",
   "new_added": 10,
-  "expired_removed": 12,
+  "expired_removed": 9,
   "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
   "advice": {
-    "title": "সোনা ও RAM-এ সুযোগ, AI-তে সতর্ক",
-    "body": "বাজার অস্থির, তাই সোনা কেনা ভালো কৌশল। RAM/GPU-র দাম কমছে, দরকারি হার্ডওয়্যার এখনই কিনে নিন। AI প্রজেক্টে ফ্রি API আর GitHub Codespaces ব্যবহার করুন, তবে ডেটা প্রাইভেসি ঝুঁকি এড়িয়ে চলুন।",
-    "tag": "Market & Gold"
+    "title": "GitHub + Gold: আজকের স্মার্ট ডেভ মুভ",
+    "body": "AI স্টক ধসে গেলেও (NVDA -9.5%, MU -15%), GitHub-এ নতুন ওপেন সোর্স AI প্রজেক্ট শুরু করার এটাই সেরা সময়—ফ্রি API আর VPS দিয়ে ছোট টুল বানাও। সোনার দাম $3,597-এ রেকর্ডের কাছাকাছি, তাই পোর্টফোলিওর ১০-১৫% গোল্ডে রাখো। বিশ্ব বাজারে অস্থিরতা (হুথি নিষেধাজ্ঞা, ট্রাম্প ট্যারিফ) থাকায় আজ নতুন স্টক কেনা এড়িয়ে যাও।",
+    "tag": "AI & Dev"
   },
   "quote": {
-    "text_bn": "উঠ, জাগো, লক্ষ্য না পাওয়া পর্যন্ত থামো না।",
-    "author": "স্বামী বিবেকানন্দ",
-    "note_bn": "আজকের অস্থির বাজারে এই মনোভাবই আপনাকে সঠিক সিদ্ধান্ত নিতে সাহায্য করবে।"
+    "text_bn": "কল্পনা জ্ঞান보다 গুরুত্বপূর্ণ।",
+    "author": "আলবার্ট আইনস্টাইন",
+    "note_bn": "আজ AI-তে নতুন কিছু তৈরি করতে কল্পনাই তোমার আসল শক্তি—জ্ঞান তো ফ্রি API থেকে নিয়ে নাও।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,580.70",
-      "change_pct": 0.53,
+      "price": "$3,597.40",
+      "change_pct": 1.0,
       "up": true
     },
     {
@@ -56,8 +56,8 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$60,437.46",
-      "change_pct": 0.1,
+      "price": "$60,879.26",
+      "change_pct": 0.83,
       "up": true
     }
   ],
@@ -76,7 +76,7 @@
         "expires_at_ts": 1795776745,
         "batch_label": "04:52 PM BDT",
         "batch_edition": 23,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "I've joined OpenAI! I'm very proud of my time at Anthropic, and I'll continue to root for my former colleagues. Both companies have important roles to play in the future. There is ",
@@ -471,6 +471,23 @@
     ],
     "github": [
       {
+        "title": "Moh4696/inkworks-skill",
+        "summary": "Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet.",
+        "url": "https://github.com/Moh4696/inkworks-skill",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/Moh4696/inkworks-skill",
+        "stars": 343,
+        "language": "JavaScript",
+        "published_ts": 1795598793,
+        "published": "2026-11-25",
+        "bn_summary": "Inkworks ekta agent skill jar madhyome interactive 3D 'how-it-works' page banano jay, engineering sheet er moto kore. Eta important karon AI agent ekhon technical bisoy bujhiye deyar visual content create korte parbe, documentation o education e help korbe.",
+        "added_at_ts": 1795697665,
+        "expires_at_ts": 1795784065,
+        "batch_label": "06:54 PM BDT",
+        "batch_edition": 24,
+        "is_new": true
+      },
+      {
         "title": "alesha-pro/llm.asm",
         "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
         "url": "https://github.com/alesha-pro/llm.asm",
@@ -522,6 +539,51 @@
     ],
     "war": [
       {
+        "title": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
+        "summary": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.",
+        "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afc9077dd1d-1794936951.jpg?resize=1643%2C1080&quality=80",
+        "published_ts": 1795695049,
+        "published": "26 Nov, 06:10 PM",
+        "bn_summary": "UK Yemen er Houthi group ebong tadeder leaders der upor sanction arop koreche, tadeder Middle East er stability nosto korar obhijog e. Eta symbolic karon Houthi ra Saudi te attack korar somoy ei sanction asche, kintu practical impact shongkhobhobhet kom.",
+        "added_at_ts": 1795697665,
+        "expires_at_ts": 1795784065,
+        "batch_label": "06:54 PM BDT",
+        "batch_edition": 24,
+        "is_new": true
+      },
+      {
+        "title": "Iraq denies reports of troop movements towards Kurdish region",
+        "summary": "Government says there is 'no truth' to media reports that Iraqi army units were moving towards the Kurdistan region.",
+        "url": "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b07eadf53-1795680991.jpg?resize=1920%2C1440",
+        "published_ts": 1795692209,
+        "published": "26 Nov, 05:23 PM",
+        "bn_summary": "Iraq sarkar deny koreche je tar sena bahini Kurdistan region er dike chole jacche. Ei rumor thakle Baghdad ar Erbil er moddhe tension barbe, tai ei denial stability rakkhar jonno.",
+        "added_at_ts": 1795697665,
+        "expires_at_ts": 1795784065,
+        "batch_label": "06:54 PM BDT",
+        "batch_edition": 24,
+        "is_new": true
+      },
+      {
+        "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
+        "summary": "New US policy threatens further tariff hikes on China, India, Vietnam if trade negotiations fall through.",
+        "url": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0800d5-1795686613.jpg?resize=1920%2C1440",
+        "published_ts": 1795691250,
+        "published": "26 Nov, 05:07 PM",
+        "bn_summary": "Trump er tariff policy ki US-friendly trade deal secure korar jonno, she niye article e alochona kora hocche. New policy onujayi China, India, Vietnam er upor aro tariff barate parbe jodi trade negotiation fail kore, tai global trade er upor boro prabhab porbe.",
+        "added_at_ts": 1795697665,
+        "expires_at_ts": 1795784065,
+        "batch_label": "06:54 PM BDT",
+        "batch_edition": 24,
+        "is_new": true
+      },
+      {
         "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
         "summary": "Russian forces launch ballistic missile attack on Ukrainian capital Kyiv, hitting a shopping centre and other buildings.",
         "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
@@ -534,7 +596,7 @@
         "expires_at_ts": 1795776745,
         "batch_label": "04:52 PM BDT",
         "batch_edition": 23,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Iqbal in space: Urdu poet’s verses unite India, Pakistan beyond Earth",
@@ -549,7 +611,7 @@
         "expires_at_ts": 1795776745,
         "batch_label": "04:52 PM BDT",
         "batch_edition": 23,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Israeli attacks on Gaza kill senior education official, seven other people",
@@ -564,7 +626,7 @@
         "expires_at_ts": 1795776745,
         "batch_label": "04:52 PM BDT",
         "batch_edition": 23,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Ms Rachel on Gaza: ‘everybody should speak out’",
@@ -1015,54 +1077,54 @@
         "batch_label": "08:30 PM BDT",
         "batch_edition": 13,
         "is_new": false
-      },
-      {
-        "title": "Russian strikes on Ukraine cause power outages in five regions",
-        "summary": "A Ukrainian official says attacks on Zaporizhia and Dnipropetrovsk regions damaged a number of energy sites.",
-        "url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b06bd6a8681-1795603818.jpg?resize=1920%2C1440",
-        "published_ts": 1795609157,
-        "published": "25 Nov, 06:19 PM",
-        "bn_summary": "রাশিয়ার হামলায় ইউক্রেনের জাপোরিঝিয়া ও দনিপ্রোপেত্রোভস্কসহ পাঁচটি অঞ্চলের কয়েকটি জ্বালানি স্থাপনা ক্ষতিগ্রস্ত হয়েছে। এতে বিদ্যুৎ সরবরাহে বিঘ্ন ঘটেছে, যা সাধারণ মানুষের জীবন ও জরুরি সেবায় নতুন চাপ তৈরি করছে।",
-        "added_at_ts": 1795609705,
-        "expires_at_ts": 1795696105,
-        "batch_label": "06:28 PM BDT",
-        "batch_edition": 12,
-        "is_new": false
-      },
-      {
-        "title": "Overnight RSF drone attacks kill 19 in Sudan",
-        "summary": "The attacks on Blue Nile State also injured at least 20 people – in a drone war that is quickly escalating.",
-        "url": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b06b9bd3343-1795602877.jpg?resize=1920%2C1440",
-        "published_ts": 1795607895,
-        "published": "25 Nov, 05:58 PM",
-        "bn_summary": "সুদানের ব্লু নাইল রাজ্যে RSF-এর রাতভর ড্রোন হামলায় ১৯ জন নিহত এবং অন্তত ২০ জন আহত হয়েছেন। ড্রোন ব্যবহার দ্রুত বাড়তে থাকায় দেশটির সংঘাত আরও প্রাণঘাতী ও বিস্তৃত হওয়ার আশঙ্কা দেখা দিয়েছে।",
-        "added_at_ts": 1795609705,
-        "expires_at_ts": 1795696105,
-        "batch_label": "06:28 PM BDT",
-        "batch_edition": 12,
-        "is_new": false
-      },
-      {
-        "title": "Fire breaks out following drone strikes on a residential area in Al Damazin",
-        "summary": "Flames seen engulfing a house in Sudan’s Blue Nile state, following a large-scale drone strike carried out by the RSF.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/fire-breaks-out-following-drone-strikes-on-a-residential-area-in-al-damazin?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795607418.jpg?resize=1920%2C1080&quality=80",
-        "published_ts": 1795607450,
-        "published": "25 Nov, 05:50 PM",
-        "bn_summary": "RSF-এর বড় ধরনের ড্রোন হামলার পর সুদানের আল দামাজিনের একটি আবাসিক এলাকায় বাড়িতে আগুন ধরে যায়। বেসামরিক এলাকায় এমন হামলা মানুষের নিরাপত্তা সংকট বাড়ায় এবং সংঘাতের মানবিক ক্ষয়ক্ষতি আরও স্পষ্ট করে।",
-        "added_at_ts": 1795609705,
-        "expires_at_ts": 1795696105,
-        "batch_label": "06:28 PM BDT",
-        "batch_edition": 12,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap - Bloomberg.com",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
+        "source": "Bloomberg.com",
+        "image": "",
+        "published_ts": 1795692488,
+        "published": "26 Nov, 05:28 PM",
+        "bn_summary": "Stocks ar Nasdaq futures baraiche, karon AI trade abar rebound korche. Eta important karon recent volatility er por tech sector e investor confidence phire ashche.",
+        "added_at_ts": 1795697665,
+        "expires_at_ts": 1795784065,
+        "batch_label": "06:54 PM BDT",
+        "batch_edition": 24,
+        "is_new": true
+      },
+      {
+        "title": "The Nasdaq Fell Below Correction Territory: 2 Beaten-Down Nasdaq Stocks to Buy and Hold - Yahoo Finance",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEZDdzJaXzI2djh4UFdsQy1JZkQ5SmxiekszdnZSUTA4Y3V5N2FsM2tURmhvZW8tSnhva2h0SkFXYi1uMUt1XzZCWmszWVdPcThISHN1d1p2UnhTekI2OGFZbjNEcjBxc215MnNpaGFhbW1KLVBsc2xib3hNM2FndVlKeE1Kd285RmtHX3F2WGc0ZXEyejc2Y1laWXhHZmJ1cWt0R2l3?oc=5",
+        "source": "Yahoo Finance",
+        "image": "",
+        "published_ts": 1795683002,
+        "published": "26 Nov, 02:50 PM",
+        "bn_summary": "Nasdaq correction territory te niche name, ar duita beaten-down Nasdaq stock ke buy-and-hold opportunity hisebe highlight kora hoyeche. Correction long-term investor der jonno entry point create kore, tai eta matter kore.",
+        "added_at_ts": 1795697665,
+        "expires_at_ts": 1795784065,
+        "batch_label": "06:54 PM BDT",
+        "batch_edition": 24,
+        "is_new": true
+      },
+      {
+        "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
+        "source": "Kitco",
+        "image": "",
+        "published_ts": 1795679768,
+        "published": "26 Nov, 01:56 PM",
+        "bn_summary": "Kitco te gold er current price per ounce ar 24 hour spot chart dekha jacche. Market uncertainty te gold safe-haven asset hisebe track kora investor der jonno important.",
+        "added_at_ts": 1795697665,
+        "expires_at_ts": 1795784065,
+        "batch_label": "06:54 PM BDT",
+        "batch_edition": 24,
+        "is_new": true
+      },
       {
         "title": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027. - The Motley Fool",
         "summary": "",
@@ -1076,7 +1138,7 @@
         "expires_at_ts": 1795776745,
         "batch_label": "04:52 PM BDT",
         "batch_edition": 23,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold Price Forecast: XAU/USD struggles below $3,600 amid Thanksgiving light trading - FXStreet",
@@ -1091,7 +1153,7 @@
         "expires_at_ts": 1795776745,
         "batch_label": "04:52 PM BDT",
         "batch_edition": 23,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold Price on 25 November 2026 - Gold Price",
@@ -1106,7 +1168,7 @@
         "expires_at_ts": 1795776745,
         "batch_label": "04:52 PM BDT",
         "batch_edition": 23,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold Price Forecast: Lower Yields Fuel Rebound Despite Fed Hike Bets - FXEmpire",
@@ -1557,54 +1619,54 @@
         "batch_label": "08:30 PM BDT",
         "batch_edition": 13,
         "is_new": false
-      },
-      {
-        "title": "Gold price today, Wednesday, November 25, 2026: Gold prices fall as inflation data and potential new tariffs loom - Yahoo Finance",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPb3dFeUN5SkJCNHNoN2FGTDYzdHNOcXJtS0NVRlBDWUJtOFNiMndWMXBHNHJ0SHFRbm1ORkdDTUtBVEQ4ZUJlRC1QeU5xZ2VPVHVNTVNMa3E2SHpheU5XSGY0YVJEcS1OSmpKM21nTGx4QS1zVUxKWHVNeFd4Wko5NUltTHNTQTU2am1tRjZkX3dGTUttQ09DcUJaYmloUXExakZRUnFCVURWUy1sbENFdXFubllDSXVvZVgtVk5WejVKQzVZY1Nvbkx5N2hxNzhhelVheFlVTUFzNkJhMV9ISm9sR3cxanB0RXhlRGVyNmswd09EOXZuVU5kR3hJVXV4Vk9Wal9ReWY4M29mTGR1bHdhbw?oc=5",
-        "source": "Yahoo Finance",
-        "image": "",
-        "published_ts": 1795608948,
-        "published": "25 Nov, 06:15 PM",
-        "bn_summary": "২৫ নভেম্বর ২০২৬-এ মুদ্রাস্ফীতির নতুন তথ্য এবং সম্ভাব্য শুল্ক নিয়ে অনিশ্চয়তার মধ্যে সোনার দাম কমেছে। বিনিয়োগকারীরা অর্থনৈতিক নীতি ও মূল্যস্ফীতির দিকনির্দেশনা বুঝতে তথ্যের অপেক্ষায় থাকায় বাজারে চাপ তৈরি হয়েছে।",
-        "added_at_ts": 1795609705,
-        "expires_at_ts": 1795696105,
-        "batch_label": "06:28 PM BDT",
-        "batch_edition": 12,
-        "is_new": false
-      },
-      {
-        "title": "Gold Price Today on November 25, 2026 - USA Today",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdkN3Vkc5ZGNYOVpyNnFWbjQxMENmU0tGSFZQX3gxc2ZfS2RJSF9rM3M0bUZiY3dKUVAtYWxBbnNzRlE2dzZvZUVfdVlqT3pGbW5xWTRsNWtIdmctOEN4dl83VWhvcENZUUFDRTJ5NW55ZVZTeTVCSkZxMFdGR2VBWXRyeDNSWmh4ZHFiSWNGV3U0Y0dTNG5STHBScU1YSkFHSEhF?oc=5",
-        "source": "USA Today",
-        "image": "",
-        "published_ts": 1795605068,
-        "published": "25 Nov, 05:11 PM",
-        "bn_summary": "২৫ নভেম্বর ২০২৬-এর প্রতিবেদনে সোনার দিনের দাম ও বাজারের সাম্প্রতিক গতিপ্রকৃতি তুলে ধরা হয়েছে। মুদ্রাস্ফীতি, সুদের হার এবং বৈশ্বিক অনিশ্চয়তা সোনার দামের ওঠানামায় গুরুত্বপূর্ণ ভূমিকা রাখছে।",
-        "added_at_ts": 1795609705,
-        "expires_at_ts": 1795696105,
-        "batch_label": "06:28 PM BDT",
-        "batch_edition": 12,
-        "is_new": false
-      },
-      {
-        "title": "Trump owned millions in Nvidia stock as he pressed chip giant to reinstate Jensen Huang - CBS News",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95MDQ2enUzdlIwVHpBQTRKRG9Gek5jcTVtdGNaclcyRVpzSVVnWUIxRl90OFZoSGpaNS1HZ0N1bGw3TFNqazVDS1JMVVNvOEpRVWgzbnFPZUNfUm8ydVl6cnlkLWJ1M2wxWkNTQk5n?oc=5",
-        "source": "CBS News",
-        "image": "",
-        "published_ts": 1795604412,
-        "published": "25 Nov, 05:00 PM",
-        "bn_summary": "চিপ নির্মাতা Nvidia-কে Jensen Huang-কে পুনর্বহালের জন্য চাপ দেওয়ার সময় ডোনাল্ড ট্রাম্পের কাছে কোম্পানিটির কোটি ডলারের শেয়ার ছিল বলে প্রতিবেদনে বলা হয়েছে। এই মালিকানা তাঁর বক্তব্য ও নীতিগত চাপের ক্ষেত্রে সম্ভাব্য স্বার্থসংঘাত নিয়ে প্রশ্ন তুলতে পারে।",
-        "added_at_ts": 1795609705,
-        "expires_at_ts": 1795696105,
-        "batch_label": "06:28 PM BDT",
-        "batch_edition": 12,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "AI models on one vLLM server secretly talk through GPU rounding errors",
+        "summary": "Two AI models on one vLLM inference server traded secret messages through GPU kernel rounding errors, with no network or shared files.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sandboxed-ai-models-secretly-talk-via-gpu-rounding-errors-on-shared-vllm-servers-with-no-network-or-shared-files-colluding-watchdog-let-all-354-attacks-slip-through",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/TMUte2TB7mThSYVgWPKiQL-1920-80.jpg",
+        "published_ts": 1795696200,
+        "published": "26 Nov, 06:30 PM",
+        "bn_summary": "Duota AI model same vLLM server e GPU rounding error diye secret message exchange korte parche, kono network ba shared file chara. Eta matter kore karon shared AI inference infrastructure e side-channel security risk thakte pare.",
+        "added_at_ts": 1795697665,
+        "expires_at_ts": 1795784065,
+        "batch_label": "06:54 PM BDT",
+        "batch_edition": 24,
+        "is_new": true
+      },
+      {
+        "title": "AMD Ryzen 7 9800X3D plummets to an all-time low of $369 at Amazon",
+        "summary": "One of the very best gaming CPUs on the market is now cheaper than ever.",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amds-dominant-ryzen-7-9800x3d-plummets-to-all-time-low-of-usd369-at-amazon-astonishing-gaming-performance-for-am5",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/gdS8B7MtcRAvqXsgY3zExM-1920-80.jpg",
+        "published_ts": 1795694447,
+        "published": "26 Nov, 06:00 PM",
+        "bn_summary": "AMD Ryzen 7 9800X3D er dam Amazon e all-time low $369 e namche. Eta best gaming CPU gulor ekta, tai builder der jonno affordable option hoye geche.",
+        "added_at_ts": 1795697665,
+        "expires_at_ts": 1795784065,
+        "batch_label": "06:54 PM BDT",
+        "batch_edition": 24,
+        "is_new": true
+      },
+      {
+        "title": "Export-banned Nvidia Blackwell B300 servers are openly for sale in China for up to $3.4 million",
+        "summary": "It's easy to find Blackwell chips for sale in China even today — uneven enforcement of export controls and gray market trading ensure continued availability",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/export-banned-nvidia-blackwell-b300-servers-are-openly-for-sale-in-china-for-up-to-usd3-4-million-a-5x-to-6x-markup-over-u-s-prices",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/iPmrEtNmpAx79TNibeBMXb-1920-80.jpg",
+        "published_ts": 1795694400,
+        "published": "26 Nov, 06:00 PM",
+        "bn_summary": "Export-ban kora Nvidia Blackwell B300 servers China te openly $3.4 million porjonto becha hocche. Eta dekhaiche je export control enforcement soman na, ar gray market e advanced AI hardware available thakbe.",
+        "added_at_ts": 1795697665,
+        "expires_at_ts": 1795784065,
+        "batch_label": "06:54 PM BDT",
+        "batch_edition": 24,
+        "is_new": true
+      },
       {
         "title": "Save $1300 on this RTX 5090-equipped 16-inch Lenovo Legion Pro 7i gaming laptop",
         "summary": "If you're looking to gear up with a powerful new gaming laptop this Black Friday, Lenovo's 16-inch Legion Pro 7i is now $1300 off at B&H.",
@@ -1618,7 +1680,7 @@
         "expires_at_ts": 1795776745,
         "batch_label": "04:52 PM BDT",
         "batch_edition": 23,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Score a huge $1,700 discount on an RTX 5080 gaming PC from HP, now $2,699.99",
@@ -1633,7 +1695,7 @@
         "expires_at_ts": 1795776745,
         "batch_label": "04:52 PM BDT",
         "batch_edition": 23,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "SK Hynix Shares Gain 2.48% After Hours - SK hynix (NASDAQ:SKHY) - Benzinga",
@@ -1648,7 +1710,7 @@
         "expires_at_ts": 1795776745,
         "batch_label": "04:52 PM BDT",
         "batch_edition": 23,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Cash-rich SK Hynix taps SK Square veterans for investment push - KED Global",
@@ -2023,51 +2085,6 @@
         "expires_at_ts": 1795703425,
         "batch_label": "08:30 PM BDT",
         "batch_edition": 13,
-        "is_new": false
-      },
-      {
-        "title": "AMD's Radeon RX 9060 XT sets new GPU frequency world record of 4.837 GHz",
-        "summary": "AMD's Radeon RX 9060 XT has reached a new GPU frequency world record of 4,837 MHz. AMD VP Jack Huynh and veteran overclocker Bill Alverson used liquid nitrogen cooling to help the smaller RDNA 4 GPU open a 48MHz gap over the previous world record run.",
-        "url": "https://www.tomshardware.com/pc-components/gpus/radeon-rx-9060-xt-sets-new-gpu-frequency-world-record-of-4-837-ghz-amd-overclocking-team-pushes-mid-range-rdna-4-gpu-to-the-max-under-liquid-nitrogen",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/xZuigq5Szn7wTRX8pM9SwP-1920-80.jpg",
-        "published_ts": 1795606200,
-        "published": "25 Nov, 05:30 PM",
-        "bn_summary": "তরল নাইট্রোজেন ব্যবহার করে AMD Radeon RX 9060 XT-এর ঘড়ির গতি ৪.৮৩৭ গিগাহার্টজে তোলা হয়েছে, যা নতুন GPU ফ্রিকোয়েন্সি বিশ্বরেকর্ড। এই ফলাফল সাধারণ ব্যবহারের গতি নয়, বরং চরম ওভারক্লকিংয়ে হার্ডওয়্যারটির সক্ষমতা দেখায়।",
-        "added_at_ts": 1795609705,
-        "expires_at_ts": 1795696105,
-        "batch_label": "06:28 PM BDT",
-        "batch_edition": 12,
-        "is_new": false
-      },
-      {
-        "title": "This Acer Nitro V laptop with Nvidia RTX 5060 GPU is $1,049 at Best Buy",
-        "summary": "This 15.6-inch Acer Nitro gaming laptop features an RTX 5060 GPU, a 10-core Intel CPU, and a 512GB SSD for $1,049",
-        "url": "https://www.tomshardware.com/laptops/gaming-laptops/this-acer-nitro-v-laptop-with-nvidia-rtx-5060-gpu-is-usd1-049-at-best-buy-16-inch-boasts-16gb-ddr5-ram-and-a-512gb-ssd",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/EFmd4zw7NGtUgp9oMfGvvn-1920-80.jpg",
-        "published_ts": 1795605754,
-        "published": "25 Nov, 05:22 PM",
-        "bn_summary": "Best Buy-তে Acer Nitro V-এর এই ১৫.৬ ইঞ্চি গেমিং ল্যাপটপটি ১,০৪৯ ডলারে পাওয়া যাচ্ছে এবং এতে Nvidia RTX 5060, ১০-কোর Intel CPU ও ৫১২ জিবি SSD রয়েছে। তুলনামূলক দামে শক্তিশালী গ্রাফিক্স পাওয়ায় এটি 1080p গেমিং ও দৈনন্দিন ভারী কাজের জন্য আকর্ষণীয় হতে পারে।",
-        "added_at_ts": 1795609705,
-        "expires_at_ts": 1795696105,
-        "batch_label": "06:28 PM BDT",
-        "batch_edition": 12,
-        "is_new": false
-      },
-      {
-        "title": "PS5 modder rips out logic board, turns his console into liquid-cooled Phanteks PC",
-        "summary": "An intrepid YouTube tech enthusiast was dissatisfied with his PlayStation 5 Pro's cooling, so he ripped out the logic board and built an entire custom PC around it, complete with 3D-printed parts and liquid cooling.",
-        "url": "https://www.tomshardware.com/video-games/playstation/ps5-modder-rips-out-logic-board-to-turn-his-console-into-liquid-cooled-phanteks-pc-custom-playstation-5-pro-build-took-120-hours-has-its-own-psu-aio-and-3d-printed-parts",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/UncbiuVZTa9iiM6q2hL6hK-1920-80.png",
-        "published_ts": 1795604400,
-        "published": "25 Nov, 05:00 PM",
-        "bn_summary": "একজন PS5 Pro মডার কনসোলটির লজিক বোর্ড খুলে সেটিকে Phanteks কেসে তরল-শীতলীকৃত কাস্টম PC হিসেবে পুনর্নির্মাণ করেছেন। প্রকল্পটি সৃজনশীল হলেও অত্যন্ত জটিল, এবং এতে কনসোলের ওয়ারেন্টি ও মূল নকশা নষ্ট হওয়ার ঝুঁকি রয়েছে।",
-        "added_at_ts": 1795609705,
-        "expires_at_ts": 1795696105,
-        "batch_label": "06:28 PM BDT",
-        "batch_edition": 12,
         "is_new": false
       }
     ]
