@@ -1,28 +1,28 @@
 {
-  "edition": 24,
-  "updated_ts": 1795697665,
-  "updated_dhaka": "26 Nov 2026, 06:54 PM (BDT)",
-  "updated_utc": "2026-11-26 12:54 UTC",
-  "batch_label": "06:54 PM BDT",
-  "new_added": 10,
-  "expired_removed": 9,
-  "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
+  "edition": 25,
+  "updated_ts": 1795704925,
+  "updated_dhaka": "26 Nov 2026, 08:55 PM (BDT)",
+  "updated_utc": "2026-11-26 14:55 UTC",
+  "batch_label": "08:55 PM BDT",
+  "new_added": 12,
+  "expired_removed": 12,
+  "curated_by": "codex-relay (gpt-5.6-luna)",
   "advice": {
-    "title": "GitHub + Gold: আজকের স্মার্ট ডেভ মুভ",
-    "body": "AI স্টক ধসে গেলেও (NVDA -9.5%, MU -15%), GitHub-এ নতুন ওপেন সোর্স AI প্রজেক্ট শুরু করার এটাই সেরা সময়—ফ্রি API আর VPS দিয়ে ছোট টুল বানাও। সোনার দাম $3,597-এ রেকর্ডের কাছাকাছি, তাই পোর্টফোলিওর ১০-১৫% গোল্ডে রাখো। বিশ্ব বাজারে অস্থিরতা (হুথি নিষেধাজ্ঞা, ট্রাম্প ট্যারিফ) থাকায় আজ নতুন স্টক কেনা এড়িয়ে যাও।",
-    "tag": "AI & Dev"
+    "title": "AI সিগন্যাল দেখে স্মার্ট পদক্ষেপ",
+    "body": "Mistral Large 4-এর visual grounding ও GitHub-এর nexu-io/opengame পরীক্ষা করে ছোট AI prototype বানান, আর Free API ও WPX-এর ৬ মাসের free VPS অফার দিয়ে নিরাপদে deploy করুন। Gold 1.22% উঠলেও S&P 500, NASDAQ, NVDA ও Micron/RAM তীব্রভাবে নেমেছে—তাই একবারে বিনিয়োগ না করে cash ভাগ করে ধাপে ধাপে কিনুন এবং DDR5/চিপের দাম যাচাই করুন। মধ্যপ্রাচ্যের যুদ্ধ ও তেল-রাজনীতির ঝুঁকিতে stop-loss, backup এবং VPS security শক্ত রাখুন।",
+    "tag": "Market & Gold"
   },
   "quote": {
-    "text_bn": "কল্পনা জ্ঞান보다 গুরুত্বপূর্ণ।",
-    "author": "আলবার্ট আইনস্টাইন",
-    "note_bn": "আজ AI-তে নতুন কিছু তৈরি করতে কল্পনাই তোমার আসল শক্তি—জ্ঞান তো ফ্রি API থেকে নিয়ে নাও।"
+    "text_bn": "কাজটি সম্পন্ন না হওয়া পর্যন্ত সবকিছুই অসম্ভব মনে হয়।",
+    "author": "নেলসন ম্যান্ডেলা",
+    "note_bn": "আজ বড় লক্ষ্যকে ছোট টাস্কে ভাগ করে প্রথমটি এখনই শেষ করুন।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,597.40",
-      "change_pct": 1.0,
+      "price": "$3,605.30",
+      "change_pct": 1.22,
       "up": true
     },
     {
@@ -56,13 +56,28 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$60,879.26",
-      "change_pct": 0.83,
+      "price": "$60,712.49",
+      "change_pct": 0.55,
       "up": true
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "Point taken 📍 Mistral Large 4 finds the exact match and outlines it on the map. On visual grounding tasks, Le Chonk beats even closed frontier models. - X",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HbDFaRC15LUFKRmJXenZIblFxWkJqUlJCZ1hqNFVBb1dQYU40enJhUGowcVJFeGZ6djIxR0w2dDBCdkdyeVQ5QzFacFM2ek1NRGFpN3FRSUtrSWdaWlpj?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795692785,
+        "published": "26 Nov, 05:33 PM",
+        "bn_summary": "Mistral Large 4 visual grounding task-এ ছবির নির্দিষ্ট জিনিসটি ঠিকভাবে শনাক্ত করে মানচিত্রে তার অবস্থান দেখিয়েছে। এই ফলাফল বোঝায় যে মডেলটি শুধু ছবি চিনতে নয়, বরং নির্দিষ্ট visual reference খুঁজে বের করতেও দক্ষ।",
+        "added_at_ts": 1795704925,
+        "expires_at_ts": 1795791325,
+        "batch_label": "08:55 PM BDT",
+        "batch_edition": 25,
+        "is_new": true
+      },
       {
         "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
         "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction ",
@@ -422,54 +437,26 @@
         "batch_label": "10:32 PM BDT",
         "batch_edition": 14,
         "is_new": false
-      },
-      {
-        "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-        "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the pot",
-        "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-        "source": "The Verge",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-        "published_ts": 1795615953,
-        "published": "25 Nov, 08:12 PM",
-        "bn_summary": "Amazon ও Meta নাকি এমন একটি চুক্তি নিয়ে আলোচনা করছে, যাতে Meta-র Muse AI এজেন্ট Amazon-এর marketplace-এ সরাসরি কেনাকাটা করতে পারে। দুই মাসের বাধা কাটলে AI agent-ভিত্তিক shopping বাড়তে পারে, তবে user data, payment ও platform control নিয়ে নতুন প্রশ্ন উঠবে।",
-        "added_at_ts": 1795617025,
-        "expires_at_ts": 1795703425,
-        "batch_label": "08:30 PM BDT",
-        "batch_edition": 13,
-        "is_new": false
-      },
-      {
-        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-        "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-        "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-        "source": "TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-        "published_ts": 1795615818,
-        "published": "25 Nov, 08:10 PM",
-        "bn_summary": "Amazon ও Meta Muse নামের AI shopping agent-এর ওপর চলা দুই মাসের blockade তুলে নেওয়ার সম্ভাব্য চুক্তি নিয়ে কথা বলছে। সমঝোতা হলে Muse Amazon-এর পণ্য খুঁজে কেনার কাজ করতে পারবে এবং e-commerce-এ autonomous AI ব্যবহারের প্রতিযোগিতা তীব্র হবে।",
-        "added_at_ts": 1795617025,
-        "expires_at_ts": 1795703425,
-        "batch_label": "08:30 PM BDT",
-        "batch_edition": 13,
-        "is_new": false
-      },
-      {
-        "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-        "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
-        "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
-        "source": "TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249127237.jpg?resize=1200,800",
-        "published_ts": 1795611600,
-        "published": "25 Nov, 07:00 PM",
-        "bn_summary": "Nvidia CEO Jensen Huang-কে তাঁর alleged chip-smuggler-এর সঙ্গে romantic সম্পর্ক নিয়ে Congress ও Nvidia-র board-এর প্রশ্নের মুখোমুখি হতে হতে পারে। বিষয়টি সত্য হলে ব্যক্তিগত সম্পর্কের পাশাপাশি কোম্পানির governance, security ও chip-trade compliance নিয়েও চাপ তৈরি হতে পারে।",
-        "added_at_ts": 1795617025,
-        "expires_at_ts": 1795703425,
-        "batch_label": "08:30 PM BDT",
-        "batch_edition": 13,
-        "is_new": false
       }
     ],
     "github": [
+      {
+        "title": "nexu-io/opengame",
+        "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikT",
+        "url": "https://github.com/nexu-io/opengame",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/nexu-io/opengame",
+        "stars": 397,
+        "language": "TypeScript",
+        "published_ts": 1795602945,
+        "published": "2026-11-25",
+        "bn_summary": "nexu-io/opengame হলো AI agent-ভিত্তিক game development platform, যেখানে Claude Code, Codex ও DeepSeek-এর মতো ২০টির বেশি coding agent ব্যবহার করে Unity বা Unreal-ধাঁচের গেম বানানো যায়। ১০০টির বেশি remixable viral game থাকায় developers দ্রুত prototype তৈরি ও নতুন গেম পরীক্ষা করতে পারবেন।",
+        "added_at_ts": 1795704925,
+        "expires_at_ts": 1795791325,
+        "batch_label": "08:55 PM BDT",
+        "batch_edition": 25,
+        "is_new": true
+      },
       {
         "title": "Moh4696/inkworks-skill",
         "summary": "Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet.",
@@ -485,7 +472,7 @@
         "expires_at_ts": 1795784065,
         "batch_label": "06:54 PM BDT",
         "batch_edition": 24,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "alesha-pro/llm.asm",
@@ -506,6 +493,21 @@
       }
     ],
     "free_deals": [
+      {
+        "title": "WPX Hosting Black Friday deal 2026 is live: get 6 months FREE - Cybernews",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNl92Y3loN2RMeUhNX2pGS2xwdE43cVJzeTIxaHhIY25BcmxmY2xwZzRXNXozcUYwUDRMOTRNNnBVNlNKOXRuYy1mZkhzSWZCLWVMaDVfU0xEcmJjN0lrd25QWk5zai1nNmNSSDFBZ1FWWFhwOHVJU3NvUkF4c0Z5eW9qV3g5eDlTdFktcEZiNEZfX00?oc=5",
+        "source": "Cybernews",
+        "image": "",
+        "published_ts": 1795700068,
+        "published": "26 Nov, 07:34 PM",
+        "bn_summary": "Cybernews-এর তথ্য অনুযায়ী WPX Hosting-এর Black Friday 2026 offer-এ নতুন গ্রাহকেরা ছয় মাস hosting বিনামূল্যে পেতে পারেন। এই deal hosting খরচ কমাতে পারে, তবে eligibility, renewal price ও শর্তগুলো আগে যাচাই করা জরুরি।",
+        "added_at_ts": 1795704925,
+        "expires_at_ts": 1795791325,
+        "batch_label": "08:55 PM BDT",
+        "batch_edition": 25,
+        "is_new": true
+      },
       {
         "title": "Give the Gemini API CLI a try if you haven't already. I use it daily within Antigravity so that Neon can add background music to demos or build character voices for games. P.S. Goo",
         "summary": "",
@@ -539,6 +541,51 @@
     ],
     "war": [
       {
+        "title": "Can Trump continue with Iran war despite funding restrictions?",
+        "summary": "A Congress budget bill could serve as a pressure tactic on Trump to end the war but could also trigger a shutdown.",
+        "url": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04df4d-1795481421.jpg?resize=1920%2C1440",
+        "published_ts": 1795702641,
+        "published": "26 Nov, 08:17 PM",
+        "bn_summary": "Congress-এর budget bill Trump-এর Iran war চালানোর অর্থায়নে চাপ সৃষ্টি করতে পারে, এমনকি funding না মেললে government shutdown-এর ঝুঁকিও তৈরি হতে পারে। তাই যুদ্ধের স্থায়িত্ব শুধু সামরিক সিদ্ধান্ত নয়, যুক্তরাষ্ট্রের অভ্যন্তরীণ বাজেট রাজনীতির ওপরও নির্ভর করছে।",
+        "added_at_ts": 1795704925,
+        "expires_at_ts": 1795791325,
+        "batch_label": "08:55 PM BDT",
+        "batch_edition": 25,
+        "is_new": true
+      },
+      {
+        "title": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
+        "summary": "Prime Minister al-Zaidi's move to take control of border crossings and oilfields has drawn a sharp response from Erbil.",
+        "url": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08184c-1795692620.jpg?resize=1920%2C1440",
+        "published_ts": 1795702200,
+        "published": "26 Nov, 08:10 PM",
+        "bn_summary": "ইরাকের প্রধানমন্ত্রী আল-জায়েদি border crossing ও oilfield-এর নিয়ন্ত্রণ কেন্দ্রীয় সরকারের হাতে নিতে চাইলে Erbil তীব্র প্রতিক্রিয়া জানিয়েছে। তেল-রাজস্ব ও সীমান্ত নিয়ন্ত্রণ নিয়ে এই বিরোধ Baghdad ও Iraq-এর Kurdish region-এর রাজনৈতিক সম্পর্ক আরও দুর্বল করতে পারে।",
+        "added_at_ts": 1795704925,
+        "expires_at_ts": 1795791325,
+        "batch_label": "08:55 PM BDT",
+        "batch_edition": 25,
+        "is_new": true
+      },
+      {
+        "title": "Film shows testimonies of international doctors amid Gaza genocide",
+        "summary": "A documentary shows footage from international doctors who bore witness to the collapse of the Gaza's medical system.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/film-shows-testimonies-of-international-doctors-amid-gaza-genocide?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795698133.jpg?resize=1920%2C1080&quality=80",
+        "published_ts": 1795698144,
+        "published": "26 Nov, 07:02 PM",
+        "bn_summary": "একটি documentary-তে আন্তর্জাতিক চিকিৎসকেরা Gaza-র হাসপাতাল ও চিকিৎসাব্যবস্থা ভেঙে পড়ার প্রত্যক্ষ অভিজ্ঞতা তুলে ধরেছেন। তাঁদের testimony যুদ্ধের মানবিক ক্ষতি এবং চিকিৎসা অবকাঠামোর ওপর হামলার ব্যাপ্তি বোঝাতে গুরুত্বপূর্ণ প্রমাণ হিসেবে কাজ করছে।",
+        "added_at_ts": 1795704925,
+        "expires_at_ts": 1795791325,
+        "batch_label": "08:55 PM BDT",
+        "batch_edition": 25,
+        "is_new": true
+      },
+      {
         "title": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
         "summary": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.",
         "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
@@ -551,7 +598,7 @@
         "expires_at_ts": 1795784065,
         "batch_label": "06:54 PM BDT",
         "batch_edition": 24,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Iraq denies reports of troop movements towards Kurdish region",
@@ -566,7 +613,7 @@
         "expires_at_ts": 1795784065,
         "batch_label": "06:54 PM BDT",
         "batch_edition": 24,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
@@ -581,7 +628,7 @@
         "expires_at_ts": 1795784065,
         "batch_label": "06:54 PM BDT",
         "batch_edition": 24,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
@@ -1032,54 +1079,54 @@
         "batch_label": "10:32 PM BDT",
         "batch_edition": 14,
         "is_new": false
-      },
-      {
-        "title": "US court convicts Huawei of theft: A history of Chinese firm’s global woes",
-        "summary": "Chinese tech giant has faced legal problems from Europe to Asia, and its products have been banned in trade war with US.",
-        "url": "https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2024/03/2021-06-23T213734Z_2018083332_RC2J6O9U7F43_RTRMADP_3_HUAWEI-5G-1-1709274412.jpg?resize=1920%2C1440",
-        "published_ts": 1795613871,
-        "published": "25 Nov, 07:37 PM",
-        "bn_summary": "একটি US court Huawei-কে চুরি বা বাণিজ্যিক গোপনীয়তা আত্মসাতের ঘটনায় দোষী সাব্যস্ত করেছে বলে প্রতিবেদনে বলা হয়েছে। এই রায় Huawei-র দীর্ঘদিনের international legal ও trade conflict আরও বাড়াতে পারে এবং বিশ্ববাজারে চীনা প্রযুক্তি কোম্পানিগুলোর ঝুঁকি তুলে ধরে।",
-        "added_at_ts": 1795617025,
-        "expires_at_ts": 1795703425,
-        "batch_label": "08:30 PM BDT",
-        "batch_edition": 13,
-        "is_new": false
-      },
-      {
-        "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
-        "summary": "Israel's tech sector and economy have strong ties to chip giant Nvidia, which invests billions of dollars.",
-        "url": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afb1ed172-1794842321_94fc07-1795607658.jpg?resize=1200%2C630&quality=80",
-        "published_ts": 1795611857,
-        "published": "25 Nov, 07:04 PM",
-        "bn_summary": "Nvidia-র Jensen Huang-এর Israel সফরকে দেশটির tech sector বিশেষভাবে স্বাগত জানাচ্ছে, কারণ Nvidia সেখানে বড় অঙ্কের বিনিয়োগ ও প্রযুক্তিগত সম্পর্ক গড়ে তুলেছে। এই ঘনিষ্ঠতা Israel-এর chip ecosystem ও economy-র জন্য কর্মসংস্থান, research এবং global investment আকর্ষণে গুরুত্বপূর্ণ।",
-        "added_at_ts": 1795617025,
-        "expires_at_ts": 1795703425,
-        "batch_label": "08:30 PM BDT",
-        "batch_edition": 13,
-        "is_new": false
-      },
-      {
-        "title": "The rising cost of Thanksgiving",
-        "summary": "In the US, consumers are shelling out more money for food this Thanksgiving holiday.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-rising-cost-of-thanksgiving?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795609718.jpg?resize=1920%2C1080&quality=80",
-        "published_ts": 1795609749,
-        "published": "25 Nov, 06:29 PM",
-        "bn_summary": "যুক্তরাষ্ট্রে Thanksgiving holiday-র খাবারের জন্য consumers আগের চেয়ে বেশি টাকা খরচ করছেন, কারণ grocery ও খাদ্যপণ্যের দাম বেড়েছে। এতে উৎসবের meal আয়োজন পরিবারের বাজেটে বাড়তি চাপ ফেলছে এবং inflation-এর দৈনন্দিন প্রভাব স্পষ্ট হচ্ছে।",
-        "added_at_ts": 1795617025,
-        "expires_at_ts": 1795703425,
-        "batch_label": "08:30 PM BDT",
-        "batch_edition": 13,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "Semiconductor chips are the new oil. Here's why",
+        "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
+        "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+        "source": "CNBC",
+        "image": "https://image.cnbcfm.com/api/v1/image/108345773-1785990932116-gettyimages-2286772264-SKOREA_SK_HYNIX.jpeg?v=1785990945&w=1920&h=1080",
+        "published_ts": 1795699165,
+        "published": "26 Nov, 07:19 PM",
+        "bn_summary": "CNBC-এর প্রতিবেদনে বলা হয়েছে, 2026 সালে semiconductor exports প্রথমবার oil ও gas exports-কে ছাড়িয়েছে, যার প্রধান চালিকা শক্তি AI boom-এর chip demand। ফলে chips এখন energy-এর মতোই কৌশলগত সম্পদ হয়ে উঠছে এবং supply chain ও বৈশ্বিক অর্থনীতিতে এর প্রভাব বাড়ছে।",
+        "added_at_ts": 1795704925,
+        "expires_at_ts": 1795791325,
+        "batch_label": "08:55 PM BDT",
+        "batch_edition": 25,
+        "is_new": true
+      },
+      {
+        "title": "Gold Analysis: Is the XAU/USD Recovery Running Out of Steam? - StoneX",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdjdyTGl3SFpDaW5YWmIxY2hmNTdqSWR1WGZTaDhPaWFCaGFzTlZIb2s3a3dhYWM1OERkdTRxM1lrM1hMTXA0QlBzMFFaNWxDRkVldEYwUjJxeDFhR0NHTkNGU25WT19lQzROR3NXcmo5Q3QxcUUzcThjUUpmMi1LSk42RGJIdWhZc1RZZjliYmM0NXVIWDdzNHZET0pmcXVEekxTVm9fTnhqUQ?oc=5",
+        "source": "StoneX",
+        "image": "",
+        "published_ts": 1795699017,
+        "published": "26 Nov, 07:16 PM",
+        "bn_summary": "StoneX বিশ্লেষণটি XAU/USD-এর সাম্প্রতিক recovery কতটা টেকসই এবং ঊর্ধ্বগতি থেমে যাওয়ার ঝুঁকি আছে কি না তা মূল্যায়ন করছে। সুদের হার, ডলার ও safe-haven চাহিদার পরিবর্তন gold-এর পরবর্তী দিক নির্ধারণে গুরুত্বপূর্ণ হবে।",
+        "added_at_ts": 1795704925,
+        "expires_at_ts": 1795791325,
+        "batch_label": "08:55 PM BDT",
+        "batch_edition": 25,
+        "is_new": true
+      },
+      {
+        "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer - Yahoo Finance",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1Rxc3Npdy0xNkNUdG5uVng4N2VYRUdpTWUwVUFIcXViLXpaTGtEdDc5bEM3dkEzZDcwandwN19SdnhGbzN0VmRNRkZieVVLc1FVSzFrUVJnQ0Y3VnlIMjhvRVlWYmk2aWY4UGdpejJOMkQ1bFJ2N3UtQTA2TVZSSGNFQ1dhUlRhSG0zUUFJR0JYSkVvU2VraGZpWQ?oc=5",
+        "source": "Yahoo Finance",
+        "image": "",
+        "published_ts": 1795697642,
+        "published": "26 Nov, 06:54 PM",
+        "bn_summary": "Nvidia-র share price-এর সাম্প্রতিক পরিবর্তন Jensen Huang-এর Nvidia-সংযুক্ত সম্পদের মূল্যকে স্পষ্টভাবে প্রভাবিত করেছে। বিষয়টি দেখায় যে AI market-এর প্রত্যাশা ও Nvidia-র valuation শুধু কোম্পানির নয়, তার প্রধান নির্বাহীর ব্যক্তিগত সম্পদেও বড় ওঠানামা আনতে পারে।",
+        "added_at_ts": 1795704925,
+        "expires_at_ts": 1795791325,
+        "batch_label": "08:55 PM BDT",
+        "batch_edition": 25,
+        "is_new": true
+      },
       {
         "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap - Bloomberg.com",
         "summary": "",
@@ -1093,7 +1140,7 @@
         "expires_at_ts": 1795784065,
         "batch_label": "06:54 PM BDT",
         "batch_edition": 24,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "The Nasdaq Fell Below Correction Territory: 2 Beaten-Down Nasdaq Stocks to Buy and Hold - Yahoo Finance",
@@ -1108,7 +1155,7 @@
         "expires_at_ts": 1795784065,
         "batch_label": "06:54 PM BDT",
         "batch_edition": 24,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco",
@@ -1123,7 +1170,7 @@
         "expires_at_ts": 1795784065,
         "batch_label": "06:54 PM BDT",
         "batch_edition": 24,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027. - The Motley Fool",
@@ -1574,54 +1621,54 @@
         "batch_label": "10:32 PM BDT",
         "batch_edition": 14,
         "is_new": false
-      },
-      {
-        "title": "Nasdaq Futures Tumble as AI Selloff Returns - WSJ",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNVZEZVVpM2pKb2t2dDktNWRNZ2xTXzc5aUN3SjNzM1dRbGRHUkZoYjFJY2hRaGZCd1dsNGNXckIxOWg1el9oZnhVVjRNSlpwcjJFLTQxSzZqSFZ1bVZGczJWR2RTT1BUU3BLenB0amhsQWFqRlJWNlNTdkR0dGRlcmNzWDg0R19lMDVwQ2lUdVF5YTQ0SnZKWElqbGwwa3VIemV3WDhVWEpiQQ?oc=5",
-        "source": "WSJ",
-        "image": "",
-        "published_ts": 1795613280,
-        "published": "25 Nov, 07:28 PM",
-        "bn_summary": "AI কোম্পানি ও chip stock-এ আবার বিক্রির চাপ ফিরলে Nasdaq futures দ্রুত নেমে গেছে বলে WSJ জানিয়েছে। এতে বিনিয়োগকারীদের উচ্চমূল্যের AI শেয়ারের ভবিষ্যৎ growth ও valuation নিয়ে আস্থা কমার ইঙ্গিত মিলছে।",
-        "added_at_ts": 1795617025,
-        "expires_at_ts": 1795703425,
-        "batch_label": "08:30 PM BDT",
-        "batch_edition": 13,
-        "is_new": false
-      },
-      {
-        "title": "Gold price falls to $3,496/oz after U.S. durable goods rise 0.2% in October - Kitco",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmtTc2VWTGRZcEpmNW1iNGxBaVVoRE43X3JldG5BaUNLSGZ1UWhnYzQxcDhhdFZXTFRaWUJWNk91bjRSYXhiSWNQeFAxRmFta2duN3Y1elNoVTEyUm9kdG1Ha3N2SEpPLVB6X2JtWnhaNjR1MTVOUnFVLUJ1UDNKNVFMTDRjM2VvajU1UGhFZDZ5R0pwZU9YWXdWM0FmdVBVT2JpNG9GeUszdVA2?oc=5",
-        "source": "Kitco",
-        "image": "",
-        "published_ts": 1795612599,
-        "published": "25 Nov, 07:16 PM",
-        "bn_summary": "অক্টোবরে U.S. durable-goods orders 0.2 শতাংশ বাড়ার পর gold-এর দাম প্রায় 3,496 ডলার প্রতি ounce-এ নেমেছে। শক্তিশালী অর্থনৈতিক চাহিদার এই সংকেত সুদের হার কমার প্রত্যাশা কমাতে পারে, ফলে সুদ না দেওয়া gold-এর আকর্ষণ সাময়িকভাবে দুর্বল হয়।",
-        "added_at_ts": 1795617025,
-        "expires_at_ts": 1795703425,
-        "batch_label": "08:30 PM BDT",
-        "batch_edition": 13,
-        "is_new": false
-      },
-      {
-        "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-        "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
-        "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-        "source": "CNBC",
-        "image": "https://image.cnbcfm.com/api/v1/image/108363966-17895850832026-09-16t184440z_1480461473_rc2iknalvbnr_rtrmadp_0_usa-fed.jpeg?v=1789585109&w=1920&h=1080",
-        "published_ts": 1795609601,
-        "published": "25 Nov, 06:26 PM",
-        "bn_summary": "Nvidia-কে ঘিরে তীব্র ওঠানামা বাজারের volatility বাড়িয়েছে, যা Federal Reserve Chairman Kevin Warsh-এর market signals বোঝার কাজকে কঠিন করছে। এই পরিস্থিতিতে tech-stock sentiment, interest-rate প্রত্যাশা ও broader economic data আলাদা করে মূল্যায়ন করা জরুরি হয়ে পড়েছে।",
-        "added_at_ts": 1795617025,
-        "expires_at_ts": 1795703425,
-        "batch_label": "08:30 PM BDT",
-        "batch_edition": 13,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "Get an RTX 5060 gaming PC with DDR5 for just $1,141",
+        "summary": "Another great entry level PC in the Amazon Black Friday sale.",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/get-an-rtx-5060-gaming-pc-with-ddr5-for-just-usd1-141-intel-core-i5-14400f-build-is-one-of-the-most-solid-budget-options-weve-seen",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/WPPY6sJNhG44W7XqU9Gkb8-1920-80.jpg",
+        "published_ts": 1795702757,
+        "published": "26 Nov, 08:19 PM",
+        "bn_summary": "Amazon-এর Black Friday sale-এ DDR5 RAM-সহ RTX 5060 gaming PC-এর দাম ১,১৪১ ডলারে নেমেছে, যা entry-level gaming-এর জন্য তুলনামূলক সাশ্রয়ী setup। একই সঙ্গে নতুন GPU ও DDR5 platform পাওয়ায় buyer-রা ভবিষ্যতের গেম এবং upgrade-এর জন্যও ভালো ভিত্তি পাবেন।",
+        "added_at_ts": 1795704925,
+        "expires_at_ts": 1795791325,
+        "batch_label": "08:55 PM BDT",
+        "batch_edition": 25,
+        "is_new": true
+      },
+      {
+        "title": "Solo developer vibe codes a gallery hosting 36 classic GPU demos",
+        "summary": "A solo developer known as arkits has created an online gallery to view classic 3D graphics demos live in the browser.",
+        "url": "https://www.tomshardware.com/video-games/retro-gaming/solo-developer-vibe-codes-a-gallery-hosting-36-classic-gpu-demos-preservation-effort-includes-3dfx-voodoo-showcases-from-1997-nvidia-bubble-and-more",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/RFis5f5faDsjup7Ws7gFb9-1920-80.jpg",
+        "published_ts": 1795701600,
+        "published": "26 Nov, 08:00 PM",
+        "bn_summary": "Solo developer arkits browser-e cholar moto ekta online gallery baniyechen, jekhane 36ti classic 3D GPU demo live dekha jay। Ete purono graphics technology alada software install na korei dekha o tulona kora shohoj hoy।",
+        "added_at_ts": 1795704925,
+        "expires_at_ts": 1795791325,
+        "batch_label": "08:55 PM BDT",
+        "batch_edition": 25,
+        "is_new": true
+      },
+      {
+        "title": "CPU Price Index 2026",
+        "summary": "In our CPU price index, we find the lowest prices on the most popular CPUs so you don't have to.",
+        "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/lowest-cpu-prices-2026",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/k4AKviAvaLVH4RtZZTPrdc-1920-80.png",
+        "published_ts": 1795701439,
+        "published": "26 Nov, 07:57 PM",
+        "bn_summary": "Tom’s Hardware-er CPU Price Index 2026 popular processor-gulor moddhe bortomane shobcheye kom damgulo khuje tule dhore। Ei data buyer-der budget onujayi bhalo CPU select korte ebong market price compare korte shahajjo kore।",
+        "added_at_ts": 1795704925,
+        "expires_at_ts": 1795791325,
+        "batch_label": "08:55 PM BDT",
+        "batch_edition": 25,
+        "is_new": true
+      },
       {
         "title": "AI models on one vLLM server secretly talk through GPU rounding errors",
         "summary": "Two AI models on one vLLM inference server traded secret messages through GPU kernel rounding errors, with no network or shared files.",
@@ -1635,7 +1682,7 @@
         "expires_at_ts": 1795784065,
         "batch_label": "06:54 PM BDT",
         "batch_edition": 24,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "AMD Ryzen 7 9800X3D plummets to an all-time low of $369 at Amazon",
@@ -1650,7 +1697,7 @@
         "expires_at_ts": 1795784065,
         "batch_label": "06:54 PM BDT",
         "batch_edition": 24,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Export-banned Nvidia Blackwell B300 servers are openly for sale in China for up to $3.4 million",
@@ -1665,7 +1712,7 @@
         "expires_at_ts": 1795784065,
         "batch_label": "06:54 PM BDT",
         "batch_edition": 24,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Save $1300 on this RTX 5090-equipped 16-inch Lenovo Legion Pro 7i gaming laptop",
@@ -2040,51 +2087,6 @@
         "expires_at_ts": 1795710745,
         "batch_label": "10:32 PM BDT",
         "batch_edition": 14,
-        "is_new": false
-      },
-      {
-        "title": "Resourceful PC owner repurposes CPU watercooler with dead pump as standalone LCD hardware monitor, vibecodes new software for module",
-        "summary": "The Redditor salvaged the LCD and controller board, 3D-printed a stand, and used AI to develop a custom software to turn the screen into a standalone PC monitoring display.",
-        "url": "https://www.tomshardware.com/pc-components/liquid-cooling/resourceful-pc-owner-repurposes-cpu-watercooler-with-dead-pump-as-standalone-lcd-hardware-monitor-vibecodes-new-software-for-module-nzxt-krakens-lcd-and-controller-board-combined-with-3d-printed-stand-for-second-chance-at-life",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/PhywGimNE7gbWBVp7vRDoj-1920-80.jpg",
-        "published_ts": 1795615431,
-        "published": "25 Nov, 08:03 PM",
-        "bn_summary": "একজন PC owner নষ্ট pump-সহ CPU watercooler থেকে LCD screen ও controller board খুলে 3D-printed stand বানিয়ে আলাদা hardware monitor তৈরি করেছেন। AI দিয়ে লেখা custom software ব্যবহার করে পুরনো যন্ত্রাংশ পুনর্ব্যবহার করা হয়েছে, যা e-waste কমানোর পাশাপাশি low-cost DIY hardware-এর সম্ভাবনা দেখায়।",
-        "added_at_ts": 1795617025,
-        "expires_at_ts": 1795703425,
-        "batch_label": "08:30 PM BDT",
-        "batch_edition": 13,
-        "is_new": false
-      },
-      {
-        "title": "Deep clean your PC in seconds with cordless duster deals from $19",
-        "summary": "Black Friday 2026 is the perfect time to pick up an air blower to clean grime and dust from your PC fans, keyboard keys, and more.",
-        "url": "https://www.tomshardware.com/peripherals/deep-clean-your-pc-in-seconds-with-cordless-air-duster-deals-from-usd19-on-black-friday-save-hundreds-on-canned-air-with-unlimited-high-rpm-dusting-power",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/XqSr2HVpJS99JzhHZfjtPf-1920-80.jpg",
-        "published_ts": 1795615099,
-        "published": "25 Nov, 07:58 PM",
-        "bn_summary": "Black Friday 2026-এ $19 থেকে cordless air blower পাওয়া যাচ্ছে, যা PC fan, keyboard এবং অন্যান্য অংশের ধুলো-ময়লা দ্রুত পরিষ্কার করতে পারে। নিয়মিত deep cleaning করলে airflow ভালো থাকে, ফলে PC ঠান্ডা ও স্থিতিশীলভাবে চলতে সাহায্য করে।",
-        "added_at_ts": 1795617025,
-        "expires_at_ts": 1795703425,
-        "batch_label": "08:30 PM BDT",
-        "batch_edition": 13,
-        "is_new": false
-      },
-      {
-        "title": "Buying single sticks of DDR5 memory can save you more than buying a kit",
-        "summary": "It is cheaper to buy a single stick of RAM twice in some cases on Black Friday.",
-        "url": "https://www.tomshardware.com/pc-components/ddr5/buying-single-sticks-of-ddr5-memory-can-save-you-more-than-buying-a-kit-16gb-kits-are-less-than-half-the-price-of-2-x-16gb-at-amazon-and-newegg",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/qhLpuNkQALKv38i7QGPAqb-1920-80.jpg",
-        "published_ts": 1795614188,
-        "published": "25 Nov, 07:43 PM",
-        "bn_summary": "কিছু Black Friday ডিলে একই মডেলের DDR5 RAM আলাদা আলাদা করে দুইবার কেনা, সরাসরি dual-stick kit কেনার চেয়ে সস্তা হতে পারে। তবে compatibility ও একই speed-timing নিশ্চিত করা জরুরি, নইলে performance বা stability সমস্যা দেখা দিতে পারে।",
-        "added_at_ts": 1795617025,
-        "expires_at_ts": 1795703425,
-        "batch_label": "08:30 PM BDT",
-        "batch_edition": 13,
         "is_new": false
       }
     ]
