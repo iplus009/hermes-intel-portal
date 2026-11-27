@@ -1,28 +1,28 @@
 {
-  "edition": 34,
-  "updated_ts": 1795770625,
-  "updated_dhaka": "27 Nov 2026, 03:10 PM (BDT)",
-  "updated_utc": "2026-11-27 09:10 UTC",
-  "batch_label": "03:10 PM BDT",
+  "edition": 35,
+  "updated_ts": 1795777945,
+  "updated_dhaka": "27 Nov 2026, 05:12 PM (BDT)",
+  "updated_utc": "2026-11-27 11:12 UTC",
+  "batch_label": "05:12 PM BDT",
   "new_added": 10,
   "expired_removed": 10,
   "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
   "advice": {
-    "title": "AI দুনিয়ায় নিজের পথ নিজেই তৈরি করো",
-    "body": "বাজার যখন অস্থির (NVDA -9.5%, Micron -15%), তখন AI স্কিল আর ফ্রি টুলসই সবচেয়ে বড় বিনিয়োগ। GitHub, ফ্রি API আর VPS দিয়ে নিজের প্রজেক্ট বানাও; SAP-এর মতো কোম্পানিতে AI রিস্ট্রাকচারিং মানে নতুন সুযোগ। আর RAM/ল্যাপটপের Black Friday ডিলে আপগ্রেড করে নাও, আর সোনার মতো সেফ হেভেনে ছোট বিনিয়োগ রাখো।",
-    "tag": "AI & Dev"
+    "title": "সোনায় লাভ, স্টকে সতর্ক, ফ্রি API-তে সুযোগ",
+    "body": "বিশ্ব পরিস্থিতি অনিশ্চিত, তাই সোনা (+৪%) ভালো বিকল্প; অন্যদিকে NVDA ও Micron-এর মতো টেক স্টক পড়ছে, তাই নতুন বিনিয়োগে গোল্ড ETF বা সোনালী সঞ্চয়পত্র ভাবুন। পাশাপাশি Kimi-র ফ্রি API ক্রেডিট আর Black Friday-র RAM/SSD ডিল কাজে লাগিয়ে GitHub-এ নিজের AI প্রজেক্ট ডিপ্লয় করুন; VPS-এ অটোমেশন সেটআপ করলে খরচও বাঁচবে।",
+    "tag": "Market & Gold"
   },
   "quote": {
-    "text_bn": "যদি তোর ডাক শুনে কেউ না আসে তবে একলা চলো রে।",
-    "author": "রবীন্দ্রনাথ ঠাকুর",
-    "note_bn": "আজকের বাজারে একা পথ চলতে শেখো—ফ্রি API আর GitHub-এ নিজের প্রজেক্ট শুরু করো।"
+    "text_bn": "হাজার মাইলের যাত্রা শুরু হয় একটি পদক্ষেপ দিয়েই।",
+    "author": "লাও জু",
+    "note_bn": "আজ ছোট একটি পদক্ষেপ নিন—ফ্রি API ক্রেডিট দিয়ে একটি ছোট অটোমেশন বা অল্প পরিমাণে গোল্ড কেনা শুরু করুন।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,706.10",
-      "change_pct": 4.05,
+      "price": "$3,705.00",
+      "change_pct": 4.02,
       "up": true
     },
     {
@@ -56,8 +56,8 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$61,700.87",
-      "change_pct": 1.99,
+      "price": "$61,544.93",
+      "change_pct": 1.74,
       "up": true
     }
   ],
@@ -76,7 +76,7 @@
         "expires_at_ts": 1795857025,
         "batch_label": "03:10 PM BDT",
         "batch_edition": 34,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Starting today, we're offering free Kimi API credits to support scientific research worldwide. Selected teams will receive free Kimi API credits, access to our latest models, and o",
@@ -152,21 +152,6 @@
         "batch_label": "08:55 PM BDT",
         "batch_edition": 25,
         "is_new": false
-      },
-      {
-        "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-        "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction ",
-        "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-        "source": "The Verge",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "published_ts": 1795686880,
-        "published": "26 Nov, 03:54 PM",
-        "bn_summary": "Chapter 11 bankruptcy চলাকালে Character.AI ব্যবহারকারীদের chat data বিক্রি ঠেকাতে ৪২টি অঙ্গরাজ্যের attorney general একজোট হয়েছে। বিষয়টি গুরুত্বপূর্ণ কারণ data বিক্রি হলে ব্যক্তিগত কথোপকথনের privacy ও user control গুরুতরভাবে ক্ষতিগ্রস্ত হতে পারে।",
-        "added_at_ts": 1795690345,
-        "expires_at_ts": 1795776745,
-        "batch_label": "04:52 PM BDT",
-        "batch_edition": 23,
-        "is_new": false
       }
     ],
     "github": [
@@ -241,6 +226,21 @@
     ],
     "free_deals": [
       {
+        "title": "Kimi is offering free API credits, access to its latest models, and long-term collaboration opportunities to support scientific research worldwide. 7B worth of token is huge. - X",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53ZV9KMWxYQmc0aXZUU2lKUWlvU3lybzNJX29pTm81UE5JdldidmY2d1lJNVByT21EUHp5V0xXczBYT0RBRFBTUTYzMTRZaUhTZ2VucWdrWTNYT0FGTUE4cktTaFlFZw?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795775448,
+        "published": "27 Nov, 04:30 PM",
+        "bn_summary": "Kimi বিজ্ঞান গবেষণার জন্য বিনামূল্যে API ক্রেডিট এবং সর্বশেষ মডেল ব্যবহারের সুযোগ দিচ্ছে, সাথে দীর্ঘমেয়াদী সহযোগিতার প্রস্তাব দিচ্ছে। এটি গবেষকদের জন্য বড় সুবিধা কারণ উন্নত AI টুলস এখন অনেকের কাছে সহজলভ্য হবে এবং বিজ্ঞানের অগ্রগতিতে সাহায্য করবে।",
+        "added_at_ts": 1795777945,
+        "expires_at_ts": 1795864345,
+        "batch_label": "05:12 PM BDT",
+        "batch_edition": 35,
+        "is_new": true
+      },
+      {
         "title": "Our Eureka Machine sets up a new record for backprop-free LLM training 😀 Great work @cong_ml and the team! - X",
         "summary": "",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMWmoyVzMxYmx0bi1aQ1c1aFhyYmtxNXYtMktMYUVyZU9ZUnJzS3pCSGFxYlZpYU5GVjVMMUZadTNjNFNoZVItb0xVeGEtMUplQXMxOWpwRkZfdw?oc=5",
@@ -288,6 +288,51 @@
     ],
     "war": [
       {
+        "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+        "summary": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
+        "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed57/live/574552c0-ea45-11f1-9fc4-ef897a334b75.jpg",
+        "published_ts": 1795775971,
+        "published": "27 Nov, 04:39 PM",
+        "bn_summary": "উগান্ডা কঙ্গোর একটি শহর থেকে সৈন্য প্রত্যাহার করছে, যা দুই দেশের মধ্যে কূটনৈতিক বিরোধের কারণে ঘটেছে। এই সিদ্ধান্ত ইসলামি জঙ্গি গোষ্ঠীর বিরুদ্ধে যৌথ সামরিক অভিযানকে দুর্বল করতে পারে এবং অঞ্চলের নিরাপত্তায় প্রভাব ফেলতে পারে।",
+        "added_at_ts": 1795777945,
+        "expires_at_ts": 1795864345,
+        "batch_label": "05:12 PM BDT",
+        "batch_edition": 35,
+        "is_new": true
+      },
+      {
+        "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
+        "summary": "Sanctions aim to restrict funds for two men alleged to have planned attacks for IRGC.",
+        "url": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/getty_68ae4c0709-1756253191.jpg?resize=1920%2C1440",
+        "published_ts": 1795775480,
+        "published": "27 Nov, 04:31 PM",
+        "bn_summary": "অস্ট্রেলিয়া ইরান-সম্পর্কিত ইহুদি-বিরোধী হামলার পরিকল্পনার অভিযোগে দুই ব্যক্তির উপর নিষেধাজ্ঞা দিয়েছে, যাদের IRGC-র সাথে যুক্ত বলে মনে করা হচ্ছে। এর ফলে তাদের অর্থায়ন সীমিত হবে এবং অস্ট্রেলিয়া ইরানের বিরুদ্ধে কঠোর অবস্থান নিচ্ছে বলে বার্তা যাবে।",
+        "added_at_ts": 1795777945,
+        "expires_at_ts": 1795864345,
+        "batch_label": "05:12 PM BDT",
+        "batch_edition": 35,
+        "is_new": true
+      },
+      {
+        "title": "‘I cannot go to work’: Iranians contend with pollution as well as US war",
+        "summary": "Hospital admissions for respiratory ailments have soared as the winter smog sets in.",
+        "url": "https://www.aljazeera.com/economy/2026/11/27/i-cannot-go-to-work-iranians-contend-with-pollution-as-well-as-us-war?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/1795729566911-1795771702.jpg?resize=1920%2C1440",
+        "published_ts": 1795774544,
+        "published": "27 Nov, 04:15 PM",
+        "bn_summary": "ইরানের মানুষ এখন শীতের ধোঁয়াশা ও বায়ু দূষণের কারণে শ্বাসকষ্টে ভুগছে, আর হাসপাতালে রোগী বেড়ে যাচ্ছে। মার্কিন যুদ্ধের চাপের সাথে এই পরিবেশগত সংকট মিলে ইরানের সাধারণ মানুষের জীবন আরও কঠিন করে তুলছে।",
+        "added_at_ts": 1795777945,
+        "expires_at_ts": 1795864345,
+        "batch_label": "05:12 PM BDT",
+        "batch_edition": 35,
+        "is_new": true
+      },
+      {
         "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
         "summary": "One in eight children is stunted. Many have bones that have not matured the way they should. Treatment is elusive.",
         "url": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
@@ -300,7 +345,7 @@
         "expires_at_ts": 1795857025,
         "batch_label": "03:10 PM BDT",
         "batch_edition": 34,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Can the Mecca pact turn its collective defence promise into real support?",
@@ -315,7 +360,7 @@
         "expires_at_ts": 1795857025,
         "batch_label": "03:10 PM BDT",
         "batch_edition": 34,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Hakeem Jeffries has disarmed a progressive revolt, but can he deliver?",
@@ -330,7 +375,7 @@
         "expires_at_ts": 1795857025,
         "batch_label": "03:10 PM BDT",
         "batch_edition": 34,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Israel uses south Lebanon Christian villages to try to divide and conquer",
@@ -781,54 +826,54 @@
         "batch_label": "06:54 PM BDT",
         "batch_edition": 24,
         "is_new": false
-      },
-      {
-        "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
-        "summary": "Russian forces launch ballistic missile attack on Ukrainian capital Kyiv, hitting a shopping centre and other buildings.",
-        "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b07dde5-1795677669.jpg?resize=1200%2C675",
-        "published_ts": 1795687329,
-        "published": "26 Nov, 04:02 PM",
-        "bn_summary": "রুশ-অধিকৃত Zaporizhia-তে একটি drone হামলায় পাঁচজন নিহত হয়েছে বলে প্রতিবেদনটি জানাচ্ছে, আর একই সময়ে Kyiv-তে রুশ ballistic missile হামলায় shopping centre ও অন্য ভবন ক্ষতিগ্রস্ত হয়েছে। ঘটনাগুলো যুদ্ধের বিস্তার এবং বেসামরিক মানুষের ওপর চলমান ঝুঁকি আরও স্পষ্ট করছে।",
-        "added_at_ts": 1795690345,
-        "expires_at_ts": 1795776745,
-        "batch_label": "04:52 PM BDT",
-        "batch_edition": 23,
-        "is_new": false
-      },
-      {
-        "title": "Iqbal in space: Urdu poet’s verses unite India, Pakistan beyond Earth",
-        "summary": "Pakistan's first astronaut recited Iqbal on board China's space station, echoing two earlier encounters in orbit.",
-        "url": "https://www.aljazeera.com/news/2026/11/26/iqbal-in-space-urdu-poets-verses-unite-india-pakistan-beyond-earth?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T025517Z_1582279526_RC2NUOADQ0AE_RTRMADP_3_SPACE-EXPLORATION-CHINA-PAKISTAN-1795680433.jpg?resize=1920%2C1440",
-        "published_ts": 1795686059,
-        "published": "26 Nov, 03:40 PM",
-        "bn_summary": "চীনের space station-এ পাকিস্তানের প্রথম astronaut উর্দু কবি ইকবালের কবিতা আবৃত্তি করেছেন, যা মহাকাশে ভারত-পাকিস্তানের যৌথ সাংস্কৃতিক স্মৃতিকে সামনে এনেছে। রাজনৈতিক বিভাজনের বাইরে ভাষা ও সাহিত্য কীভাবে মানুষের মধ্যে সংযোগ তৈরি করতে পারে, ঘটনাটি তার প্রতীকী উদাহরণ।",
-        "added_at_ts": 1795690345,
-        "expires_at_ts": 1795776745,
-        "batch_label": "04:52 PM BDT",
-        "batch_edition": 23,
-        "is_new": false
-      },
-      {
-        "title": "Israeli attacks on Gaza kill senior education official, seven other people",
-        "summary": "Israeli Prime Minister Benjamin Netanyahu confirms killing of Khaled Abu Nada, undersecretary of Education Ministry.",
-        "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b07de84e346-1795677828.jpg?resize=1920%2C1440",
-        "published_ts": 1795683606,
-        "published": "26 Nov, 03:00 PM",
-        "bn_summary": "গাজায় ইসরায়েলি হামলায় শিক্ষা মন্ত্রণালয়ের জ্যেষ্ঠ কর্মকর্তা Khaled Abu Nada-সহ আরও সাতজন নিহত হয়েছেন বলে জানানো হয়েছে। এই মৃত্যু বেসামরিক প্রশাসন ও শিক্ষা ব্যবস্থার ওপর সংঘাতের বড় প্রভাব এবং গাজায় মানবিক সংকটের গভীরতা তুলে ধরে।",
-        "added_at_ts": 1795690345,
-        "expires_at_ts": 1795776745,
-        "batch_label": "04:52 PM BDT",
-        "batch_edition": 23,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "Gold Price Today: Gold Rises 3.13% on November 27, 2026 - USA Today",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd2lCRFlOSHY2TG43WmpHMmFfTWxhSDVmTGc2ejVOQzhSbWRGeWxQNGU3QjFWMGMyQnJKQWFzdFBQdXU5Q0xKNWYtTFFGZUxwQ2YzVTAzQmNjTmhKRU5yYUwxMnFDTjNyVWdWbHI0Vm9aM18wcWpGOExnR3Z3RktTejJPb1BfWEhaTHlvS3dBRHVlNFl6SDc3eWM4eWdCVHFmQlJN?oc=5",
+        "source": "USA Today",
+        "image": "",
+        "published_ts": 1795777854,
+        "published": "27 Nov, 05:10 PM",
+        "bn_summary": "সোনার দাম ২৭ নভেম্বর ২০২৬-এ ৩.১৩% বেড়েছে, যা বিনিয়োগকারীদের মধ্যে নিরাপদ বিনিয়োগের চাহিদা বাড়ার ইঙ্গিত দেয়। বাজারের অনিশ্চয়তা বা মুদ্রাস্ফীতির আশঙ্কায় মানুষ সোনার দিকে ঝুঁকছে, যা বৈশ্বিক অর্থনীতির জন্য গুরুত্বপূর্ণ সংকেত।",
+        "added_at_ts": 1795777945,
+        "expires_at_ts": 1795864345,
+        "batch_label": "05:12 PM BDT",
+        "batch_edition": 35,
+        "is_new": true
+      },
+      {
+        "title": "Wall St Week Ahead Sliding stock market confronts jobs data, rate view as next tests - Reuters",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWRTQ0tlUW54X0tjS2R6bWdzblVkUnZ5VnBCa2NjWkd5Q2xIWUh0MUFWVW4weVlRTTBpbDhFWTFsbmYwc2NqOERDdGxTZmpHTzdHRVk2b2o5U0RZYm1WMXZhaEJMRXFrQmxKaUViQXNNdE1XZ3RTT05VbmxqX3BYOXNONGFkMVFTU1VLVVRjTzdfUTloYnhJaVpsWS1YMV9FVGlmeUdYRmk0clkzM3FhQjZuUnRfYXdZRnVHdTE2Smo1V2M?oc=5",
+        "source": "Reuters",
+        "image": "",
+        "published_ts": 1795777426,
+        "published": "27 Nov, 05:03 PM",
+        "bn_summary": "শেয়ারবাজার দুর্বল অবস্থায় আছে এবং এখন বিনিয়োগকারীরা আসন্ন চাকরির তথ্য ও সুদের হার নিয়ে আপডেটের অপেক্ষায় রয়েছে। এই ডেটা ফেডারেল রিজার্ভের পরবর্তী নীতিগত সিদ্ধান্ত নির্ধারণ করবে, তাই বাজারের গতিপথ বোঝার জন্য এটি গুরুত্বপূর্ণ।",
+        "added_at_ts": 1795777945,
+        "expires_at_ts": 1795864345,
+        "batch_label": "05:12 PM BDT",
+        "batch_edition": 35,
+        "is_new": true
+      },
+      {
+        "title": "Trump Can’t Rescue The Stock Market. Here’s What Can. - WSJ",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUkpRejhPeEh2RnhWZndBWFpzM0pBNVBpaVVpOVBMaGVPSW9oVlgzU3hNVVBqTnZWejQ3QlpYX3BheFh2M3RwanhvdmZESll0UDI4eHRYUEJIUUtYSDB3ZmxNdDNQSVJsZWgybW1VT0RSSWpUb1drY2ozY2E5VDh0OUxxME5oenctV0lpWE1xYk9kY21Zal9jVA?oc=5",
+        "source": "WSJ",
+        "image": "",
+        "published_ts": 1795775400,
+        "published": "27 Nov, 04:30 PM",
+        "bn_summary": "প্রতিবেদনে বলা হচ্ছে, রাজনৈতিক হস্তক্ষেপ দিয়ে শেয়ারবাজার বাঁচানো যাবে না, বরং অর্থনৈতিক ভিত্তি ও নীতিগত পদক্ষেপই গুরুত্বপূর্ণ। এটি বিনিয়োগকারীদের মনে করিয়ে দেয় যে বাজারকে প্রভাবিত করার ক্ষেত্রে রাজনীতির চেয়ে বাস্তব অর্থনৈতিক কারণ বেশি কার্যকর।",
+        "added_at_ts": 1795777945,
+        "expires_at_ts": 1795864345,
+        "batch_label": "05:12 PM BDT",
+        "batch_edition": 35,
+        "is_new": true
+      },
       {
         "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break - WSJ",
         "summary": "",
@@ -842,7 +887,7 @@
         "expires_at_ts": 1795857025,
         "batch_label": "03:10 PM BDT",
         "batch_edition": 34,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "UK Stock Market Set to Shrink as Imperial Brands Attracts Suitors - Bloomberg.com",
@@ -857,7 +902,7 @@
         "expires_at_ts": 1795857025,
         "batch_label": "03:10 PM BDT",
         "batch_edition": 34,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold Price Crash: Could the 2026 Sell-Off Trigger a Prolonged Recovery? - TradingView",
@@ -872,7 +917,7 @@
         "expires_at_ts": 1795857025,
         "batch_label": "03:10 PM BDT",
         "batch_edition": 34,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold Price Crash: Could the 2026 Sell-Off Trigger a Prolonged Recovery? - Coinpedia",
@@ -1323,54 +1368,54 @@
         "batch_label": "06:54 PM BDT",
         "batch_edition": 24,
         "is_new": false
-      },
-      {
-        "title": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027. - The Motley Fool",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWVpU0ZjeVA4V2o0NE5nRTM0bDhVMHdySkFHUU5lQ0FpVFhPM01kanhaYldpMjhCTlg1N0lHUlN2aVhfYWlZbkJlWldHak91bkh5OHloOGlGNlE4ZjNJaFhiSzlFSFBwbzJDdVhFNjNCZy0wb3VRYTJxaWN2WnRFcUlsencySk5TVzRHY3NReWx1ZTFqSzJz?oc=5",
-        "source": "The Motley Fool",
-        "image": "",
-        "published_ts": 1795688942,
-        "published": "26 Nov, 04:29 PM",
-        "bn_summary": "প্রতিবেদনটি Nvidia CEO Jensen Huang-এর প্রত্যাবর্তনের প্রেক্ষাপটে ২০২৭ সাল পর্যন্ত Nvidia শেয়ারের সম্ভাব্য দিক নিয়ে একটি পূর্বাভাস দিচ্ছে। AI chip-এর চাহিদা ও কোম্পানির ভবিষ্যৎ প্রবৃদ্ধির ওপর এমন অনুমান নির্ভর করলেও বাজারের অনিশ্চয়তার কারণে এটিকে নিশ্চিত ফল হিসেবে দেখা উচিত নয়।",
-        "added_at_ts": 1795690345,
-        "expires_at_ts": 1795776745,
-        "batch_label": "04:52 PM BDT",
-        "batch_edition": 23,
-        "is_new": false
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD struggles below $3,600 amid Thanksgiving light trading - FXStreet",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXhUOTE4OUlfNVJEaGpJMmM5ZVh6My1vUFBMMnhWRWU5WWY5Qi1wZkY5djVJSHdmNVFPUnptV3VsbEVUMDk0VEs1UkdiUktjYmJWWWRrNmw4WGxOSmZHdWViQ3FSYklMS3hsbWpEa1gxTS0tSVU4RmJvbGtDZ3dfNEZqQ1pENGZiM1h6QVYyaWFiVW9wd1hjVlN2V24yYmlVSC1nVHRrbEUwQmFuSjVGZXR0OUVpTnpCbmkyZEJWLTJUckI0S2Uw?oc=5",
-        "source": "FXStreet",
-        "image": "",
-        "published_ts": 1795667177,
-        "published": "26 Nov, 10:26 AM",
-        "bn_summary": "Thanksgiving-এর কারণে trading activity কম থাকায় Gold-এর XAU/USD দর ৩,৬০০-এর নিচে চাপের মধ্যে রয়েছে। কম liquidity-তে দামের ওঠানামা বেশি বিভ্রান্তিকর হতে পারে, তাই এই পরিস্থিতি স্বর্ণের স্বল্পমেয়াদি trend বোঝার জন্য গুরুত্বপূর্ণ।",
-        "added_at_ts": 1795690345,
-        "expires_at_ts": 1795776745,
-        "batch_label": "04:52 PM BDT",
-        "batch_edition": 23,
-        "is_new": false
-      },
-      {
-        "title": "Gold Price on 25 November 2026 - Gold Price",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pcmNoQXo5SzFMcHhWVWVuVWoxbHM1S3dDRXRHMUo3dEpuUXRFVnZiV2xvUDNjeEpkYWJBMm50R0lwNXZrbWl3dzlyeWxWMmxtMjhwNGVXYzBjcm5YS2c?oc=5",
-        "source": "Gold Price",
-        "image": "",
-        "published_ts": 1795663118,
-        "published": "26 Nov, 09:18 AM",
-        "bn_summary": "২৫ নভেম্বর ২০২৬ তারিখে স্বর্ণের বাজারদর ও সংশ্লিষ্ট price information এই প্রতিবেদনে দেওয়া হয়েছে। বিনিয়োগকারী ও ক্রেতারা ওই দিনের benchmark হিসেবে এটি ব্যবহার করতে পারেন, তবে স্থানীয় বাজারদর ও currency movement আলাদা হতে পারে।",
-        "added_at_ts": 1795690345,
-        "expires_at_ts": 1795776745,
-        "batch_label": "04:52 PM BDT",
-        "batch_edition": 23,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "20TB WD Elements external HDD is at its lowest price this year",
+        "summary": "WD's 20TB storage drive is at its lowest price this year at $549, just 2.75 cents per gigabyte on Amazon.",
+        "url": "https://www.tomshardware.com/pc-components/external-hdds/20tb-wd-elements-external-hdd-is-at-its-lowest-price-this-year-usd549-storage-drive-is-2-75-cents-per-gb",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/c6qq4xSqc3Jz9Hmtm6zqkh-1920-80.jpg",
+        "published_ts": 1795776666,
+        "published": "27 Nov, 04:51 PM",
+        "bn_summary": "WD Elements 20TB এক্সটার্নাল হার্ড ড্রাইভ এখন বছরের সবচেয়ে কম দামে $৫৪৯-এ বিক্রি হচ্ছে, যা প্রতি গিগাবাইটে মাত্র ২.৭৫ সেন্ট। যাদের প্রচুর ডেটা স্টোরেজ দরকার, তাদের জন্য এটি একটি দুর্দান্ত সুযোগ কারণ এত কম দামে এত বড় ক্যাপাসিটি পাওয়া বিরল।",
+        "added_at_ts": 1795777945,
+        "expires_at_ts": 1795864345,
+        "batch_label": "05:12 PM BDT",
+        "batch_edition": 35,
+        "is_new": true
+      },
+      {
+        "title": "This RTX 5070 and Ryzen 9 9900X gaming PC with 32GB of DDR5 drops to $1,999.99 for Black Friday - PC Guide",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU0RyaFI4TWdYR3R4VFpWMUxHaGlZeGFQWlM0bWFDWUtFR3pEbDBjaHlJb2ZmZzY4NHdfZ1VlU2NxWkFOV01XMmgtTmtDZGw1bVBSb3RMSjdGZ2p1bV9YY3RGZDZTVEkybHd0a01YdG1MS0R5eGY4am9BOFdodXJuTnFvbmRQdVdqTWVnSjE4TFdya1I2b1E?oc=5",
+        "source": "PC Guide",
+        "image": "",
+        "published_ts": 1795775400,
+        "published": "27 Nov, 04:30 PM",
+        "bn_summary": "RTX 5070 গ্রাফিক্স কার্ড, Ryzen 9 9900X প্রসেসর এবং 32GB DDR5 র্যাম সম্বলিত একটি হাই-এন্ড গেমিং পিসি এখন $১,৯৯৯.৯৯-এ ব্ল্যাক ফ্রাইডে ডিলে পাওয়া যাচ্ছে। এই দামে এমন শক্তিশালী কনফিগারেশন গেমারদের জন্য দারুণ মূল্য, কারণ সাধারণত এই স্পেসিফিকেশন বেশি দামে বিক্রি হয়।",
+        "added_at_ts": 1795777945,
+        "expires_at_ts": 1795864345,
+        "batch_label": "05:12 PM BDT",
+        "batch_edition": 35,
+        "is_new": true
+      },
+      {
+        "title": "Why is Micron Technology stock surging today? - Investing.com",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlU3Tk50RUJiNV9qUEpOLXdXN3pJY05LVUJBVGNjMUZjdkx0QkhBbnFtM0R6TFg0TncxWjZybG9wakFVUTZGTXgxWThzWXdBdW91djBOYXJHUE5sVFAxRUVfazJyWEpmek50NV9Fc3BkeTVlMllFSVNtRmgxMTZDSG5EUjJnaldXSUwyWXd1ZklscVVfUXFWXzVIZzBSYXhFdjRXN1VPUE5rQQ?oc=5",
+        "source": "Investing.com",
+        "image": "",
+        "published_ts": 1795774455,
+        "published": "27 Nov, 04:14 PM",
+        "bn_summary": "Micron Technology-এর শেয়ারের দাম আজ হঠাৎ বেড়ে যাওয়ায় বিনিয়োগকারীদের মধ্যে আগ্রহ দেখা দিয়েছে। মেমোরি চিপের চাহিদা বৃদ্ধি বা কোম্পানির ভালো আর্থিক ফলাফলের কারণে এই উত্থান হতে পারে, যা সেমিকন্ডাক্টর সেক্টরের জন্যও ইতিবাচক সংকেত।",
+        "added_at_ts": 1795777945,
+        "expires_at_ts": 1795864345,
+        "batch_label": "05:12 PM BDT",
+        "batch_edition": 35,
+        "is_new": true
+      },
       {
         "title": "Save a huge $1,020 on a 240Hz OLED gaming laptop from Lenovo with an RTX 5070 Ti, now just $1,999",
         "summary": "Grab a 16-inch OLED gaming laptop with an RTX 5070 Ti from Lenovo for just $1,999.99 right now.",
@@ -1384,7 +1429,7 @@
         "expires_at_ts": 1795857025,
         "batch_label": "03:10 PM BDT",
         "batch_edition": 34,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Best Black Friday Gaming PC Deals live",
@@ -1399,7 +1444,7 @@
         "expires_at_ts": 1795857025,
         "batch_label": "03:10 PM BDT",
         "batch_edition": 34,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Best Black Friday 2026 tech deals live",
@@ -1414,7 +1459,7 @@
         "expires_at_ts": 1795857025,
         "batch_label": "03:10 PM BDT",
         "batch_edition": 34,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "KOSPI Index Jumps 4.4% as Samsung and SK Hynix Gain Nearly 5% - Coinpedia",
@@ -1774,51 +1819,6 @@
         "expires_at_ts": 1795784065,
         "batch_label": "06:54 PM BDT",
         "batch_edition": 24,
-        "is_new": false
-      },
-      {
-        "title": "Save $1300 on this RTX 5090-equipped 16-inch Lenovo Legion Pro 7i gaming laptop",
-        "summary": "If you're looking to gear up with a powerful new gaming laptop this Black Friday, Lenovo's 16-inch Legion Pro 7i is now $1300 off at B&H.",
-        "url": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd1300-on-this-rtx-5090-equipped-16-inch-lenovo-legion-pro-7i-gaming-laptop-core-ultra-9-system-with-1tb-storage-and-32gb-of-ddr5-drops-to-usd3999",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/g2t9uSVsG8dCSmdLjpixLo-1920-80.jpg",
-        "published_ts": 1795689000,
-        "published": "26 Nov, 04:30 PM",
-        "bn_summary": "Black Friday অফারে Lenovo Legion Pro 7i gaming laptop-এর দাম ১,৩০০ ডলার কমেছে, এবং এতে RTX 5090 GPU রয়েছে। শক্তিশালী gaming ও graphics performance চাওয়া ব্যবহারকারীদের জন্য এটি বড় সাশ্রয়, যদিও মোট দাম ও প্রয়োজনীয়তা যাচাই করা জরুরি।",
-        "added_at_ts": 1795690345,
-        "expires_at_ts": 1795776745,
-        "batch_label": "04:52 PM BDT",
-        "batch_edition": 23,
-        "is_new": false
-      },
-      {
-        "title": "Score a huge $1,700 discount on an RTX 5080 gaming PC from HP, now $2,699.99",
-        "summary": "A huge discount at HP has knocked $1,700 off a HyperX Omen 35L rig with an RTX 5080 and Intel Core Ultra 7 270K, bringing it down to $2,699.99.",
-        "url": "https://www.tomshardware.com/desktops/gaming-pcs/score-a-huge-usd1-700-discount-on-an-rtx-5080-gaming-pc-from-hp-now-usd2-699-99-massive-deal-on-a-hyperx-omen-rig-with-a-24-core-intel-cpu-and-1tb-ssd",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/MNE2XXPkMkFy37pUZfJoYm-1920-80.png",
-        "published_ts": 1795688100,
-        "published": "26 Nov, 04:15 PM",
-        "bn_summary": "HP-এর HyperX Omen 35L gaming PC-তে ১,৭০০ ডলার discount দিয়ে দাম ২,৬৯৯.৯৯ ডলারে নামানো হয়েছে, আর এতে RTX 5080 ও Intel Core Ultra 7 270K আছে। উচ্চমানের gaming বা content creation-এর জন্য configuration-টি আকর্ষণীয় হলেও deal-এর stock ও শর্ত দ্রুত বদলাতে পারে।",
-        "added_at_ts": 1795690345,
-        "expires_at_ts": 1795776745,
-        "batch_label": "04:52 PM BDT",
-        "batch_edition": 23,
-        "is_new": false
-      },
-      {
-        "title": "SK Hynix Shares Gain 2.48% After Hours - SK hynix (NASDAQ:SKHY) - Benzinga",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNXpET01oMFN6aHdXRnFkM0JUcVV0N3IzMEwwSW51VnBWTUtjTFVheDhLRHpXbjM5VWZsazBIUm8zWnU4MGdXZlo4eThTeHIyeFUzUlEwWXFZLUpQMGJGMXpRTV9aT2d2RWRXYk8zNzk2aGhUWHN4NE42U3ZocTV2OXRvVERiSi12dzhEc3VlVE16X3RnOTNsMFhnUWJZUlpVcGtvbWcxZ0IzNlJ5aS15bnBXQQ?oc=5",
-        "source": "Benzinga",
-        "image": "",
-        "published_ts": 1795685393,
-        "published": "26 Nov, 03:29 PM",
-        "bn_summary": "After-hours trading-এ SK Hynix-এর শেয়ার ২.৪৮ শতাংশ বেড়েছে বলে প্রতিবেদনে উল্লেখ করা হয়েছে। এই উত্থান memory-chip কোম্পানিটির প্রতি বিনিয়োগকারীদের স্বল্পমেয়াদি ইতিবাচক মনোভাব দেখাতে পারে, তবে regular market session-এ দাম ভিন্নভাবে চলতে পারে।",
-        "added_at_ts": 1795690345,
-        "expires_at_ts": 1795776745,
-        "batch_label": "04:52 PM BDT",
-        "batch_edition": 23,
         "is_new": false
       }
     ]
