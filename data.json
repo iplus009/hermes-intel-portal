@@ -1,28 +1,28 @@
 {
-  "edition": 33,
-  "updated_ts": 1795763305,
-  "updated_dhaka": "27 Nov 2026, 01:08 PM (BDT)",
-  "updated_utc": "2026-11-27 07:08 UTC",
-  "batch_label": "01:08 PM BDT",
-  "new_added": 7,
-  "expired_removed": 9,
+  "edition": 34,
+  "updated_ts": 1795770625,
+  "updated_dhaka": "27 Nov 2026, 03:10 PM (BDT)",
+  "updated_utc": "2026-11-27 09:10 UTC",
+  "batch_label": "03:10 PM BDT",
+  "new_added": 10,
+  "expired_removed": 10,
   "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
   "advice": {
-    "title": "বাজারের অস্থিরতায় ফ্রি টুলসে AI শেখো",
-    "body": "যুদ্ধ-উদ্বেগ আর বাজারের পতনের মাঝে সোনা-বিটকয়েন বেড়েছে, কিন্তু নিজের স্কিল বাড়ানোই সবচেয়ে নিরাপদ বিনিয়োগ। GitHub Actions, ফ্রি API আর VPS দিয়ে আজই একটা AI প্রজেক্ট বানাও—খরচ ছাড়াই শেখা আর ক্যারিয়ার এগোনোর সুযোগ।",
+    "title": "AI দুনিয়ায় নিজের পথ নিজেই তৈরি করো",
+    "body": "বাজার যখন অস্থির (NVDA -9.5%, Micron -15%), তখন AI স্কিল আর ফ্রি টুলসই সবচেয়ে বড় বিনিয়োগ। GitHub, ফ্রি API আর VPS দিয়ে নিজের প্রজেক্ট বানাও; SAP-এর মতো কোম্পানিতে AI রিস্ট্রাকচারিং মানে নতুন সুযোগ। আর RAM/ল্যাপটপের Black Friday ডিলে আপগ্রেড করে নাও, আর সোনার মতো সেফ হেভেনে ছোট বিনিয়োগ রাখো।",
     "tag": "AI & Dev"
   },
   "quote": {
-    "text_bn": "জ্ঞানই শক্তি।",
-    "author": "ফ্রান্সিস বেকন",
-    "note_bn": "আজই একটা ফ্রি কোর্স বা API নিয়ে হাতে-কলমে শেখা শুরু করো; জ্ঞানই আসল সুরক্ষা।"
+    "text_bn": "যদি তোর ডাক শুনে কেউ না আসে তবে একলা চলো রে।",
+    "author": "রবীন্দ্রনাথ ঠাকুর",
+    "note_bn": "আজকের বাজারে একা পথ চলতে শেখো—ফ্রি API আর GitHub-এ নিজের প্রজেক্ট শুরু করো।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,681.00",
-      "change_pct": 3.34,
+      "price": "$3,706.10",
+      "change_pct": 4.05,
       "up": true
     },
     {
@@ -56,13 +56,28 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$61,673.93",
-      "change_pct": 1.95,
+      "price": "$61,700.87",
+      "change_pct": 1.99,
       "up": true
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports https://t.co/lTHuvRFdwr - X",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50THZxcjh3RTE3WVVieFVpb1ZFLTJWdzNDQWJXOTZjNC16bXFKM2ZNVFN4d0Zsd3ZFQ0NXU25BZmVyWWMzWEZCaUN5b0UyUmRxR09PaXlFekNzYmZJ?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795725308,
+        "published": "27 Nov, 02:35 AM",
+        "bn_summary": "SAP কৃত্রিম বুদ্ধিমত্তা-কেন্দ্রিক পুনর্গঠনের অংশ হিসেবে অন্তত ১০,০০০ কর্মী ছাঁটাইয়ের কথা বিবেচনা করছে বলে Bloomberg জানিয়েছে। এটি দেখায় যে AI বিনিয়োগ বাড়ানোর পাশাপাশি বড় প্রযুক্তি কোম্পানিগুলো খরচ কমাতে ব্যাপক কর্মী সংকোচনও করতে পারে।",
+        "added_at_ts": 1795770625,
+        "expires_at_ts": 1795857025,
+        "batch_label": "03:10 PM BDT",
+        "batch_edition": 34,
+        "is_new": true
+      },
       {
         "title": "Starting today, we're offering free Kimi API credits to support scientific research worldwide. Selected teams will receive free Kimi API credits, access to our latest models, and o",
         "summary": "",
@@ -151,21 +166,6 @@
         "expires_at_ts": 1795776745,
         "batch_label": "04:52 PM BDT",
         "batch_edition": 23,
-        "is_new": false
-      },
-      {
-        "title": "I've joined OpenAI! I'm very proud of my time at Anthropic, and I'll continue to root for my former colleagues. Both companies have important roles to play in the future. There is ",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCUVZ5dTRDdjZJNFVsTE13UlNCNDZVaXRDWUJvWWl2ZnZfUGFTTENkdlJxSkRHVlRWSlNVOUc4N244SmoyY003TjB1WVM4dFJGQnlUUDJnckktQ1k?oc=5",
-        "source": "X",
-        "image": "",
-        "published_ts": 1795635515,
-        "published": "26 Nov, 01:38 AM",
-        "bn_summary": "তিনি Anthropic-এ কাজের পর OpenAI-তে যোগ দেওয়ার ঘোষণা দিয়েছেন এবং সাবেক সহকর্মীদের প্রতি সমর্থন বজায় রাখার কথা বলেছেন। এই পরিবর্তনটি দুই শীর্ষ AI প্রতিষ্ঠানের মধ্যে প্রতিভা ও নেতৃত্ব আকর্ষণের প্রতিযোগিতার গুরুত্ব তুলে ধরে।",
-        "added_at_ts": 1795683025,
-        "expires_at_ts": 1795769425,
-        "batch_label": "02:50 PM BDT",
-        "batch_edition": 22,
         "is_new": false
       }
     ],
@@ -288,6 +288,51 @@
     ],
     "war": [
       {
+        "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
+        "summary": "One in eight children is stunted. Many have bones that have not matured the way they should. Treatment is elusive.",
+        "url": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Tala-Zidan-1-1795764657.jpg?resize=1920%2C1440",
+        "published_ts": 1795768672,
+        "published": "27 Nov, 02:37 PM",
+        "bn_summary": "গাজার যুদ্ধ ও অবরোধে শিশুদের অপুষ্টি এত তীব্র হয়েছে যে প্রতি আটজনের একজনের শারীরিক বৃদ্ধি বাধাগ্রস্ত হচ্ছে, এমনকি অনেকের হাড়ও স্বাভাবিকভাবে পরিণত হয়নি। চিকিৎসা ও পুষ্টির সরবরাহ সীমিত থাকায় এই ক্ষতি দীর্ঘমেয়াদি স্বাস্থ্য ও বিকাশে প্রভাব ফেলতে পারে।",
+        "added_at_ts": 1795770625,
+        "expires_at_ts": 1795857025,
+        "batch_label": "03:10 PM BDT",
+        "batch_edition": 34,
+        "is_new": true
+      },
+      {
+        "title": "Can the Mecca pact turn its collective defence promise into real support?",
+        "summary": "Pakistan, Saudi Arabia and Turkiye meet in Islamabad as Houthi attacks on the kingdom continue and Iran talks stay open.",
+        "url": "https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-05T180138Z_991373647_RC26XNAKWGVB_RTRMADP_3_IRAN-CRISIS-SAUDI-TURKEY-PAKISTAN-1791224096.jpg?resize=1920%2C1440",
+        "published_ts": 1795763790,
+        "published": "27 Nov, 01:16 PM",
+        "bn_summary": "পাকিস্তান, সৌদি আরব ও তুরস্ক মক্কা চুক্তির সম্মিলিত প্রতিরক্ষা প্রতিশ্রুতিকে বাস্তব সহায়তায় রূপ দেওয়ার উপায় নিয়ে আলোচনা করছে, যখন হুথি হামলা অব্যাহত এবং ইরানের সঙ্গে কথাবার্তাও চলছে। চুক্তিটি কার্যকর হলে আঞ্চলিক নিরাপত্তা সহযোগিতা বাড়তে পারে, তবে সদস্যদের রাজনৈতিক অবস্থান ও বাস্তব সামরিক সক্ষমতার পার্থক্য বড় পরীক্ষা হবে।",
+        "added_at_ts": 1795770625,
+        "expires_at_ts": 1795857025,
+        "batch_label": "03:10 PM BDT",
+        "batch_edition": 34,
+        "is_new": true
+      },
+      {
+        "title": "Hakeem Jeffries has disarmed a progressive revolt, but can he deliver?",
+        "summary": "The presumptive House speaker's political pragmatism will be tested by divisions over healthcare, Israel and Iran.",
+        "url": "https://www.aljazeera.com/opinions/2026/11/27/hakeem-jeffries-has-disarmed-a-progressive-revolt-but-can-he-deliver?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b092d045f2c-1795763460.jpg?resize=1920%2C1440",
+        "published_ts": 1795763479,
+        "published": "27 Nov, 01:11 PM",
+        "bn_summary": "হাকিম জেফরিস আপাতত প্রগতিশীল বিদ্রোহ নিয়ন্ত্রণে এনেছেন, কিন্তু ভবিষ্যৎ নেতৃত্বে তাকে স্বাস্থ্যসেবা, ইসরায়েল ও ইরাননীতি নিয়ে দলের বিভাজন সামলাতে হবে। তার বাস্তববাদী কৌশল সফল হবে কি না, তা নির্ভর করবে এই মতবিরোধের মধ্যেও তিনি আইনগত ও রাজনৈতিক ফল আনতে পারেন কি না।",
+        "added_at_ts": 1795770625,
+        "expires_at_ts": 1795857025,
+        "batch_label": "03:10 PM BDT",
+        "batch_edition": 34,
+        "is_new": true
+      },
+      {
         "title": "Israel uses south Lebanon Christian villages to try to divide and conquer",
         "summary": "Israel is trying to fragment Lebanon by separating its Christian residents in south Lebanon from the rest.",
         "url": "https://www.aljazeera.com/features/2026/11/27/israel-uses-christian-villages-in-southern-lebanon-to-divide-and-conquer?traffic_source=rss",
@@ -300,7 +345,7 @@
         "expires_at_ts": 1795849705,
         "batch_label": "01:08 PM BDT",
         "batch_edition": 33,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Estonia closing land borders with Russia to keep out spies",
@@ -315,7 +360,7 @@
         "expires_at_ts": 1795849705,
         "batch_label": "01:08 PM BDT",
         "batch_edition": 33,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’ - CNBC",
@@ -330,7 +375,7 @@
         "expires_at_ts": 1795849705,
         "batch_label": "01:08 PM BDT",
         "batch_edition": 33,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "At least 13 Niger soldiers killed in Sanam armed attack",
@@ -781,54 +826,54 @@
         "batch_label": "04:52 PM BDT",
         "batch_edition": 23,
         "is_new": false
-      },
-      {
-        "title": "Ms Rachel on Gaza: ‘everybody should speak out’",
-        "summary": "US content creator Ms Rachel has called for more celebrities to speak out against the Gaza genocide.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795681784.jpg?resize=1920%2C1080&quality=80",
-        "published_ts": 1795681793,
-        "published": "26 Nov, 02:29 PM",
-        "bn_summary": "মার্কিন কনটেন্ট নির্মাতা Ms Rachel গাজায় চলমান মানবিক সংকটের বিরুদ্ধে আরও সেলিব্রিটিকে প্রকাশ্যে কথা বলার আহ্বান জানিয়েছেন। তার বক্তব্যটি গুরুত্বপূর্ণ, কারণ জনপ্রিয় ব্যক্তিদের জনমত গঠন ও মানবিক সহায়তার পক্ষে চাপ তৈরিতে বড় প্রভাব থাকতে পারে।",
-        "added_at_ts": 1795683025,
-        "expires_at_ts": 1795769425,
-        "batch_label": "02:50 PM BDT",
-        "batch_edition": 22,
-        "is_new": false
-      },
-      {
-        "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
-        "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-        "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
-        "published_ts": 1795678804,
-        "published": "26 Nov, 01:40 PM",
-        "bn_summary": "নতুন UK-EU চুক্তিতে ১০ বছরের termination clause বা চুক্তি বাতিলের বিধান রয়েছে বলে BBC জানিয়েছে, এবং শিগগিরই পূর্ণ পাঠ প্রকাশ করা হবে। এই শর্তটি ভবিষ্যৎ সরকারগুলোর জন্য চুক্তি পুনর্বিবেচনার সুযোগ রাখে, যদিও বাস্তবায়নের জন্য সংশ্লিষ্ট আইনও পাস করতে হবে।",
-        "added_at_ts": 1795683025,
-        "expires_at_ts": 1795769425,
-        "batch_label": "02:50 PM BDT",
-        "batch_edition": 22,
-        "is_new": false
-      },
-      {
-        "title": "French navy intercepts suspected drug-smuggling semi-submersible",
-        "summary": "French forces intercepted a semi-submersible suspected of drug trafficking in the Atlantic.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/french-navy-intercepts-suspected-drug-smuggling-semi-submersible?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-26-at-07.11.22-1795677182.png?resize=1200%2C675",
-        "published_ts": 1795677339,
-        "published": "26 Nov, 01:15 PM",
-        "bn_summary": "ফরাসি নৌবাহিনী আটলান্টিকে মাদক পাচারে ব্যবহৃত হতে পারে এমন একটি semi-submersible নৌযান আটক করেছে। এ ধরনের কম-দৃশ্যমান নৌযান সমুদ্রপথে মাদক পরিবহনের বড় চ্যালেঞ্জ তৈরি করে, তাই অভিযানটি আন্তঃদেশীয় চোরাচালান ঠেকানোর অংশ।",
-        "added_at_ts": 1795683025,
-        "expires_at_ts": 1795769425,
-        "batch_label": "02:50 PM BDT",
-        "batch_edition": 22,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break - WSJ",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVpJLTJSaU9XYTF3eFlMR2RLUl9zblNqVXpYQ2k2MGk4M3dZdGduVzRxWEZHWVJFX052TVIta1lIS2xILVBtdUVRYTRtMUloa21KXzhaUGFBdDdWcVdjNTFwcXRwcUhtaFg5ZUthalFGd0ZzWl9vbjJUX21KSWdLa2ZGdm1pa05HM0VTd0FWNHBtSWdTVVNfYW5mcUtHeDlWd2F3NU00MWxIVzQwNUF4dkJn?oc=5",
+        "source": "WSJ",
+        "image": "",
+        "published_ts": 1795766881,
+        "published": "27 Nov, 02:08 PM",
+        "bn_summary": "থ্যাঙ্কসগিভিং বিরতির আগে যুক্তরাষ্ট্রের স্টক ফিউচার বেড়েছে, আর AI-নির্ভর শেয়ারে সাম্প্রতিক অস্থিরতা কিছুটা স্থিতিশীল হয়েছে। এই প্রবণতা বিনিয়োগকারীদের ঝুঁকি নেওয়ার আগ্রহ ফিরছে এমন ইঙ্গিত দিলেও ছুটির কম লেনদেনে বাজারের ওঠানামা বেশি হতে পারে।",
+        "added_at_ts": 1795770625,
+        "expires_at_ts": 1795857025,
+        "batch_label": "03:10 PM BDT",
+        "batch_edition": 34,
+        "is_new": true
+      },
+      {
+        "title": "UK Stock Market Set to Shrink as Imperial Brands Attracts Suitors - Bloomberg.com",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWjc1TmVBOU56SU9kb3dmZnZLV3VLNDJ5eXVOdDR5RFk3UFdjTmlsNkJNSFFILWlxN09hNFZkQjUzUjZMbG11NGtiR2pQZEJlcHowWjlCbGQwUzkwd2tPaHNqS05uclI0NkFKMWVPc2RtNk1CN0MtTk9IN2h6V0hrOGdheFJiSWhxRWhKZ0U2UlJKMk5MOXQ5ZEhjems4M19fb0RiU3RVN0dpRXF3N0RIN2hCakVHTmk4NWZCMXhXOVlFOFJNSWc?oc=5",
+        "source": "Bloomberg.com",
+        "image": "",
+        "published_ts": 1795764792,
+        "published": "27 Nov, 01:33 PM",
+        "bn_summary": "Imperial Brands-কে ঘিরে সম্ভাব্য ক্রেতাদের আগ্রহের কারণে যুক্তরাজ্যের শেয়ারবাজারের আকার সংকুচিত হওয়ার আশঙ্কা তৈরি হয়েছে। বড় কোনো কোম্পানি অধিগ্রহণ হলে তালিকাভুক্ত সম্পদের পরিমাণ কমতে পারে এবং ব্রিটিশ বাজারের আকর্ষণ ও বৈচিত্র্য নিয়ে নতুন প্রশ্ন উঠবে।",
+        "added_at_ts": 1795770625,
+        "expires_at_ts": 1795857025,
+        "batch_label": "03:10 PM BDT",
+        "batch_edition": 34,
+        "is_new": true
+      },
+      {
+        "title": "Gold Price Crash: Could the 2026 Sell-Off Trigger a Prolonged Recovery? - TradingView",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUVI1YTNuMnFMT1BJNXdTOGZHa3BES3RxNDJtZnotOHQ5Zm0wdWxkeDdZQ1NkbnNIalFnZHJjWTFnSnRIb1kwSHI5RGJwV0k1aXlUSXFhaWcweW9lQ2p1Zk9xT3BFSTI1NmQ3VWhJYXJaRWdWazFoMThLUDBJR3htQ19JTi1hMHBsQkE0MGhjSm9MVHVTZTdOUTl0c1ZMVlpLMHF3R0V3Wkp1TDg1SjFrbXhveGxkdmtHVWs5M1N1T0xrRGpIb2hVMQ?oc=5",
+        "source": "TradingView",
+        "image": "",
+        "published_ts": 1795760400,
+        "published": "27 Nov, 12:20 PM",
+        "bn_summary": "২০২৬ সালে সোনার দামে বড় পতন হলে বাজারটি দীর্ঘমেয়াদি পুনরুদ্ধারে যেতে পারে কি না, তা নিয়ে TradingView বিশ্লেষণটি প্রশ্ন তুলেছে। এমন পরিস্থিতি বিনিয়োগকারীদের জন্য ঝুঁকি বাড়াবে, কারণ নিরাপদ সম্পদ হিসেবে সোনার চাহিদা ও সুদের হারের প্রত্যাশা—দুটিই দামের গতিপথ নির্ধারণ করবে।",
+        "added_at_ts": 1795770625,
+        "expires_at_ts": 1795857025,
+        "batch_label": "03:10 PM BDT",
+        "batch_edition": 34,
+        "is_new": true
+      },
       {
         "title": "Gold Price Crash: Could the 2026 Sell-Off Trigger a Prolonged Recovery? - Coinpedia",
         "summary": "",
@@ -842,7 +887,7 @@
         "expires_at_ts": 1795849705,
         "batch_label": "01:08 PM BDT",
         "batch_edition": 33,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Is Mastercard Stock Outperforming the Nasdaq? - Barchart.com",
@@ -857,7 +902,7 @@
         "expires_at_ts": 1795849705,
         "batch_label": "01:08 PM BDT",
         "batch_edition": 33,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold (XAU/USD) Price Forecast: Failed Breakout Leaves Bullish Reversal Unconfirmed - FXEmpire",
@@ -872,7 +917,7 @@
         "expires_at_ts": 1795849705,
         "batch_label": "01:08 PM BDT",
         "batch_edition": 33,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "OANDA:XAUUSD Chart Image by Caeshuraemoctional - TradingView",
@@ -1323,54 +1368,54 @@
         "batch_label": "04:52 PM BDT",
         "batch_edition": 23,
         "is_new": false
-      },
-      {
-        "title": "Gold Price Forecast: Lower Yields Fuel Rebound Despite Fed Hike Bets - FXEmpire",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlBUYWVDNmx4RVZ4X2JpNHlocy03NmI3YVIxQkhUWkphRG0yTVZNc19nVk4wS3JzUGpDNUhoMVV6LUp5Zk9sRlFFYUxhd3FNbm1xZWJIaW52NV9TTW04YmE3YVNoVk83OWlCMW95cnFYNWZ0OTNPb1Z1bGVmSW1nUnlqNGVQeFB5MjBIa1A4RTdaOVZxY2JUQjVLR2llSnRhRGZoZ0JYTnE2a0V2V1hwR2toX20yY0VYa0E?oc=5",
-        "source": "FXEmpire",
-        "image": "",
-        "published_ts": 1795682221,
-        "published": "26 Nov, 02:37 PM",
-        "bn_summary": "FXEmpire-এর বিশ্লেষণে বলা হয়েছে, কম বন্ড-ইল্ড সোনার দামে পুনরুদ্ধার আনতে পারে, যদিও বাজারে Federal Reserve-এর সুদ বাড়ানোর আশঙ্কা রয়েছে। ইল্ড ও সুদের প্রত্যাশা সোনার মতো non-yielding সম্পদের আকর্ষণকে প্রভাবিত করে, তাই দামের দিক নির্ধারণে এই দুই বিপরীত শক্তি গুরুত্বপূর্ণ।",
-        "added_at_ts": 1795683025,
-        "expires_at_ts": 1795769425,
-        "batch_label": "02:50 PM BDT",
-        "batch_edition": 22,
-        "is_new": false
-      },
-      {
-        "title": "Prediction: This Is What Nvidia Stock Will Be Worth by 2028 - Yahoo Finance",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc0Jod0ZBTDdSNzVmQ2o4Z2t2OHpkaGdBT1VBWmF2QWZfUkQ3SzRnOW16emZia3FaQTVoUDZVNGNnZ2toVmFjZXZvSno3RzlMWnFnNEYzSE9tYmFmWjlfWEYxOWJyelhBcnpVMnY0STVhc0ZUalAxeXlMTHFQc0U4bDVubUxsbk55REgzbm5aclZIbUVqMnVJdTZDRUtmYTJk?oc=5",
-        "source": "Yahoo Finance",
-        "image": "",
-        "published_ts": 1795679640,
-        "published": "26 Nov, 01:54 PM",
-        "bn_summary": "Yahoo Finance-এর পূর্বাভাসে ২০২৮ সালের মধ্যে Nvidia শেয়ারের সম্ভাব্য মূল্য নিয়ে আলোচনা করা হয়েছে, যা কোম্পানিটির AI-কেন্দ্রিক প্রবৃদ্ধির ওপর নির্ভরশীল। উচ্চ প্রত্যাশার পাশাপাশি প্রতিযোগিতা, মূল্যায়ন ও AI বিনিয়োগের গতি—এই ঝুঁকিগুলো ভবিষ্যৎ ফলাফলে বড় প্রভাব ফেলতে পারে।",
-        "added_at_ts": 1795683025,
-        "expires_at_ts": 1795769425,
-        "batch_label": "02:50 PM BDT",
-        "batch_edition": 22,
-        "is_new": false
-      },
-      {
-        "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
-        "summary": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.",
-        "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
-        "source": "CNBC",
-        "image": "https://image.cnbcfm.com/api/v1/image/108559771-1795666498962-gettyimages-2306353593-CHINA_XPENG.jpeg?v=1795666528&w=1920&h=1080",
-        "published_ts": 1795678211,
-        "published": "26 Nov, 01:30 PM",
-        "bn_summary": "চীনা বৈদ্যুতিক গাড়ি নির্মাতা Xpeng-এর এক শীর্ষ কর্মকর্তা বলেছেন, এক থেকে দুই বছরের মধ্যেই গৃহস্থালির কিছু কাজ humanoid robot করতে পারে। এমন পূর্বাভাস সত্যি হলে ভোক্তা রোবটিকসের বাজার দ্রুত বাড়তে পারে, তবে প্রযুক্তির নির্ভরযোগ্যতা ও খরচ এখনো বড় অনিশ্চয়তা।",
-        "added_at_ts": 1795683025,
-        "expires_at_ts": 1795769425,
-        "batch_label": "02:50 PM BDT",
-        "batch_edition": 22,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "Save a huge $1,020 on a 240Hz OLED gaming laptop from Lenovo with an RTX 5070 Ti, now just $1,999",
+        "summary": "Grab a 16-inch OLED gaming laptop with an RTX 5070 Ti from Lenovo for just $1,999.99 right now.",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/save-a-huge-usd1-020-on-a-240hz-oled-gaming-laptop-from-lenovo-with-an-rtx-5070-ti-now-just-usd1-999-portable-legion-5i-rig-features-an-18-core-intel-cpu-and-a-1tb-ssd",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/eVNRUZrhDFY7ZCuAAjYgrf-1920-80.png",
+        "published_ts": 1795769397,
+        "published": "27 Nov, 02:49 PM",
+        "bn_summary": "Lenovo-এর ১৬ ইঞ্চি OLED গেমিং ল্যাপটপে RTX 5070 Ti ও 240Hz ডিসপ্লে রয়েছে, আর অফারে দাম নেমে এসেছে প্রায় ১,৯৯৯.৯৯ ডলারে। শক্তিশালী গ্রাফিক্স ও দ্রুত স্ক্রিনের সমন্বয়টি উচ্চমানের গেমিং চাওয়া ব্যবহারকারীদের জন্য আকর্ষণীয়, বিশেষ করে ঘোষিত ১,০২০ ডলারের সাশ্রয়ের কারণে।",
+        "added_at_ts": 1795770625,
+        "expires_at_ts": 1795857025,
+        "batch_label": "03:10 PM BDT",
+        "batch_edition": 34,
+        "is_new": true
+      },
+      {
+        "title": "Best Black Friday Gaming PC Deals live",
+        "summary": "The very best pre-built gaming PC deals you can buy on Black Friday.",
+        "url": "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/gGPa4uAe585rDh3eRgRgw4-1920-80.jpg",
+        "published_ts": 1795766523,
+        "published": "27 Nov, 02:02 PM",
+        "bn_summary": "Black Friday উপলক্ষে Tom’s Hardware বিভিন্ন প্রি-বিল্ট গেমিং পিসির সেরা ডিলগুলো এক জায়গায় তুলে ধরেছে। নিজে যন্ত্রাংশ বেছে নিয়ে কম্পিউটার বানানোর সময় বা দক্ষতা না থাকলে এই তালিকা থেকে প্রস্তুত সিস্টেম তুলনা করে কেনা সহজ হবে।",
+        "added_at_ts": 1795770625,
+        "expires_at_ts": 1795857025,
+        "batch_label": "03:10 PM BDT",
+        "batch_edition": 34,
+        "is_new": true
+      },
+      {
+        "title": "Best Black Friday 2026 tech deals live",
+        "summary": "All the best Black Friday deals for tech and PC hardware.",
+        "url": "https://www.tomshardware.com/live/news/black-friday-2026-day-three",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/u7NNVHRAq9CzD7mjKfQXH5-1920-80.jpg",
+        "published_ts": 1795763987,
+        "published": "27 Nov, 01:19 PM",
+        "bn_summary": "Tom’s Hardware-এর Black Friday 2026 তালিকায় প্রযুক্তি ও PC হার্ডওয়্যারের বিভিন্ন ছাড় একত্র করা হয়েছে। ল্যাপটপ, কম্পোনেন্ট বা অন্যান্য গ্যাজেট কেনার আগে দাম ও স্পেসিফিকেশন তুলনা করে ভালো মূল্য পাওয়ার সুযোগ এতে বাড়ে।",
+        "added_at_ts": 1795770625,
+        "expires_at_ts": 1795857025,
+        "batch_label": "03:10 PM BDT",
+        "batch_edition": 34,
+        "is_new": true
+      },
       {
         "title": "KOSPI Index Jumps 4.4% as Samsung and SK Hynix Gain Nearly 5% - Coinpedia",
         "summary": "",
@@ -1384,7 +1429,7 @@
         "expires_at_ts": 1795849705,
         "batch_label": "01:08 PM BDT",
         "batch_edition": 33,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Micron (MU) Has Secured $32 Billion in Customer Commitments. Here’s Why That Matters - Yahoo Finance",
@@ -1774,51 +1819,6 @@
         "expires_at_ts": 1795776745,
         "batch_label": "04:52 PM BDT",
         "batch_edition": 23,
-        "is_new": false
-      },
-      {
-        "title": "Cash-rich SK Hynix taps SK Square veterans for investment push - KED Global",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YV3c2c2FPQmJKdXFzOU9jTjhPRlZocDFja1VIY0tJeVVQS0hyQ2t5U3k2TFZCal9QZ2Y5bVVNc3g5WjRIdUp5TDNsaldaQnFMUGJ5OEFtTGxoM1JUVHlMMUZITmdrR3Q4cmpoN0ZEQktOdjktb1hOYnhVNA?oc=5",
-        "source": "KED Global",
-        "image": "",
-        "published_ts": 1795680480,
-        "published": "26 Nov, 02:08 PM",
-        "bn_summary": "নগদ অর্থে শক্তিশালী SK Hynix বিনিয়োগ কার্যক্রম জোরদার করতে SK Square-এর অভিজ্ঞ সাবেক কর্মকর্তাদের কাজে লাগাচ্ছে। এই পদক্ষেপটি মেমোরি চিপ ব্যবসার পাশাপাশি নতুন প্রযুক্তি ও কৌশলগত সম্পদে পুঁজি বরাদ্দ বাড়ানোর ইঙ্গিত দেয়।",
-        "added_at_ts": 1795683025,
-        "expires_at_ts": 1795769425,
-        "batch_label": "02:50 PM BDT",
-        "batch_edition": 22,
-        "is_new": false
-      },
-      {
-        "title": "Micron’s Margins Peaked Before. How Far Did MU Fall? - Trefis",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa0xHTDZadWZlRVJwemVtZV9EaWZQaUxOcjZqZ1ZWd01QZnpFaWNrRmMwNThFYTBSQm1GWEk1dURtNndtUm9LOEdfOGlFd3VicXRpWVRMTWRlSm00UUQzY0ZUbzdPb0dyT3hrWDdDQmVsNE9MMlpiM1BVWTBfVFdQek1jZGVxYUdxWTFJeWM0S1ZyMlhVcFAtYTFPUkxFNkYwendneXM0WmI5TGZtN2c?oc=5",
-        "source": "Trefis",
-        "image": "",
-        "published_ts": 1795678386,
-        "published": "26 Nov, 01:33 PM",
-        "bn_summary": "Trefis বিশ্লেষণ করেছে যে Micron-এর মুনাফার মার্জিন আগে সর্বোচ্চ পর্যায়ে পৌঁছেছিল এবং পরে কতটা কমেছে। মেমোরি চিপের চক্রাকার দাম, সরবরাহের ভারসাম্য ও চাহিদার পরিবর্তন Micron-এর লাভজনকতায় বড় ওঠানামা তৈরি করতে পারে।",
-        "added_at_ts": 1795683025,
-        "expires_at_ts": 1795769425,
-        "batch_label": "02:50 PM BDT",
-        "batch_edition": 22,
-        "is_new": false
-      },
-      {
-        "title": "Micron Technology (MU) Products Are Exempt From New US Tariffs - Yahoo Finance",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT0lyUFVtNWVHZ3g3a2NlRk8yX0FWUnVtVGxGWndjUmNaak1OY1E3N1A2ejNLVXlHMkVEU3VZbzc3Z3dCWDJoaERSRnZXTlA5Yy1RZWw0dERzak5hX1VHbHNBUnZrd2hldTRLcDJyckJvbXh3OEpCRFl4ZS1uVHAzbFRSRWUtemR3T0l3RnZIRlpZeTVPQjFuRVd6a1JuQmxVZ0Nz?oc=5",
-        "source": "Yahoo Finance",
-        "image": "",
-        "published_ts": 1795677120,
-        "published": "26 Nov, 01:12 PM",
-        "bn_summary": "Micron Technology-এর পণ্য নতুন মার্কিন শুল্কের আওতামুক্ত থাকবে বলে Yahoo Finance জানিয়েছে। এই ছাড় কোম্পানির আমদানি ব্যয় ও সরবরাহ-শৃঙ্খলার চাপ কমাতে পারে, ফলে লাভের মার্জিন ও গ্রাহকদের জন্য দামের ওপর ইতিবাচক প্রভাব পড়ার সম্ভাবনা রয়েছে।",
-        "added_at_ts": 1795683025,
-        "expires_at_ts": 1795769425,
-        "batch_label": "02:50 PM BDT",
-        "batch_edition": 22,
         "is_new": false
       }
     ]
