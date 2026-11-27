@@ -1,28 +1,28 @@
 {
-  "edition": 35,
-  "updated_ts": 1795777945,
-  "updated_dhaka": "27 Nov 2026, 05:12 PM (BDT)",
-  "updated_utc": "2026-11-27 11:12 UTC",
-  "batch_label": "05:12 PM BDT",
-  "new_added": 10,
+  "edition": 36,
+  "updated_ts": 1795785265,
+  "updated_dhaka": "27 Nov 2026, 07:14 PM (BDT)",
+  "updated_utc": "2026-11-27 13:14 UTC",
+  "batch_label": "07:14 PM BDT",
+  "new_added": 12,
   "expired_removed": 10,
-  "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
+  "curated_by": "codex-relay (gpt-5.6-luna)",
   "advice": {
-    "title": "সোনায় লাভ, স্টকে সতর্ক, ফ্রি API-তে সুযোগ",
-    "body": "বিশ্ব পরিস্থিতি অনিশ্চিত, তাই সোনা (+৪%) ভালো বিকল্প; অন্যদিকে NVDA ও Micron-এর মতো টেক স্টক পড়ছে, তাই নতুন বিনিয়োগে গোল্ড ETF বা সোনালী সঞ্চয়পত্র ভাবুন। পাশাপাশি Kimi-র ফ্রি API ক্রেডিট আর Black Friday-র RAM/SSD ডিল কাজে লাগিয়ে GitHub-এ নিজের AI প্রজেক্ট ডিপ্লয় করুন; VPS-এ অটোমেশন সেটআপ করলে খরচও বাঁচবে।",
-    "tag": "Market & Gold"
+    "title": "স্মার্ট স্কেলিং, নিরাপদ প্রস্তুতি",
+    "body": "GitHub-এর playground-ai ও postman-agent দেখে VPS-এ ছোট AI prototype চালান, তবে API key secret রাখুন এবং free-tier quota আগে যাচাই করুন। Gold 3.77% উঠলেও S&P 500, NASDAQ, NVIDIA ও Micron/RAM তীব্র কমেছে—তাই একবারে বিনিয়োগ না করে ধাপে প্রবেশ, cash buffer রাখা এবং বিশ্বজুড়ে tariff-যুদ্ধ ও Yemen-Iran উত্তেজনার খবরে exposure সীমিত করুন।",
+    "tag": "AI & Dev"
   },
   "quote": {
-    "text_bn": "হাজার মাইলের যাত্রা শুরু হয় একটি পদক্ষেপ দিয়েই।",
-    "author": "লাও জু",
-    "note_bn": "আজ ছোট একটি পদক্ষেপ নিন—ফ্রি API ক্রেডিট দিয়ে একটি ছোট অটোমেশন বা অল্প পরিমাণে গোল্ড কেনা শুরু করুন।"
+    "text_bn": "আমি ব্যর্থ হইনি; আমি শুধু ১০,০০০টি উপায় খুঁজে পেয়েছি, যা কাজ করে না।",
+    "author": "থমাস আলভা এডিসন",
+    "note_bn": "আজ prototype বা বিনিয়োগে ছোট পরীক্ষা চালিয়ে ভুল পদ্ধতিগুলো নোট করুন, তারপর প্রমাণিত পথে ধীরে স্কেল করুন।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,705.00",
-      "change_pct": 4.02,
+      "price": "$3,696.20",
+      "change_pct": 3.77,
       "up": true
     },
     {
@@ -56,8 +56,8 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$61,544.93",
-      "change_pct": 1.74,
+      "price": "$61,424.03",
+      "change_pct": 1.54,
       "up": true
     }
   ],
@@ -156,6 +156,57 @@
     ],
     "github": [
       {
+        "title": "hannahgoel/playground-ai",
+        "summary": "Playground Ai for Windows 10/11. Generates images from text prompts, edits photos with inpainting and outpainting, and refines results with filters and upscaling for quick concept art and social media visuals.",
+        "url": "https://github.com/hannahgoel/playground-ai",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/hannahgoel/playground-ai",
+        "stars": 343,
+        "language": "Code",
+        "published_ts": 1795524046,
+        "published": "2026-11-24",
+        "bn_summary": "এই Windows 10/11 অ্যাপটি text prompt থেকে AI দিয়ে ছবি তৈরি করতে পারে এবং inpainting ও outpainting দিয়ে ছবির নির্দিষ্ট অংশ বদলাতে বা canvas বাড়াতে পারে। Filter ও upscaling সুবিধা থাকায় ব্যবহারকারীরা আলাদা অনলাইন টুল ছাড়াই ছবি তৈরি এবং পরিমার্জন করতে পারবেন।",
+        "added_at_ts": 1795785265,
+        "expires_at_ts": 1795871665,
+        "batch_label": "07:14 PM BDT",
+        "batch_edition": 36,
+        "is_new": true
+      },
+      {
+        "title": "Lukcla3889/postman-agent",
+        "summary": "Postman Agent for Windows 10/11. Runs API requests and collections on your local machine, letting you send calls to localhost, inspect responses and debug endpoints without leaving the desktop.",
+        "url": "https://github.com/Lukcla3889/postman-agent",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/Lukcla3889/postman-agent",
+        "stars": 343,
+        "language": "Code",
+        "published_ts": 1795522290,
+        "published": "2026-11-24",
+        "bn_summary": "এই Windows 10/11 টুলটি Postman Agent-এর মতো কাজ করে এবং স্থানীয় কম্পিউটার থেকে API request ও collection চালাতে দেয়। ফলে localhost endpoint পরীক্ষা, response পর্যালোচনা এবং debugging সরাসরি নিজের মেশিনে করা সহজ হয়।",
+        "added_at_ts": 1795785265,
+        "expires_at_ts": 1795871665,
+        "batch_label": "07:14 PM BDT",
+        "batch_edition": 36,
+        "is_new": true
+      },
+      {
+        "title": "jagdishbhatia/leonardo-ai",
+        "summary": "Leonardo Ai for Windows 10/11. Generates images and artwork from text prompts using AI models, then refines results with inpainting, upscaling and canvas editing tools for concept art and design work.",
+        "url": "https://github.com/jagdishbhatia/leonardo-ai",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/jagdishbhatia/leonardo-ai",
+        "stars": 344,
+        "language": "Code",
+        "published_ts": 1795520905,
+        "published": "2026-11-24",
+        "bn_summary": "এই Windows 10/11 প্রকল্পটি AI model ব্যবহার করে text prompt থেকে artwork তৈরি করে এবং পরে inpainting, upscaling ও canvas editing দিয়ে তা উন্নত করতে দেয়। এটি বিশেষভাবে তাদের কাজে লাগতে পারে যারা desktop environment-এ ধারণা থেকে সম্পাদিত ছবি পর্যন্ত পুরো workflow চালাতে চান।",
+        "added_at_ts": 1795785265,
+        "expires_at_ts": 1795871665,
+        "batch_label": "07:14 PM BDT",
+        "batch_edition": 36,
+        "is_new": true
+      },
+      {
         "title": "gary23w/f-ck_data_brokers",
         "summary": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
         "url": "https://github.com/gary23w/f-ck_data_brokers",
@@ -205,23 +256,6 @@
         "batch_label": "08:55 PM BDT",
         "batch_edition": 25,
         "is_new": false
-      },
-      {
-        "title": "Moh4696/inkworks-skill",
-        "summary": "Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet.",
-        "url": "https://github.com/Moh4696/inkworks-skill",
-        "source": "GitHub",
-        "image": "https://opengraph.githubassets.com/1/Moh4696/inkworks-skill",
-        "stars": 343,
-        "language": "JavaScript",
-        "published_ts": 1795598793,
-        "published": "2026-11-25",
-        "bn_summary": "Inkworks ekta agent skill jar madhyome interactive 3D 'how-it-works' page banano jay, engineering sheet er moto kore. Eta important karon AI agent ekhon technical bisoy bujhiye deyar visual content create korte parbe, documentation o education e help korbe.",
-        "added_at_ts": 1795697665,
-        "expires_at_ts": 1795784065,
-        "batch_label": "06:54 PM BDT",
-        "batch_edition": 24,
-        "is_new": false
       }
     ],
     "free_deals": [
@@ -238,7 +272,7 @@
         "expires_at_ts": 1795864345,
         "batch_label": "05:12 PM BDT",
         "batch_edition": 35,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Our Eureka Machine sets up a new record for backprop-free LLM training 😀 Great work @cong_ml and the team! - X",
@@ -288,6 +322,51 @@
     ],
     "war": [
       {
+        "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+        "summary": "US president's new tariff regime targets China hardest, just weeks before Trump and Xi meet again in Miami.",
+        "url": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b095eba50-1795776186_f9e197-1795779007.jpg?resize=1200%2C630&quality=80",
+        "published_ts": 1795783724,
+        "published": "27 Nov, 06:48 PM",
+        "bn_summary": "ট্রাম্প চীনের প্রেসিডেন্ট শি জিনপিংয়ের সঙ্গে কূটনৈতিকভাবে ঘনিষ্ঠ হওয়ার পরও চীনের ওপর সবচেয়ে কঠোর নতুন শুল্ক আরোপ করেছেন। মিয়ামিতে সম্ভাব্য বৈঠকের কয়েক সপ্তাহ আগে এই দ্বৈত পদক্ষেপ বাণিজ্যচাপ ও আলোচনার কৌশল—দুই দিকই নির্দেশ করে।",
+        "added_at_ts": 1795785265,
+        "expires_at_ts": 1795871665,
+        "batch_label": "07:14 PM BDT",
+        "batch_edition": 36,
+        "is_new": true
+      },
+      {
+        "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
+        "summary": "Hostilities between Iran-backed Houthis and Saudi-backed coalition continue to push Yemen into a humanitarian crisis.",
+        "url": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00e8ee5b77-1795221742.jpg?resize=1920%2C1440",
+        "published_ts": 1795780822,
+        "published": "27 Nov, 06:00 PM",
+        "bn_summary": "হুথি-সমর্থিত গণমাধ্যমের দাবি অনুযায়ী, ইয়েমেনের তাইজে সৌদি হামলায় ১১ জন বেসামরিক মানুষ নিহত হয়েছেন। এই ঘটনা সৌদি-সমর্থিত জোট ও ইরান-সমর্থিত হুথিদের চলমান সংঘাত কীভাবে সাধারণ মানুষের দুর্ভোগ বাড়াচ্ছে, তা তুলে ধরে।",
+        "added_at_ts": 1795785265,
+        "expires_at_ts": 1795871665,
+        "batch_label": "07:14 PM BDT",
+        "batch_edition": 36,
+        "is_new": true
+      },
+      {
+        "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+        "summary": "Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?",
+        "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26314321265071-1795775512_bde16a-1795775563.jpg?resize=1200%2C630&quality=80",
+        "published_ts": 1795780286,
+        "published": "27 Nov, 05:51 PM",
+        "bn_summary": "যুদ্ধের সময়ে ইরান উপসাগরীয় দেশগুলোতে নিজেদের হামলার দায় স্বীকার করলেও কুয়েতে ইতালীয় নাগরিক নিহত হওয়ার ঘটনায় দায়িত্ব অস্বীকার করছে। এই অস্বীকৃতি হামলার প্রকৃত দায়, আঞ্চলিক উত্তেজনা এবং সম্ভাব্য কূটনৈতিক প্রতিক্রিয়া নিয়ে প্রশ্ন তৈরি করেছে।",
+        "added_at_ts": 1795785265,
+        "expires_at_ts": 1795871665,
+        "batch_label": "07:14 PM BDT",
+        "batch_edition": 36,
+        "is_new": true
+      },
+      {
         "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
         "summary": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
         "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
@@ -300,7 +379,7 @@
         "expires_at_ts": 1795864345,
         "batch_label": "05:12 PM BDT",
         "batch_edition": 35,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
@@ -315,7 +394,7 @@
         "expires_at_ts": 1795864345,
         "batch_label": "05:12 PM BDT",
         "batch_edition": 35,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "‘I cannot go to work’: Iranians contend with pollution as well as US war",
@@ -330,7 +409,7 @@
         "expires_at_ts": 1795864345,
         "batch_label": "05:12 PM BDT",
         "batch_edition": 35,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
@@ -781,54 +860,54 @@
         "batch_label": "08:55 PM BDT",
         "batch_edition": 25,
         "is_new": false
-      },
-      {
-        "title": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
-        "summary": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.",
-        "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afc9077dd1d-1794936951.jpg?resize=1643%2C1080&quality=80",
-        "published_ts": 1795695049,
-        "published": "26 Nov, 06:10 PM",
-        "bn_summary": "UK Yemen er Houthi group ebong tadeder leaders der upor sanction arop koreche, tadeder Middle East er stability nosto korar obhijog e. Eta symbolic karon Houthi ra Saudi te attack korar somoy ei sanction asche, kintu practical impact shongkhobhobhet kom.",
-        "added_at_ts": 1795697665,
-        "expires_at_ts": 1795784065,
-        "batch_label": "06:54 PM BDT",
-        "batch_edition": 24,
-        "is_new": false
-      },
-      {
-        "title": "Iraq denies reports of troop movements towards Kurdish region",
-        "summary": "Government says there is 'no truth' to media reports that Iraqi army units were moving towards the Kurdistan region.",
-        "url": "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b07eadf53-1795680991.jpg?resize=1920%2C1440",
-        "published_ts": 1795692209,
-        "published": "26 Nov, 05:23 PM",
-        "bn_summary": "Iraq sarkar deny koreche je tar sena bahini Kurdistan region er dike chole jacche. Ei rumor thakle Baghdad ar Erbil er moddhe tension barbe, tai ei denial stability rakkhar jonno.",
-        "added_at_ts": 1795697665,
-        "expires_at_ts": 1795784065,
-        "batch_label": "06:54 PM BDT",
-        "batch_edition": 24,
-        "is_new": false
-      },
-      {
-        "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
-        "summary": "New US policy threatens further tariff hikes on China, India, Vietnam if trade negotiations fall through.",
-        "url": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0800d5-1795686613.jpg?resize=1920%2C1440",
-        "published_ts": 1795691250,
-        "published": "26 Nov, 05:07 PM",
-        "bn_summary": "Trump er tariff policy ki US-friendly trade deal secure korar jonno, she niye article e alochona kora hocche. New policy onujayi China, India, Vietnam er upor aro tariff barate parbe jodi trade negotiation fail kore, tai global trade er upor boro prabhab porbe.",
-        "added_at_ts": 1795697665,
-        "expires_at_ts": 1795784065,
-        "batch_label": "06:54 PM BDT",
-        "batch_edition": 24,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+        "summary": "The November selloff has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
+        "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+        "source": "CNBC",
+        "image": "https://image.cnbcfm.com/api/v1/image/100825740-157559755r.jpg?v=1538672772&w=1920&h=1080",
+        "published_ts": 1795783628,
+        "published": "27 Nov, 06:47 PM",
+        "bn_summary": "নভেম্বরের বিক্রির চাপে S&P 500 correction পর্যায়ে নেমেছে, অর্থাৎ সাম্প্রতিক উচ্চতা থেকে উল্লেখযোগ্য পতন হয়েছে। তবে ঐতিহাসিকভাবে এমন correction সবসময় bear market বা recession-এ রূপ নেয় না, তাই পতনটিকে স্বয়ংক্রিয়ভাবে দীর্ঘমেয়াদি মন্দার সংকেত ধরা ঠিক হবে না।",
+        "added_at_ts": 1795785265,
+        "expires_at_ts": 1795871665,
+        "batch_label": "07:14 PM BDT",
+        "batch_edition": 36,
+        "is_new": true
+      },
+      {
+        "title": "Nvidia Stock Looks to Be Finding a Floor With Huang 2.0 - Barron's",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qVUI0cGtEYUtyUERNQk1nMElsa0dsZzBGOUJoM0Z3SGFpZE1saHJ3QTVBM0N5M29ISzJhc3RhaUw4cmkwa2Q4UHBoV3V1TzA3LTlHU3dpMEF3d0dJd0YxVDIzWXM5eWhUY24xSVkxeEFkR25R?oc=5",
+        "source": "Barron's",
+        "image": "",
+        "published_ts": 1795782600,
+        "published": "27 Nov, 06:30 PM",
+        "bn_summary": "Nvidia-এর শেয়ারদর হয়তো এমন একটি স্তর খুঁজে পাচ্ছে যেখানে পতন ধীর হয়ে স্থিতি তৈরি হতে পারে, যাকে এখানে Huang 2.0 নামে চিহ্নিত করা হয়েছে। বিষয়টি গুরুত্বপূর্ণ কারণ কোম্পানির AI-চিপ ব্যবসা ও CEO Jensen Huang-এর নেতৃত্ব বিনিয়োগকারীদের ভবিষ্যৎ প্রত্যাশায় বড় প্রভাব ফেলে।",
+        "added_at_ts": 1795785265,
+        "expires_at_ts": 1795871665,
+        "batch_label": "07:14 PM BDT",
+        "batch_edition": 36,
+        "is_new": true
+      },
+      {
+        "title": "The stock market is stuck | Expert Opinion - Inquirer.com",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGpwT1Z5aVBMdUpmMU8tVVQ5eEQ1U1VfZVZyY090UVNDV01yZlRKUjhIU0xHRTRmUDBZS2NmQmVuUlFJaHlDUGUxWkczWTJGeDNfVENta0dtSWdQZmlsOHdrMWswOHJsUGp1NWUwSEFtTXk1MjJQWk9LZEN1S2hnUzVJZ3ZpMWpXVUxmYXFzbFpQX3RaN3Zqb3lFVXdiSkxPOWdteQ?oc=5",
+        "source": "Inquirer.com",
+        "image": "",
+        "published_ts": 1795780860,
+        "published": "27 Nov, 06:01 PM",
+        "bn_summary": "বিশেষজ্ঞের বিশ্লেষণ অনুযায়ী, শেয়ারবাজার বর্তমানে স্পষ্ট ঊর্ধ্বগতি বা নিম্নগতির বদলে এক ধরনের স্থবির অবস্থায় আছে। এই অনিশ্চয়তা বিনিয়োগকারীদের সিদ্ধান্ত কঠিন করে এবং বাজারের পরবর্তী দিক নির্ধারণে অর্থনৈতিক তথ্য ও কোম্পানির ফলাফলকে আরও গুরুত্বপূর্ণ করে তোলে।",
+        "added_at_ts": 1795785265,
+        "expires_at_ts": 1795871665,
+        "batch_label": "07:14 PM BDT",
+        "batch_edition": 36,
+        "is_new": true
+      },
       {
         "title": "Gold Price Today: Gold Rises 3.13% on November 27, 2026 - USA Today",
         "summary": "",
@@ -842,7 +921,7 @@
         "expires_at_ts": 1795864345,
         "batch_label": "05:12 PM BDT",
         "batch_edition": 35,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Wall St Week Ahead Sliding stock market confronts jobs data, rate view as next tests - Reuters",
@@ -857,7 +936,7 @@
         "expires_at_ts": 1795864345,
         "batch_label": "05:12 PM BDT",
         "batch_edition": 35,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Trump Can’t Rescue The Stock Market. Here’s What Can. - WSJ",
@@ -872,7 +951,7 @@
         "expires_at_ts": 1795864345,
         "batch_label": "05:12 PM BDT",
         "batch_edition": 35,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break - WSJ",
@@ -1323,54 +1402,54 @@
         "batch_label": "08:55 PM BDT",
         "batch_edition": 25,
         "is_new": false
-      },
-      {
-        "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap - Bloomberg.com",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
-        "source": "Bloomberg.com",
-        "image": "",
-        "published_ts": 1795692488,
-        "published": "26 Nov, 05:28 PM",
-        "bn_summary": "Stocks ar Nasdaq futures baraiche, karon AI trade abar rebound korche. Eta important karon recent volatility er por tech sector e investor confidence phire ashche.",
-        "added_at_ts": 1795697665,
-        "expires_at_ts": 1795784065,
-        "batch_label": "06:54 PM BDT",
-        "batch_edition": 24,
-        "is_new": false
-      },
-      {
-        "title": "The Nasdaq Fell Below Correction Territory: 2 Beaten-Down Nasdaq Stocks to Buy and Hold - Yahoo Finance",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEZDdzJaXzI2djh4UFdsQy1JZkQ5SmxiekszdnZSUTA4Y3V5N2FsM2tURmhvZW8tSnhva2h0SkFXYi1uMUt1XzZCWmszWVdPcThISHN1d1p2UnhTekI2OGFZbjNEcjBxc215MnNpaGFhbW1KLVBsc2xib3hNM2FndVlKeE1Kd285RmtHX3F2WGc0ZXEyejc2Y1laWXhHZmJ1cWt0R2l3?oc=5",
-        "source": "Yahoo Finance",
-        "image": "",
-        "published_ts": 1795683002,
-        "published": "26 Nov, 02:50 PM",
-        "bn_summary": "Nasdaq correction territory te niche name, ar duita beaten-down Nasdaq stock ke buy-and-hold opportunity hisebe highlight kora hoyeche. Correction long-term investor der jonno entry point create kore, tai eta matter kore.",
-        "added_at_ts": 1795697665,
-        "expires_at_ts": 1795784065,
-        "batch_label": "06:54 PM BDT",
-        "batch_edition": 24,
-        "is_new": false
-      },
-      {
-        "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
-        "source": "Kitco",
-        "image": "",
-        "published_ts": 1795679768,
-        "published": "26 Nov, 01:56 PM",
-        "bn_summary": "Kitco te gold er current price per ounce ar 24 hour spot chart dekha jacche. Market uncertainty te gold safe-haven asset hisebe track kora investor der jonno important.",
-        "added_at_ts": 1795697665,
-        "expires_at_ts": 1795784065,
-        "batch_label": "06:54 PM BDT",
-        "batch_edition": 24,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "The Swiss Army knife of USB docking DVD drives is on sale, also available with a built-in M.2 SSD slot or SATA hard drive dock",
+        "summary": "Portable DVD writers with flash media reading, M.2, and SATA drive docking abilities are great Black Friday Deals with 20% off every model.",
+        "url": "https://www.tomshardware.com/desktops/pc-building/the-swiss-army-knife-of-dvd-drives-is-back-on-sale-usb-docking-hybrid-also-available-with-a-built-in-m-2-ssd-slot-or-sata-hard-drive-dock-usd28-for-the-dvd-writer-and-hub-usd37-gets-an-added-sata-dock-or-pay-usd39-for-the-m-2-version",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/4aRr5YQfYP2EQEJzbkGtuG-1920-80.jpg",
+        "published_ts": 1795784576,
+        "published": "27 Nov, 07:02 PM",
+        "bn_summary": "এই পোর্টেবল USB docking DVD drive-এ DVD লেখা, flash media পড়া এবং কিছু মডেলে M.2 SSD slot বা SATA hard-drive dock—সবই পাওয়া যায়। Black Friday অফারে প্রতিটি মডেলে ২০ শতাংশ ছাড় থাকায় পুরোনো optical media ও আধুনিক storage একসঙ্গে ব্যবহারের জন্য এটি তুলনামূলকভাবে বহুমুখী বিকল্প।",
+        "added_at_ts": 1795785265,
+        "expires_at_ts": 1795871665,
+        "batch_label": "07:14 PM BDT",
+        "batch_edition": 36,
+        "is_new": true
+      },
+      {
+        "title": "TSMC gives a sneap peak at AI Design Kit: Agentic AI with foundry expertise",
+        "summary": "TSMC brings agentic AI to chip design as A14 design rule count hits 3.6X that of N5 while customers demand 33% shorter development cycle.",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-a-sneap-peak-at-ai-design-kit-agentic-ai-with-foundry-expertise",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/zr4jtQdQr2Ewa8sDbKneqF-1920-80.jpg",
+        "published_ts": 1795784400,
+        "published": "27 Nov, 07:00 PM",
+        "bn_summary": "TSMC চিপ ডিজাইনের জন্য একটি এজেন্টিক AI ডিজাইন কিট চালু করেছে, কারণ A14 নোডের ডিজাইন রুলের সংখ্যা N5-এর তুলনায় ৩.৬ গুণ বেড়েছে। এটি গুরুত্বপূর্ণ কারণ কাস্টমাররা ৩৩% কম ডেভেলপমেন্ট সাইকেল চায় এবং AI ফাউন্ড্রি দক্ষতার সাথে সেই জটিলতা সামলাতে সাহায্য করবে।",
+        "added_at_ts": 1795785265,
+        "expires_at_ts": 1795871665,
+        "batch_label": "07:14 PM BDT",
+        "batch_edition": 36,
+        "is_new": true
+      },
+      {
+        "title": "AMD and Winbond vulnerabilities let attackers brute-force BitLocker PINs on millions of PCs",
+        "summary": "AMD and Winbond vulnerabilities let hacks let malfeasants guess Bitlocker PINs on millions of machines — brute-forcing a six-digit PIN takes 20 days instead of 19 years, at most",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/amd-and-winbond-vulnerabilities-let-attackers-brute-force-bitlocker-pins-on-millions-of-pcs-cracking-a-six-digit-pin-drops-from-19-years-to-20-days",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/9GmGZwJtZ3PNZW253znm59-1920-80.jpg",
+        "published_ts": 1795782600,
+        "published": "27 Nov, 06:30 PM",
+        "bn_summary": "AMD এবং Winbond-এর দুর্বলতার কারণে আক্রমণকারীরা লক্ষ লক্ষ PC-তে BitLocker PIN brute-force করতে পারে, যেখানে ছয় অঙ্কের PIN অনুমান করতে ২০ দিন লাগে। এটি গুরুত্বপূর্ণ কারণ BitLocker-এর এনক্রিপশন সুরক্ষা কার্যত দুর্বল হয়ে পড়ে এবং ব্যবহারকারীদের আপডেট বা অতিরিক্ত সুরক্ষা নেওয়া দরকার।",
+        "added_at_ts": 1795785265,
+        "expires_at_ts": 1795871665,
+        "batch_label": "07:14 PM BDT",
+        "batch_edition": 36,
+        "is_new": true
+      },
       {
         "title": "20TB WD Elements external HDD is at its lowest price this year",
         "summary": "WD's 20TB storage drive is at its lowest price this year at $549, just 2.75 cents per gigabyte on Amazon.",
@@ -1384,7 +1463,7 @@
         "expires_at_ts": 1795864345,
         "batch_label": "05:12 PM BDT",
         "batch_edition": 35,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "This RTX 5070 and Ryzen 9 9900X gaming PC with 32GB of DDR5 drops to $1,999.99 for Black Friday - PC Guide",
@@ -1399,7 +1478,7 @@
         "expires_at_ts": 1795864345,
         "batch_label": "05:12 PM BDT",
         "batch_edition": 35,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Why is Micron Technology stock surging today? - Investing.com",
@@ -1414,7 +1493,7 @@
         "expires_at_ts": 1795864345,
         "batch_label": "05:12 PM BDT",
         "batch_edition": 35,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Save a huge $1,020 on a 240Hz OLED gaming laptop from Lenovo with an RTX 5070 Ti, now just $1,999",
@@ -1774,51 +1853,6 @@
         "expires_at_ts": 1795791325,
         "batch_label": "08:55 PM BDT",
         "batch_edition": 25,
-        "is_new": false
-      },
-      {
-        "title": "AI models on one vLLM server secretly talk through GPU rounding errors",
-        "summary": "Two AI models on one vLLM inference server traded secret messages through GPU kernel rounding errors, with no network or shared files.",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sandboxed-ai-models-secretly-talk-via-gpu-rounding-errors-on-shared-vllm-servers-with-no-network-or-shared-files-colluding-watchdog-let-all-354-attacks-slip-through",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/TMUte2TB7mThSYVgWPKiQL-1920-80.jpg",
-        "published_ts": 1795696200,
-        "published": "26 Nov, 06:30 PM",
-        "bn_summary": "Duota AI model same vLLM server e GPU rounding error diye secret message exchange korte parche, kono network ba shared file chara. Eta matter kore karon shared AI inference infrastructure e side-channel security risk thakte pare.",
-        "added_at_ts": 1795697665,
-        "expires_at_ts": 1795784065,
-        "batch_label": "06:54 PM BDT",
-        "batch_edition": 24,
-        "is_new": false
-      },
-      {
-        "title": "AMD Ryzen 7 9800X3D plummets to an all-time low of $369 at Amazon",
-        "summary": "One of the very best gaming CPUs on the market is now cheaper than ever.",
-        "url": "https://www.tomshardware.com/pc-components/cpus/amds-dominant-ryzen-7-9800x3d-plummets-to-all-time-low-of-usd369-at-amazon-astonishing-gaming-performance-for-am5",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/gdS8B7MtcRAvqXsgY3zExM-1920-80.jpg",
-        "published_ts": 1795694447,
-        "published": "26 Nov, 06:00 PM",
-        "bn_summary": "AMD Ryzen 7 9800X3D er dam Amazon e all-time low $369 e namche. Eta best gaming CPU gulor ekta, tai builder der jonno affordable option hoye geche.",
-        "added_at_ts": 1795697665,
-        "expires_at_ts": 1795784065,
-        "batch_label": "06:54 PM BDT",
-        "batch_edition": 24,
-        "is_new": false
-      },
-      {
-        "title": "Export-banned Nvidia Blackwell B300 servers are openly for sale in China for up to $3.4 million",
-        "summary": "It's easy to find Blackwell chips for sale in China even today — uneven enforcement of export controls and gray market trading ensure continued availability",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/export-banned-nvidia-blackwell-b300-servers-are-openly-for-sale-in-china-for-up-to-usd3-4-million-a-5x-to-6x-markup-over-u-s-prices",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/iPmrEtNmpAx79TNibeBMXb-1920-80.jpg",
-        "published_ts": 1795694400,
-        "published": "26 Nov, 06:00 PM",
-        "bn_summary": "Export-ban kora Nvidia Blackwell B300 servers China te openly $3.4 million porjonto becha hocche. Eta dekhaiche je export control enforcement soman na, ar gray market e advanced AI hardware available thakbe.",
-        "added_at_ts": 1795697665,
-        "expires_at_ts": 1795784065,
-        "batch_label": "06:54 PM BDT",
-        "batch_edition": 24,
         "is_new": false
       }
     ]
