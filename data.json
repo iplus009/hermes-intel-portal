@@ -1,21 +1,21 @@
 {
-  "edition": 39,
-  "updated_ts": 1795807165,
-  "updated_dhaka": "28 Nov 2026, 01:19 AM (BDT)",
-  "updated_utc": "2026-11-27 19:19 UTC",
-  "batch_label": "01:19 AM BDT",
-  "new_added": 14,
-  "expired_removed": 9,
+  "edition": 40,
+  "updated_ts": 1795814485,
+  "updated_dhaka": "28 Nov 2026, 03:21 AM (BDT)",
+  "updated_utc": "2026-11-27 21:21 UTC",
+  "batch_label": "03:21 AM BDT",
+  "new_added": 13,
+  "expired_removed": 10,
   "curated_by": "codex-relay (gpt-5.6-luna)",
   "advice": {
-    "title": "সিগন্যাল বুঝে স্মার্ট অ্যাকশন",
-    "body": "আজ AI transcription ও GitHub-এর KuroCat/fast-anything দেখে ছোট prototype বানান, free API tier ও low-cost VPS-এ deploy করে Karpathy বা Hugging Face course দিয়ে যাচাই করুন। Gold 3.75% ও S&P/NASDAQ ঊর্ধ্বমুখী হলেও NVDA কমেছে, Micron/RAM বেড়েছে—তাই একসঙ্গে ঝুঁকি না নিয়ে watchlist ও ধাপে বিনিয়োগ রাখুন, আর Kyiv-এর ceasefire ও যুদ্ধসংবাদে volatility মাথায় রাখুন।",
+    "title": "সিগন্যাল বুঝে আজকের স্মার্ট অ্যাকশন",
+    "body": "d1.3-ultra-এর দাবি ও PiBot/papercraft GitHub কোড sandbox-এ পরীক্ষা করে, Tencent eKYC-এর 300 free API calls সীমা যাচাই করে ছোট VPS prototype চালান। Gold 3.75% ও S&P/NASDAQ ঊর্ধ্বমুখী হলেও NVDA 3.15% কমেছে, তাই একবারে বড় stock entry নয়—ধাপে কিনুন; Micron/RAM শক্তিশালী হলেও geopolitical ঝুঁকিতে UPS ও backup রাখুন।",
     "tag": "AI & Dev"
   },
   "quote": {
-    "text_bn": "আপনি অনেক পরাজয়ের মুখোমুখি হতে পারেন, কিন্তু পরাজিত হওয়া চলবে না।",
-    "author": "মায়া অ্যাঞ্জেলু",
-    "note_bn": "আজ একটি ছোট কাজ বেছে নিয়ে বাধা এলেও সেটি শেষ না হওয়া পর্যন্ত এগিয়ে যান।"
+    "text_bn": "জীবন সাইকেল চালানোর মতো; ভারসাম্য বজায় রাখতে হলে চলতে থাকতে হয়।",
+    "author": "আলবার্ট আইনস্টাইন",
+    "note_bn": "আজ ছোট কিন্তু ধারাবাহিক একটি পরীক্ষা বা বিনিয়োগ পদক্ষেপ নিন, তারপর ফল দেখে পরের সিদ্ধান্ত নিন।"
   },
   "markets": [
     {
@@ -56,13 +56,28 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$59,920.04",
-      "change_pct": -0.95,
+      "price": "$59,771.39",
+      "change_pct": -1.2,
       "up": false
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "Today we release d1.3-ultra, our most powerful decision model, recursively improved from d1-ultra. #1 on @ArtificialAnlys decision index 2.1. (76.4) what improved compared to d1.2-",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOeGYzT05zQ2hCZ3NBcWxxRnBpWWdOZEpIREZYRUlEMWRfVzdZLWlnWnVjeXpOdE96NVB0TFAzdVJPQTlKRmNvbGZaRTJDRWhSNkFvNHBqb3lnbFc1UlE?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795802279,
+        "published": "27 Nov, 11:57 PM",
+        "bn_summary": "d1.3-ultra হলো d1-ultra-এর ভিত্তিতে তৈরি একটি নতুন ডিসিশন মডেল, যা Artificial Analysis-এর ডিসিশন বেঞ্চমার্কে প্রথম স্থান পেয়েছে। এটি AI-এর সিদ্ধান্ত গ্রহণের ক্ষমতা দ্রুত উন্নত হওয়ার ইঙ্গিত দেয়, যা স্বয়ংক্রিয় যুক্তি নির্ভর শিল্পে বড় প্রভাব ফেলতে পারে।",
+        "added_at_ts": 1795814485,
+        "expires_at_ts": 1795900885,
+        "batch_label": "03:21 AM BDT",
+        "batch_edition": 40,
+        "is_new": true
+      },
       {
         "title": "5 of our models rank in the top 40 for transcription accuracy on @ArtificialAnlys. English, French, Japanese, Hungarian, Turkish. Every word, transcribed by Voxtral. Transcription ",
         "summary": "",
@@ -76,7 +91,7 @@
         "expires_at_ts": 1795893565,
         "batch_label": "01:19 AM BDT",
         "batch_edition": 39,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Distillation is good and healthy in AI. It's one of the few things limiting extreme concentration of power, capabilities and wealth (and very similar to how AI companies got succes",
@@ -167,24 +182,43 @@
         "batch_label": "05:03 AM BDT",
         "batch_edition": 29,
         "is_new": false
-      },
-      {
-        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-        "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-        "source": "TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024",
-        "published_ts": 1795723434,
-        "published": "27 Nov, 02:03 AM",
-        "bn_summary": "যুক্তরাষ্ট্রের কঠোর রপ্তানি-নিয়ন্ত্রণ নীতির প্রভাবে Nvidia মালয়েশিয়া, সিঙ্গাপুর, থাইল্যান্ড ও ইন্দোনেশিয়ায় সার্ভার পাঠানো সাময়িকভাবে থামাতে উৎপাদন অংশীদারদের বলেছে। এতে দক্ষিণ-পূর্ব এশিয়ার ডেটা সেন্টার ও AI অবকাঠামো প্রকল্পে দেরি হতে পারে এবং চিপ সরবরাহের ওপর ভূরাজনৈতিক চাপ স্পষ্ট হচ্ছে।",
-        "added_at_ts": 1795726831,
-        "expires_at_ts": 1795813231,
-        "batch_label": "03:00 AM BDT",
-        "batch_edition": 28,
-        "is_new": false
       }
     ],
     "github": [
+      {
+        "title": "w01fb0ss/PiBot",
+        "summary": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+        "url": "https://github.com/w01fb0ss/PiBot",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/w01fb0ss/PiBot",
+        "stars": 675,
+        "language": "TypeScript",
+        "published_ts": 1795244064,
+        "published": "2026-11-21",
+        "bn_summary": "PiBot একটি ওপেন-সোর্স, লোকাল-ফার্স্ট AI এজেন্ট টিম যা ডেস্কটপে মাল্টি-এজেন্ট গ্রুপ চ্যাট, কম্পিউটার ব্যবহার, ব্রাউজার, MCP, রুটিন এবং অ্যাপ্রুভাল সাপোর্ট করে। এটি ব্যবহারকারীদের ক্লাউড নির্ভরতা ছাড়াই নিজস্ব ডিভাইসে AI এজেন্ট চালানোর সুযোগ দেয়, যা গোপনীয়তা এবং নিয়ন্ত্রণ বাড়ায়।",
+        "added_at_ts": 1795814485,
+        "expires_at_ts": 1795900885,
+        "batch_label": "03:21 AM BDT",
+        "batch_edition": 40,
+        "is_new": true
+      },
+      {
+        "title": "xikhar/papercraft",
+        "summary": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
+        "url": "https://github.com/xikhar/papercraft",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/xikhar/papercraft",
+        "stars": 930,
+        "language": "JavaScript",
+        "published_ts": 1795220996,
+        "published": "2026-11-21",
+        "bn_summary": "papercraft একটি এজেন্ট স্কিল যা পপ-আপ পেপারক্রাফ্ট স্টাইলে গেম, ইন্টারঅ্যাকটিভ সিন, ওয়েব পেজ এবং অ্যানিমেশন তৈরি করতে পারে। এটি নির্মাতাদের জন্য অনন্য হ্যান্ডক্রাফ্ট-স্টাইল কনটেন্ট সহজে তৈরি করার সুযোগ এনে দেয়, যা AI-এর সৃজনশীল সম্ভাবনাকে প্রসারিত করে।",
+        "added_at_ts": 1795814485,
+        "expires_at_ts": 1795900885,
+        "batch_label": "03:21 AM BDT",
+        "batch_edition": 40,
+        "is_new": true
+      },
       {
         "title": "qianyiai/KuroCat",
         "summary": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
@@ -200,7 +234,7 @@
         "expires_at_ts": 1795893565,
         "batch_label": "01:19 AM BDT",
         "batch_edition": 39,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "EL4CTEO/fast-anything",
@@ -217,7 +251,7 @@
         "expires_at_ts": 1795893565,
         "batch_label": "01:19 AM BDT",
         "batch_edition": 39,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "youssefco1999-hash/aiseesoft-launch-pro",
@@ -234,7 +268,7 @@
         "expires_at_ts": 1795893565,
         "batch_label": "01:19 AM BDT",
         "batch_edition": 39,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "erkamyaman/safe-anything",
@@ -426,6 +460,21 @@
     ],
     "free_deals": [
       {
+        "title": "🚀 Try Tencent Cloud AI eKYC with 300 Free API Calls! Activate Tencent Cloud eKYC for the first time and receive three free trial packages: • 100 free AI Face Shield trials • 100 fr",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HdFk4RnhVZzBjbkx3RnJkNG41SzVPb0NRRExnclhjaE5oUk5oamotWW5ycm8wQ1N3eUJqT3J6dXJqd2JfcVcwWTR4VTlnbDhFcW5GdU5zOXhMYXdZWUJtSlItYw?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795766869,
+        "published": "27 Nov, 02:07 PM",
+        "bn_summary": "Tencent Cloud AI eKYC প্রথমবার অ্যাক্টিভেট করলে ৩০০টি ফ্রি API কল পাওয়া যাবে। এটি ডেভেলপারদের কোনো খরচ ছাড়াই আইডেন্টিটি ভেরিফিকেশন সার্ভিস পরীক্ষা করার সুযোগ দেয়, যা প্রযুক্তিটি দ্রুত গ্রহণে সহায়ক হতে পারে।",
+        "added_at_ts": 1795814485,
+        "expires_at_ts": 1795900885,
+        "batch_label": "03:21 AM BDT",
+        "batch_edition": 40,
+        "is_new": true
+      },
+      {
         "title": "5 free LLM courses that work as one path: Karpathy's Zero to Hero, the FSDL Bootcamp, Stanford CS336, the Hugging Face LLM Course and https://t.co/ZFymkKzRk9 on agents. https://t.c",
         "summary": "",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UdVlJQVhid25Idmx2NDNFOGZmR3ZyWnItMlNNNEhrUEU2d0diNDAwTndZWnVDWFhadjNLS2JiajFvY3ZKamxBMW1CT3JVRVJoek90QkdIRmNMSHBtZXJZ?oc=5",
@@ -438,7 +487,7 @@
         "expires_at_ts": 1795893565,
         "batch_label": "01:19 AM BDT",
         "batch_edition": 39,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Maybe a dumb question, BUT... is relying on free API endpoints for serious coding just procrastination for buying a GPU? Or is it the future? - X",
@@ -518,6 +567,51 @@
     ],
     "war": [
       {
+        "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+        "summary": "The Kremlin plans to expand its naval fleet with five new nuclear submarines by 2030.",
+        "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09e278cdc4-1795809913.jpg?resize=1920%2C1440",
+        "published_ts": 1795811997,
+        "published": "28 Nov, 02:39 AM",
+        "bn_summary": "পুতিন হাইপারসনিক অস্ত্রসহ একটি নতুন পারমাণবিক সাবমেরিন উন্মোচন করেছেন এবং ২০৩০ সালের মধ্যে পাঁচটি নতুন পারমাণবিক সাবমেরিন বহর সম্প্রসারণের পরিকল্পনা ঘোষণা করেছেন। এটি সামরিক সক্ষমতা বৃদ্ধির ইঙ্গিত দেয় এবং ভূ-রাজনৈতিক উত্তেজনা আরও বাড়িয়ে তুলতে পারে।",
+        "added_at_ts": 1795814485,
+        "expires_at_ts": 1795900885,
+        "batch_label": "03:21 AM BDT",
+        "batch_edition": 40,
+        "is_new": true
+      },
+      {
+        "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+        "summary": "Hamas leader Khalil al-Hayya's last surviving son Izzeldeen survived an Israeli assassination attempt on Friday.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795810674.jpg?resize=1920%2C1080&quality=80",
+        "published_ts": 1795810725,
+        "published": "28 Nov, 02:18 AM",
+        "bn_summary": "হামাস নেতা খলিল আল-হাইয়ার শেষ জীবিত ছেলে ইজ্জেলদিন গাজায় ইসরায়েলি হামলায় প্রাণে বেঁচে গেছেন। এই ঘটনা চলমান সংঘাতে ব্যক্তিগত ক্ষয়ক্ষতি এবং লক্ষ্যবস্তু হত্যার ধারাবাহিকতা তুলে ধরে।",
+        "added_at_ts": 1795814485,
+        "expires_at_ts": 1795900885,
+        "batch_label": "03:21 AM BDT",
+        "batch_edition": 40,
+        "is_new": true
+      },
+      {
+        "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+        "summary": "Costa Rica has barred UN special rapporteur Francesca Albanese, citing unfounded ‘links to terrorist acts’.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795810110.jpg?resize=1620%2C1080&quality=80",
+        "published_ts": 1795810230,
+        "published": "28 Nov, 02:10 AM",
+        "bn_summary": "জাতিসংঘের গাজা বিশেষ প্রতিবেদক ফ্রান্সেস্কা আলবেনেসকে কোস্টারিকা প্রবেশে নিষেধাজ্ঞা দিয়েছে, যাকে 'সন্ত্রাসী কর্মকাণ্ডের সাথে সম্পর্ক' বলে উল্লেখ করা হয়েছে কিন্তু ভিত্তিহীন। এটি জাতিসংঘের কর্মকর্তাদের কূটনৈতিক আচরণ এবং মত প্রকাশের স্বাধীনতা নিয়ে উদ্বেগ সৃষ্টি করে।",
+        "added_at_ts": 1795814485,
+        "expires_at_ts": 1795900885,
+        "batch_label": "03:21 AM BDT",
+        "batch_edition": 40,
+        "is_new": true
+      },
+      {
         "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
         "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
         "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
@@ -530,7 +624,7 @@
         "expires_at_ts": 1795893565,
         "batch_label": "01:19 AM BDT",
         "batch_edition": 39,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
@@ -545,7 +639,7 @@
         "expires_at_ts": 1795893565,
         "batch_label": "01:19 AM BDT",
         "batch_edition": 39,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
@@ -560,7 +654,7 @@
         "expires_at_ts": 1795893565,
         "batch_label": "01:19 AM BDT",
         "batch_edition": 39,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
@@ -1011,54 +1105,54 @@
         "batch_label": "05:03 AM BDT",
         "batch_edition": 29,
         "is_new": false
-      },
-      {
-        "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
-        "summary": "Israeli restrictions on humanitarian aid, damaged buildings and flooded tents leave displaced Palestinians vulnerable.",
-        "url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af08bf56851-1794149365.jpg?resize=1920%2C1440",
-        "published_ts": 1795720752,
-        "published": "27 Nov, 01:19 AM",
-        "bn_summary": "শীতের বৃষ্টি, ধ্বংস হওয়া ভবন ও পানিতে ডুবে যাওয়া তাঁবুর কারণে গাজার বাস্তুচ্যুত মানুষ আবারও নিরাপদ আশ্রয়ের খোঁজে পালাতে বাধ্য হচ্ছেন। মানবিক সহায়তায় ইসরায়েলি বিধিনিষেধ থাকায় আশ্রয়, শুকনো জায়গা ও জরুরি সেবার ঘাটতি তাদের ঝুঁকি আরও বাড়িয়েছে।",
-        "added_at_ts": 1795726831,
-        "expires_at_ts": 1795813231,
-        "batch_label": "03:00 AM BDT",
-        "batch_edition": 28,
-        "is_new": false
-      },
-      {
-        "title": "Trump Urges Putin to ‘Pull Back’ Military Aggression in Europe - Time Magazine",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVEVNcXpOUV9lSWZ0M2lPUjlNeWludVpCOTdTUUE2NFpRSXlqV2V5Q25uUGxydk13Z2NiV2wxUjd4cnFncTBNbzBwenZydWRQLUVkN2k4OHBuMUpNcmRoMm5YWWVrVkNsb1JfakVRTVVSb1lKMXNvbjk3SVJQMWVKTnpITWhKT1IzdkN1Q0ZDdk5kVDVCV1lkWVNIdGtrZU5pMy1GVG9KZEpFWDNaVEZ0NEVHaw?oc=5",
-        "source": "Time Magazine",
-        "image": "",
-        "published_ts": 1795720019,
-        "published": "27 Nov, 01:06 AM",
-        "bn_summary": "ডোনাল্ড ট্রাম্প ভ্লাদিমির পুতিনকে ইউরোপে সামরিক আগ্রাসন থেকে পিছিয়ে আসার আহ্বান জানিয়েছেন। এই বক্তব্য সংঘাত কমানোর রাজনৈতিক চাপের ইঙ্গিত দিলেও বাস্তবে উত্তেজনা কমবে কি না, তা রাশিয়ার পদক্ষেপের ওপর নির্ভর করছে।",
-        "added_at_ts": 1795726831,
-        "expires_at_ts": 1795813231,
-        "batch_label": "03:00 AM BDT",
-        "batch_edition": 28,
-        "is_new": false
-      },
-      {
-        "title": "Syrian children continue learning amid the ruins of war in Idlib",
-        "summary": "Syria reopened a semi destroyed school in Idlib province",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sequence-99.00_00_05_04.Still002-1795714440.jpg?resize=1920%2C1080&quality=80",
-        "published_ts": 1795714341,
-        "published": "26 Nov, 11:32 PM",
-        "bn_summary": "যুদ্ধের ধ্বংসস্তূপের মধ্যেও সিরিয়ার ইদলিবে একটি আংশিক ধ্বংস হওয়া স্কুল আবার চালু হয়েছে, ফলে শিশুরা পড়াশোনায় ফিরতে পারছে। এই উদ্যোগটি শিক্ষা ও স্বাভাবিক জীবন ফেরানোর চেষ্টা দেখালেও স্কুলের অবকাঠামো ও নিরাপত্তা এখনও অনিশ্চিত।",
-        "added_at_ts": 1795726831,
-        "expires_at_ts": 1795813231,
-        "batch_label": "03:00 AM BDT",
-        "batch_edition": 28,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "Nvidia, Micron, and Sandisk Trade at Half the S&P 500’s Forward P/E. They Are All Genius Buys. - The Motley Fool",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZDhySGlxeXBaWE1ncDJVOE9IUDg4aUthNFhndVJpVVdDYlZVUEthUTdmNUlsWkU4bFBqZUtZS2xqQWw0OWNEWG5yTFNSMVZrVXJ0MUl5eU4yY21ZR2h3NXo0VnhrRmZTdURoSzdHR0hjSjlla2FKT1VFaWlMUTh5SmRJbU0zRm1qTVBxWE5jUnd2N0IxZUthLTEtRVFDYWJOd3M0UXlnSVhMOG5ONEZJNi13VEgtZlFrV3ZncDE1NktubmhoQzdXYnl0R1pNUy1OM3FV?oc=5",
+        "source": "The Motley Fool",
+        "image": "",
+        "published_ts": 1795808282,
+        "published": "28 Nov, 01:38 AM",
+        "bn_summary": "Nvidia, Micron এবং Sandisk-এর শেয়ার S&P 500-এর ফরোয়ার্ড P/E-এর অর্ধেক মূল্যে লেনদেন হচ্ছে, যাকে Motley Fool 'জিনিয়াস বাই' হিসেবে অভিহিত করেছে। এটি ইঙ্গিত দেয় যে এই টেক স্টকগুলো বাজারের তুলনায় অবমূল্যায়িত হতে পারে, যা বিনিয়োগকারীদের জন্য সম্ভাব্য সুযোগ তৈরি করতে পারে।",
+        "added_at_ts": 1795814485,
+        "expires_at_ts": 1795900885,
+        "batch_label": "03:21 AM BDT",
+        "batch_edition": 40,
+        "is_new": true
+      },
+      {
+        "title": "Gold Price Forecast – Remarkable Cycle Symmetry Points to a Major Bottom - FXEmpire",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ1N4UDlWY2ZXODJha3A4dmppS0tRMnhRTFl6M1RwY0I1YjBDWEpRRlZXRTNNSTg2eFhUYUFJNkR6dS1ldXZMZmhqZWkzS05jbjBVRHJPV2JIa0FZLUxNcVVCeVctUkN1a2t1eXpuV294Wl9oMXRMVnZLQ1laOE91VTNlT2lwWW5HY0pGc2REc0lUeVBjQVhtVVhYVmJsdVpvX1FLaEpzb2YtZzBpZU9jNTJqOWZmZGRuQlFHRVpR?oc=5",
+        "source": "FXEmpire",
+        "image": "",
+        "published_ts": 1795805627,
+        "published": "28 Nov, 12:53 AM",
+        "bn_summary": "সোনার দামের পূর্বাভাসে উল্লেখযোগ্য চক্রীয় প্রতিসাম্য দেখা যাচ্ছে, যা একটি বড় নিম্নমুখী বটমের দিকে ইঙ্গিত করে। এটি সোনার বিনিয়োগকারীদের জন্য কেনার সুযোগ সংকেত দিতে পারে এবং কমোডিটি বাজারে প্রভাব ফেলতে পারে।",
+        "added_at_ts": 1795814485,
+        "expires_at_ts": 1795900885,
+        "batch_label": "03:21 AM BDT",
+        "batch_edition": 40,
+        "is_new": true
+      },
+      {
+        "title": "The warnings behind this week’s stock-market rally - MarketWatch",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWTU0MlVuZTRCclkzSjFlYTVwSEotWXFibFBvbGhzU3EzcjF0dHN5TXRCa2FNUHJzZlVuaXhBZ1RoSldrTVBJMjBfTm1MOW5xV3RUNE1McW9Vdl9aSGJCbkVqRklBZ3RtbVhqbTZ1bDltZTNWa0NwdllRM0s4RU1NOVREcFd5UllMYnBRakxCNXZLUmhQaWFR?oc=5",
+        "source": "MarketWatch",
+        "image": "",
+        "published_ts": 1795804800,
+        "published": "28 Nov, 12:40 AM",
+        "bn_summary": "MarketWatch এই সপ্তাহের শেয়ারবাজার র্যালির পেছনে থাকা সতর্কবার্তাগুলো তুলে ধরেছে। এটি বিনিয়োগকারীদের অতিরিক্ত আশাবাদ এবং সম্ভাব্য পুলব্যাকের ঝুঁকি সম্পর্কে সতর্ক করে।",
+        "added_at_ts": 1795814485,
+        "expires_at_ts": 1795900885,
+        "batch_label": "03:21 AM BDT",
+        "batch_edition": 40,
+        "is_new": true
+      },
       {
         "title": "How to Live Calmly, Despite Stock Market Whiplash - The New York Times",
         "summary": "",
@@ -1072,7 +1166,7 @@
         "expires_at_ts": 1795893565,
         "batch_label": "01:19 AM BDT",
         "batch_edition": 39,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Rallies Amid Rising Demand For Risk Assets - FXEmpire",
@@ -1087,7 +1181,7 @@
         "expires_at_ts": 1795893565,
         "batch_label": "01:19 AM BDT",
         "batch_edition": 39,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Why Has the Stock Market Gotten so Volatile? - Morningstar",
@@ -1102,7 +1196,7 @@
         "expires_at_ts": 1795893565,
         "batch_label": "01:19 AM BDT",
         "batch_edition": 39,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "‘I look spectacular in this’: Kevin O’Leary wore a $2M Michael Jordan card on a Tiffany chain to prove alternative assets are beating the S&P 500 - MoneyWise.com",
@@ -1553,54 +1647,54 @@
         "batch_label": "05:03 AM BDT",
         "batch_edition": 29,
         "is_new": false
-      },
-      {
-        "title": "Is NVIDIA Stock Underperforming the Dow? - Barchart.com",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSU9JS2ctSTktQ0NhMzM1T0FvVk9WcXpJX0NDdWRZT0c0ZjFKcGpmenpZLWF1Q3NzN3FPdGQwd2NUX3Z6UHllZU9HcGtXOFhGcDl1bFdxMTlKM1A2ZVNLUGc2M1lJWHhXcGRrVFVOVHhTTlJKc09DU2h3aHNDVlZhR1llZE4zWEx5QnBJ?oc=5",
-        "source": "Barchart.com",
-        "image": "",
-        "published_ts": 1795722258,
-        "published": "27 Nov, 01:44 AM",
-        "bn_summary": "প্রতিবেদনটি Dow সূচকের তুলনায় Nvidia-র শেয়ারের সাম্প্রতিক পারফরম্যান্স বিশ্লেষণ করছে এবং কোম্পানিটির রিটার্ন পিছিয়ে আছে কি না তা খতিয়ে দেখছে। এমন তুলনা বিনিয়োগকারীদের Nvidia-র AI প্রবৃদ্ধির সম্ভাবনা ও উচ্চ মূল্যায়নের ঝুঁকি একসঙ্গে বুঝতে সাহায্য করে।",
-        "added_at_ts": 1795726831,
-        "expires_at_ts": 1795813231,
-        "batch_label": "03:00 AM BDT",
-        "batch_edition": 28,
-        "is_new": false
-      },
-      {
-        "title": "Gold (XAUUSD) Price Forecast: Reversal Puts Long-Term Value Area in Focus - FXEmpire",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObEVoYzA5Um5LZjVNVy1CaXRNWU03bW5jQ3lKdGxyUUdkSjJ6OUtQLWwzMy1pUVBxN2VxbWZEcFdhbzRtNzZFa0pnNy1uc3c2TTJIZXJlNDI4Yl82Zm1ZLUY0bnFoQmZudGRuVWQyR1BUNnlDMi1KV1loV0E2MnN5VVI0ZUhlRWk0MEhSOEptRkpCOFdkbjgyaUk1TVNZYldNaFJheWNnQ3paRFVUeENzVlJLVlBiZUcwQ2VOZ2tn?oc=5",
-        "source": "FXEmpire",
-        "image": "",
-        "published_ts": 1795705532,
-        "published": "26 Nov, 09:05 PM",
-        "bn_summary": "স্বর্ণের দামে সাম্প্রতিক উল্টোদিকের গতি দীর্ঘমেয়াদি মূল্যায়নের একটি গুরুত্বপূর্ণ অঞ্চলের দিকে বাজারকে ফিরিয়ে নিতে পারে বলে পূর্বাভাসে বলা হয়েছে। এতে স্বর্ণে সম্ভাব্য সমর্থন ও ভবিষ্যৎ প্রবণতা বোঝার সুযোগ মিললেও বাজারের অস্থিরতা ও সুদের হার বড় ঝুঁকি হয়ে থাকবে।",
-        "added_at_ts": 1795726831,
-        "expires_at_ts": 1795813231,
-        "batch_label": "03:00 AM BDT",
-        "batch_edition": 28,
-        "is_new": false
-      },
-      {
-        "title": "Hawkish Fed poised to raise rates despite stock market turmoil - Financial Times",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
-        "source": "Financial Times",
-        "image": "",
-        "published_ts": 1795705125,
-        "published": "26 Nov, 08:58 PM",
-        "bn_summary": "শেয়ারবাজারে অস্থিরতা থাকলেও ফেডারেল রিজার্ভ সুদের হার বাড়ানোর দিকে কঠোর অবস্থান বজায় রাখতে পারে বলে প্রতিবেদনে বলা হয়েছে। উচ্চ সুদ মূল্যস্ফীতি নিয়ন্ত্রণে সহায়তা করলেও ঋণ ব্যয় বাড়িয়ে শেয়ারদর ও অর্থনৈতিক প্রবৃদ্ধির ওপর চাপ ফেলতে পারে।",
-        "added_at_ts": 1795726831,
-        "expires_at_ts": 1795813231,
-        "batch_label": "03:00 AM BDT",
-        "batch_edition": 28,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "Samsung's 49-inch OLED gaming monitor drops to a new low price of $854",
+        "summary": "Amazon is offering the Samsung Odyssey G9 G93SC at a price of $854, a new all-time low. The gaming monitor often sells for above $1,20",
+        "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsungs-49-inch-oled-gaming-monitor-returns-to-its-lowest-price-ever-at-amazon-take-your-gpu-on-an-ultrawide-odyssey-for-usd854",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/6UfpwtJZTCUMrva83EdCuK-1920-80.jpg",
+        "published_ts": 1795813587,
+        "published": "28 Nov, 03:06 AM",
+        "bn_summary": "Samsung-এর 49-ইঞ্চি OLED গেমিং মনিটরটি Amazon-এ $854-এ বিক্রি হচ্ছে, যা এর সর্বনিম্ন দাম। এই দামে একটি প্রিমিয়াম OLED আল্ট্রাওয়াইড মনিটর পাওয়া গেমারদের জন্য বড় সুযোগ, কারণ এটি সাধারণত $1,200-এর বেশি দামে বিক্রি হয়।",
+        "added_at_ts": 1795814485,
+        "expires_at_ts": 1795900885,
+        "batch_label": "03:21 AM BDT",
+        "batch_edition": 40,
+        "is_new": true
+      },
+      {
+        "title": "Protect your PC, console, or TV with a CyberPower ST900U UPS for just $99.95, or 17% off",
+        "summary": "",
+        "url": "https://www.tomshardware.com/pc-components/protect-your-pc-console-or-tv-with-a-cyberpower-st900u-ups-for-just-usd99-95-or-17-percent-off-a-complement-of-12-outlets-available-with-surge-protection",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/os2MLFaoafVvTzPigrkmjd-1920-80.png",
+        "published_ts": 1795811400,
+        "published": "28 Nov, 02:30 AM",
+        "bn_summary": "CyberPower ST900U UPS-টি $99.95-এ পাওয়া যাচ্ছে, যা 17% ছাড়। এটি আপনার PC, কনসোল বা TV-কে পাওয়ার বিভ্রাট থেকে রক্ষা করবে, তাই ইলেকট্রনিক্স ডিভাইসের জন্য সাশ্রয়ী সুরক্ষা।",
+        "added_at_ts": 1795814485,
+        "expires_at_ts": 1795900885,
+        "batch_label": "03:21 AM BDT",
+        "batch_edition": 40,
+        "is_new": true
+      },
+      {
+        "title": "Get the cheapest RTX 5070 around this Black Friday with Gigabyte's $839 Gaming OC card",
+        "summary": "Looking for a midrange RTX 50-series upgrade this Black Friday? The Gigabyte Gaming RTX 5070 gets you a big cooler and RGB flair for the lowest price we've seen this week.",
+        "url": "https://www.tomshardware.com/pc-components/gpus/get-the-cheapest-rtx-5070-around-this-black-friday-with-gigabytes-usd839-gaming-oc-card-midrange-blackwell-continues-to-shine-with-dlss-4-5-and-dlss-5",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/5zDu242Ef6zHZhEtLhv8z8-1920-80.jpg",
+        "published_ts": 1795808288,
+        "published": "28 Nov, 01:38 AM",
+        "bn_summary": "Gigabyte-এর RTX 5070 Gaming OC কার্ডটি $839-এ পাওয়া যাচ্ছে, যা এই মডেলের জন্য এখন পর্যন্ত সবচেয়ে কম দাম। এটি একটি মিড-রেঞ্জ GPU যার বড় কুলার এবং RGB আছে, Black Friday-এ আপগ্রেডের জন্য ভালো ডিল।",
+        "added_at_ts": 1795814485,
+        "expires_at_ts": 1795900885,
+        "batch_label": "03:21 AM BDT",
+        "batch_edition": 40,
+        "is_new": true
+      },
       {
         "title": "Get 38% off an RTX 5070-powered HP Omen 35L gaming desktop sporting an Intel Core Ultra 7 CPU and 32GB of DDR5",
         "summary": "TKTK",
@@ -1614,7 +1708,7 @@
         "expires_at_ts": 1795893565,
         "batch_label": "01:19 AM BDT",
         "batch_edition": 39,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Tons of motherboards are on sale right now, some over 40% off – we sorted through them for you and picked out a few of the best deals",
@@ -1629,7 +1723,7 @@
         "expires_at_ts": 1795893565,
         "batch_label": "01:19 AM BDT",
         "batch_edition": 39,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "iBuyPower’s Black Friday offers net you $650 off powerful RTX 5080 prebuilt PC",
@@ -1644,7 +1738,7 @@
         "expires_at_ts": 1795893565,
         "batch_label": "01:19 AM BDT",
         "batch_edition": 39,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "China’s AI hardware push is moving beyond GPUs to the PCBs underneath them — Beijing races to corner the market on copper foil and micro-drill bits as board complexity explodes",
@@ -2004,51 +2098,6 @@
         "expires_at_ts": 1795820605,
         "batch_label": "05:03 AM BDT",
         "batch_edition": 29,
-        "is_new": false
-      },
-      {
-        "title": "SK Hynix Just Revealed the Next Generation of DRAM. Can It Beat Micron in the Next Memory Supercycle? - Yahoo Finance",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZDZsSGp1ZU1CUVhJcVpFOFNJM1U0NVEySWY5a1FvaTZTc0pYdFhPRW9HblFDU3VZQjFGR1JhblFsWExrVTFNVjZVcUJGcG1JczR1STgwaEJ2N0o2NGV3RnFTWlB1ZVRaVkRRUmxlQUxfcDJPZTZhNldIUFd6OGRkYjZmWWN4SVRxQ0RuX3I4OHhkQWM4RkU0?oc=5",
-        "source": "Yahoo Finance",
-        "image": "",
-        "published_ts": 1795711465,
-        "published": "26 Nov, 10:44 PM",
-        "bn_summary": "SK Hynix পরবর্তী প্রজন্মের DRAM প্রযুক্তি প্রকাশ করেছে, যা ভবিষ্যৎ মেমরি চাহিদা ও বাজারে Micron-এর সঙ্গে প্রতিযোগিতায় গুরুত্বপূর্ণ হতে পারে। নতুন প্রযুক্তির বাস্তব গতি, উৎপাদনক্ষমতা ও দাম নির্ধারণ করবে এটি পরবর্তী মেমরি চক্রে কতটা সফল হবে।",
-        "added_at_ts": 1795726831,
-        "expires_at_ts": 1795813231,
-        "batch_label": "03:00 AM BDT",
-        "batch_edition": 28,
-        "is_new": false
-      },
-      {
-        "title": "Mini PC with Ryzen 9 9955HX3D, RTX 5070, and 64GB DDR5 RAM sees beefy $1,455 discount - PC Guide",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU1laRzR2UjdwUGNwNkg3amhabFhlUWg1eUpRdFFtMzQ4ckRWZVExZG5oT0pSZnVreFJkb2RQWW5wcVdjV1hnNWlEcFJrYTlFMk5VOUx4RzVRNEFjbXBPZk12MTZBSWJxMUdwYXdsVFg3ZjN6b3JSQU4xR2RuRTJ1a0VMeS1SOVJVRWN0eVNNbHp2cW1QLU44cDZzMDR1QmhQaEFkMW1zOUhlVjQtZE1DZEJR?oc=5",
-        "source": "PC Guide",
-        "image": "",
-        "published_ts": 1795706946,
-        "published": "26 Nov, 09:29 PM",
-        "bn_summary": "Ryzen 9 9955HX3D, RTX 5070 ও 64GB DDR5 RAM-সহ একটি Mini PC-তে ১,৪৫৫ ডলারের বড় ছাড় দেখা গেছে। এত শক্তিশালী হার্ডওয়্যার ছোট আকারের কম্পিউটারে গেমিং ও সৃজনশীল কাজের সক্ষমতা বাড়ায়, তবে ছাড়টি স্থায়ী কি না এবং তাপ নিয়ন্ত্রণ কেমন তা যাচাই করা জরুরি।",
-        "added_at_ts": 1795726831,
-        "expires_at_ts": 1795813231,
-        "batch_label": "03:00 AM BDT",
-        "batch_edition": 28,
-        "is_new": false
-      },
-      {
-        "title": "New delidding tool helps you bake your CPU in the oven to remove heatspreader",
-        "summary": "Thermal Grizzly just released a CNC-machined CPU delidding tool designed to be placed in an oven after the IHS is loosened.",
-        "url": "https://www.tomshardware.com/pc-components/cooling/new-delidding-tool-helps-you-bake-your-cpu-in-the-oven-to-remove-heatspreader-delid-heat-mate-complements-delid-die-mate-reducing-mechanical-stress-on-the-cpu",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/WcZdaLvkZNZ5yCZw3YraBo-1920-80.jpg",
-        "published_ts": 1795705200,
-        "published": "26 Nov, 09:00 PM",
-        "bn_summary": "Thermal Grizzly-র নতুন CNC-মেশিনে তৈরি টুলটি CPU-র heatspreader আলগা করার পর ওভেনে গরম করে খুলতে সাহায্য করার জন্য বানানো হয়েছে। পদ্ধতিটি তাপ অপসারণ উন্নত করার সম্ভাবনা রাখলেও ভুল তাপমাত্রা বা ব্যবহারে প্রসেসর নষ্ট হতে পারে এবং ওয়ারেন্টি বাতিল হওয়ার ঝুঁকি রয়েছে।",
-        "added_at_ts": 1795726831,
-        "expires_at_ts": 1795813231,
-        "batch_label": "03:00 AM BDT",
-        "batch_edition": 28,
         "is_new": false
       }
     ]
