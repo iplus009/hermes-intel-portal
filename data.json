@@ -1,28 +1,28 @@
 {
-  "edition": 30,
-  "updated_ts": 1795741525,
-  "updated_dhaka": "27 Nov 2026, 07:05 AM (BDT)",
-  "updated_utc": "2026-11-27 01:05 UTC",
-  "batch_label": "07:05 AM BDT",
-  "new_added": 11,
+  "edition": 31,
+  "updated_ts": 1795748785,
+  "updated_dhaka": "27 Nov 2026, 09:06 AM (BDT)",
+  "updated_utc": "2026-11-27 03:06 UTC",
+  "batch_label": "09:06 AM BDT",
+  "new_added": 7,
   "expired_removed": 12,
-  "curated_by": "codex-relay (gpt-5.6-luna)",
+  "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
   "advice": {
-    "title": "AI Build, Risk Guard, ধীরে এগোন",
-    "body": "AI project শুরুতে GitHub-এর অচেনা broker repo যাচাই করে, shrink-anything-এর মতো tool sandbox-এ চালান; free API quota বাঁচাতে caching ও ছোট VPS ব্যবহার করুন। Gold 0.71% উঠলেও S&P 500, NASDAQ, NVIDIA ও RAM-stock MU তীব্র নেমেছে—তাই একবারে বড় investment না করে diversified position, stop-loss ও পর্যায়ক্রমিক কেনাকাটা বিবেচনা করুন। Ukraine, Iran ও Myanmar-এর geopolitical ঝুঁকিতে news exposure সীমিত রেখে emergency cash এবং গুরুত্বপূর্ণ VPS/API backup রাখুন।",
+    "title": "সোনা-র্যাম-যুদ্ধ: AI শেখার সেরা সময়",
+    "body": "সোনার উত্থান আর যুদ্ধের শঙ্কায় বাজার অস্থির, তাই ঝুঁকি নিয়ন্ত্রণে রাখুন। NVDA ও Micron-এর পতনে AI/র্যাম সেক্টরে দীর্ঘমেয়াদি বিনিয়োগের সুযোগ তৈরি হচ্ছে। GitHub-এর ফ্রি API আর VPS ব্যবহার করে নিজের AI প্রজেক্ট শুরু করুন — এটাই এখন সবচেয়ে সাশ্রয়ী শিক্ষা।",
     "tag": "AI & Dev"
   },
   "quote": {
-    "text_bn": "বিশ্বে যা কিছু মহান সৃষ্টি চির-কল্যাণকর, অর্ধেক তার করিয়াছে নারী, অর্ধেক তার নর।",
-    "author": "কাজী নজরুল ইসলাম",
-    "note_bn": "আজকের AI ও investment কাজে একক উৎসের উপর নির্ভর না করে team, data ও risk—তিনটিই সমানভাবে গুরুত্ব দিন।"
+    "text_bn": "আমরা যা বারবার করি, তাই আমরা; শ্রেষ্ঠত্ব তাই কোনো কাজ নয়, একটি অভ্যাস।",
+    "author": "এরিস্টটল",
+    "note_bn": "আজকের বাজারের অস্থিরতায় নতুন কিছু শেখার অভ্যাসই আপনাকে এগিয়ে রাখবে।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,587.10",
-      "change_pct": 0.71,
+      "price": "$3,650.00",
+      "change_pct": 2.47,
       "up": true
     },
     {
@@ -56,8 +56,8 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$60,653.96",
-      "change_pct": 0.26,
+      "price": "$61,365.45",
+      "change_pct": 1.44,
       "up": true
     }
   ],
@@ -212,51 +212,6 @@
         "batch_label": "10:46 AM BDT",
         "batch_edition": 20,
         "is_new": false
-      },
-      {
-        "title": "David Fincher says he used AI to replace dialogue and adjust actors’ lip movements in post-production on ‘THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH’. The actors spent 4-5 days re-r",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLM1FhekVUYUdWVEIxUEltTGFUWkFaLWZiaFVrVEx3QWVXa3dZNDV2djlEVjMydTZtOGR1dTVHZ0tNLVlqdTlpeHRfTjZEcE5Ld3hEYTN4WGtET1VTaFhLMTlBR0stUQ?oc=5",
-        "source": "X",
-        "image": "",
-        "published_ts": 1795639336,
-        "published": "26 Nov, 02:42 AM",
-        "bn_summary": "David Fincher বলেছেন, post-production-এ AI ব্যবহার করে সংলাপ বদলানো এবং অভিনেতাদের lip movement নতুন কথার সঙ্গে মিলিয়ে নেওয়া হয়েছে। এতে reshoot ছাড়াই অভিনয়ের পারফরম্যান্স পরিবর্তন করা সম্ভব, তবে শিল্পীদের সম্মতি, credit ও কাজের ভবিষ্যৎ নিয়ে বড় প্রশ্ন উঠছে।",
-        "added_at_ts": 1795661065,
-        "expires_at_ts": 1795747465,
-        "batch_label": "08:44 AM BDT",
-        "batch_edition": 19,
-        "is_new": false
-      },
-      {
-        "title": "Today, only 4 models set the Agent Arena Capability vs. Alignment Pareto frontier: - GPT-6.2 Sol by @OpenAI - GPT-6.2 Astra by @OpenAI - GPT-6 Astra by @OpenAI - Claude Fable 5.2 b",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95NUtBYWRPNERycGlSMGJCVTV5eFZsLWVoTXJkazNudDN1TGpUOVJyS1RZbGc3RjFPeWt5SExQZ29CNWdnbHc5MTZqMWdubkpGTjU3cXotWlladw?oc=5",
-        "source": "X",
-        "image": "",
-        "published_ts": 1795634935,
-        "published": "26 Nov, 01:28 AM",
-        "bn_summary": "Agent Arena-র একটি বিশ্লেষণে বলা হয়েছে, capability ও alignment—দুই দিক মিলিয়ে মাত্র চারটি model বর্তমানে Pareto frontier-এ আছে, যার মধ্যে GPT-6.2 Sol ও Astra-র নাম দেওয়া হয়েছে। এমন ranking agent-এর দক্ষতার পাশাপাশি নিরাপত্তা ও নির্ভরযোগ্যতাকেও গুরুত্ব দেয়, তবে মডেলগুলোর নাম ও ফলাফল স্বাধীনভাবে যাচাই করা দরকার।",
-        "added_at_ts": 1795661065,
-        "expires_at_ts": 1795747465,
-        "batch_label": "08:44 AM BDT",
-        "batch_edition": 19,
-        "is_new": false
-      },
-      {
-        "title": "David Fincher \"I won't miss focus in AI\" This is a very bleak take on the future of filmmaking. via @TheBigPic - X",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5weXd3Zm16Qm9XMVM1NmJqYy1HeFdHd3JIYVRQdVh6MEtmemszTnMya2pPc3N4bXA5bnVybGpud3JHaEJaZnJhZExDM2lhYWNfS05yUHFfWF9OMHdGQmlYag?oc=5",
-        "source": "X",
-        "image": "",
-        "published_ts": 1795628683,
-        "published": "25 Nov, 11:44 PM",
-        "bn_summary": "Fincher-এর মন্তব্যের সারকথা হলো, AI ব্যবহারে filmmaking-এর কিছু বাস্তব সীমাবদ্ধতা—যেমন focus বা production precision—কমে যেতে পারে। একই সঙ্গে এই দৃষ্টিভঙ্গি ইঙ্গিত করে যে প্রযুক্তি সৃজনশীল নিয়ন্ত্রণ বাড়ালেও সেটি মানবিক অভিনয় ও প্রচলিত চলচ্চিত্র নির্মাণের জায়গা সংকুচিত করতে পারে।",
-        "added_at_ts": 1795661065,
-        "expires_at_ts": 1795747465,
-        "batch_label": "08:44 AM BDT",
-        "batch_edition": 19,
-        "is_new": false
       }
     ],
     "github": [
@@ -275,7 +230,7 @@
         "expires_at_ts": 1795827925,
         "batch_label": "07:05 AM BDT",
         "batch_edition": 30,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "EL4CTEO/shrink-anything",
@@ -292,7 +247,7 @@
         "expires_at_ts": 1795827925,
         "batch_label": "07:05 AM BDT",
         "batch_edition": 30,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "nexu-io/opengame",
@@ -327,26 +282,24 @@
         "batch_label": "06:54 PM BDT",
         "batch_edition": 24,
         "is_new": false
-      },
-      {
-        "title": "alesha-pro/llm.asm",
-        "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
-        "url": "https://github.com/alesha-pro/llm.asm",
-        "source": "GitHub",
-        "image": "https://opengraph.githubassets.com/1/alesha-pro/llm.asm",
-        "stars": 344,
-        "language": "Assembly",
-        "published_ts": 1795591731,
-        "published": "2026-11-25",
-        "bn_summary": "এই GitHub প্রকল্পে মাত্র 12 KB-তে Qwen3-0.6B inference, 22 KB-তে bootable bare-metal OS এবং 32 KB-তে Mini-GPT trainer তৈরি করা হয়েছে, সবই pure x86-64 NASM assembly দিয়ে। এত কম resource-এ কাজগুলো দেখানো assembly optimization, low-level systems programming এবং ছোট মডেল চালানোর শিক্ষামূলক সম্ভাবনা তুলে ধরে।",
-        "added_at_ts": 1795661065,
-        "expires_at_ts": 1795747465,
-        "batch_label": "08:44 AM BDT",
-        "batch_edition": 19,
-        "is_new": false
       }
     ],
     "free_deals": [
+      {
+        "title": "Great demonstration of the generality of @Recursive_SI's autoresearch swarm. Here, improving the already heavily optimized state of the art in backprop-free LLM training by 30%. - ",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15LUdham16N0Z2RDYwd0JNSE16Q25Qam5Ga01PaGlmV09EQWpIelBVVWJiOENnNnV6ZkZXRFRkSXA5anhkdjNPRkVVdk5sY1J4TEJjZ2cxcFlNa2c?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795538671,
+        "published": "24 Nov, 10:44 PM",
+        "bn_summary": "একটি অটোরিসার্চ সোয়arm দেখানো হয়েছে যা ইতিমধ্যে heavily optimized অবস্থাকে আরও উন্নত করতে পারে। এটি গুরুত্বপূর্ণ কারণ এই পদ্ধতির generality প্রমাণ করে যে AI সিস্টেমগুলো বিভিন্ন জটিল সমস্যায় স্বয়ংক্রিয়ভাবে উন্নতি করতে সক্ষম।",
+        "added_at_ts": 1795748785,
+        "expires_at_ts": 1795835185,
+        "batch_label": "09:06 AM BDT",
+        "batch_edition": 31,
+        "is_new": true
+      },
       {
         "title": "WPX Hosting Black Friday deal 2026 is live: get 6 months FREE - Cybernews",
         "summary": "",
@@ -361,24 +314,54 @@
         "batch_label": "08:55 PM BDT",
         "batch_edition": 25,
         "is_new": false
-      },
-      {
-        "title": "Give the Gemini API CLI a try if you haven't already. I use it daily within Antigravity so that Neon can add background music to demos or build character voices for games. P.S. Goo",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45TU1rV255YUU5UWY4TUQ0SE1Vd29LdWVVeGRMQVJ6bjVyWUVuRVNKOXFJcUZhcGVmeC1UOFk2MnhmclFaSFZNa1luLUk5RFdHS08wTXRnRHEzTHBiam9xbw?oc=5",
-        "source": "X",
-        "image": "",
-        "published_ts": 1795644035,
-        "published": "26 Nov, 04:00 AM",
-        "bn_summary": "পোস্টটিতে Gemini API CLI বিনা খরচে বা সহজে পরীক্ষা করার পরামর্শ দেওয়া হয়েছে এবং বলা হয়েছে যে এটি Antigravity workflow-তে নিয়মিত ব্যবহার করা হয়। ব্যবহারকারী এটিকে Neon-এর মতো প্রকল্পে background music যোগ করার automation-এ কাজে লাগাচ্ছেন, তাই CLI-টি coding ও media workflow দুদিকেই উপকারী হতে পারে।",
-        "added_at_ts": 1795661065,
-        "expires_at_ts": 1795747465,
-        "batch_label": "08:44 AM BDT",
-        "batch_edition": 19,
-        "is_new": false
       }
     ],
     "war": [
+      {
+        "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+        "summary": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.",
+        "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b08bc55aa9c5-1795734613.jpg?resize=1920%2C1440",
+        "published_ts": 1795745665,
+        "published": "27 Nov, 08:14 AM",
+        "bn_summary": "জেলেনস্কি সতর্ক করেছেন যে রাশিয়া একটি বড় আক্রমণের পরিকল্পনা করছে, আর ট্রাম্প পুটিনকে সামরিক পদক্ষেপ কমাতে বলেছেন। এই পরিস্থিতি ইউক্রেন যুদ্ধের সম্ভাব্য escalation এবং কূটনৈতিক চাপের সমন্বয় দেখায়, যা বৈশ্বিক নিরাপত্তার জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+        "added_at_ts": 1795748785,
+        "expires_at_ts": 1795835185,
+        "batch_label": "09:06 AM BDT",
+        "batch_edition": 31,
+        "is_new": true
+      },
+      {
+        "title": "Russian Diplomat Warns Nuclear War ‘Inching Closer’ With NATO - Newsweek",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGl3LTZRNnRWRkM1aWYxN3l5aEU0OGVidUxrWE9DcGJBakpXdmU1bGZZeElxR0J3YjBLS0Y1NTBDLXZCcmoxNkFma2NoekRwNExiajhYTFFPcUVhMmhIQ0lzdlZXQVp6ZWhhSVZCeUZYS1JIYWl6VXBmenRzZzZwbTdKN18?oc=5",
+        "source": "Newsweek",
+        "image": "",
+        "published_ts": 1795737600,
+        "published": "27 Nov, 06:00 AM",
+        "bn_summary": "একজন রাশিয়ান কূটনীতিক সতর্ক করেছেন যে ন্যাটোর সাথে পারমাণবিক যুদ্ধের ঝুঁকি ক্রমশ বেড়েই চলেছে। এই বিবৃতি আন্তর্জাতিক সম্পর্কের টানাপোড়েন এবং পারমাণবিক অস্ত্র নিয়ে উদ্বেগকে আরও তীব্র করে তুলেছে, যা বিশ্ব শান্তির জন্য হুমকি।",
+        "added_at_ts": 1795748785,
+        "expires_at_ts": 1795835185,
+        "batch_label": "09:06 AM BDT",
+        "batch_edition": 31,
+        "is_new": true
+      },
+      {
+        "title": "Democrats’ plan to end funding for Iran war leaves open what comes next - The Hill",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUhrUHE4bV96ODIwUnRhWG9jbS1jUFNOUGc3amdUMWJGX0QyanFoLUhaeDc0Z3M4SzhiRkZscDcxQjR6Uzd5STlFVFFOUmlEME0zc1AzdERzaFBFeVhMdm80ZE0xbHFsN3pqcnFIcVBNaHA5d0VwTzlkcjZZNVRDSVFOUVQzTnZUUW9UYUtFMULSAZYBQVVfeXFMT3lENlZLYzFTVHFmdWJUSHBibnRCQlR0eUg4bER2QU5IS1E2WnhuVHRXLW1HV0ZoZ1AwdlVaaEcxUE1pUDBuY3Z5Vm5YY21WT0dQcHoycjdRd2liWXQ3T1lmVzItcVBEVVVtOW4xLVg5NVE1R3ZNOFl0dFc4MS1ISmZQZUM3YndRM01UZlFBam5jWDY3ckNn?oc=5",
+        "source": "The Hill",
+        "image": "",
+        "published_ts": 1795730400,
+        "published": "27 Nov, 04:00 AM",
+        "bn_summary": "ডেমোক্র্যাটরা ইরান যুদ্ধে অর্থায়ন বন্ধের পরিকল্পনা করেছে, কিন্তু তার পরবর্তী পদক্ষেপ কী হবে তা স্পষ্ট নয়। এই অনিশ্চয়তা মধ্যপ্রাচ্য নীতিতে সম্ভাব্য পরিবর্তন এবং এর কৌশলগত প্রভাব নিয়ে প্রশ্ন তুলেছে।",
+        "added_at_ts": 1795748785,
+        "expires_at_ts": 1795835185,
+        "batch_label": "09:06 AM BDT",
+        "batch_edition": 31,
+        "is_new": true
+      },
       {
         "title": "Inside Ukraine’s power crisis amid its war with Russia",
         "summary": "Electricity and water shortages have become part of daily life in Ukraine’s capital.",
@@ -392,7 +375,7 @@
         "expires_at_ts": 1795827925,
         "batch_label": "07:05 AM BDT",
         "batch_edition": 30,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
@@ -407,7 +390,7 @@
         "expires_at_ts": 1795827925,
         "batch_label": "07:05 AM BDT",
         "batch_edition": 30,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
@@ -422,7 +405,7 @@
         "expires_at_ts": 1795827925,
         "batch_label": "07:05 AM BDT",
         "batch_edition": 30,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
@@ -873,54 +856,54 @@
         "batch_label": "10:46 AM BDT",
         "batch_edition": 20,
         "is_new": false
-      },
-      {
-        "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
-        "summary": "North Korean leader warns attempts to deny country's nuclear status will be seen as \"an open declaration of war\".",
-        "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0788bbb53d-1795655867.jpg?resize=1920%2C1440",
-        "published_ts": 1795658583,
-        "published": "26 Nov, 08:03 AM",
-        "bn_summary": "Kim Jong Un বলেছেন, North Korea-র tactical nuclear weapons-এর deployment আরও বিস্তৃত করা উচিত এবং দেশটির nuclear status অস্বীকারের চেষ্টা হলে তা open declaration of war হিসেবে দেখা হবে। এই বক্তব্য আঞ্চলিক nuclear tension বাড়াতে পারে এবং South Korea, Japan ও যুক্তরাষ্ট্রের নিরাপত্তা হিসাব আরও কঠিন করে তুলতে পারে।",
-        "added_at_ts": 1795661065,
-        "expires_at_ts": 1795747465,
-        "batch_label": "08:44 AM BDT",
-        "batch_edition": 19,
-        "is_new": false
-      },
-      {
-        "title": "Ukraine attacks Russian military base, says five planes struck",
-        "summary": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
-        "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-06-15T152617Z_1851412768_RC2CQ49SS6FD_RTRMADP_3_RUSSIA-AIRPLANE-CRASH-1795653630.jpg?resize=1920%2C1440",
-        "published_ts": 1795657186,
-        "published": "26 Nov, 07:39 AM",
-        "bn_summary": "Ukraine-এর General Staff দাবি করেছে, তাদের বাহিনী Moscow-র পূর্বদিকে Nizhny Novgorod অঞ্চলের একটি Russian airbase-এ হামলা চালিয়ে পাঁচটি aircraft-এ আঘাত করেছে। ঘটনাটি সত্য হলে Russia-র গভীর অভ্যন্তরে Ukrainian strike capability ও সামরিক বিমান অবকাঠামোর vulnerability—দুটিই সামনে আসে।",
-        "added_at_ts": 1795661065,
-        "expires_at_ts": 1795747465,
-        "batch_label": "08:44 AM BDT",
-        "batch_edition": 19,
-        "is_new": false
-      },
-      {
-        "title": "ISIL blamed for multiple suicide attacks in Syria",
-        "summary": "ISIL suicide attack kills two in an assault on a security post in northeastern Syria.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795654236.jpg?resize=1920%2C1080&quality=80",
-        "published_ts": 1795654277,
-        "published": "26 Nov, 06:51 AM",
-        "bn_summary": "Syria-র উত্তর-পূর্বাঞ্চলে একটি security post-এ আত্মঘাতী হামলায় দুইজন নিহত হয়েছে, এবং এর জন্য ISIL-কে দায়ী করা হচ্ছে। হামলাটি দেখায় যে territorial control কমে গেলেও ISIL-এর মতো গোষ্ঠী এখনও নিরাপত্তা বাহিনীকে লক্ষ্য করে প্রাণঘাতী আক্রমণ চালাতে সক্ষম।",
-        "added_at_ts": 1795661065,
-        "expires_at_ts": 1795747465,
-        "batch_label": "08:44 AM BDT",
-        "batch_edition": 19,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "Asian Stocks Rise for Second Day, Treasuries Slip: Markets Wrap - Bloomberg.com",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2ZFa0FGcTRjb19HbGxhWGxZc05LTXQ2WUJDTTQzc2hYNGVrbE5GQWtlcERpWGdVZmptNEFUM0ltY0ZobVhoaVo1Qzl4ZTFuNlBDSXFNaG9ETXFDOGdYSGppVVh1cW10TFJ5RG9sVVNYZmUzMHk2VlROMG9yVDM3UzRtM1VSbXlaYWlSN01McUlncVljREZvOGY5UzZaSjc3R3MzdWJUOF9oS3ZLU2c3bmV0MA?oc=5",
+        "source": "Bloomberg.com",
+        "image": "",
+        "published_ts": 1795744620,
+        "published": "27 Nov, 07:57 AM",
+        "bn_summary": "এশিয়ান শেয়ার বাজার দ্বিতীয় দিনের মতো বেড়েছে, আর ট্রেজারি বন্ডের দাম কমেছে। এটি বিনিয়োগকারীদের আস্থা ও ঝুঁকি গ্রহণের প্রবণতা নির্দেশ করে, যা বৈশ্বিক অর্থনীতির স্বাস্থ্য সম্পর্কে ইঙ্গিত দেয়।",
+        "added_at_ts": 1795748785,
+        "expires_at_ts": 1795835185,
+        "batch_label": "09:06 AM BDT",
+        "batch_edition": 31,
+        "is_new": true
+      },
+      {
+        "title": "S&P 500 Companies Are Reporting Lowest Earnings Surprise Percentage Since Q4 2022 - FactSet Insight",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2VybmVNUF9Cb1RudFFhRTdNalgzVE5udWtaT3lHcHpTV1BjTmZOXzdvNGh3VF9YWTY1LXd6T213QzRoM2lvd0d2a2ZFejZhejcxcnJHSGJ3Y3duZmdVZnQ0REJna0ZhX1ZSUUJGQnYtV3VKd0Z6Wld6VHpNREpCa0JQdE5NaHIzTlNCZG15Uk5fMUpiMi1oVHU4NG0xUFB0NkhoTWtkOGk4cVdm0gG8AUFVX3lxTE1sWEQ2TVhEZk1Sd1M3YTRrMjZHdUJ4clp4RmY0OHBXeTVtejQtRlA4cjdhNklZQmFtYUc4M3k5UzBvXzgxczZET0RzM19hZ1daY2c0Y0p1OEU4cC1rcVVMZVkyNVAxbEJtWjVTNHN3QS1SeXo5QjBhS3FISFFlWEpzWDlRdklRVUVHYmw4bFF2Q1VmMEF3U0V6emUxR0RKUF85bFNVajZTSUFUR04wUWxUM2hNYW13bUE3aVJm?oc=5",
+        "source": "FactSet Insight",
+        "image": "",
+        "published_ts": 1795740346,
+        "published": "27 Nov, 06:45 AM",
+        "bn_summary": "S&P 500 কোম্পানিগুলো ২০২২ সালের চতুর্থ প্রান্তিকের পর থেকে সবচেয়ে কম আয়ের সারপ্রাইজ রেট রিপোর্ট করেছে। এটি ইঙ্গিত দেয় যে কর্পোরেট আয় প্রত্যাশার তুলনায় দুর্বল হচ্ছে, যা শেয়ার বাজারের ভবিষ্যৎ প্রবণতার জন্য গুরুত্বপূর্ণ সংকেত।",
+        "added_at_ts": 1795748785,
+        "expires_at_ts": 1795835185,
+        "batch_label": "09:06 AM BDT",
+        "batch_edition": 31,
+        "is_new": true
+      },
+      {
+        "title": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc?oc=5",
+        "source": "Yahoo! Finance Canada",
+        "image": "",
+        "published_ts": 1795704527,
+        "published": "26 Nov, 08:48 PM",
+        "bn_summary": "NVIDIA-এর শেয়ার দর, খবর, কোট এবং ইতিহাস Yahoo Finance Canada-তে প্রকাশিত হয়েছে। NVIDIA প্রযুক্তি খাতের একটি প্রধান কোম্পানি, তাই এর স্টক পারফরম্যান্স বিনিয়োগকারীদের জন্য গুরুত্বপূর্ণ সূচক হিসেবে কাজ করে।",
+        "added_at_ts": 1795748785,
+        "expires_at_ts": 1795835185,
+        "batch_label": "09:06 AM BDT",
+        "batch_edition": 31,
+        "is_new": true
+      },
       {
         "title": "Boston Mayor Wu buoyant about AI boom's potential to boost local workforce amid stock market turbulence - Boston Herald",
         "summary": "",
@@ -934,7 +917,7 @@
         "expires_at_ts": 1795827925,
         "batch_label": "07:05 AM BDT",
         "batch_edition": 30,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Nasdaq 100, SOX: Tech rout may be a symptom of something far larger - StoneX",
@@ -949,7 +932,7 @@
         "expires_at_ts": 1795827925,
         "batch_label": "07:05 AM BDT",
         "batch_edition": 30,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Prediction: These 3 Consumer Stocks Will Beat the S&P 500 Over the Next 10 Years - Yahoo Finance",
@@ -964,7 +947,7 @@
         "expires_at_ts": 1795827925,
         "batch_label": "07:05 AM BDT",
         "batch_edition": 30,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Burry Turns Net Long After Selling Nasdaq 100 Puts - Briefs Finance",
@@ -1415,51 +1398,6 @@
         "batch_label": "10:46 AM BDT",
         "batch_edition": 20,
         "is_new": false
-      },
-      {
-        "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
-        "summary": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
-        "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
-        "source": "CNBC",
-        "image": "https://image.cnbcfm.com/api/v1/image/108268316-1771829545481-gettyimages-2201260900-omarques_24022025_phone_tech-4.jpeg?v=1771829556&w=1920&h=1080",
-        "published_ts": 1795656898,
-        "published": "26 Nov, 07:34 AM",
-        "bn_summary": "একজন hedge fund manager মনে করছেন, AI boom অতিরিক্ত বিনিয়োগ ও ঋণের মাধ্যমে recession-এর ঝুঁকি তৈরি করতে পারে, যদিও data center এখনও আকর্ষণীয় বিনিয়োগ হিসেবে থাকতে পারে। অর্থাৎ AI-সংক্রান্ত কোম্পানি ও অবকাঠামোর সম্ভাবনা থাকলেও বাজারের উচ্চ মূল্যায়ন, volatility এবং high-yield debt-এ risk mispricing বড় ক্ষতির কারণ হতে পারে।",
-        "added_at_ts": 1795661065,
-        "expires_at_ts": 1795747465,
-        "batch_label": "08:44 AM BDT",
-        "batch_edition": 19,
-        "is_new": false
-      },
-      {
-        "title": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains - Yahoo Finance",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekxNUWtOR1pxOTJPX2dfTUhyWW4teS1oQUY4V0ZsNHZwV2d4a2NWU280b0hYSWhyNFEydWxhTWdrbXpKendCTUx3RS1FT2V1NmJlRzdPOFIxcG9tdXQwMGN1QWhsanpHUWhCbHl3TFEwQUtmWVZtWGhSVFhjRXh1Vm5GYzVsQVdWSE4tOXNYaFZKQk82TzNB?oc=5",
-        "source": "Yahoo Finance",
-        "image": "",
-        "published_ts": 1795645170,
-        "published": "26 Nov, 04:19 AM",
-        "bn_summary": "Nasdaq ও S&P 500 দিন শেষে কমেছে, কিন্তু দিনের সর্বনিম্ন অবস্থান থেকে অনেকটা ঘুরে দাঁড়িয়েছে কারণ বিনিয়োগকারীরা কম দামে শেয়ার কিনেছেন। এই rebound দেখায় যে বাজারে উদ্বেগ বজায় থাকলেও কিছু বিনিয়োগকারী পতনকে দীর্ঘমেয়াদি সুযোগ হিসেবে দেখছেন।",
-        "added_at_ts": 1795661065,
-        "expires_at_ts": 1795747465,
-        "batch_label": "08:44 AM BDT",
-        "batch_edition": 19,
-        "is_new": false
-      },
-      {
-        "title": "US stocks fall further as fears over AI intensify - BBC",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENVVNamVYdzF3V0tzVDBVWlVHWEV3WE9Wem5kMVgxRkNOQjI3Y0Nla0YzOFczWk5QbmhnSjk0LU5xTXUzeGdOY05IOVQ2ZE9YY3ExdG9WdE1NME0?oc=5",
-        "source": "BBC",
-        "image": "",
-        "published_ts": 1795642998,
-        "published": "26 Nov, 03:43 AM",
-        "bn_summary": "যুক্তরাষ্ট্রের শেয়ারবাজারে ধস নামছে, কারণ বিনিয়োগকারীরা কৃত্রিম বুদ্ধিমত্তা (AI) খাতের অতিমূল্যায়ন নিয়ে উদ্বিগ্ন হয়ে পড়েছে। এই পতন বাজারের আস্থা কমিয়ে দিতে পারে এবং প্রযুক্তি স্টকগুলোর ভবিষ্যৎ প্রবৃদ্ধি নিয়ে প্রশ্ন তুলেছে।",
-        "added_at_ts": 1795661065,
-        "expires_at_ts": 1795747465,
-        "batch_label": "08:44 AM BDT",
-        "batch_edition": 19,
-        "is_new": false
       }
     ],
     "ram_hardware": [
@@ -1476,7 +1414,7 @@
         "expires_at_ts": 1795827925,
         "batch_label": "07:05 AM BDT",
         "batch_edition": 30,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Why It’s Hard to Write Off Micron (MU) Even with a Memory Peak in Sight - Yahoo Finance",
@@ -1491,7 +1429,7 @@
         "expires_at_ts": 1795827925,
         "batch_label": "07:05 AM BDT",
         "batch_edition": 30,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Micron May Now Face a Threat From Two Chinese Rivals but Shouldn’t Sweat It - Barron's",
@@ -1506,7 +1444,7 @@
         "expires_at_ts": 1795827925,
         "batch_label": "07:05 AM BDT",
         "batch_edition": 30,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Huawei targets Samsung, SK Hynix with memory design boasting 2X data-pin density - Interesting Engineering",
@@ -1911,21 +1849,6 @@
         "expires_at_ts": 1795754785,
         "batch_label": "10:46 AM BDT",
         "batch_edition": 20,
-        "is_new": false
-      },
-      {
-        "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows - MarketWatch",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRnpwTTlhRF9HOHJIRUpwMDlGV1RfaklpS2JpN294dndhLUFaQXZZN1dIZG81dXhoa21rNEU5VHFiaEg3QlI3WjhWVlRFaFNxZXNfX0E2T1hSSW14OG40S2RYaXEyWWpKUlpkR045WThlbEQyRWRVa0ZhSi1YRjN6cHNUTnRtd0EtOFplYlVYdVdLZ1piYlVwc1JHWVYzc3Bvbzh2Ni1zU1VVVDlQRUhWRFItUFU1M0xhaXNJcA?oc=5",
-        "source": "MarketWatch",
-        "image": "",
-        "published_ts": 1795618860,
-        "published": "25 Nov, 09:01 PM",
-        "bn_summary": "মাইক্রন তাদের সিইও সঞ্জয় মেহরোত্রার নিরাপত্তা ব্যয় ২,০০০% বাড়িয়েছে, যা শীর্ষ নির্বাহীদের প্রতি ক্রমবর্ধমান হুমকির ইঙ্গিত দেয়। এই খবর গুরুত্বপূর্ণ কারণ এটি কর্পোরেট নেতাদের নিরাপত্তা ঝুঁকি এবং কোম্পানির প্রশাসনিক সিদ্ধান্তের ওপর আলোকপাত করে।",
-        "added_at_ts": 1795661065,
-        "expires_at_ts": 1795747465,
-        "batch_label": "08:44 AM BDT",
-        "batch_edition": 19,
         "is_new": false
       }
     ]
