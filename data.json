@@ -1,68 +1,83 @@
 {
-  "edition": 38,
-  "updated_ts": 1795799845,
-  "updated_dhaka": "27 Nov 2026, 11:17 PM (BDT)",
-  "updated_utc": "2026-11-27 17:17 UTC",
-  "batch_label": "11:17 PM BDT",
-  "new_added": 15,
-  "expired_removed": 10,
+  "edition": 39,
+  "updated_ts": 1795807165,
+  "updated_dhaka": "28 Nov 2026, 01:19 AM (BDT)",
+  "updated_utc": "2026-11-27 19:19 UTC",
+  "batch_label": "01:19 AM BDT",
+  "new_added": 14,
+  "expired_removed": 9,
   "curated_by": "codex-relay (gpt-5.6-luna)",
   "advice": {
-    "title": "AI Build, Risk কমাও আজ",
-    "body": "AI distillation ও GitHub-এর safe-anything/agent-sim দেখে ছোট ওপেন-সোর্স prototype বানান; free API দিয়ে শুরু করলেও production-এর আগে limits, privacy ও VPS fallback যাচাই করুন। Gold 3.48% এবং S&P/NASDAQ ঊর্ধ্বমুখী হলেও NVDA 4.15% নেমেছে, তাই একসঙ্গে all-in না হয়ে ধাপে বিনিয়োগ করুন; RAM-সংশ্লিষ্ট Micron 1.52% উঠলেও hardware কেনায় Black Friday deal ও ভবিষ্যৎ দাম বিবেচনা করুন।",
+    "title": "সিগন্যাল বুঝে স্মার্ট অ্যাকশন",
+    "body": "আজ AI transcription ও GitHub-এর KuroCat/fast-anything দেখে ছোট prototype বানান, free API tier ও low-cost VPS-এ deploy করে Karpathy বা Hugging Face course দিয়ে যাচাই করুন। Gold 3.75% ও S&P/NASDAQ ঊর্ধ্বমুখী হলেও NVDA কমেছে, Micron/RAM বেড়েছে—তাই একসঙ্গে ঝুঁকি না নিয়ে watchlist ও ধাপে বিনিয়োগ রাখুন, আর Kyiv-এর ceasefire ও যুদ্ধসংবাদে volatility মাথায় রাখুন।",
     "tag": "AI & Dev"
   },
   "quote": {
-    "text_bn": "আমি ধীরে হাঁটি, কিন্তু কখনো পিছনে হাঁটি না।",
-    "author": "আব্রাহাম লিংকন",
-    "note_bn": "আজ দ্রুত লাভের বদলে ছোট, ধারাবাহিক অগ্রগতি ও ঝুঁকি-নিয়ন্ত্রিত সিদ্ধান্ত নিন।"
+    "text_bn": "আপনি অনেক পরাজয়ের মুখোমুখি হতে পারেন, কিন্তু পরাজিত হওয়া চলবে না।",
+    "author": "মায়া অ্যাঞ্জেলু",
+    "note_bn": "আজ একটি ছোট কাজ বেছে নিয়ে বাধা এলেও সেটি শেষ না হওয়া পর্যন্ত এগিয়ে যান।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,658.80",
-      "change_pct": 3.48,
+      "price": "$3,668.50",
+      "change_pct": 3.75,
       "up": true
     },
     {
       "symbol": "^GSPC",
       "label": "S&P 500",
-      "price": "7,277.43",
-      "change_pct": 1.06,
+      "price": "7,297.49",
+      "change_pct": 1.34,
       "up": true
     },
     {
       "symbol": "^IXIC",
       "label": "NASDAQ",
-      "price": "24,009.34",
-      "change_pct": 1.16,
+      "price": "24,129.50",
+      "change_pct": 1.67,
       "up": true
     },
     {
       "symbol": "NVDA",
       "label": "NVIDIA",
-      "price": "$148.94",
-      "change_pct": -4.15,
+      "price": "$150.49",
+      "change_pct": -3.15,
       "up": false
     },
     {
       "symbol": "MU",
       "label": "Micron (RAM)",
-      "price": "$639.35",
-      "change_pct": 1.52,
+      "price": "$646.95",
+      "change_pct": 2.72,
       "up": true
     },
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$59,873.85",
-      "change_pct": -1.03,
+      "price": "$59,920.04",
+      "change_pct": -0.95,
       "up": false
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "5 of our models rank in the top 40 for transcription accuracy on @ArtificialAnlys. English, French, Japanese, Hungarian, Turkish. Every word, transcribed by Voxtral. Transcription ",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKQ3d1RmU4SVpVRjVwcXNaZ1VuajRucjdMZjVqQWhkOGFjRlU2aFNPV3J6Z0lYNDAzS09JMTFWQ0dRRTlrYmpDT2pWOWhoRzVmU3BzSmpWVTB5Y080SkhB?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795782601,
+        "published": "27 Nov, 06:30 PM",
+        "bn_summary": "Artificial Analysis-এর ranking অনুযায়ী, একই প্রতিষ্ঠানের পাঁচটি মডেল transcription accuracy-তে বিশ্বের top 40-এ আছে—ইংরেজি, ফরাসি, জাপানি, হাঙ্গেরিয়ান ও তুর্কি ভাষায়। এটি দেখায় যে মডেলগুলো শুধু ইংরেজিতে নয়, বহু ভাষায় speech-to-text কাজেও শক্তিশালী হচ্ছে।",
+        "added_at_ts": 1795807165,
+        "expires_at_ts": 1795893565,
+        "batch_label": "01:19 AM BDT",
+        "batch_edition": 39,
+        "is_new": true
+      },
       {
         "title": "Distillation is good and healthy in AI. It's one of the few things limiting extreme concentration of power, capabilities and wealth (and very similar to how AI companies got succes",
         "summary": "",
@@ -76,7 +91,7 @@
         "expires_at_ts": 1795886245,
         "batch_label": "11:17 PM BDT",
         "batch_edition": 38,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Researchers Accuse Anthropic's Claude of Sabotaging AI Work - X",
@@ -171,6 +186,57 @@
     ],
     "github": [
       {
+        "title": "qianyiai/KuroCat",
+        "summary": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
+        "url": "https://github.com/qianyiai/KuroCat",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/qianyiai/KuroCat",
+        "stars": 1754,
+        "language": "TypeScript",
+        "published_ts": 1795276171,
+        "published": "2026-11-21",
+        "bn_summary": "KuroCat হলো একটি free open-source 3D/2D desktop typing cat, যা AI coding companion হিসেবেও কাজ করে। Tauri v2 ও Rust-ভিত্তিক এই টুলটি Claude, Codex, DeepSeek, OBS এবং Windows/Mac সমর্থন করে, তাই coding workspace আরও interactive করার সুযোগ দেয়।",
+        "added_at_ts": 1795807165,
+        "expires_at_ts": 1795893565,
+        "batch_label": "01:19 AM BDT",
+        "batch_edition": 39,
+        "is_new": true
+      },
+      {
+        "title": "EL4CTEO/fast-anything",
+        "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#, R.",
+        "url": "https://github.com/EL4CTEO/fast-anything",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/EL4CTEO/fast-anything",
+        "stars": 4427,
+        "language": "Rust",
+        "published_ts": 1795272027,
+        "published": "2026-11-21",
+        "bn_summary": "fast-anything প্রকল্পটি পুরো application Rust-এ rewrite করার বদলে profiling করে কেবল ধীর ৫ শতাংশ অংশ দ্রুত করার পদ্ধতি শেখায়। Coding agent ব্যবহার করে hot function port করে আগের আচরণের সঙ্গে মিল যাচাই করা যায়, ফলে কম ঝুঁকিতে Python বা JavaScript/TypeScript app optimize করা সম্ভব।",
+        "added_at_ts": 1795807165,
+        "expires_at_ts": 1795893565,
+        "batch_label": "01:19 AM BDT",
+        "batch_edition": 39,
+        "is_new": true
+      },
+      {
+        "title": "youssefco1999-hash/aiseesoft-launch-pro",
+        "summary": "Aiseesoft Launch Pro: Desktop Utility for Aiseesoft Unlocker Operations",
+        "url": "https://github.com/youssefco1999-hash/aiseesoft-launch-pro",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/youssefco1999-hash/aiseesoft-launch-pro",
+        "stars": 338,
+        "language": "HTML",
+        "published_ts": 1795265973,
+        "published": "2026-11-21",
+        "bn_summary": "Aiseesoft Launch Pro হলো Aiseesoft Unlocker-এর বিভিন্ন operation চালানোর জন্য তৈরি একটি desktop utility। এটি মূলত নির্দিষ্ট software workflow সহজ করার launcher, তাই সাধারণ ব্যবহারকারীর বদলে Aiseesoft-এর unlocker tools ব্যবহারকারীদের জন্য বেশি প্রাসঙ্গিক।",
+        "added_at_ts": 1795807165,
+        "expires_at_ts": 1795893565,
+        "batch_label": "01:19 AM BDT",
+        "batch_edition": 39,
+        "is_new": true
+      },
+      {
         "title": "erkamyaman/safe-anything",
         "summary": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
         "url": "https://github.com/erkamyaman/safe-anything",
@@ -185,7 +251,7 @@
         "expires_at_ts": 1795886245,
         "batch_label": "11:17 PM BDT",
         "batch_edition": 38,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Developing-Gamer/agent-sim",
@@ -202,7 +268,7 @@
         "expires_at_ts": 1795886245,
         "batch_label": "11:17 PM BDT",
         "batch_edition": 38,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "praseesh369/youtube-ai-video-editing-system",
@@ -219,7 +285,7 @@
         "expires_at_ts": 1795886245,
         "batch_label": "11:17 PM BDT",
         "batch_edition": 38,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "nair39/dialpad",
@@ -360,6 +426,21 @@
     ],
     "free_deals": [
       {
+        "title": "5 free LLM courses that work as one path: Karpathy's Zero to Hero, the FSDL Bootcamp, Stanford CS336, the Hugging Face LLM Course and https://t.co/ZFymkKzRk9 on agents. https://t.c",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UdVlJQVhid25Idmx2NDNFOGZmR3ZyWnItMlNNNEhrUEU2d0diNDAwTndZWnVDWFhadjNLS2JiajFvY3ZKamxBMW1CT3JVRVJoek90QkdIRmNMSHBtZXJZ?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795704737,
+        "published": "26 Nov, 08:52 PM",
+        "bn_summary": "এই পাঁচটি free LLM course একসঙ্গে করলে beginner থেকে advanced পর্যায় পর্যন্ত একটি ধারাবাহিক learning path তৈরি হয়। Karpathy-এর Zero to Hero, FSDL Bootcamp, Stanford CS336 এবং Hugging Face LLM Course মিলিয়ে coding, model training ও আধুনিক language model বোঝার ভিত্তি গড়ে তোলা যায়।",
+        "added_at_ts": 1795807165,
+        "expires_at_ts": 1795893565,
+        "batch_label": "01:19 AM BDT",
+        "batch_edition": 39,
+        "is_new": true
+      },
+      {
         "title": "Maybe a dumb question, BUT... is relying on free API endpoints for serious coding just procrastination for buying a GPU? Or is it the future? - X",
         "summary": "",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SZC1wbXpQODZKcmZqNjJoRDNxNDRwbFV3SUtBZk5VeHlCQ2lGYUpNUWxRcTBEMk5fbG9ya3hzUW1jVU9NTzFfZEZHcHlrUE4xcnNpWkIwQ2JzUjJBUVI0YjN3?oc=5",
@@ -372,7 +453,7 @@
         "expires_at_ts": 1795886245,
         "batch_label": "11:17 PM BDT",
         "batch_edition": 38,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "the craziest part is how it handles the underlines. Grammarly injects code directly into every page you visit which is why it breaks sites constantly. this extension builds an invi",
@@ -387,7 +468,7 @@
         "expires_at_ts": 1795886245,
         "batch_label": "11:17 PM BDT",
         "batch_edition": 38,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Kimi is offering free API credits, access to its latest models, and long-term collaboration opportunities to support scientific research worldwide. 7B worth of token is huge. - X",
@@ -437,6 +518,51 @@
     ],
     "war": [
       {
+        "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+        "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+        "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
+        "published_ts": 1795804970,
+        "published": "28 Nov, 12:42 AM",
+        "bn_summary": "ইউক্রেন আবারও কঠিন শীতের দিকে যাচ্ছে, যখন যুদ্ধ শেষ হওয়ার কোনো স্পষ্ট লক্ষণ দেখা যাচ্ছে না। Kyiv-এর জন্য এর অর্থ হলো অবকাঠামো, জ্বালানি ও বেসামরিক মানুষের ওপর নতুন চাপ সামলাতে হবে, যদিও দেশটি আত্মসমর্পণের ইঙ্গিত দিচ্ছে না।",
+        "added_at_ts": 1795807165,
+        "expires_at_ts": 1795893565,
+        "batch_label": "01:19 AM BDT",
+        "batch_edition": 39,
+        "is_new": true
+      },
+      {
+        "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
+        "summary": "Spain's Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795801461.jpg?resize=1920%2C1080&quality=80",
+        "published_ts": 1795801490,
+        "published": "27 Nov, 11:44 PM",
+        "bn_summary": "ক্যানারি দ্বীপপুঞ্জের El Hierro-তে শত শত অভিবাসী পৌঁছানোর পর স্পেনের সামরিক জরুরি-সেবা ইউনিট তাদের চিকিৎসা দিচ্ছে। ঘটনাটি সমুদ্রপথে অভিবাসন বৃদ্ধির মানবিক ঝুঁকি এবং স্থানীয় দ্বীপগুলোর ওপর জরুরি সহায়তার চাপ তুলে ধরেছে।",
+        "added_at_ts": 1795807165,
+        "expires_at_ts": 1795893565,
+        "batch_label": "01:19 AM BDT",
+        "batch_edition": 39,
+        "is_new": true
+      },
+      {
+        "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
+        "summary": "The proposal comes as President Zelenskyy criticises Trump’s ‘friendship’ with Putin.",
+        "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09af2d-1795796781.jpg?resize=1920%2C1440",
+        "published_ts": 1795801473,
+        "published": "27 Nov, 11:44 PM",
+        "bn_summary": "ইউক্রেনের প্রেসিডেন্ট জেলেনস্কি শস্য রপ্তানি সুরক্ষিত রাখতে কৃষ্ণসাগরে সাময়িক যুদ্ধবিরতির প্রস্তাব দিয়েছেন। এই উদ্যোগ সফল হলে বন্দর ও খাদ্য সরবরাহের নিরাপত্তা বাড়তে পারে, তবে একই সময়ে তিনি ট্রাম্পের সঙ্গে পুতিনের ঘনিষ্ঠতার সমালোচনা করেছেন।",
+        "added_at_ts": 1795807165,
+        "expires_at_ts": 1795893565,
+        "batch_label": "01:19 AM BDT",
+        "batch_edition": 39,
+        "is_new": true
+      },
+      {
         "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
         "summary": "Yashar party chief says Likud wants to drag Israel into another election under the outgoing government.",
         "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
@@ -449,7 +575,7 @@
         "expires_at_ts": 1795886245,
         "batch_label": "11:17 PM BDT",
         "batch_edition": 38,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
@@ -464,7 +590,7 @@
         "expires_at_ts": 1795886245,
         "batch_label": "11:17 PM BDT",
         "batch_edition": 38,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
@@ -479,7 +605,7 @@
         "expires_at_ts": 1795886245,
         "batch_label": "11:17 PM BDT",
         "batch_edition": 38,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
@@ -930,54 +1056,54 @@
         "batch_label": "03:00 AM BDT",
         "batch_edition": 28,
         "is_new": false
-      },
-      {
-        "title": "Kushner explains the ‘good thing’ about Gaza’s destruction",
-        "summary": "Jared Kushner says the “good thing” about Israel’s genocidal war on Gaza is that it can be built into “something new”.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795717775.jpg?resize=1920%2C1079&quality=80",
-        "published_ts": 1795717836,
-        "published": "27 Nov, 12:30 AM",
-        "bn_summary": "কুশনার গাজার ধ্বংসকে 'ভালো কিছু' বলে মন্তব্য করেছেন কারণ তিনি মনে করেন এটি নতুন করে নির্মাণের সুযোগ তৈরি করবে। এই মন্তব্য বিতর্কিত কারণ এটি ফিলিস্তিনিদের দুর্ভোগকে উপেক্ষা করে এবং যুদ্ধ-পরবর্তী পরিকল্পনার ইঙ্গিত দেয়।",
-        "added_at_ts": 1795719505,
-        "expires_at_ts": 1795805905,
-        "batch_label": "12:58 AM BDT",
-        "batch_edition": 27,
-        "is_new": false
-      },
-      {
-        "title": "Guinea-Bissau presidential election delayed by two years",
-        "summary": "Military leaders say presidential and legislative poll scheduled for December 6 will now take place in November 2028.",
-        "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b086d135f5d-1795714323.jpg?resize=1920%2C1440",
-        "published_ts": 1795716438,
-        "published": "27 Nov, 12:07 AM",
-        "bn_summary": "গিনি-বিসাউতে সামরিক নেতারা প্রেসিডেন্ট ও আইনসভা নির্বাচন দুই বছর পিছিয়ে ২০২৮ সালের নভেম্বরে করার ঘোষণা দিয়েছেন। এই সিদ্ধান্ত দেশটির রাজনৈতিক অস্থিরতা এবং গণতান্ত্রিক প্রক্রিয়ার উপর নেতিবাচক প্রভাব ফেলতে পারে।",
-        "added_at_ts": 1795719505,
-        "expires_at_ts": 1795805905,
-        "batch_label": "12:58 AM BDT",
-        "batch_edition": 27,
-        "is_new": false
-      },
-      {
-        "title": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
-        "summary": "The bloc is holding an extraordinary summit in Brussels to discuss its budget proposal for 2028 to 2034.",
-        "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261126__D8NR9MQ__v1__HighRes__BelgiumEuCouncilSummit-1795708617.jpg?resize=1920%2C1440",
-        "published_ts": 1795715624,
-        "published": "26 Nov, 11:53 PM",
-        "bn_summary": "ইউরোপীয় ইউনিয়নের নেতারা ২০২৮-৩৪ বাজেট ও ইউক্রেনের জন্য অতিরিক্ত অর্থ বরাদ্দ নিয়ে ব্রাসেলসে জরুরি শীর্ষ সম্মেলনে মতভেদে ভুগছেন। এই সম্মেলন থেকে সিদ্ধান্ত না আসলে ইউক্রেনের অর্থায়ন এবং ইইউর ভবিষ্যৎ পরিকল্পনা অনিশ্চিত থাকবে।",
-        "added_at_ts": 1795719505,
-        "expires_at_ts": 1795805905,
-        "batch_label": "12:58 AM BDT",
-        "batch_edition": 27,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "How to Live Calmly, Despite Stock Market Whiplash - The New York Times",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRE03NElfUWJSZjhYYURjSlk5c1NueTQyMndIaFptWVRXQ1ZrR2xOOTNub1hRX0pGWm91WXE2ZjcxelR5M3RqdXl5SmhXMnJyMHpFNktDQkV0WWlYLTZ0R04zSHJZdEUxdkRFZ215VFZCNzRoZU5qWVdpdGEzWmFMbHJONnJ1SkVNTkE?oc=5",
+        "source": "The New York Times",
+        "image": "",
+        "published_ts": 1795805884,
+        "published": "28 Nov, 12:58 AM",
+        "bn_summary": "শেয়ারবাজারে দ্রুত ওঠানামা চললেও বিনিয়োগকারীরা আতঙ্কের বদলে দীর্ঘমেয়াদি পরিকল্পনা ও ঝুঁকি নিয়ন্ত্রণে মনোযোগ দিতে পারেন। বাজারের প্রতিদিনের movement অনুসরণ না করে diversified portfolio, নির্দিষ্ট সময়ে বিনিয়োগ এবং নিজের risk tolerance বজায় রাখা মানসিক চাপ কমাতে সাহায্য করে।",
+        "added_at_ts": 1795807165,
+        "expires_at_ts": 1795893565,
+        "batch_label": "01:19 AM BDT",
+        "batch_edition": 39,
+        "is_new": true
+      },
+      {
+        "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Rallies Amid Rising Demand For Risk Assets - FXEmpire",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUZKcUhaa0M0aVNjTUk4b0ZHZHktRFVmT3g1NmMxSVhrQW1icnhZbnQxNWVMQ2JFeElWNGx4T256OC1CcEIySFdGNHk3MnZNVFVuYzRRN1M0VU0ybzFmdzJTaVZueXg4ajQ0b0FRWTA0TUE0eklhZTlndTlqZmQ3TjNCZTJfTmVaRnFFaXN0WkphVzZ0V1FyR0hpY2VaeF9MUkhZSVREYlktVENaVDctQlpzWjFmQTBvTWxreE16d2RCLU5zVXRCa0JhdllGTlBMUnc?oc=5",
+        "source": "FXEmpire",
+        "image": "",
+        "published_ts": 1795805750,
+        "published": "28 Nov, 12:55 AM",
+        "bn_summary": "ঝুঁকিপূর্ণ সম্পদে চাহিদা বাড়ার মধ্যেও সোনা শক্তিশালী rally দেখাচ্ছে, আর silver ও platinum-এর outlook-ও নজরে রয়েছে। মূল্যবান ধাতুর এই গতি দেখায় যে বিনিয়োগকারীরা একদিকে growth asset-এ আগ্রহী, অন্যদিকে inflation ও বাজার-অনিশ্চয়তার বিরুদ্ধে hedge হিসেবেও ধাতু ধরে রাখছে।",
+        "added_at_ts": 1795807165,
+        "expires_at_ts": 1795893565,
+        "batch_label": "01:19 AM BDT",
+        "batch_edition": 39,
+        "is_new": true
+      },
+      {
+        "title": "Why Has the Stock Market Gotten so Volatile? - Morningstar",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR2c0VWxBZzJDRHVWaUZZN0FteTM1MTlKLWMxSmFUTElvN2lCTVZtSnNUQmVtYmNjbEJiNWFEc2JibE1nOG9fM2VoRldDTHpIR0pqcmdYUFVMamNPRVFTN2gxdmVkX3F1V200RFNOUHVsX0Q1SFZyYXpvR3pBMkFGUw?oc=5",
+        "source": "Morningstar",
+        "image": "",
+        "published_ts": 1795802807,
+        "published": "28 Nov, 12:06 AM",
+        "bn_summary": "Morningstar শেয়ারবাজারের সাম্প্রতিক তীব্র ওঠানামার সম্ভাব্য কারণগুলো বিশ্লেষণ করেছে। বিনিয়োগকারীদের ঝুঁকি বোঝা এবং অস্থির সময়ে সিদ্ধান্ত নেওয়ার জন্য এই ব্যাখ্যা গুরুত্বপূর্ণ।",
+        "added_at_ts": 1795807165,
+        "expires_at_ts": 1795893565,
+        "batch_label": "01:19 AM BDT",
+        "batch_edition": 39,
+        "is_new": true
+      },
       {
         "title": "‘I look spectacular in this’: Kevin O’Leary wore a $2M Michael Jordan card on a Tiffany chain to prove alternative assets are beating the S&P 500 - MoneyWise.com",
         "summary": "",
@@ -991,7 +1117,7 @@
         "expires_at_ts": 1795886245,
         "batch_label": "11:17 PM BDT",
         "batch_edition": 38,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history - Yahoo Finance UK",
@@ -1006,7 +1132,7 @@
         "expires_at_ts": 1795886245,
         "batch_label": "11:17 PM BDT",
         "batch_edition": 38,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold Price Today: XAU/USD Nears $3,700 as AI Fears Ease - Mitrade",
@@ -1021,7 +1147,7 @@
         "expires_at_ts": 1795886245,
         "batch_label": "11:17 PM BDT",
         "batch_edition": 38,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold Price Forecast: Fed Rate Hike Bets Threaten the Latest Rebound - FXEmpire",
@@ -1472,54 +1598,54 @@
         "batch_label": "03:00 AM BDT",
         "batch_edition": 28,
         "is_new": false
-      },
-      {
-        "title": "Gold price stalls near $3,570 as Fed hike bets keep bulls at bay - FXStreet",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb29vaFQ2a1Z3UmxfQzZKcnpMcGMtMmZwcGNZZkkxOGhDSWVqczlWbTV2eThPY3FvczlnQVI4aXg4UEx4UVIzcnlSNmNQT0dzT1JRRG1mVmcxUHVxNEY3bVZjc3RmUEZFY3lKcmV0cVpoWXdkSXJrWl9COXlUbTFKVEZLMjNtZEMycGdvZUhwRVFwU2cyak5wZlhIcmZ0X0QwZU02ZS1vZjh3Zw?oc=5",
-        "source": "FXStreet",
-        "image": "",
-        "published_ts": 1795716086,
-        "published": "27 Nov, 12:01 AM",
-        "bn_summary": "সোনার দাম ৩,৫৭০ ডলারের কাছাকাছি স্থবির রয়েছে কারণ ফেডারেল রিজার্ভের সুদহার বৃদ্ধির সম্ভাবনা বিনিয়োগকারীদের আগ্রহ কমিয়ে দিচ্ছে। এই পরিস্থিতি সোনার বাজারে অস্থিরতা তৈরি করছে এবং বিনিয়োগকারীরা দিকনির্দেশনার অপেক্ষায় রয়েছেন।",
-        "added_at_ts": 1795719505,
-        "expires_at_ts": 1795805905,
-        "batch_label": "12:58 AM BDT",
-        "batch_edition": 27,
-        "is_new": false
-      },
-      {
-        "title": "Nvidia Stock Has Found Its Next Big Catalyst, Making the Stock a Once-in-a-Decade Buying Opportunity. - The Motley Fool",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNlYtanViOVZ0ZUxOeUxTeXpWaXE5Slc5R2tLNjU4UDI3YzVEUnV0ckNfQ1QtOGxySUI1REtKd3JSQ3RqOF9ab0VCVDlrMk9maFFTbEtNRHdtbHJPTzM3MHlENl81WjFYdUJueGdtQ3F5Q05lMTJIWnRtaFR1OG41a0VoVGtTN0JwaUI5WTN4SnJhV1VfRFZ5S200TUxISFZKYmZJNjh0bWxMLTktaERMX0FWN1JxLWl0dFNNeXY4a3BabHVIMlQ2QkNXSVhYZldJZUJzVEtuc2NxZw?oc=5",
-        "source": "The Motley Fool",
-        "image": "",
-        "published_ts": 1795715822,
-        "published": "26 Nov, 11:57 PM",
-        "bn_summary": "Nvidia-এর স্টক নতুন বড় ক্যাটালিস্ট পেয়েছে বলে মনে করছে Motley Fool, যা এক দশকে একবার আসা কেনার সুযোগ বলে দাবি করা হচ্ছে। কৃত্রিম বুদ্ধিমত্তা চিপের চাহিদা বৃদ্ধি এবং নতুন প্রযুক্তি উদ্ভাবনের কারণে কোম্পানিটির ভবিষ্যৎ সম্ভাবনা উজ্জ্বল বলে বিশ্লেষকরা মনে করছেন।",
-        "added_at_ts": 1795719505,
-        "expires_at_ts": 1795805905,
-        "batch_label": "12:58 AM BDT",
-        "batch_edition": 27,
-        "is_new": false
-      },
-      {
-        "title": "Gold Price Forecast: Can Gold Recover to $4,000 as US Inflation Reaches 3.8%? - Coinpaper",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa04xRXB2aUxyR0xYUVY2T3ZNVXVKelN3Q1pycnhQODZRb1lMRks2NHVmSmRFM3NsWnRDWm9pOU9vc3lxUS0tSkdpLUZ0Yl9IR3lUQXdXcTU1NldJODhKR1JJa3lhejZWLXQ4YmxQdVhYZ2FYOFB2TUd5R1BDakJHWV9YanpuYXQ2U1Qtd1NmRFRTUmhTcnRpVjlTaFROamNIU2Mw?oc=5",
-        "source": "Coinpaper",
-        "image": "",
-        "published_ts": 1795709873,
-        "published": "26 Nov, 10:17 PM",
-        "bn_summary": "মার্কিন মুদ্রাস্ফীতি ৩.৮% পৌঁছানোর পর সোনার দাম আবার ৪,০০০ ডলারে পৌঁছাতে পারে কিনা তা নিয়ে বিশ্লেষণ চলছে। মুদ্রাস্ফীতি বাড়লে সাধারণত সোনার চাহিদা বাড়ে, তবে অন্যান্য অর্থনৈতিক কারণও এখানে ভূমিকা রাখতে পারে।",
-        "added_at_ts": 1795719505,
-        "expires_at_ts": 1795805905,
-        "batch_label": "12:58 AM BDT",
-        "batch_edition": 27,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "Get 38% off an RTX 5070-powered HP Omen 35L gaming desktop sporting an Intel Core Ultra 7 CPU and 32GB of DDR5",
+        "summary": "TKTK",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/get-a-staggering-usd1-400-off-an-rtx-5070-powered-hp-omen-35l-gaming-desktop-sporting-an-intel-core-ultra-7-cpu-and-32gb-of-ddr5-at-38-percent-discount-this-performant-mid-tower-prebuilt-pc-packs-a-punch",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/cSSVJNp3Wir5myrRYYp5YM-1920-80.jpg",
+        "published_ts": 1795803600,
+        "published": "28 Nov, 12:20 AM",
+        "bn_summary": "HP Omen 35L gaming desktop-এ RTX 5070, Intel Core Ultra 7 CPU এবং 32GB DDR5 RAM রয়েছে, আর এখন এতে 38% ছাড় দেওয়া হচ্ছে। শক্তিশালী গেমিং পারফরম্যান্স চাওয়া ক্রেতারা এই অফারে তুলনামূলক কম দামে একটি প্রস্তুত সিস্টেম পেতে পারেন।",
+        "added_at_ts": 1795807165,
+        "expires_at_ts": 1795893565,
+        "batch_label": "01:19 AM BDT",
+        "batch_edition": 39,
+        "is_new": true
+      },
+      {
+        "title": "Tons of motherboards are on sale right now, some over 40% off – we sorted through them for you and picked out a few of the best deals",
+        "summary": "We collated all of the motherboards down to these few which offer the some of the best combinations of hardware and cost during Black Friday",
+        "url": "https://www.tomshardware.com/pc-components/tons-of-motherboards-are-on-sale-right-now-some-over-40-percent-off-we-sorted-through-them-for-you-and-picked-out-a-few-of-the-best-deals",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/F7GiBqEyN6F5fe8AEShjwX-1920-80.jpg",
+        "published_ts": 1795802400,
+        "published": "28 Nov, 12:00 AM",
+        "bn_summary": "Black Friday উপলক্ষে একাধিক motherboard-এ 40%-এর বেশি ছাড় রয়েছে, এবং সেগুলোর মধ্যে দামের সঙ্গে হার্ডওয়্যারের ভালো ভারসাম্য থাকা মডেলগুলো বেছে নেওয়া হয়েছে। ফলে নতুন PC বানানো বা পুরোনো motherboard বদলাতে চাওয়া ক্রেতারা সহজে সাশ্রয়ী বিকল্প তুলনা করতে পারবেন।",
+        "added_at_ts": 1795807165,
+        "expires_at_ts": 1795893565,
+        "batch_label": "01:19 AM BDT",
+        "batch_edition": 39,
+        "is_new": true
+      },
+      {
+        "title": "iBuyPower’s Black Friday offers net you $650 off powerful RTX 5080 prebuilt PC",
+        "summary": "Prebuilt PC extraordinaires iBuyPower is having a huge Black Friday sale across a whole range of products, including a powerful bundle on an all-AMD Ryzen 9 7800X3D / RX 9070 XT build, which will also net you free bundled extras, including a set of Asus periph",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/ibuypowers-black-friday-offers-net-you-usd650-off-powerful-rtx-5080-prebuilt-pc-stackable-offer-code-can-net-you-a-bargain-bundle-with-a-free-monitor-and-peripherals",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/Gp577vQ5kmUbGnbXeW2CEn-1920-80.jpg",
+        "published_ts": 1795800600,
+        "published": "27 Nov, 11:30 PM",
+        "bn_summary": "iBuyPower-এর Black Friday অফারে RTX 5080-ভিত্তিক শক্তিশালী prebuilt PC-তে সর্বোচ্চ 650 ডলার পর্যন্ত সাশ্রয় করা যাচ্ছে। অল-AMD Ryzen 9 780 সিরিজের প্রসেসরসহ এই ধরনের বান্ডেল উচ্চমানের গেমিং বা ভারী কাজের জন্য প্রস্তুত সিস্টেম কেনাকে তুলনামূলকভাবে সাশ্রয়ী করে।",
+        "added_at_ts": 1795807165,
+        "expires_at_ts": 1795893565,
+        "batch_label": "01:19 AM BDT",
+        "batch_edition": 39,
+        "is_new": true
+      },
       {
         "title": "China’s AI hardware push is moving beyond GPUs to the PCBs underneath them — Beijing races to corner the market on copper foil and micro-drill bits as board complexity explodes",
         "summary": "AI hardware bottlenecks are expanding beyond GPUs to the PCBs underneath them. As AI servers like Rubin Ultra push PCB layers toward 78 layers using denser laminates, drill bits are wearing out 10 times faster than normal, while high-speed signalling stretches",
@@ -1533,7 +1659,7 @@
         "expires_at_ts": 1795886245,
         "batch_label": "11:17 PM BDT",
         "batch_edition": 38,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "This $619 PowerColor Radeon RX 9070 GRE is the cheapest around this Black Friday",
@@ -1548,7 +1674,7 @@
         "expires_at_ts": 1795886245,
         "batch_label": "11:17 PM BDT",
         "batch_edition": 38,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "These are the best gaming laptop deals we've found this Black Friday to suit all budgets",
@@ -1563,7 +1689,7 @@
         "expires_at_ts": 1795886245,
         "batch_label": "11:17 PM BDT",
         "batch_edition": 38,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Best Black Friday Gaming laptop deals live",
@@ -1923,51 +2049,6 @@
         "expires_at_ts": 1795813231,
         "batch_label": "03:00 AM BDT",
         "batch_edition": 28,
-        "is_new": false
-      },
-      {
-        "title": "Two Californian Nvidia AI chip customers are really Chinese-owned",
-        "summary": "Nvidia sells its advanced AI chips to two Californian companies with links to Chinese parent companies, including one that has already been blacklisted. Nvidia is only allowed to sell to specific companies, with export controls intended to prevent these chips ",
-        "url": "https://www.tomshardware.com/tech-industry/big-tech/two-californian-nvidia-ai-chip-customers-are-really-chinese-owned-companies-used-as-workaround-for-government-export-controls",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/TVYovaCvDrBoMvxiTPWqLL-1920-80.png",
-        "published_ts": 1795716000,
-        "published": "27 Nov, 12:00 AM",
-        "bn_summary": "Nvidia তার উন্নত AI চিপ বিক্রি করছে দুটি ক্যালিফোর্নিয়া-ভিত্তিক কোম্পানিকে, যাদের মূল মালিক চীনা এবং একটি কোম্পানি আগে থেকেই নিষিদ্ধ তালিকায় রয়েছে। এই খবরটি চিপ রপ্তানি নিয়ন্ত্রণ এবং জাতীয় নিরাপত্তা নিয়ে নতুন উদ্বেগ তৈরি করেছে।",
-        "added_at_ts": 1795719505,
-        "expires_at_ts": 1795805905,
-        "batch_label": "12:58 AM BDT",
-        "batch_edition": 27,
-        "is_new": false
-      },
-      {
-        "title": "Credit rating agency puts Nvidia on notice for possible downgrade",
-        "summary": "S&P Global Ratings says that it could lower Nvidia's credit rating because of various risks that it faces, including the smuggling allegations and the fact the lack of succession planning for its CEO.",
-        "url": "https://www.tomshardware.com/tech-industry/credit-rating-agency-puts-nvidia-on-notice-for-possible-downgrade-s-and-p-global-ratings-says-board-members-may-have-compromised-their-independence",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/V58pCYCTU9ChhLRLiLHMe5-1920-80.jpg",
-        "published_ts": 1795712400,
-        "published": "26 Nov, 11:00 PM",
-        "bn_summary": "S&P Global Ratings সতর্ক করেছে যে Nvidia-এর ক্রেডিট রেটিং কমিয়ে দেওয়া হতে পারে, কারণ চিপ পাচারের অভিযোগসহ বিভিন্ন ঝুঁকি রয়েছে। রেটিং কমলে Nvidia-এর জন্য ঋণ নেওয়া আরও ব্যয়বহুল হয়ে উঠতে পারে এবং কোম্পানির সুনামে আঘাত লাগতে পারে।",
-        "added_at_ts": 1795719505,
-        "expires_at_ts": 1795805905,
-        "batch_label": "12:58 AM BDT",
-        "batch_edition": 27,
-        "is_new": false
-      },
-      {
-        "title": "Save 21% on this ultra-fast 2TB SanDisk Optimus GX Pro 8100 SSD, now just 17.5 cents per GB",
-        "summary": "A huge discount on the Gen 5 2TB Sandisk Optimus GX Pro 8100, down to $349.99 right now.",
-        "url": "https://www.tomshardware.com/pc-components/ssds/save-21-percent-on-this-ultra-fast-2tb-sandisk-optimus-gx-pro-8100-ssd-now-just-17-5-cents-per-gb-rebranded-sn8100-offers-gen-5-speeds-of-up-to-14-900-mb-s-at-a-record-low-price",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/ZGGZR3k7yxaZm44LU3cVYc-1920-80.png",
-        "published_ts": 1795708372,
-        "published": "26 Nov, 09:52 PM",
-        "bn_summary": "SanDisk-এর Gen 5 2TB Optimus GX Pro 8100 SSD-এর দাম ২১% কমিয়ে ৩৪৯.৯৯ ডলার করা হয়েছে, যা প্রতি গিগাবাইটে মাত্র ১৭.৫ সেন্ট। এই ডিসকাউন্টটি উচ্চ গতির স্টোরেজ খুঁজছেন এমন ব্যবহারকারীদের জন্য একটি ভালো সুযোগ।",
-        "added_at_ts": 1795719505,
-        "expires_at_ts": 1795805905,
-        "batch_label": "12:58 AM BDT",
-        "batch_edition": 27,
         "is_new": false
       }
     ]
