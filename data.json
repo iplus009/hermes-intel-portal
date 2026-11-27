@@ -1,28 +1,28 @@
 {
-  "edition": 29,
-  "updated_ts": 1795734205,
-  "updated_dhaka": "27 Nov 2026, 05:03 AM (BDT)",
-  "updated_utc": "2026-11-26 23:03 UTC",
-  "batch_label": "05:03 AM BDT",
-  "new_added": 10,
+  "edition": 30,
+  "updated_ts": 1795741525,
+  "updated_dhaka": "27 Nov 2026, 07:05 AM (BDT)",
+  "updated_utc": "2026-11-27 01:05 UTC",
+  "batch_label": "07:05 AM BDT",
+  "new_added": 11,
   "expired_removed": 12,
-  "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
+  "curated_by": "codex-relay (gpt-5.6-luna)",
   "advice": {
-    "title": "বাজারের ধাক্কায় AI-তে সুযোগ ধরুন",
-    "body": "টেক শেয়ার আর র‍্যামের দাম পড়েছে, তাই এখন ফ্রি VPS/API আর GitHub Actions দিয়ে AI প্রজেক্ট বানানোর সেরা সময়। গোল্ড ও বিটকয়েন স্থিতিশীল, তাই ঝুঁকি ছড়িয়ে স্টকে নগদ রাখুন; Black Friday-তে DDR5 ডিলে আপগ্রেড করুন।",
+    "title": "AI Build, Risk Guard, ধীরে এগোন",
+    "body": "AI project শুরুতে GitHub-এর অচেনা broker repo যাচাই করে, shrink-anything-এর মতো tool sandbox-এ চালান; free API quota বাঁচাতে caching ও ছোট VPS ব্যবহার করুন। Gold 0.71% উঠলেও S&P 500, NASDAQ, NVIDIA ও RAM-stock MU তীব্র নেমেছে—তাই একবারে বড় investment না করে diversified position, stop-loss ও পর্যায়ক্রমিক কেনাকাটা বিবেচনা করুন। Ukraine, Iran ও Myanmar-এর geopolitical ঝুঁকিতে news exposure সীমিত রেখে emergency cash এবং গুরুত্বপূর্ণ VPS/API backup রাখুন।",
     "tag": "AI & Dev"
   },
   "quote": {
-    "text_bn": "মহৎ কাজ করার একমাত্র উপায় হলো নিজের কাজকে ভালোবাসা।",
-    "author": "স্টিভ জবস",
-    "note_bn": "আজকের বাজার অস্থিরতায় আপনার কোডিং বা বিনিয়োগ যেটাই করুন, সেটাকে ভালোবেসে করলে সিদ্ধান্ত নেওয়া সহজ হবে।"
+    "text_bn": "বিশ্বে যা কিছু মহান সৃষ্টি চির-কল্যাণকর, অর্ধেক তার করিয়াছে নারী, অর্ধেক তার নর।",
+    "author": "কাজী নজরুল ইসলাম",
+    "note_bn": "আজকের AI ও investment কাজে একক উৎসের উপর নির্ভর না করে team, data ও risk—তিনটিই সমানভাবে গুরুত্ব দিন।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,593.40",
-      "change_pct": 0.88,
+      "price": "$3,587.10",
+      "change_pct": 0.71,
       "up": true
     },
     {
@@ -56,8 +56,8 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$60,403.07",
-      "change_pct": 0.04,
+      "price": "$60,653.96",
+      "change_pct": 0.26,
       "up": true
     }
   ],
@@ -76,7 +76,7 @@
         "expires_at_ts": 1795820605,
         "batch_label": "05:03 AM BDT",
         "batch_edition": 29,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -257,54 +257,43 @@
         "batch_label": "08:44 AM BDT",
         "batch_edition": 19,
         "is_new": false
-      },
-      {
-        "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-        "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
-        "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-        "source": "TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
-        "published_ts": 1795646672,
-        "published": "26 Nov, 04:44 AM",
-        "bn_summary": "S&P Global Nvidia-এর ক্রেডিট রেটিং AA-এ নামানোর কথা বিবেচনা করছে, কারণ কোম্পানির শাসনব্যবস্থা ও ‘key man’ ঝুঁকি নিয়ে উদ্বেগ আছে। রেটিং কমলে Nvidia-র ঋণ নেওয়ার খরচ বাড়তে পারে এবং বিনিয়োগকারীদের আস্থায় চাপ পড়তে পারে।",
-        "added_at_ts": 1795653685,
-        "expires_at_ts": 1795740085,
-        "batch_label": "06:41 AM BDT",
-        "batch_edition": 18,
-        "is_new": false
-      },
-      {
-        "title": "Exciting news: MAI-Code-2.1 by @MicrosoftAI has just debuted in Code Arena: WebDev at #13 overall with a score of 1717 pts, placing Microsoft AI #6 among frontier AI labs! MAI-Code",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNQ2d6M1h0V3ZDNUZGVWFBOUJtc2x4Vmppam5FcnE4al9oMkMwc1VHV3MxUHZpb1B5LUkySkh1Q3h6VUlzZFU4ZlNtVDd0eFF5WEVILUxKbm5jQQ?oc=5",
-        "source": "X",
-        "image": "",
-        "published_ts": 1795626664,
-        "published": "25 Nov, 11:11 PM",
-        "bn_summary": "Microsoft AI-এর MAI-Code-2.1 Code Arena: WebDev প্রতিযোগিতায় ১৭১৭ পয়েন্ট নিয়ে সামগ্রিকভাবে ১৩তম স্থানে আত্মপ্রকাশ করেছে। এটি কোডিং ও ওয়েব ডেভেলপমেন্টে মডেলটির সক্ষমতার একটি প্রাথমিক benchmark, তবে ফলাফলটি এখনও শীর্ষস্থানীয় নয়।",
-        "added_at_ts": 1795653685,
-        "expires_at_ts": 1795740085,
-        "batch_label": "06:41 AM BDT",
-        "batch_edition": 18,
-        "is_new": false
-      },
-      {
-        "title": "Rival AI leaders push back against Anthropic vision of surrendering human agency to AI https://t.co/HbjrWZBBqK - X",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EY0hvYnJzdTFYdl9qZWlXMXJhTXIzMk9TZXBFc2lFT09rTW5jaVE0SnNBOU9PQUxLNHI0clBBdHZ0c2xiUkt5SWR0WjVBU1NDTzFrTm9XNTNoQQ?oc=5",
-        "source": "X",
-        "image": "",
-        "published_ts": 1795601524,
-        "published": "25 Nov, 04:12 PM",
-        "bn_summary": "কয়েকজন প্রতিদ্বন্দ্বী AI নেতা Anthropic-এর এমন ধারণার বিরোধিতা করেছেন যে মানুষকে AI-এর হাতে সিদ্ধান্ত নেওয়ার ক্ষমতা ছেড়ে দিতে হবে। বিতর্কটি গুরুত্বপূর্ণ, কারণ AI ব্যবহারে মানুষের নিয়ন্ত্রণ, জবাবদিহি ও স্বাধীন সিদ্ধান্তের সীমা কী হবে তা এতে উঠে আসে।",
-        "added_at_ts": 1795653685,
-        "expires_at_ts": 1795740085,
-        "batch_label": "06:41 AM BDT",
-        "batch_edition": 18,
-        "is_new": false
       }
     ],
     "github": [
+      {
+        "title": "gary23w/f-ck_data_brokers",
+        "summary": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
+        "url": "https://github.com/gary23w/f-ck_data_brokers",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/gary23w/f-ck_data_brokers",
+        "stars": 384,
+        "language": "Python",
+        "published_ts": 1795715587,
+        "published": "2026-11-26",
+        "bn_summary": "এই open-source Python script data broker-দের কাছে opt-out ও personal data deletion request স্বয়ংক্রিয়ভাবে পাঠায়। ফলে ব্যবহারকারীরা একে একে বহু সেবায় আবেদন না করেই নিজের অনলাইন privacy কিছুটা নিয়ন্ত্রণ করতে পারেন।",
+        "added_at_ts": 1795741525,
+        "expires_at_ts": 1795827925,
+        "batch_label": "07:05 AM BDT",
+        "batch_edition": 30,
+        "is_new": true
+      },
+      {
+        "title": "EL4CTEO/shrink-anything",
+        "summary": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+        "url": "https://github.com/EL4CTEO/shrink-anything",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/EL4CTEO/shrink-anything",
+        "stars": 336,
+        "language": "Rust",
+        "published_ts": 1795449348,
+        "published": "2026-11-23",
+        "bn_summary": "প্রকল্পটি codebase থেকে dead code, অপ্রয়োজনীয় file, dependency ও asset বাদ দেয়, তবে প্রতিটি পরিবর্তনের পর নিজের test pass করছে কি না যাচাই করে। এতে codebase ছোট ও maintain করা সহজ হয়, আর কাজের functionality নষ্ট হওয়ার ঝুঁকি কমে।",
+        "added_at_ts": 1795741525,
+        "expires_at_ts": 1795827925,
+        "batch_label": "07:05 AM BDT",
+        "batch_edition": 30,
+        "is_new": true
+      },
       {
         "title": "nexu-io/opengame",
         "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikT",
@@ -391,6 +380,51 @@
     ],
     "war": [
       {
+        "title": "Inside Ukraine’s power crisis amid its war with Russia",
+        "summary": "Electricity and water shortages have become part of daily life in Ukraine’s capital.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740363.jpg?resize=1920%2C1080&quality=80",
+        "published_ts": 1795740379,
+        "published": "27 Nov, 06:46 AM",
+        "bn_summary": "রাশিয়ার সঙ্গে যুদ্ধের মধ্যে Ukraine-এর রাজধানীতে বিদ্যুৎ ও পানির ঘাটতি এখন মানুষের দৈনন্দিন জীবনের অংশ হয়ে উঠেছে। এই সংকট যুদ্ধের অবকাঠামোগত ক্ষতি এবং সাধারণ নাগরিকদের ওপর তার দীর্ঘস্থায়ী প্রভাবকে স্পষ্ট করে।",
+        "added_at_ts": 1795741525,
+        "expires_at_ts": 1795827925,
+        "batch_label": "07:05 AM BDT",
+        "batch_edition": 30,
+        "is_new": true
+      },
+      {
+        "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+        "summary": "Iran's FM Abbas Araghchi says the deadly Kuwait incident is \"suspicious\" and looks like a \"pre-cooked recipe\" for war.",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-24T114809Z_325563367_RC2L3LAZPF22_RTRMADP_3_IRAN-CRISIS-TANKERS-CMBTECH-1795731128.jpg?resize=1920%2C1440",
+        "published_ts": 1795737600,
+        "published": "27 Nov, 06:00 AM",
+        "bn_summary": "Iran-এর পররাষ্ট্রমন্ত্রী Abbas Araghchi Kuwait-এর প্রাণঘাতী ঘটনাটিকে সন্দেহজনক বলেছেন এবং এটিকে যুদ্ধের জন্য আগে থেকে সাজানো পরিকল্পনার মতো মনে হচ্ছে বলে মন্তব্য করেছেন। তাঁর বক্তব্য ঘটনাটির দায় ও উদ্দেশ্য নিয়ে আঞ্চলিক উত্তেজনা এবং পারস্পরিক সন্দেহ আরও বাড়াতে পারে।",
+        "added_at_ts": 1795741525,
+        "expires_at_ts": 1795827925,
+        "batch_label": "07:05 AM BDT",
+        "batch_edition": 30,
+        "is_new": true
+      },
+      {
+        "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+        "summary": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
+        "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7152/live/395fc860-e975-11f1-acd8-af22a7ebb474.jpg",
+        "published_ts": 1795688751,
+        "published": "26 Nov, 04:25 PM",
+        "bn_summary": "International Court of Justice Rohingya জনগোষ্ঠীর বিরুদ্ধে Myanmar-এর genocide সংক্রান্ত একটি landmark রায় দিয়েছে, কিন্তু Myanmar রায়টির কিছু অংশ মানতে অস্বীকার করছে। এতে আন্তর্জাতিক আদালতের নির্দেশ বাস্তবায়ন এবং Rohingya জনগণের ন্যায়বিচার পাওয়া নিয়ে বড় প্রশ্ন তৈরি হয়েছে।",
+        "added_at_ts": 1795741525,
+        "expires_at_ts": 1795827925,
+        "batch_label": "07:05 AM BDT",
+        "batch_edition": 30,
+        "is_new": true
+      },
+      {
         "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
         "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
         "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
@@ -403,7 +437,7 @@
         "expires_at_ts": 1795820605,
         "batch_label": "05:03 AM BDT",
         "batch_edition": 29,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Trump says he asked Putin to 'pull back' military aggression throughout Europe - Reuters",
@@ -418,7 +452,7 @@
         "expires_at_ts": 1795820605,
         "batch_label": "05:03 AM BDT",
         "batch_edition": 29,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Mexico seeks US talks about suspected SpaceX debris",
@@ -433,7 +467,7 @@
         "expires_at_ts": 1795820605,
         "batch_label": "05:03 AM BDT",
         "batch_edition": 29,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
@@ -884,54 +918,54 @@
         "batch_label": "08:44 AM BDT",
         "batch_edition": 19,
         "is_new": false
-      },
-      {
-        "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
-        "summary": "A blast hits Sanaa after air strikes near the airport, as the Saudi coalition intercepts missiles over Riyadh.",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T142119Z_494453788_RC22VOAYEVVA_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHI-1795644562.jpg?resize=1920%2C1440",
-        "published_ts": 1795651200,
-        "published": "26 Nov, 06:00 AM",
-        "bn_summary": "সানায় বিমানবন্দরের কাছাকাছি হামলার পর বিস্ফোরণের খবর পাওয়া গেছে, আর রিয়াদের আকাশে ক্ষেপণাস্ত্র প্রতিহত করেছে সৌদি জোট। ঘটনাগুলো ইয়েমেন ও উপসাগরীয় অঞ্চলে সংঘাত ছড়িয়ে পড়ার ঝুঁকি এবং বেসামরিক নিরাপত্তার ওপর নতুন চাপ দেখাচ্ছে।",
-        "added_at_ts": 1795653685,
-        "expires_at_ts": 1795740085,
-        "batch_label": "06:41 AM BDT",
-        "batch_edition": 18,
-        "is_new": false
-      },
-      {
-        "title": "Israel’s War on Palestinian Healthcare Workers: A Pattern of Violence and Repression - Arab Center Washington DC",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0MzMnJlS3h6dzRBYmZaMXR3ODBheVRMWHhaQkN5dmpmZHhYaUoyWUszZEZjVldqdFhVVUxXVWdDYWVHcTUxRlk1MTBjQzh2bWVGWWlMZ21VU2cyZzA3Y2ZoR1o3aHZ3MTd1aVNQU3hMMXZUTHdYSlZrUjIzRnVNSkFXMzVUWGpUNENHQVZ4dEVrY2YzRGZ4NkI3ZGJGYmUyRWswXzhxRjR1UFRSU21xVm9FZE9fZWdk?oc=5",
-        "source": "Arab Center Washington DC",
-        "image": "",
-        "published_ts": 1795647825,
-        "published": "26 Nov, 05:03 AM",
-        "bn_summary": "প্রতিবেদনটি ফিলিস্তিনি স্বাস্থ্যকর্মীদের বিরুদ্ধে সহিংসতা ও দমন-পীড়নের ধারাবাহিক অভিযোগ তুলে ধরেছে। এর গুরুত্ব হলো, চিকিৎসাকর্মীদের নিরাপত্তা ক্ষতিগ্রস্ত হলে আহত ও অসুস্থ মানুষের জরুরি চিকিৎসা পাওয়াও আরও কঠিন হয়ে পড়ে।",
-        "added_at_ts": 1795653685,
-        "expires_at_ts": 1795740085,
-        "batch_label": "06:41 AM BDT",
-        "batch_edition": 18,
-        "is_new": false
-      },
-      {
-        "title": "US announces new tariffs on host of countries including China",
-        "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
-        "published_ts": 1795623694,
-        "published": "25 Nov, 10:21 PM",
-        "bn_summary": "যুক্তরাষ্ট্র চীন, ইউরোপীয় ইউনিয়নসহ বহু বড় বাণিজ্য অংশীদারের পণ্যের ওপর নতুন শুল্ক আরোপের ঘোষণা দিয়েছে। এতে আমদানি ব্যয় বাড়তে পারে, পাল্টা শুল্কের সম্ভাবনা তৈরি হতে পারে এবং বৈশ্বিক বাণিজ্যে উত্তেজনা বাড়তে পারে।",
-        "added_at_ts": 1795653685,
-        "expires_at_ts": 1795740085,
-        "batch_label": "06:41 AM BDT",
-        "batch_edition": 18,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "Boston Mayor Wu buoyant about AI boom's potential to boost local workforce amid stock market turbulence - Boston Herald",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVTFjWlNVSlI2UlFvak9xY3ZOX0NtcUlXbDBjeDVKNTdRci04WlpzOG1VZ1ZsZG03NVhKZFU2Q202bHNCYjRHUzdYcjVyMkNic1ZFYVh5VThqaGdJbUh1QzJwZ1pyU21FbXFlcW9PU3BHMC16UV9ORy1wdFl0V1VxRlQ2TzVuN0h0cUdBMXJubktNOUJvQkRRbU4xR1gya2Y2cnNHa2VQX3VtVmZHbTRmYThnSHZXRFZvd0R3V3FlR3J6Rkx2WW9GRlJmOVdfZG1OMDZ3OExHdXFOVVU?oc=5",
+        "source": "Boston Herald",
+        "image": "",
+        "published_ts": 1795735344,
+        "published": "27 Nov, 05:22 AM",
+        "bn_summary": "Boston-এর Mayor Michelle Wu AI boom কীভাবে স্থানীয় workforce-এর সুযোগ বাড়াতে পারে, তা নিয়ে আশাবাদী; একই সময়ে stock market অস্থির। অর্থাৎ বাজারের অনিশ্চয়তার মধ্যেও শহরটি AI-ভিত্তিক কর্মসংস্থান ও দক্ষতা উন্নয়নকে অর্থনৈতিক সম্ভাবনা হিসেবে দেখছে।",
+        "added_at_ts": 1795741525,
+        "expires_at_ts": 1795827925,
+        "batch_label": "07:05 AM BDT",
+        "batch_edition": 30,
+        "is_new": true
+      },
+      {
+        "title": "Nasdaq 100, SOX: Tech rout may be a symptom of something far larger - StoneX",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcU1wM3ZNQldSTnA5aWxzdjgzUkI1QV82N2p5SE1LRFRyYTdVQzh4bGdnclAwbm52TXN3ZGNaV0NzWUxDTGxMQnFuS2xXSzhFd0VFRkczRDZKT0R4dHZoRDBZUHE0UTUyMXJxUnhYVXhPcUNPTEhMZ0w4TE8zTUoxb1ZWSVNBTlN0bmVlcV9kRkJLeGwteUtmSlJiczEzaHgwQVdSMjEtNTNZcnRndjA0V0Jfdw?oc=5",
+        "source": "StoneX",
+        "image": "",
+        "published_ts": 1795734266,
+        "published": "27 Nov, 05:04 AM",
+        "bn_summary": "Nasdaq 100 ও semiconductor সূচকে tech-sector পতনকে StoneX বৃহত্তর কোনো বাজারগত সমস্যার লক্ষণ হতে পারে বলে বিশ্লেষণ করছে। বিষয়টি গুরুত্বপূর্ণ, কারণ chip ও technology stocks-এর দুর্বলতা শুধু একটি sector নয়, সামগ্রিক বিনিয়োগ sentiment-এও প্রভাব ফেলতে পারে।",
+        "added_at_ts": 1795741525,
+        "expires_at_ts": 1795827925,
+        "batch_label": "07:05 AM BDT",
+        "batch_edition": 30,
+        "is_new": true
+      },
+      {
+        "title": "Prediction: These 3 Consumer Stocks Will Beat the S&P 500 Over the Next 10 Years - Yahoo Finance",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcWRpVG5Kcmg0NWVIMG5xaEEyZ1p3bjMyX3dXOGR1WnJicWpZZWFPcjRUdExaTU5WbFk3MXRwOHVzMXNqZDNkNUM2QVB5VzlFSW95SEtKZmtmSnJrZURPNDRiLUhIUk56TDdpOUh3eVo3aFlpcWN0LVRuSlRVRGxDVTQxODdQbzlFbG9vN3lnZjE0bEQ0dGxkd1ItdnI5VW8?oc=5",
+        "source": "Yahoo Finance",
+        "image": "",
+        "published_ts": 1795733402,
+        "published": "27 Nov, 04:50 AM",
+        "bn_summary": "Yahoo Finance-এর বিশ্লেষণে তিনটি consumer stock আগামী দশ বছরে S&P 500-এর তুলনায় ভালো করতে পারে বলে পূর্বাভাস দেওয়া হয়েছে। এমন দীর্ঘমেয়াদি মতামত বিনিয়োগকারীদের consumer sector-এর সম্ভাব্য resilience এবং portfolio diversification নিয়ে ভাবতে সাহায্য করতে পারে, তবে এটি নিশ্চিত ফলের নিশ্চয়তা নয়।",
+        "added_at_ts": 1795741525,
+        "expires_at_ts": 1795827925,
+        "batch_label": "07:05 AM BDT",
+        "batch_edition": 30,
+        "is_new": true
+      },
       {
         "title": "Burry Turns Net Long After Selling Nasdaq 100 Puts - Briefs Finance",
         "summary": "",
@@ -945,7 +979,7 @@
         "expires_at_ts": 1795820605,
         "batch_label": "05:03 AM BDT",
         "batch_edition": 29,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy - Yahoo Finance",
@@ -960,7 +994,7 @@
         "expires_at_ts": 1795820605,
         "batch_label": "05:03 AM BDT",
         "batch_edition": 29,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Traders Rush To Take Profits After Rebound - FXEmpire",
@@ -975,7 +1009,7 @@
         "expires_at_ts": 1795820605,
         "batch_label": "05:03 AM BDT",
         "batch_edition": 29,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Is NVIDIA Stock Underperforming the Dow? - Barchart.com",
@@ -1426,54 +1460,54 @@
         "batch_label": "08:44 AM BDT",
         "batch_edition": 19,
         "is_new": false
-      },
-      {
-        "title": "Explaining the stock market: Why is it still so hard? - CEPR",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHZMblcwZnlTaFIyd0lYTlpQN2pCMVRhWGJJbkNrN253S2JpT0hMeUFqLW9sQWdESll4WnlpS2ZvRWVhN0JnYjNKOTI5QjZzczlvZDc5ZkhTMXNRbVFCN0JPSDhQQVlCQUJLOGJmcTRaa3NpczhHYk02QUF2T3laZw?oc=5",
-        "source": "CEPR",
-        "image": "",
-        "published_ts": 1795651907,
-        "published": "26 Nov, 06:11 AM",
-        "bn_summary": "CEPR-এর বিশ্লেষণ দেখায়, শেয়ারবাজার বোঝা কঠিন কারণ মূল্য নির্ধারণে অর্থনীতি, প্রত্যাশা, ঝুঁকি ও বিনিয়োগকারীর আচরণ একসঙ্গে কাজ করে। এই জটিলতা বাজারের ওঠানামা ব্যাখ্যা করা এবং ভবিষ্যৎ নির্ভুলভাবে অনুমান করা কঠিন করে তোলে।",
-        "added_at_ts": 1795653685,
-        "expires_at_ts": 1795740085,
-        "batch_label": "06:41 AM BDT",
-        "batch_edition": 18,
-        "is_new": false
-      },
-      {
-        "title": "Don’t Let the Bounce Fool You: The Stock Market’s Pain Could Get Way Worse - Barron's",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ReWZPZEprSThyRGplOUZOb1FxVHBzQ0JaMGJaeXlDNFBQaGVZZU0yMW1xTWZmSFJENzlobUlRYlQzMnZZWFhkLVFJX294Q3lxdk05dWt3dHB2M0pncVMxUlJwclNGZkUwNU5kNEEtODUxZw?oc=5",
-        "source": "Barron's",
-        "image": "",
-        "published_ts": 1795643340,
-        "published": "26 Nov, 03:49 AM",
-        "bn_summary": "Barron's সতর্ক করেছে যে সাম্প্রতিক শেয়ারবাজারের উত্থানকে স্থায়ী পুনরুদ্ধার ধরে নেওয়া ঠিক নাও হতে পারে এবং আরও বড় পতনের ঝুঁকি রয়েছে। উচ্চ মূল্যায়ন, অর্থনৈতিক অনিশ্চয়তা বা দুর্বল আয়ের ফল বাজারে আবার চাপ তৈরি করতে পারে।",
-        "added_at_ts": 1795653685,
-        "expires_at_ts": 1795740085,
-        "batch_label": "06:41 AM BDT",
-        "batch_edition": 18,
-        "is_new": false
-      },
-      {
-        "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
-        "source": "Investor's Business Daily",
-        "image": "",
-        "published_ts": 1795637460,
-        "published": "26 Nov, 02:11 AM",
-        "bn_summary": "Investor's Business Daily-এর এই বাজার আপডেট স্টক মার্কেটের সাম্প্রতিক খবর, গতিবিধি ও বিশ্লেষণ এক জায়গায় তুলে ধরে। বিনিয়োগকারীরা এতে বাজারের প্রবণতা ও সম্ভাব্য ঝুঁকি সম্পর্কে ধারণা পেলেও সিদ্ধান্তের আগে নিজস্ব গবেষণা জরুরি।",
-        "added_at_ts": 1795653685,
-        "expires_at_ts": 1795740085,
-        "batch_label": "06:41 AM BDT",
-        "batch_edition": 18,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Semiconductor Stock Through 2030, This Would Be It. - The Motley Fool",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaTBJZmFiVkpRU3Y1MVlZZXVvamVQMWZsaXlOaEdmaWtLX29ndlEyc25HNG8ybFloV3Bhd0gzSGM0S1pWbnRoUmV5RVBpSWlFVkdzMW9GbnlFM1d3clVXX2dhckd6SC02RG9pMldmbXZpUjBKNlFEYkJmSWhhVjY0bVdJdnlsaE9tWnQ3S1pfTExKZHAwUmMzenJlakF6YlB2bFNYd2tueXVOUWU0MXcyU0NhdGk2VDlfdjJudW5lbDdDaDloYkZob21VTUtmNHlXMVFxMC1ZXzZObFF2UFNYbXhuYm1hOUIxV3A5MXU2X2V0WXYxYWFwR3I0MXZkRXBxQVE?oc=5",
+        "source": "The Motley Fool",
+        "image": "",
+        "published_ts": 1795733684,
+        "published": "27 Nov, 04:54 AM",
+        "bn_summary": "The Motley Fool 2030 সাল পর্যন্ত ধরে রাখার জন্য Nvidia বা Micron-এর বদলে একটি AI semiconductor stock-কে সম্ভাব্য পছন্দ হিসেবে আলোচনা করছে। এই দৃষ্টিভঙ্গি দেখায় যে AI hardware বিনিয়োগে শুধু বর্তমান জনপ্রিয়তা নয়, দীর্ঘমেয়াদি growth ও প্রতিযোগিতামূলক অবস্থানও বিবেচনা করা হচ্ছে।",
+        "added_at_ts": 1795741525,
+        "expires_at_ts": 1795827925,
+        "batch_label": "07:05 AM BDT",
+        "batch_edition": 30,
+        "is_new": true
+      },
+      {
+        "title": "Why It’s Hard to Write Off Micron (MU) Even with a Memory Peak in Sight - Yahoo Finance",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlZMTDkyMUVnbDlsaGtqX2l2OTJCQzZGdlRva1hZdGN3UmlpcTlzaW9JZE9UanZYQW02ZkhBLWVBNDVocEZ4RS1sMnVMMkR1b29Nekk5SVRyZlNTb09zazlBT25sVjVsSS1YaGNTcThNS3hxMW05UlhZRmRqV2wyZ2JZY19PZ2RDMGpFNERRQ0kyUGgy?oc=5",
+        "source": "Yahoo Finance",
+        "image": "",
+        "published_ts": 1795726800,
+        "published": "27 Nov, 03:00 AM",
+        "bn_summary": "Micron-এর memory business-এ peak আসন্ন হতে পারে—এমন আশঙ্কা থাকলেও তাকে পুরোপুরি বাদ দেওয়া কঠিন কেন, Yahoo Finance তা ব্যাখ্যা করছে। আলোচনাটি গুরুত্বপূর্ণ, কারণ memory-cycle-এর ওঠানামা কোম্পানির ভবিষ্যৎ আয় ও stock valuation-এ বড় প্রভাব ফেলতে পারে।",
+        "added_at_ts": 1795741525,
+        "expires_at_ts": 1795827925,
+        "batch_label": "07:05 AM BDT",
+        "batch_edition": 30,
+        "is_new": true
+      },
+      {
+        "title": "Micron May Now Face a Threat From Two Chinese Rivals but Shouldn’t Sweat It - Barron's",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUHp3cllYMzVhMFpCNmc2X3dYamxOendnZzdubUw5VjRHOThFaHF3VWk4bnNtQmR6dG9Qa3U0OFZnRGhyWXZibjNkRGtpQUY4OGxrSlNpcFRBOFhzYnhOU1pvbWVMeGtvMktzY0hRcU9ZcXc2OWtSSDNCWDhnRWc?oc=5",
+        "source": "Barron's",
+        "image": "",
+        "published_ts": 1795698060,
+        "published": "26 Nov, 07:01 PM",
+        "bn_summary": "Micron এখন দুই চীনা প্রতিদ্বন্দ্বীর কাছ থেকে বাড়তি প্রতিযোগিতার মুখে পড়তে পারে, বিশেষ করে মেমরি চিপের বাজারে। তবে Barron’s-এর বিশ্লেষণ অনুযায়ী, Micron-এর প্রযুক্তিগত সক্ষমতা ও বাজার অবস্থান এতটাই শক্তিশালী যে এই হুমকিতে কোম্পানির বড় ধরনের ক্ষতির আশঙ্কা কম।",
+        "added_at_ts": 1795741525,
+        "expires_at_ts": 1795827925,
+        "batch_label": "07:05 AM BDT",
+        "batch_edition": 30,
+        "is_new": true
+      },
       {
         "title": "Huawei targets Samsung, SK Hynix with memory design boasting 2X data-pin density - Interesting Engineering",
         "summary": "",
@@ -1487,7 +1521,7 @@
         "expires_at_ts": 1795820605,
         "batch_label": "05:03 AM BDT",
         "batch_edition": 29,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Denny’s touts renewed support for Nvidia CEO Jensen Huang following reinstatement",
@@ -1502,7 +1536,7 @@
         "expires_at_ts": 1795820605,
         "batch_label": "05:03 AM BDT",
         "batch_edition": 29,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Best Black Friday RAM deals 2026 — discounts on DDR5 and DDR4 memory to beat the price crunch - Tom's Hardware",
@@ -1517,7 +1551,7 @@
         "expires_at_ts": 1795820605,
         "batch_label": "05:03 AM BDT",
         "batch_edition": 29,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "SK Hynix Just Revealed the Next Generation of DRAM. Can It Beat Micron in the Next Memory Supercycle? - Yahoo Finance",
@@ -1892,51 +1926,6 @@
         "expires_at_ts": 1795747465,
         "batch_label": "08:44 AM BDT",
         "batch_edition": 19,
-        "is_new": false
-      },
-      {
-        "title": "Is Micron Cheap Only If Its Record Margin Lasts? - Trefis",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTi03dm9GWnB6bHpIZTBTOTFOMWtoU3JJbWltdTdtU2l5dHZjQWpzUFJYbkMxRXR2UG5rU2lFMFZSQlN2UmJiOEZtaXV2aXZBVzFGMHdUWmlhekdZc3ZaWVdOYnZnMlhMTS04NHRhTlk1QW0xcVgtYzQ2bXFIY2p3cHJ1YWhNVlNEUmRqTXNzZG1JbEN3aGdaN3JqQmgwUEdYM2Yzd3VmRG9Vdw?oc=5",
-        "source": "Trefis",
-        "image": "",
-        "published_ts": 1795650165,
-        "published": "26 Nov, 05:42 AM",
-        "bn_summary": "ট্রেফিসের বিশ্লেষণে বলা হচ্ছে, মাইক্রনের শেয়ার সস্তা মনে হলেও তা শুধুমাত্র রেকর্ড মার্জিন টিকলে; মার্জিন কমলেই ভ্যালুয়েশন সমস্যা হতে পারে। বিনিয়োগকারীদের জন্য এটা গুরুত্বপূর্ণ কারণ মেমোরি সেক্টরের চক্রবৃদ্ধি প্রকৃতি বুঝে সিদ্ধান্ত নেওয়া দরকার।",
-        "added_at_ts": 1795653685,
-        "expires_at_ts": 1795740085,
-        "batch_label": "06:41 AM BDT",
-        "batch_edition": 18,
-        "is_new": false
-      },
-      {
-        "title": "Get an RTX 5060 prebuilt for just $750 in deal that seems too good to be true",
-        "summary": "Walmart has an exceptional deal on an RTX 5060-powered gaming desktop, which is on sale for just $750 right now.",
-        "url": "https://www.tomshardware.com/desktops/gaming-pcs/get-an-rtx-5060-prebuilt-for-just-usd750-in-deal-that-seems-too-good-to-be-true-deep-usd650-discount-on-gaming-pc-offers-core-i5-14400f-16gb-ddr4-and-a-1tb-ssd",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/VzJVi9zGqjqiYhWmeKVHPG-1920-80.jpg",
-        "published_ts": 1795648680,
-        "published": "26 Nov, 05:18 AM",
-        "bn_summary": "Walmart-এ RTX 5060-যুক্ত একটি gaming desktop ৭৫০ ডলারে পাওয়া যাচ্ছে, যা এই হার্ডওয়্যার কনফিগারেশনের জন্য অস্বাভাবিকভাবে কম দাম। ডিলটি সত্যিই কার্যকর হলে কম বাজেটে 1080p gaming-এর জন্য শক্তিশালী PC পাওয়ার সুযোগ তৈরি হবে, তবে স্টক ও সঠিক স্পেসিফিকেশন যাচাই করা দরকার।",
-        "added_at_ts": 1795653685,
-        "expires_at_ts": 1795740085,
-        "batch_label": "06:41 AM BDT",
-        "batch_edition": 18,
-        "is_new": false
-      },
-      {
-        "title": "Micron Stock and Other Memory Plays Will Bear the Brunt of This AI Pain - Barron's",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WWnpuMjczNDRkNmZZNlFLVFM1YkZNUXlUcEY4YndVcTNvOWVGc2hwV2M2QWxaamxLc0g4QWdtY2gxZ0xxYTZqMnVmN1B6RVB4VTRRQXc2VzNKTFVTLXBfMUQzbEtZYlcwaDU4UVZoQkZrVXJ6NmZVNA?oc=5",
-        "source": "Barron's",
-        "image": "",
-        "published_ts": 1795628760,
-        "published": "25 Nov, 11:46 PM",
-        "bn_summary": "ব্যারনসের রিপোর্ট অনুযায়ী, AI-সম্পর্কিত বাজার ধসে মাইক্রনসহ মেমোরি স্টকগুলো সবচেয়ে বেশি ক্ষতিগ্রস্ত হচ্ছে। এটি বোঝায় যে বিনিয়োগকারীরা AI চাহিদার স্থায়িত্ব নিয়ে শঙ্কিত, যা সাময়িক হলেও মেমোরি কোম্পানিগুলোর শেয়ারে চাপ তৈরি করছে।",
-        "added_at_ts": 1795653685,
-        "expires_at_ts": 1795740085,
-        "batch_label": "06:41 AM BDT",
-        "batch_edition": 18,
         "is_new": false
       }
     ]
