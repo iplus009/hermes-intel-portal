@@ -1,28 +1,28 @@
 {
-  "edition": 32,
-  "updated_ts": 1795756045,
-  "updated_dhaka": "27 Nov 2026, 11:07 AM (BDT)",
-  "updated_utc": "2026-11-27 05:07 UTC",
-  "batch_label": "11:07 AM BDT",
-  "new_added": 10,
-  "expired_removed": 10,
+  "edition": 33,
+  "updated_ts": 1795763305,
+  "updated_dhaka": "27 Nov 2026, 01:08 PM (BDT)",
+  "updated_utc": "2026-11-27 07:08 UTC",
+  "batch_label": "01:08 PM BDT",
+  "new_added": 7,
+  "expired_removed": 9,
   "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
   "advice": {
-    "title": "ফ্রি AI API আর গোল্ডে স্মার্ট মুভ",
-    "body": "আজই Kimi API-র ফ্রি ক্রেডিটে AI প্রজেক্ট শুরু করুন, আর VPS-এ ডিপ্লয় করুন। টেক শেয়ার পড়লেও গোল্ড ২.৭% বেড়েছে, তাই ঝুঁকি ছড়িয়ে সোনায় কিছু অংশ রাখুন। Micron-এর RAM স্টক ১৫% পড়লেও কোম্পানির $৩২B কমিটমেন্ট দীর্ঘমেয়াদে ভালো সংকেত।",
+    "title": "বাজারের অস্থিরতায় ফ্রি টুলসে AI শেখো",
+    "body": "যুদ্ধ-উদ্বেগ আর বাজারের পতনের মাঝে সোনা-বিটকয়েন বেড়েছে, কিন্তু নিজের স্কিল বাড়ানোই সবচেয়ে নিরাপদ বিনিয়োগ। GitHub Actions, ফ্রি API আর VPS দিয়ে আজই একটা AI প্রজেক্ট বানাও—খরচ ছাড়াই শেখা আর ক্যারিয়ার এগোনোর সুযোগ।",
     "tag": "AI & Dev"
   },
   "quote": {
-    "text_bn": "জীবনের কোনো কিছুই ভয়ের নয়, বরং তা বোঝার বিষয়।",
-    "author": "মারি কুরি",
-    "note_bn": "আজকের বাজার অস্থিরতায় নতুন কিছু শেখার সুযোগ নিন।"
+    "text_bn": "জ্ঞানই শক্তি।",
+    "author": "ফ্রান্সিস বেকন",
+    "note_bn": "আজই একটা ফ্রি কোর্স বা API নিয়ে হাতে-কলমে শেখা শুরু করো; জ্ঞানই আসল সুরক্ষা।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,659.20",
-      "change_pct": 2.73,
+      "price": "$3,681.00",
+      "change_pct": 3.34,
       "up": true
     },
     {
@@ -56,8 +56,8 @@
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$61,595.63",
-      "change_pct": 1.82,
+      "price": "$61,673.93",
+      "change_pct": 1.95,
       "up": true
     }
   ],
@@ -76,7 +76,7 @@
         "expires_at_ts": 1795842445,
         "batch_label": "11:07 AM BDT",
         "batch_edition": 32,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Rumors Swirl of AI Labs Cracking RSA Encryption - X",
@@ -167,21 +167,6 @@
         "batch_label": "02:50 PM BDT",
         "batch_edition": 22,
         "is_new": false
-      },
-      {
-        "title": "Sand AI's 480B-parameter MAGI-2 debuts at #1 in Image to Video, statistically tied with Dreamina Seedance 2.5 This sets a new Quality vs Price frontier on AA-Video-I2V v2.1 at $0.0",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PcUJOVng2Y3RqSm9jRXBtbjdHZ3BwTjIwbHYwaVEzVHJqRkdQcXhyeEFtR3l4cE5HMElucENGY1psVV9Dd2JTTzdtRmxyZUo0RklsRDZNbEpBVlBGekJ2ZlZSOVlDWG8?oc=5",
-        "source": "X",
-        "image": "",
-        "published_ts": 1795655592,
-        "published": "26 Nov, 07:13 AM",
-        "bn_summary": "Sand AI-এর 480 বিলিয়ন-প্যারামিটারের MAGI-2 Image-to-Video বিভাগে শীর্ষস্থানে উঠে Dreamina Seedance 2.5-এর সঙ্গে পরিসংখ্যানগতভাবে প্রায় সমতায় এসেছে। এই ফলাফল ভিডিও-জেনারেশন মডেলের মান ও প্রতিযোগিতায় নতুন benchmark তৈরি হওয়ার ইঙ্গিত দিচ্ছে।",
-        "added_at_ts": 1795675705,
-        "expires_at_ts": 1795762105,
-        "batch_label": "12:48 PM BDT",
-        "batch_edition": 21,
-        "is_new": false
       }
     ],
     "github": [
@@ -268,7 +253,7 @@
         "expires_at_ts": 1795842445,
         "batch_label": "11:07 AM BDT",
         "batch_edition": 32,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Great demonstration of the generality of @Recursive_SI's autoresearch swarm. Here, improving the already heavily optimized state of the art in backprop-free LLM training by 30%. - ",
@@ -303,6 +288,51 @@
     ],
     "war": [
       {
+        "title": "Israel uses south Lebanon Christian villages to try to divide and conquer",
+        "summary": "Israel is trying to fragment Lebanon by separating its Christian residents in south Lebanon from the rest.",
+        "url": "https://www.aljazeera.com/features/2026/11/27/israel-uses-christian-villages-in-southern-lebanon-to-divide-and-conquer?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2023/11/AP23325306075928-1700570728.jpg?resize=1920%2C1440",
+        "published_ts": 1795757238,
+        "published": "27 Nov, 11:27 AM",
+        "bn_summary": "ইসরায়েল দক্ষিণ লেবাননের খ্রিস্টান গ্রামগুলো ব্যবহার করে দেশটিকে ভাগ করার চেষ্টা করছে। এতে লেবাননের জাতীয় ঐক্য দুর্বল হতে পারে এবং সাম্প্রদায়িক উত্তেজনা বাড়তে পারে।",
+        "added_at_ts": 1795763305,
+        "expires_at_ts": 1795849705,
+        "batch_label": "01:08 PM BDT",
+        "batch_edition": 33,
+        "is_new": true
+      },
+      {
+        "title": "Estonia closing land borders with Russia to keep out spies",
+        "summary": "Estonia is set to close its land border crossings to Russia by December 1.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/estonia-closing-land-borders-with-russia-to-keep-out-spies?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795754650.jpg?resize=1920%2C1080&quality=80",
+        "published_ts": 1795754775,
+        "published": "27 Nov, 10:46 AM",
+        "bn_summary": "এস্তোনিয়া রাশিয়া থেকে গুপ্তচর প্রবেশ ঠেকাতে ১ ডিসেম্বরের মধ্যে স্থল সীমান্ত বন্ধ করবে। এই পদক্ষেপ সীমান্ত পারাপারকে প্রভাবিত করবে এবং ইউরোপের নিরাপত্তা কাঠামোতে গুরুত্বপূর্ণ।",
+        "added_at_ts": 1795763305,
+        "expires_at_ts": 1795849705,
+        "batch_label": "01:08 PM BDT",
+        "batch_edition": 33,
+        "is_new": true
+      },
+      {
+        "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’ - CNBC",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXdZWk9aY1VrSmlEbExnWV93RnFxTDFwV3RLdjhtYW1SaXU0aXJCbGJBRUVOS0FramRyaVdva0VwUWRLQlBZdHcwYktUWVlwaEp4MTNEeUN3Y2Q1bi1RUG5TRTZoWlY0S2lFUVpqSVF3NzJQZ2hiUGFjU19LTW93cERfYzNNY3VKalHSAY8BQVVfeXFMTXlQSEhkZ20xOFJXTzlvczJPelo5S294dENlYTBpMzAxVHVxeHhFNUk3eHZVYVQzY0t6cWZ5T1hEYUdjbkc1SmROUVVTVWc4Mjdza3FYNXplRTE0Qk5NY1NyTTNwdEN6Z2JyWEJhOVRVd3RVOVRoTVlubGNUYTBsWS1zTkZ3czV6WThYWkk4RVU?oc=5",
+        "source": "CNBC",
+        "image": "",
+        "published_ts": 1795750200,
+        "published": "27 Nov, 09:30 AM",
+        "bn_summary": "কুয়েতে ড্রোন হামলায় দুই ইতালীয় নাগরিক নিহত হয়েছে এবং ট্রাম্প বলেছেন ইরান যুদ্ধ 'যখন খুশি' শেষ করতে পারেন। এই ঘটনা মধ্যপ্রাচ্যের অস্থিরতা এবং মার্কিন-ইরান উত্তেজনা বৃদ্ধির ইঙ্গিত দেয়।",
+        "added_at_ts": 1795763305,
+        "expires_at_ts": 1795849705,
+        "batch_label": "01:08 PM BDT",
+        "batch_edition": 33,
+        "is_new": true
+      },
+      {
         "title": "At least 13 Niger soldiers killed in Sanam armed attack",
         "summary": "It remains unclear who carried out the attack on Niger's National Guard in Tillaberi, near the Mali border.",
         "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
@@ -315,7 +345,7 @@
         "expires_at_ts": 1795842445,
         "batch_label": "11:07 AM BDT",
         "batch_edition": 32,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Trump downplays Russia, China support for Iran during talks with US troops",
@@ -330,7 +360,7 @@
         "expires_at_ts": 1795842445,
         "batch_label": "11:07 AM BDT",
         "batch_edition": 32,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Asian stock markets rise after earlier tech rout",
@@ -345,7 +375,7 @@
         "expires_at_ts": 1795842445,
         "batch_label": "11:07 AM BDT",
         "batch_edition": 32,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
@@ -796,54 +826,54 @@
         "batch_label": "02:50 PM BDT",
         "batch_edition": 22,
         "is_new": false
-      },
-      {
-        "title": "Gaza meningitis cases surge as collapsing infrastructure fuels health fears",
-        "summary": "Meningitis is raising alarm in Gaza, where overcrowding, damaged sanitation are putting children at risk.",
-        "url": "https://www.aljazeera.com/news/2026/11/26/gaza-meningitis-cases-surge-as-collapsing-infrastructure-fuels-health-fears?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A3804-copy-1795641969.jpeg?resize=1920%2C1440",
-        "published_ts": 1795673655,
-        "published": "26 Nov, 12:14 PM",
-        "bn_summary": "গাজায় মেনিনজাইটিসের ঘটনা বাড়ছে, কারণ অতিরিক্ত ভিড়, ক্ষতিগ্রস্ত পয়ঃনিষ্কাশন ব্যবস্থা ও দুর্বল স্বাস্থ্য অবকাঠামো সংক্রমণের ঝুঁকি বাড়িয়েছে। বিশেষ করে শিশুরা বেশি ঝুঁকিতে থাকায় এটি চলমান মানবিক সংকটকে আরও গুরুতর করে তুলছে।",
-        "added_at_ts": 1795675705,
-        "expires_at_ts": 1795762105,
-        "batch_label": "12:48 PM BDT",
-        "batch_edition": 21,
-        "is_new": false
-      },
-      {
-        "title": "How Silicon Valley became central to Israel’s war on Palestinians",
-        "summary": "From surveillance systems to AI targeting, US tech giants are deeply embedded in Israel's war machine.",
-        "url": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2024-10-15T021535Z_123914133_RC2IKAA62WWQ_RTRMADP_3_USA-DEFENSE-ARMY-1784890221.jpg?resize=1920%2C1440",
-        "published_ts": 1795673573,
-        "published": "26 Nov, 12:12 PM",
-        "bn_summary": "সার্ভেইলেন্স সিস্টেম, ক্লাউড অবকাঠামো ও AI-ভিত্তিক টার্গেটিংয়ের মাধ্যমে সিলিকন ভ্যালির প্রযুক্তি কোম্পানিগুলো ইসরায়েলের সামরিক কার্যক্রমের সঙ্গে গভীরভাবে যুক্ত হয়েছে। এতে বেসরকারি প্রযুক্তি খাতের সরবরাহ করা সরঞ্জাম কীভাবে যুদ্ধ ও বেসামরিক ক্ষয়ক্ষতিতে ভূমিকা রাখে, সে বিষয়ে জবাবদিহির প্রশ্ন উঠছে।",
-        "added_at_ts": 1795675705,
-        "expires_at_ts": 1795762105,
-        "batch_label": "12:48 PM BDT",
-        "batch_edition": 21,
-        "is_new": false
-      },
-      {
-        "title": "Sri Lanka mass grave revives quest for answers to forgotten Muslim massacre",
-        "summary": "As Sri Lanka's Tamil separatists fought a deadly war with the army, they also killed hundreds of Muslims.",
-        "url": "https://www.aljazeera.com/news/2026/11/26/sri-lanka-mass-grave-revives-quest-for-answers-to-forgotten-muslim-massacre?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG-20261120-WA0001-1795612088.jpg?resize=1200%2C630",
-        "published_ts": 1795673452,
-        "published": "26 Nov, 12:10 PM",
-        "bn_summary": "শ্রীলঙ্কার একটি গণকবরের সন্ধান বহু বছর আগে তামিল বিদ্রোহীদের হাতে নিহত মুসলিমদের ঘটনার তদন্তের দাবি আবার সামনে এনেছে। এই ঘটনা গৃহযুদ্ধের কম আলোচিত অধ্যায় ও ভুক্তভোগী পরিবারগুলোর ন্যায়বিচার পাওয়ার প্রয়োজনীয়তা স্মরণ করিয়ে দিচ্ছে।",
-        "added_at_ts": 1795675705,
-        "expires_at_ts": 1795762105,
-        "batch_label": "12:48 PM BDT",
-        "batch_edition": 21,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "Gold Price Crash: Could the 2026 Sell-Off Trigger a Prolonged Recovery? - Coinpedia",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORzNOZHRpTThqME9Eek5IbUlFanZBQmhBVGRvcGU1N0tSNHhHemg5NWZ5SEhsZ0NyektJbHNMVTdIanJ3NnBya25uQWVIRGJfRWNfYTI4OUEtOFZvZkFGWnJvazJKWVliYjBxQTRTcF9nYlhLLWg1NTYzcWRHRjZ3SUFRSGpCMlhfVlVNaEY3dzZja3B1b24xb2xSSnZjOUdTLWhEMFdRZWM2S1HSAbABQVVfeXFMTm9PV09LLXNrZ0stQXJYcUVJRGk4WHBnZkNqOGczRHhTMFZPSWo5UUdWcjI5UEhpbm9GVWFXR2lYSWhPczhWWklZbzI5a1RvLXdKYk9MRnI2NlAtOUE4dUtxOVd2cUVnVHVtY0ZlZ2Q5MVNYMXZfRVJDNWU1dElKNUlWMXotV3RZbUNlY1VQMGRjWmlZUGdDYU9fdGpOa0kybnlJMUpSSFRQU09IODBidE0?oc=5",
+        "source": "Coinpedia",
+        "image": "",
+        "published_ts": 1795760448,
+        "published": "27 Nov, 12:20 PM",
+        "bn_summary": "স্বর্ণের দাম বড় ধসের পর ২০২৬ সালে বিক্রি চাপ দীর্ঘস্থায়ী পুনরুদ্ধার ঘটাতে পারে কিনা তা নিয়ে বিশ্লেষকরা প্রশ্ন তুলেছেন। বিনিয়োগকারীদের জন্য এটি গুরুত্বপূর্ণ কারণ সোনা নিরাপদ আশ্রয় হিসেবে তাদের পোর্টফোলিওতে প্রভাব ফেলে।",
+        "added_at_ts": 1795763305,
+        "expires_at_ts": 1795849705,
+        "batch_label": "01:08 PM BDT",
+        "batch_edition": 33,
+        "is_new": true
+      },
+      {
+        "title": "Is Mastercard Stock Outperforming the Nasdaq? - Barchart.com",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONzQyQTIwVEg0MzVleF8weHNDOTV3NXloZjJiaVJyeGVzSE51MzVmc2lQWGxCTTU3bjRKb0ZZa1BOZVVmZ1EwbGpZZHVrZG56NXhLY2cxekxDR0k3YzNTMkxjRFpjOUI0VjdVVkRYNmNlanhvZURhQVJUZGozRThrcDJYWWVtZzhMWXplUkpQNEI1dw?oc=5",
+        "source": "Barchart.com",
+        "image": "",
+        "published_ts": 1795759431,
+        "published": "27 Nov, 12:03 PM",
+        "bn_summary": "মাস্টারকার্ডের স্টক নাসডাকের তুলনায় ভালো পারফর্ম করছে কিনা তা নিয়ে বিশ্লেষণ প্রকাশিত হয়েছে। বিনিয়োগকারীদের জন্য এই তুলনা গুরুত্বপূর্ণ কারণ এটি স্টকের আপেক্ষিক শক্তি সম্পর্কে ধারণা দেয়।",
+        "added_at_ts": 1795763305,
+        "expires_at_ts": 1795849705,
+        "batch_label": "01:08 PM BDT",
+        "batch_edition": 33,
+        "is_new": true
+      },
+      {
+        "title": "Gold (XAU/USD) Price Forecast: Failed Breakout Leaves Bullish Reversal Unconfirmed - FXEmpire",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR3JVQnRQYTE2SEZGUTFCMHpqUGxvbTRwQnJheEJzbTRXQ25fUWxMVGdobTlodzNOaHFScmJWX2lvQWFNdXBzYktpUUhDdVdsNlpIeDhkc0MxME54MEVjYldxV2dWNFc1M1h4NHpwZDI3MVpMUE10dFlZNUl2WlB0aVpoUjhBUnZjc1Rfck9SdjZsUVpocGxiZmphclRQNWRMc3FuY2JxdnhMNTlfSV9lWk1rUFpMaDBxSG1neHdVeVdJV0hPVXBONXln?oc=5",
+        "source": "FXEmpire",
+        "image": "",
+        "published_ts": 1795759260,
+        "published": "27 Nov, 12:01 PM",
+        "bn_summary": "স্বর্ণের দাম প্রত্যাশিত ব্রেকআউট ব্যর্থ হওয়ায় বুলিশ রিভার্সাল নিশ্চিত হয়নি। ফলে স্বর্ণের বাজারের দিকনির্দেশনা নিয়ে অনিশ্চয়তা রয়েছে এবং বিনিয়োগকারীদের সতর্ক থাকতে হবে।",
+        "added_at_ts": 1795763305,
+        "expires_at_ts": 1795849705,
+        "batch_label": "01:08 PM BDT",
+        "batch_edition": 33,
+        "is_new": true
+      },
       {
         "title": "OANDA:XAUUSD Chart Image by Caeshuraemoctional - TradingView",
         "summary": "",
@@ -857,7 +887,7 @@
         "expires_at_ts": 1795842445,
         "batch_label": "11:07 AM BDT",
         "batch_edition": 32,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Is the Stock Market Open Today? Here Are the Trading Hours for Black Friday. - Barron's",
@@ -872,7 +902,7 @@
         "expires_at_ts": 1795842445,
         "batch_label": "11:07 AM BDT",
         "batch_edition": 32,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Is the stock market open on Black Friday? - MarketWatch",
@@ -887,7 +917,7 @@
         "expires_at_ts": 1795842445,
         "batch_label": "11:07 AM BDT",
         "batch_edition": 32,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Asian Stocks Rise for Second Day, Treasuries Slip: Markets Wrap - Bloomberg.com",
@@ -1338,54 +1368,24 @@
         "batch_label": "02:50 PM BDT",
         "batch_edition": 22,
         "is_new": false
-      },
-      {
-        "title": "Is the Stock Market Open Today? Here Are the Trading Hours for Thanksgiving. - Barron's",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzdFdXowaFJjRG1ROEE3WDZiZEtZYnJyQ0txNTVCczFPcldrVmpwUk5qUmFZTU5zV0FBbzhCYmlCYlVna2tQR1pScTJIUjFCTC0yZTZNVEladVoxRjNuQnYtUjlZU042djlBb2FyclFBTXZNRll1UEhyUnhRSWxZM1pCeHVqX3pSU3RrTjItTjdiOTdHMTdiTHJONDNkbFpjZ0w2b2tKMnNRajhLMFE?oc=5",
-        "source": "Barron's",
-        "image": "",
-        "published_ts": 1795669260,
-        "published": "26 Nov, 11:01 AM",
-        "bn_summary": "থ্যাঙ্কসগিভিং উপলক্ষে যুক্তরাষ্ট্রের শেয়ারবাজারের নিয়মিত ট্রেডিং সময়সূচিতে পরিবর্তন থাকে এবং বাজার বন্ধও থাকতে পারে। বিনিয়োগকারীদের অর্ডার দেওয়ার আগে এক্সচেঞ্জের ছুটির ক্যালেন্ডার ও সংশ্লিষ্ট সময় যাচাই করা গুরুত্বপূর্ণ।",
-        "added_at_ts": 1795675705,
-        "expires_at_ts": 1795762105,
-        "batch_label": "12:48 PM BDT",
-        "batch_edition": 21,
-        "is_new": false
-      },
-      {
-        "title": "Dow Jones Futures Rise After Nasdaq Slashes Losses In Wild Market Ride - Investor's Business Daily",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObC1aVl9wd1oxYktYZFRnZjVBMHFrS0ZPMVV3UzdacGU1SHh2clYzeTZXYTROc2ItcjhMVUFFZDlMUGkxUXg1TnNKcDRvdUZPVmo2OUduaTc4dHFqVE9BalVvRmJVWndMMWtvbHAtREJQQ294cDc3cFcxdF96OF9pY2dKWDBnLWN2M1AyeUtKLVhHUEp0Q20tSVJPM25ITXY4dFlfakdfMjE5RUJiMGRaZ3llUWZrRVlMZm5NVFcwWmhWdjFhX2YtckNpTTdsV0Nld3Vz?oc=5",
-        "source": "Investor's Business Daily",
-        "image": "",
-        "published_ts": 1795665960,
-        "published": "26 Nov, 10:06 AM",
-        "bn_summary": "অস্থির লেনদেনে Nasdaq-এর ক্ষতি কিছুটা কমার পর Dow Jones futures বেড়েছে, যা বাজারে সাময়িকভাবে ইতিবাচক মনোভাব ফিরেছে বলে ইঙ্গিত করছে। তবে এমন দ্রুত ওঠানামা বিনিয়োগকারীদের জন্য ঝুঁকি বজায় রাখে এবং futures-এর দিকনির্দেশনা দিনের চূড়ান্ত ফল নিশ্চিত করে না।",
-        "added_at_ts": 1795675705,
-        "expires_at_ts": 1795762105,
-        "batch_label": "12:48 PM BDT",
-        "batch_edition": 21,
-        "is_new": false
-      },
-      {
-        "title": "Gold price faces a key test as $4,000 breaks and weekly support beckons - investingLive",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOHNXNmFLNHM0dkNtZ0pwdGdBVFJrUExYemMwbjEwdVA5YXdLcGxkRUloR2d0aUJ2aWRzdlpkakhicjB5ZmprRGhGeTFhbkgtU2VQelNqVHJ5NGV3X3o2MDRabXlybjVsMGliOFFud2k2M0ZSb2RlZXUza2VhOGVjZFNoMEliX20xUVBhcGJFU0NMLXdQdzdUVklkLWt2RlNlY0EteC1uZy1lbG51Smc?oc=5",
-        "source": "investingLive",
-        "image": "",
-        "published_ts": 1795664144,
-        "published": "26 Nov, 09:35 AM",
-        "bn_summary": "সোনার দাম ৪,০০০ ডলারের গুরুত্বপূর্ণ স্তর ভাঙার পর সাপ্তাহিক সাপোর্টের দিকে তাকিয়ে আছে, ফলে বাজারে পরবর্তী বড় দিকনির্দেশনা নির্ধারণের পর্যায় চলছে। এই স্তর ধরে রাখতে পারলে পুনরুদ্ধারের সুযোগ তৈরি হতে পারে, আর সাপোর্ট ভাঙলে আরও পতনের আশঙ্কা বাড়বে।",
-        "added_at_ts": 1795675705,
-        "expires_at_ts": 1795762105,
-        "batch_label": "12:48 PM BDT",
-        "batch_edition": 21,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "KOSPI Index Jumps 4.4% as Samsung and SK Hynix Gain Nearly 5% - Coinpedia",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaThYZXM0ZnBteVZ2UURKT3RtQUJqNlVaQlRqbWNrdU80M3NjVG82SEVHVWoxNXNyejFOTzdCajNjZTFiYno2eHAtSTRpM3pxY1NUdno5SEJzeUtLN3VRMTY5bHNFWGpld2czaFVDRGdUSWtkY3pmMkRTTHhZcWJJSTNBVFVKSWUtOHNvQnRmS3RwbldrVFpFdEVRUFQwckR50gGmAUFVX3lxTE1pZzdGUkdydDBSMmJCYkg0bjlkSTVnT05OTmNpbURGN2RKMmhTTW91VXFKTmtNZmN3RTBRMTFqMVdvOUJva1NQR1k1d3BpX01iVUdtOHNTSXpZTVhSV1ZSV1ZNQ1ZvUkdkdTBZbEpxZERLd0xpSVVUM0NOZ0ZyVzhhWmNBMVo0VTJkbU5jVnpwNEVLcUxXazJKV0M2NEJFNnlISHJNenc?oc=5",
+        "source": "Coinpedia",
+        "image": "",
+        "published_ts": 1795759942,
+        "published": "27 Nov, 12:12 PM",
+        "bn_summary": "স্যামসাং এবং এসকে হাইনিসের প্রায় ৫% বেড়ে যাওয়ায় দক্ষিণ কোরিয়ার কোসপি সূচক ৪.৪% বেড়েছে। এই উত্থান সেমিকন্ডাক্টর খাতে ইতিবাচক মনোভাব প্রতিফলিত করে এবং প্রযুক্তি শেয়ার বাজারে প্রভাব ফেলে।",
+        "added_at_ts": 1795763305,
+        "expires_at_ts": 1795849705,
+        "batch_label": "01:08 PM BDT",
+        "batch_edition": 33,
+        "is_new": true
+      },
       {
         "title": "Micron (MU) Has Secured $32 Billion in Customer Commitments. Here’s Why That Matters - Yahoo Finance",
         "summary": "",
@@ -1399,7 +1399,7 @@
         "expires_at_ts": 1795842445,
         "batch_label": "11:07 AM BDT",
         "batch_edition": 32,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "6000MT/s Black Friday CORSAIR Vengeance DDR5 RAM deal drops price to its lowest in months as global shortages continue - PC Guide",
@@ -1414,7 +1414,7 @@
         "expires_at_ts": 1795842445,
         "batch_label": "11:07 AM BDT",
         "batch_edition": 32,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Semiconductor Stock Through 2030, This Would Be It. - The Motley Fool",
@@ -1819,36 +1819,6 @@
         "expires_at_ts": 1795769425,
         "batch_label": "02:50 PM BDT",
         "batch_edition": 22,
-        "is_new": false
-      },
-      {
-        "title": "RTX 5060 gaming PC with 16GB DDR5 RAM gets a decent Black Friday discount on Amazon - PC Guide",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSjRmdmFFTXZHem1xTkw0V0VDbUJQdVl2czltaHppNHJZdmNOU0I0ckFkdTRHVHBCU2I5T1dMZ0NIa25rRWlkeFRHNV9Ba0pYMS1zbV9xTmFxc0wxRWdyMUkyUlpxLThvX3R1TGVTaEV1cUk1VTJXM0JUdDFhT1d2UlJzYWJGM0Nnak5NeFVPTUgxd0RUQ2VVcHRwX3ByamR4Wl9BcUR3RXgta3JtdnAwMzNta2o?oc=5",
-        "source": "PC Guide",
-        "image": "",
-        "published_ts": 1795657876,
-        "published": "26 Nov, 07:51 AM",
-        "bn_summary": "Amazon-এ RTX 5060-সমৃদ্ধ একটি gaming PC-তে 16GB DDR5 RAMসহ Black Friday ছাড় দেওয়া হয়েছে। এতে তুলনামূলক কম দামে আধুনিক 1080p বা মাঝারি-উচ্চ সেটিংসের gaming setup পাওয়া যেতে পারে, তবে কেনার আগে CPU, storage ও upgrade options যাচাই করা দরকার।",
-        "added_at_ts": 1795675705,
-        "expires_at_ts": 1795762105,
-        "batch_label": "12:48 PM BDT",
-        "batch_edition": 21,
-        "is_new": false
-      },
-      {
-        "title": "Why Micron Stock Just Dropped Again - Yahoo Finance",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkpQcm91R3l5eFo3OVEtQ2lXN2I2WmVhZmFFZ0hvN2RTZ2hWd1dwNDRveEEtQzBFV1hCLWZiUE1JNklNeVNIRUUwbTdvUklvNlNyWkFGT2VQSG5ia2k5QjNGeG5lQWJGdjVMRUZiQ1h6UE91OURpVUR6bDFUNjZ3SnVvNXp4M1Q4dzFjZmU3Yno2WkZzamd4aVl3?oc=5",
-        "source": "Yahoo Finance",
-        "image": "",
-        "published_ts": 1795622058,
-        "published": "25 Nov, 09:54 PM",
-        "bn_summary": "Micron-এর শেয়ারের দাম আবার কমেছে, যা মেমরি চিপের চাহিদা, মূল্যচক্র বা কোম্পানির ভবিষ্যৎ আয় নিয়ে বিনিয়োগকারীদের উদ্বেগের প্রতিফলন হতে পারে। Micron-এর মতো সেমিকন্ডাক্টর কোম্পানির ক্ষেত্রে বাজারের প্রত্যাশা ও চিপের দামের পরিবর্তন শেয়ারে দ্রুত প্রভাব ফেলে।",
-        "added_at_ts": 1795675705,
-        "expires_at_ts": 1795762105,
-        "batch_label": "12:48 PM BDT",
-        "batch_edition": 21,
         "is_new": false
       }
     ]
