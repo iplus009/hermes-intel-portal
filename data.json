@@ -1,68 +1,83 @@
 {
-  "edition": 37,
-  "updated_ts": 1795792525,
-  "updated_dhaka": "27 Nov 2026, 09:15 PM (BDT)",
-  "updated_utc": "2026-11-27 15:15 UTC",
-  "batch_label": "09:15 PM BDT",
-  "new_added": 14,
-  "expired_removed": 12,
-  "curated_by": "dahl (deepseek-ai/DeepSeek-V4-Flash-0731)",
+  "edition": 38,
+  "updated_ts": 1795799845,
+  "updated_dhaka": "27 Nov 2026, 11:17 PM (BDT)",
+  "updated_utc": "2026-11-27 17:17 UTC",
+  "batch_label": "11:17 PM BDT",
+  "new_added": 15,
+  "expired_removed": 10,
+  "curated_by": "codex-relay (gpt-5.6-luna)",
   "advice": {
-    "title": "সোনার উত্থান, NVDA-র ডিপ — আজকের কৌশল",
-    "body": "সোনা ৩.৫% বেড়েছে, অন্যদিকে NVDA ৫.৫% পড়েছে — তাই লাভ বুক করুন এবং ডিপে ছোট পজিশন নিন। GitHub-এ নতুন AI রিপোজিটরি আর ফ্রি API/ভিপিএস দিয়ে আজই সাইড প্রজেক্ট শুরু করুন; Black Friday-এ RAM/SSD ডিল থাকলে আপগ্রেড করে নিন। বিশ্ব সংঘাত আর দুর্ভিক্ষের খবরে মার্কেট অস্থির, তাই স্টপ-লস ব্যবহার করতে ভুলবেন না।",
-    "tag": "Market & Gold"
+    "title": "AI Build, Risk কমাও আজ",
+    "body": "AI distillation ও GitHub-এর safe-anything/agent-sim দেখে ছোট ওপেন-সোর্স prototype বানান; free API দিয়ে শুরু করলেও production-এর আগে limits, privacy ও VPS fallback যাচাই করুন। Gold 3.48% এবং S&P/NASDAQ ঊর্ধ্বমুখী হলেও NVDA 4.15% নেমেছে, তাই একসঙ্গে all-in না হয়ে ধাপে বিনিয়োগ করুন; RAM-সংশ্লিষ্ট Micron 1.52% উঠলেও hardware কেনায় Black Friday deal ও ভবিষ্যৎ দাম বিবেচনা করুন।",
+    "tag": "AI & Dev"
   },
   "quote": {
-    "text_bn": "আমরা সবাই বড় কাজ করতে পারি না, কিন্তু ছোট কাজগুলো করতে পারি মহান ভালোবাসার সাথে।",
-    "author": "মাদার তেরেসা",
-    "note_bn": "আজকের বাজারে ছোট ছোট পদক্ষেপই বড় ফল দিতে পারে — একটি ট্রেড বা প্রজেক্টে সব ঝুঁকি নেবেন না।"
+    "text_bn": "আমি ধীরে হাঁটি, কিন্তু কখনো পিছনে হাঁটি না।",
+    "author": "আব্রাহাম লিংকন",
+    "note_bn": "আজ দ্রুত লাভের বদলে ছোট, ধারাবাহিক অগ্রগতি ও ঝুঁকি-নিয়ন্ত্রিত সিদ্ধান্ত নিন।"
   },
   "markets": [
     {
       "symbol": "GC=F",
       "label": "Gold (XAU)",
-      "price": "$3,659.80",
-      "change_pct": 3.51,
+      "price": "$3,658.80",
+      "change_pct": 3.48,
       "up": true
     },
     {
       "symbol": "^GSPC",
       "label": "S&P 500",
-      "price": "7,239.69",
-      "change_pct": 0.54,
+      "price": "7,277.43",
+      "change_pct": 1.06,
       "up": true
     },
     {
       "symbol": "^IXIC",
       "label": "NASDAQ",
-      "price": "23,826.48",
-      "change_pct": 0.39,
+      "price": "24,009.34",
+      "change_pct": 1.16,
       "up": true
     },
     {
       "symbol": "NVDA",
       "label": "NVIDIA",
-      "price": "$146.87",
-      "change_pct": -5.48,
+      "price": "$148.94",
+      "change_pct": -4.15,
       "up": false
     },
     {
       "symbol": "MU",
       "label": "Micron (RAM)",
-      "price": "$624.15",
-      "change_pct": -0.9,
-      "up": false
+      "price": "$639.35",
+      "change_pct": 1.52,
+      "up": true
     },
     {
       "symbol": "BTC-USD",
       "label": "Bitcoin",
-      "price": "$59,648.59",
-      "change_pct": -1.4,
+      "price": "$59,873.85",
+      "change_pct": -1.03,
       "up": false
     }
   ],
   "categories": {
     "ai": [
+      {
+        "title": "Distillation is good and healthy in AI. It's one of the few things limiting extreme concentration of power, capabilities and wealth (and very similar to how AI companies got succes",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzQ1RmamMxT0VXRGl4S2lTV0VJam5CdmFBNFRSOGJCeUFYdE9rUy03WGRRWnEzdGYtbGtkR2xSTk1YWHNKQk5CdmZITldFa2VIb3R2R2psUGIxQ2llaFVRMkxUWTZjNkU?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795789684,
+        "published": "27 Nov, 08:28 PM",
+        "bn_summary": "AI distillation mane boro model theke choto model shikhe, ja compute kharcha komano o AI prochar kora sohoj kore. Ete powerful AI ekta choto group er hat e kenritro thakbe na, tai projukti khate pratiyogita thake.",
+        "added_at_ts": 1795799845,
+        "expires_at_ts": 1795886245,
+        "batch_label": "11:17 PM BDT",
+        "batch_edition": 38,
+        "is_new": true
+      },
       {
         "title": "Researchers Accuse Anthropic's Claude of Sabotaging AI Work - X",
         "summary": "",
@@ -76,7 +91,7 @@
         "expires_at_ts": 1795878925,
         "batch_label": "09:15 PM BDT",
         "batch_edition": 37,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Apologies if I offended people with my AI generated post. It was sent to me by a friend and it made me smile. For the haters out there the message remains the same - I wish you a H",
@@ -91,7 +106,7 @@
         "expires_at_ts": 1795878925,
         "batch_label": "09:15 PM BDT",
         "batch_edition": 37,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports https://t.co/lTHuvRFdwr - X",
@@ -152,24 +167,60 @@
         "batch_label": "03:00 AM BDT",
         "batch_edition": 28,
         "is_new": false
-      },
-      {
-        "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
-        "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-        "source": "TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5.jpg?resize=1200,675",
-        "published_ts": 1795708800,
-        "published": "26 Nov, 10:00 PM",
-        "bn_summary": "আনথ্রপিকের আইপিও এবং GTA VI-এর সাফল্য একই দিনে এসেছে, যা দেখায় যে মানুষের সৃজনশীলতা এখনও প্রযুক্তির চেয়ে বড় বাণিজ্যিক শক্তি। এটা গুরুত্বপূর্ণ কারণ AI-এর দক্ষতা যতই বাড়ুক, বিনোদন ও মানবিক অভিজ্ঞতার প্রতি মানুষের আগ্রহ এখনও অপরিসীম।",
-        "added_at_ts": 1795712185,
-        "expires_at_ts": 1795798585,
-        "batch_label": "10:56 PM BDT",
-        "batch_edition": 26,
-        "is_new": false
       }
     ],
     "github": [
+      {
+        "title": "erkamyaman/safe-anything",
+        "summary": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+        "url": "https://github.com/erkamyaman/safe-anything",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/erkamyaman/safe-anything",
+        "stars": 818,
+        "language": "Rust",
+        "published_ts": 1795365850,
+        "published": "2026-11-22",
+        "bn_summary": "safe-anything ekta 100% Rust e lekha vulnerability scanner, ja XSS, SQL injection, leaked secrets, dependency CVEs o AI agent setups khuje ber kore. Eti developer der jonno important karon Rust er speed o safety diye security hole gulo agei dhora jay, boro damage howar age.",
+        "added_at_ts": 1795799845,
+        "expires_at_ts": 1795886245,
+        "batch_label": "11:17 PM BDT",
+        "batch_edition": 38,
+        "is_new": true
+      },
+      {
+        "title": "Developing-Gamer/agent-sim",
+        "summary": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
+        "url": "https://github.com/Developing-Gamer/agent-sim",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/Developing-Gamer/agent-sim",
+        "stars": 624,
+        "language": "Rust",
+        "published_ts": 1795292772,
+        "published": "2026-11-21",
+        "bn_summary": "agent-sim Linux e AI agent der jonno iOS simulator chalay, ja x86Sim er agent layer hisebe kaj kore. Eti Mac hardware charai iOS-style environment e AI agent test korar opportunity dey, tai cross-platform development e besh upokari.",
+        "added_at_ts": 1795799845,
+        "expires_at_ts": 1795886245,
+        "batch_label": "11:17 PM BDT",
+        "batch_edition": 38,
+        "is_new": true
+      },
+      {
+        "title": "praseesh369/youtube-ai-video-editing-system",
+        "summary": "Storyboard, capture, and animate: an AI editing workflow for YouTube",
+        "url": "https://github.com/praseesh369/youtube-ai-video-editing-system",
+        "source": "GitHub",
+        "image": "https://opengraph.githubassets.com/1/praseesh369/youtube-ai-video-editing-system",
+        "stars": 338,
+        "language": "HTML",
+        "published_ts": 1795281677,
+        "published": "2026-11-21",
+        "bn_summary": "youtube-ai-video-editing-system ekta AI-based workflow, ja storyboard, capture, o animate kore YouTube video editing automate kore. Eti content creator der jonno time bachay, karon editing er kothin kaj gulo AI diye easy o fast kore dey.",
+        "added_at_ts": 1795799845,
+        "expires_at_ts": 1795886245,
+        "batch_label": "11:17 PM BDT",
+        "batch_edition": 38,
+        "is_new": true
+      },
       {
         "title": "nair39/dialpad",
         "summary": "Dialpad for Windows 10/11. Calls, messages and meets with your team and customers from one app, with AI transcripts, call routing and voicemail so you can follow up without switching tools.",
@@ -185,7 +236,7 @@
         "expires_at_ts": 1795878925,
         "batch_label": "09:15 PM BDT",
         "batch_edition": 37,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "marilyncardoso/suno-ai",
@@ -202,7 +253,7 @@
         "expires_at_ts": 1795878925,
         "batch_label": "09:15 PM BDT",
         "batch_edition": 37,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "claudiafeng55/izotope-ozone-11",
@@ -219,7 +270,7 @@
         "expires_at_ts": 1795878925,
         "batch_label": "09:15 PM BDT",
         "batch_edition": 37,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "hannahgoel/playground-ai",
@@ -309,6 +360,36 @@
     ],
     "free_deals": [
       {
+        "title": "Maybe a dumb question, BUT... is relying on free API endpoints for serious coding just procrastination for buying a GPU? Or is it the future? - X",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SZC1wbXpQODZKcmZqNjJoRDNxNDRwbFV3SUtBZk5VeHlCQ2lGYUpNUWxRcTBEMk5fbG9ya3hzUW1jVU9NTzFfZEZHcHlrUE4xcnNpWkIwQ2JzUjJBUVI0YjN3?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795766878,
+        "published": "27 Nov, 02:07 PM",
+        "bn_summary": "Free API endpoint use kore serious coding korar somossa GPU kinar theke better ki na, seta niye ekhon developer ra dilemmay ache. Eti important karon free API te limit thakle boro project e problem hote pare, kintu GPU kinte hole taka o maintenance lagbe.",
+        "added_at_ts": 1795799845,
+        "expires_at_ts": 1795886245,
+        "batch_label": "11:17 PM BDT",
+        "batch_edition": 38,
+        "is_new": true
+      },
+      {
+        "title": "the craziest part is how it handles the underlines. Grammarly injects code directly into every page you visit which is why it breaks sites constantly. this extension builds an invi",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Pbm9wTHVMYnM1WDlFWWZnc2c5UGlnUmVlSG9zeHZKTVE2SUpvU0FBTWV6UklBM3ZNNTE4TVFwVjNrdzc2bmEzenNnNjFCUGlHNGFEOWJ3bVJiSzFPV0VR?oc=5",
+        "source": "X",
+        "image": "",
+        "published_ts": 1795635500,
+        "published": "26 Nov, 01:38 AM",
+        "bn_summary": "Grammarly er browser extension protita page e code inject kore, jeta website gulo break korte pare. Eti user der jonno frustrating, karon Grammarly on thakle kichu website thik moto kaj kore na, tai extension er design niye prashna utheche.",
+        "added_at_ts": 1795799845,
+        "expires_at_ts": 1795886245,
+        "batch_label": "11:17 PM BDT",
+        "batch_edition": 38,
+        "is_new": true
+      },
+      {
         "title": "Kimi is offering free API credits, access to its latest models, and long-term collaboration opportunities to support scientific research worldwide. 7B worth of token is huge. - X",
         "summary": "",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53ZV9KMWxYQmc0aXZUU2lKUWlvU3lybzNJX29pTm81UE5JdldidmY2d1lJNVByT21EUHp5V0xXczBYT0RBRFBTUTYzMTRZaUhTZ2VucWdrWTNYT0FGTUE4cktTaFlFZw?oc=5",
@@ -356,6 +437,51 @@
     ],
     "war": [
       {
+        "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
+        "summary": "Yashar party chief says Likud wants to drag Israel into another election under the outgoing government.",
+        "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8KZ93E__v1__HighRes__IsraelPoliticsParliament-1795794655.jpg?resize=1920%2C1440",
+        "published_ts": 1795797201,
+        "published": "27 Nov, 10:33 PM",
+        "bn_summary": "Israel er Yashar party chief Eisenkot mone korchen Netanyahu r Likud party coalition talks e jantra korteche, jate arekta election hote pare. Eti Israeli politics e onishchoyota baray, karon sthir coalition na hole government cholte parbe na.",
+        "added_at_ts": 1795799845,
+        "expires_at_ts": 1795886245,
+        "batch_label": "11:17 PM BDT",
+        "batch_edition": 38,
+        "is_new": true
+      },
+      {
+        "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
+        "summary": "Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.",
+        "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09a50c-1795794188.jpg?resize=1920%2C1440",
+        "published_ts": 1795795987,
+        "published": "27 Nov, 10:13 PM",
+        "bn_summary": "Trump Iraq er PM er oil smuggling biruddhe crackdown e somorthon diyechen, ar Baghdad border crossings bondho koreche. Eti Kurdish authorities ra constitutional violation hisebe dekhchen, tai Iraq er federal o regional sorkarer moddhe tension barche.",
+        "added_at_ts": 1795799845,
+        "expires_at_ts": 1795886245,
+        "batch_label": "11:17 PM BDT",
+        "batch_edition": 38,
+        "is_new": true
+      },
+      {
+        "title": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
+        "summary": "As Gaza remains under Israeli bombardment, US envoy Jared Kushner calls its reconstruction a ‘huge act of kindness'.",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795795296.jpg?resize=1920%2C1080&quality=80",
+        "published_ts": 1795795304,
+        "published": "27 Nov, 10:01 PM",
+        "bn_summary": "Gaza te Israeli bombardment cholche, ar ei somoy e Jared Kushner Gaza reconstruction ke 'huge act of kindness' bolechen. Eti atyanta controversial, karon yudhher modhye reconstruction er kotha bola loker kache chhobir moto lage, ar ei moktob ta Gaza r manushder jonno kosto dayak.",
+        "added_at_ts": 1795799845,
+        "expires_at_ts": 1795886245,
+        "batch_label": "11:17 PM BDT",
+        "batch_edition": 38,
+        "is_new": true
+      },
+      {
         "title": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
         "summary": "Costa Rica is under pressure over its decision to bar the UN expert who has documented Israel's genocidal war on Gaza.",
         "url": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss",
@@ -368,7 +494,7 @@
         "expires_at_ts": 1795878925,
         "batch_label": "09:15 PM BDT",
         "batch_edition": 37,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Famine expect to rise due to global conflict, El Nino, warns UN",
@@ -383,7 +509,7 @@
         "expires_at_ts": 1795878925,
         "batch_label": "09:15 PM BDT",
         "batch_edition": 37,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
@@ -398,7 +524,7 @@
         "expires_at_ts": 1795878925,
         "batch_label": "09:15 PM BDT",
         "batch_edition": 37,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
@@ -849,54 +975,54 @@
         "batch_label": "12:58 AM BDT",
         "batch_edition": 27,
         "is_new": false
-      },
-      {
-        "title": "Italy says two citizens killed in Iranian strike in Kuwait",
-        "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-        "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
-        "published_ts": 1795711170,
-        "published": "26 Nov, 10:39 PM",
-        "bn_summary": "ইতালির পররাষ্ট্র মন্ত্রণালয় জানিয়েছে, কুয়েতে ইরানের হামলায় দুই ইতালীয় নাগরিক নিহত হয়েছেন, তারা জার্মান কোম্পানি Rheinmetall-এর টেকনিশিয়ান ছিলেন। এই ঘটনা মধ্যপ্রাচ্যের সংঘাত আরও বিস্তৃত হচ্ছে এবং ইউরোপীয় নাগরিকরাও ঝুঁকিতে পড়ছে বলে ইঙ্গিত দেয়।",
-        "added_at_ts": 1795712185,
-        "expires_at_ts": 1795798585,
-        "batch_label": "10:56 PM BDT",
-        "batch_edition": 26,
-        "is_new": false
-      },
-      {
-        "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
-        "summary": "The Italians were technicians working at an air-defence surveillance station.",
-        "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0855ffcdbc7-1795708415.jpg?resize=1920%2C1440",
-        "published_ts": 1795710751,
-        "published": "26 Nov, 10:32 PM",
-        "bn_summary": "আল জাজিরার খবর অনুযায়ী, কুয়েতে ড্রোন হামলার ধ্বংসাবশেষে দুই ইতালীয় নিহত হয়েছেন, তারা একটি বিমান প্রতিরক্ষা নজরদারি স্টেশনে কাজ করছিলেন। এটি গুরুত্বপূর্ণ কারণ এই হামলা আঞ্চলিক যুদ্ধের প্রভাব সরাসরি অন্য দেশের নাগরিকদের ওপর পড়তে পারে।",
-        "added_at_ts": 1795712185,
-        "expires_at_ts": 1795798585,
-        "batch_label": "10:56 PM BDT",
-        "batch_edition": 26,
-        "is_new": false
-      },
-      {
-        "title": "Two dead after Iranian drone attack on Kuwait",
-        "summary": "Kuwait’s army says two Italian workers were killed and four others were injured in an Iranian drone attack.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795708465.jpg?resize=1920%2C1080&quality=80",
-        "published_ts": 1795708515,
-        "published": "26 Nov, 09:55 PM",
-        "bn_summary": "কুয়েতের সেনাবাহিনী বলেছে, ইরানের ড্রোন হামলায় দুই ইতালীয় কর্মী নিহত এবং চারজন আহত হয়েছেন। এই ঘটনা ইরান-কুয়েত সম্পর্কের অবনতি এবং উপসাগরীয় অঞ্চলে নিরাপত্তা ঝুঁকি বাড়িয়ে তুলতে পারে।",
-        "added_at_ts": 1795712185,
-        "expires_at_ts": 1795798585,
-        "batch_label": "10:56 PM BDT",
-        "batch_edition": 26,
-        "is_new": false
       }
     ],
     "stocks_gold": [
+      {
+        "title": "‘I look spectacular in this’: Kevin O’Leary wore a $2M Michael Jordan card on a Tiffany chain to prove alternative assets are beating the S&P 500 - MoneyWise.com",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUQtd2piVVBOX1FEcHlpLW04ZlZWMVhHaTF1RlBFWmpxUzVPLUtuTmF0cFItYlE2VWw2cV91NXBRMTFOY0VfbHdlaTVNMjJzVDhPMFhBN3VRMGFyVXdWUnJRbDNJTHNZSVpDYnhmVzdPTEJ0MXR2a1Y1alRwdHY3dEJhUW56dUhaWklJOEFWcDVaVDhIZFFlNW4yTTNXeHhC?oc=5",
+        "source": "MoneyWise.com",
+        "image": "",
+        "published_ts": 1795798335,
+        "published": "27 Nov, 10:52 PM",
+        "bn_summary": "Kevin O'Leary ekta $2 million dollar er Michael Jordan trading card Tiffany chain e pore alternative assets er jonno argument korchen. Eti dekhabe je collectibles o boro investment hote pare, kintu etar risk o liquidity problem ache, tai investor der satarkote thaka uchit.",
+        "added_at_ts": 1795799845,
+        "expires_at_ts": 1795886245,
+        "batch_label": "11:17 PM BDT",
+        "batch_edition": 38,
+        "is_new": true
+      },
+      {
+        "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history - Yahoo Finance UK",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc?oc=5",
+        "source": "Yahoo Finance UK",
+        "image": "",
+        "published_ts": 1795792966,
+        "published": "27 Nov, 09:22 PM",
+        "bn_summary": "এটি NVIDIA-এর শেয়ারের দাম, খবর, কোট এবং ইতিহাস দেখানোর একটি পেজ, যা বিনিয়োগকারীদের জন্য গুরুত্বপূর্ণ কারণ তারা এখানে কোম্পানির পারফরম্যান্স ট্র্যাক করতে পারে। বর্তমান বাজারে AI-চালিত চিপের চাহিদা থাকায় NVDA-র দামের ওঠানামা শেয়ারবাজারে বড় প্রভাব ফেলতে পারে।",
+        "added_at_ts": 1795799845,
+        "expires_at_ts": 1795886245,
+        "batch_label": "11:17 PM BDT",
+        "batch_edition": 38,
+        "is_new": true
+      },
+      {
+        "title": "Gold Price Today: XAU/USD Nears $3,700 as AI Fears Ease - Mitrade",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWhPWTR6ZURzWTBlaHZ0RlJiemVkMHRXQldjWlpSaVZ1S1duejFUV3JtYUpxeDg5RHF4LXBTVXZzX29YSC01SmNHbnVsVWs3SkxacnVxdzVsdUVscDlmb052UHBaenFuYklRY1JUd0hqOUxyMDFndE4tZjZGbnlTT0ZmcndieDNybHFVM3E1XzI?oc=5",
+        "source": "Mitrade",
+        "image": "",
+        "published_ts": 1795775268,
+        "published": "27 Nov, 04:27 PM",
+        "bn_summary": "সোনার দাম প্রায় $3,700-এ পৌঁছেছে, কারণ AI নিয়ে উদ্বেগ কমে যাওয়ায় বিনিয়োগকারীরা আবারও ঝুঁকিপূর্ণ সম্পদে ফিরছেন। এই দাম বৃদ্ধি বোঝায় যে বাজারের আত্মবিশ্বাস বাড়ছে, যা সোনার মতো নিরাপদ বিনিয়োগের চাহিদাকে প্রভাবিত করছে।",
+        "added_at_ts": 1795799845,
+        "expires_at_ts": 1795886245,
+        "batch_label": "11:17 PM BDT",
+        "batch_edition": 38,
+        "is_new": true
+      },
       {
         "title": "Gold Price Forecast: Fed Rate Hike Bets Threaten the Latest Rebound - FXEmpire",
         "summary": "",
@@ -910,7 +1036,7 @@
         "expires_at_ts": 1795878925,
         "batch_label": "09:15 PM BDT",
         "batch_edition": 37,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Fire Sale: Here's Why Now May Be the Perfect Time to Buy Nvidia Stock - The Motley Fool",
@@ -925,7 +1051,7 @@
         "expires_at_ts": 1795878925,
         "batch_label": "09:15 PM BDT",
         "batch_edition": 37,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Gold price forecast: Can the rebound gain traction? - FXStreet",
@@ -940,7 +1066,7 @@
         "expires_at_ts": 1795878925,
         "batch_label": "09:15 PM BDT",
         "batch_edition": 37,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
@@ -1391,54 +1517,54 @@
         "batch_label": "12:58 AM BDT",
         "batch_edition": 27,
         "is_new": false
-      },
-      {
-        "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
-        "summary": "ETF Action founding partner Mike Akins and GraniteShares CEO Will Rhind react to Nvidia's sharp losses and latest comeback.",
-        "url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
-        "source": "CNBC",
-        "image": "https://image.cnbcfm.com/api/v1/image/108557772-1795464253141-gettyimages-2306068172-NVIDIA_HQ.jpeg?v=1795464293&w=1920&h=1080",
-        "published_ts": 1795708801,
-        "published": "26 Nov, 10:00 PM",
-        "bn_summary": "এনভিডিয়ার শেয়ারের তীব্র ওঠানামা সিঙ্গেল-স্টক ETF-এর ঝুঁকি আবার সামনে এনেছে, বিশেষজ্ঞরা বলছেন এই ধরনের বিনিয়োগ অত্যন্ত উদ্বায়ী। এটি গুরুত্বপূর্ণ কারণ বিনিয়োগকারীরা লিভারেজড প্রোডাক্টে বড় ক্ষতির সম্মুখীন হতে পারেন।",
-        "added_at_ts": 1795712185,
-        "expires_at_ts": 1795798585,
-        "batch_label": "10:56 PM BDT",
-        "batch_edition": 26,
-        "is_new": false
-      },
-      {
-        "title": "Gold price at $3,550: Could the sell-off resume? - IG Bank",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONkphRFJiSzd3cFFsZHk1TVBqZG90NDZvdnE5U3loZWdMLUFMRXlmdTh0U2w2bjlKLXYzdnZuTWU0TFU0eWFCUDhHMEFjMFZENkVudmZpcnhCTzEyVG5aQXNqeng2YUpSbzZsZktkUDJHY2d2cUxyUW5WNHBYUFpWblRpVlVsUkJKVUZPUjNGRW1ycmxBRXc?oc=5",
-        "source": "IG Bank",
-        "image": "",
-        "published_ts": 1795707212,
-        "published": "26 Nov, 09:33 PM",
-        "bn_summary": "সোনার দাম বর্তমানে ৩,৫৫০ ডলারে আছে, কিন্তু আইজি ব্যাংক প্রশ্ন তুলেছে বিক্রির চাপ আবার আসতে পারে কি না। বিনিয়োগকারীদের জন্য এটি গুরুত্বপূর্ণ কারণ সোনার দিকনির্দেশনা তাদের পোর্টফোলিও সিদ্ধান্তকে প্রভাবিত করবে।",
-        "added_at_ts": 1795712185,
-        "expires_at_ts": 1795798585,
-        "batch_label": "10:56 PM BDT",
-        "batch_edition": 26,
-        "is_new": false
-      },
-      {
-        "title": "XAUUSD 15m: Reading Signal Candles, Structure Zones & Retracemen for OANDA:XAUUSD by Niko-picasso369 - TradingView",
-        "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSk9TekdXNF8wNWZGWEhhSk4zNWxZNjV1ZWVkOXZzaEYzUjBtZDBaMFN6RV81WkZqeGpLZFdxOWVpOC00WnNuUW1TeWNEVzd0RGppR29PSTlGb093d3ppSGFwb2hBUjE0WER0cFYtcU9YT3YxRkRRTmxGWmdSMTVZV0NOVVVuZ3cyOHVadU5DREJQa19qaWg3eG53eTJRWE4xX1kyTUhoczREcFlVRHZJMA?oc=5",
-        "source": "TradingView",
-        "image": "",
-        "published_ts": 1795707141,
-        "published": "26 Nov, 09:32 PM",
-        "bn_summary": "XAUUSD-এর ১৫ মিনিটের চার্টে সিগন্যাল ক্যান্ডেল, স্ট্রাকচার জোন এবং রিট্রেসমেন্ট বিশ্লেষণ করে ট্রেডিং সেটআপ বোঝানো হয়েছে। এটি ট্রেডারদের জন্য গুরুত্বপূর্ণ কারণ স্বল্পমেয়াদী এন্ট্রি ও এক্সিট পয়েন্ট নির্ধারণে এই টেকনিক্যাল সংকেত কাজে লাগে।",
-        "added_at_ts": 1795712185,
-        "expires_at_ts": 1795798585,
-        "batch_label": "10:56 PM BDT",
-        "batch_edition": 26,
-        "is_new": false
       }
     ],
     "ram_hardware": [
+      {
+        "title": "China’s AI hardware push is moving beyond GPUs to the PCBs underneath them — Beijing races to corner the market on copper foil and micro-drill bits as board complexity explodes",
+        "summary": "AI hardware bottlenecks are expanding beyond GPUs to the PCBs underneath them. As AI servers like Rubin Ultra push PCB layers toward 78 layers using denser laminates, drill bits are wearing out 10 times faster than normal, while high-speed signalling stretches",
+        "url": "https://www.tomshardware.com/tech-industry/manufacturing/chinas-ai-hardware-push-is-moving-beyond-gpus-to-the-pcbs-underneath-them-beijing-races-to-corner-the-market-on-copper-foil-and-micro-drill-bits-as-board-complexity-explodes",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/moKeCrUTNupN5AMgroQTtg-1920-80.jpg",
+        "published_ts": 1795798800,
+        "published": "27 Nov, 11:00 PM",
+        "bn_summary": "চীন এখন শুধু GPU নয়, তার নিচের PCB এবং কপার ফয়েলের মতো উপকরণেও AI হার্ডওয়্যারের দৌড়ে এগিয়ে যাচ্ছে। কারণ AI সার্ভারের জন্য আরও ঘন লেয়ারযুক্ত PCB দরকার, তাই এই উপকরণের বাজারে আধিপত্য ভবিষ্যতে AI সরঞ্জাম তৈরিতে কৌশলগত সুবিধা দেবে।",
+        "added_at_ts": 1795799845,
+        "expires_at_ts": 1795886245,
+        "batch_label": "11:17 PM BDT",
+        "batch_edition": 38,
+        "is_new": true
+      },
+      {
+        "title": "This $619 PowerColor Radeon RX 9070 GRE is the cheapest around this Black Friday",
+        "summary": "PowerColor's Radeon RX 9070 GRE is just $619 at Amazon this Black Friday — a rare midrange gaming GPU deal in today's tough market.",
+        "url": "https://www.tomshardware.com/pc-components/gpus/this-usd619-powercolor-radeon-rx-9070-gre-is-the-cheapest-around-this-black-friday-grab-a-great-1080p-or-1440p-gaming-upgrade-for-a-great-price",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/TEjDjaSBNGN5SUqtCharqj-1920-80.jpg",
+        "published_ts": 1795797692,
+        "published": "27 Nov, 10:41 PM",
+        "bn_summary": "PowerColor-এর Radeon RX 9070 GRE গ্রাফিক্স কার্ডটি এই ব্ল্যাক ফ্রাইডেতে $619-এ পাওয়া যাচ্ছে, যা বর্তমান বাজারে একটি বিরল মিডরেঞ্জ ডিল। দাম কম হওয়ায় গেমাররা উচ্চ পারফরম্যান্সের কার্ডটি সাশ্রয়ী মূল্যে কেনার সুযোগ পাচ্ছে।",
+        "added_at_ts": 1795799845,
+        "expires_at_ts": 1795886245,
+        "batch_label": "11:17 PM BDT",
+        "batch_edition": 38,
+        "is_new": true
+      },
+      {
+        "title": "These are the best gaming laptop deals we've found this Black Friday to suit all budgets",
+        "summary": "Looking to grab yourself a gaming laptop this Black Friday? These are the best deals that we've found so far, and you can net up to $1200 off MSRP on a range of systems across all reasonable budgets.",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/these-are-the-best-gaming-laptop-deals-weve-found-this-black-friday-to-suit-all-budgets-save-up-to-usd1-200-off-a-range-of-portable-powerhouses",
+        "source": "Tom's Hardware",
+        "image": "https://cdn.mos.cms.futurecdn.net/2N7iLpxPsE729MbuLM6ASe-1920-80.jpg",
+        "published_ts": 1795795927,
+        "published": "27 Nov, 10:12 PM",
+        "bn_summary": "এই ব্ল্যাক ফ্রাইডেতে বিভিন্ন বাজেটের জন্য সেরা গেমিং ল্যাপটপ ডিল পাওয়া যাচ্ছে, যেখানে MSRP থেকে $1200 পর্যন্ত ছাড় মিলছে। যারা নতুন গেমিং ল্যাপটপ কিনতে চান, তাদের জন্য এটি বড় সাশ্রয়ের সুযোগ, কারণ দাম কম থাকায় উচ্চমানের স্পেসিফিকেশনও সহজলভ্য হচ্ছে।",
+        "added_at_ts": 1795799845,
+        "expires_at_ts": 1795886245,
+        "batch_label": "11:17 PM BDT",
+        "batch_edition": 38,
+        "is_new": true
+      },
       {
         "title": "Best Black Friday Gaming laptop deals live",
         "summary": "Black Friday is the perfect time to grab a new laptop, and the savings have started.",
@@ -1452,7 +1578,7 @@
         "expires_at_ts": 1795878925,
         "batch_label": "09:15 PM BDT",
         "batch_edition": 37,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Beijing’s AI ambitions are under threat as models may fall behind by up to nine months versus competitors — Chinese AI labs are under heavy fire from export controls, maturing chip",
@@ -1467,7 +1593,7 @@
         "expires_at_ts": 1795878925,
         "batch_label": "09:15 PM BDT",
         "batch_edition": 37,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "Best Black Friday SSD deals 2026",
@@ -1482,7 +1608,7 @@
         "expires_at_ts": 1795878925,
         "batch_label": "09:15 PM BDT",
         "batch_edition": 37,
-        "is_new": true
+        "is_new": false
       },
       {
         "title": "The Swiss Army knife of USB docking DVD drives is on sale, also available with a built-in M.2 SSD slot or SATA hard drive dock",
@@ -1842,51 +1968,6 @@
         "expires_at_ts": 1795805905,
         "batch_label": "12:58 AM BDT",
         "batch_edition": 27,
-        "is_new": false
-      },
-      {
-        "title": "13 tech bargains for only $13 or less to upgrade your desktop PC setup",
-        "summary": "Don't break the bank this Black Friday with these 13 tech gadgets and tools to help you upgrade your setup for less than $13.",
-        "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/13-tech-bargains-for-just-usd13-or-less-to-upgrade-your-pc-setup-must-own-gadgets-and-impulse-buys-to-solve-everyday-problems-from-network-switches-to-cleaning-kits",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/de2b6qcEat9sVFWwoidbQZ-1920-80.png",
-        "published_ts": 1795710600,
-        "published": "26 Nov, 10:30 PM",
-        "bn_summary": "ব্ল্যাক ফ্রাইডে উপলক্ষে ১৩ ডলারের কম দামে ১৩টি টেক গ্যাজেটের তালিকা দেওয়া হয়েছে, যা ডেস্কটপ পিসি আপগ্রেডে সাহায্য করবে। এটি গুরুত্বপূর্ণ কারণ অল্প খরচে ছোট ছোট যন্ত্রাংশ কিনে কম্পিউটারের কার্যক্ষমতা বাড়ানো সম্ভব।",
-        "added_at_ts": 1795712185,
-        "expires_at_ts": 1795798585,
-        "batch_label": "10:56 PM BDT",
-        "batch_edition": 26,
-        "is_new": false
-      },
-      {
-        "title": "Electronics manufacturers set up memory 'war rooms' to find, lock in DRAM supplies amid worst shortage in history",
-        "summary": "The memory chip shortage is forcing companies to find supplies using non-traditional avenues, such as online listings and the gray market. Some have even taken out loans just to have enough cash to buy chips as soon as they become available.",
-        "url": "https://www.tomshardware.com/pc-components/dram/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history-employees-scour-ebay-contact-hundreds-of-brokers-and-snap-up-even-small-batches-of-just-5-to-12-units",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/pU95E8pwfvrx8dWfwg7X8M-1920-80.jpg",
-        "published_ts": 1795709467,
-        "published": "26 Nov, 10:11 PM",
-        "bn_summary": "মেমোরি চিপের ভয়াবহ ঘাটতি মোকাবিলায় ইলেকট্রনিক্স নির্মাতারা 'ওয়ার রুম' খুলে DRAM সরবরাহ খুঁজছেন, এমনকি অনলাইন লিস্টিং এবং গ্রে মার্কেটের দিকেও ঝুঁকছেন। এটি গুরুত্বপূর্ণ কারণ ঘাটতির কারণে মেমোরির দাম বাড়তে পারে এবং পণ্যের প্রাপ্যতা অনিশ্চিত হয়ে পড়বে।",
-        "added_at_ts": 1795712185,
-        "expires_at_ts": 1795798585,
-        "batch_label": "10:56 PM BDT",
-        "batch_edition": 26,
-        "is_new": false
-      },
-      {
-        "title": "Nvidia stops AI GPU shipments to Southeast Asia amid purported China cloud access ban, report claims",
-        "summary": "Data centers in Singapore, Malaysia, Thailand, and Indonesia are now required to obtain export licenses if they want to get their Nvidia AI GPUs delivered.",
-        "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-stops-ai-gpu-shipments-to-southeast-asia-report-claims-data-centers-in-singapore-other-countries-in-trouble-as-commerce-department-requires-cloud-providers-to-obtain-export-license",
-        "source": "Tom's Hardware",
-        "image": "https://cdn.mos.cms.futurecdn.net/YAxQQsbvwDfFaHJ7zGMocj-1920-80.jpg",
-        "published_ts": 1795708800,
-        "published": "26 Nov, 10:00 PM",
-        "bn_summary": "রিপোর্ট বলছে, চীনা ক্লাউড অ্যাক্সেস নিষেধাজ্ঞার কারণে এনভিডিয়া দক্ষিণ-পূর্ব এশিয়ায় AI GPU পাঠানো বন্ধ করে দিয়েছে, সিঙ্গাপুর, মালয়েশিয়া, থাইল্যান্ড ও ইন্দোনেশিয়ার ডেটা সেন্টারকে এখন লাইসেন্স নিতে হবে। এটি গুরুত্বপূর্ণ কারণ এতে AI অবকাঠামো নির্মাণে বিলম্ব এবং সরবরাহ চেইনে নতুন বাধা তৈরি হবে।",
-        "added_at_ts": 1795712185,
-        "expires_at_ts": 1795798585,
-        "batch_label": "10:56 PM BDT",
-        "batch_edition": 26,
         "is_new": false
       }
     ]
